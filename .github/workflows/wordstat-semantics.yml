@@ -4,9 +4,9 @@ on:
   workflow_dispatch:
     inputs:
       page_id:
-        description: Page ID from seo/pages.json, or all
+        description: Page ID from seo/pages.json
         required: true
-        default: jtbd
+        default: odi
         type: string
       region:
         description: Wordstat region ID (225 = Russia; blank = all regions)
