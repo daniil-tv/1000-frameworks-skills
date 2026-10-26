@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Collect Wordstat demand into reviewable, versioned GitHub artifacts."""
+"""GitHub runner for the unchanged local Wordstat and SEO modules."""
 
 from __future__ import annotations
 
@@ -8,136 +8,78 @@ import json
 import os
 import re
 import sys
-from datetime import datetime, timezone
 from pathlib import Path
-from urllib.error import HTTPError, URLError
-from urllib.request import Request, urlopen
 
-ROOT = Path(__file__).resolve().parent
-ENDPOINT = "https://searchapi.api.cloud.yandex.net/v2/wordstat/topRequests"
-QUESTION = {"как", "что", "зачем", "почему", "когда", "какие", "какой", "сколько", "где"}
-COMMERCIAL = {"купить", "заказать", "цена", "стоимость", "курс", "обучение"}
-PRACTICAL = {"пример", "шаблон", "этапы", "метод", "интервью", "вопросы", "как"}
+ROOT = Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(ROOT))
 
-
-def classify(phrase: str) -> str:
-    words = set(re.findall(r"[\wё]+", phrase.lower()))
-    if words & COMMERCIAL:
-        return "commercial"
-    if words & QUESTION:
-        return "question"
-    if words & PRACTICAL:
-        return "practical"
-    return "informational"
+from src.analyze_intent import analyze
+from src.cluster_keywords import build as build_keywords
+from src.wordstat import WordstatConfig, WordstatError, collect
 
 
-def get_pages() -> dict[str, dict]:
-    pages = json.loads((ROOT / "pages.json").read_text(encoding="utf-8"))["pages"]
+def pages() -> dict[str, dict]:
+    entries = json.loads((ROOT / "seo/pages.json").read_text(encoding="utf-8"))["pages"]
     result = {}
-    for page in pages:
+    for page in entries:
         page_id = page["id"]
         if not re.fullmatch(r"[a-z0-9-]+", page_id) or page_id in result:
-            raise ValueError(f"Invalid or duplicate page ID: {page_id}")
-        if not page.get("seeds") or len(page["seeds"]) > 8:
+            raise ValueError("Invalid or duplicate page ID in seo/pages.json")
+        if not 1 <= len(page.get("seeds", [])) <= 8:
             raise ValueError(f"Page {page_id} needs 1–8 seeds")
         result[page_id] = page
     return result
 
 
-def fetch_top(phrase: str, region: str, api_key: str, folder_id: str) -> dict:
-    body = {"phrase": phrase, "numPhrases": 300, "devices": ["DEVICE_ALL"], "folderId": folder_id}
-    if region:
-        body["regions"] = [region]
-    request = Request(
-        ENDPOINT,
-        data=json.dumps(body, ensure_ascii=False).encode("utf-8"),
-        headers={"Authorization": f"Api-Key {api_key}", "Content-Type": "application/json"},
-        method="POST",
-    )
-    try:
-        with urlopen(request, timeout=60) as response:
-            return json.load(response)
-    except HTTPError as exc:
-        # Never echo the response body: it may contain account details.
-        raise RuntimeError(f"Wordstat returned HTTP {exc.code} for one seed") from None
-    except URLError as exc:
-        raise RuntimeError("Wordstat network request failed") from None
-
-
-def normalize(raw: list[dict]) -> dict:
-    rows = {}
-    for block in raw:
-        for kind in ("results", "associations"):
-            for item in block["response"].get(kind, []):
-                phrase = " ".join(str(item.get("phrase", "")).lower().split())
-                if not phrase:
-                    continue
-                try:
-                    count = max(0, int(item.get("count", 0)))
-                except (TypeError, ValueError):
-                    continue
-                row = rows.setdefault(phrase, {
-                    "query": phrase, "monthly_queries": 0, "query_type": classify(phrase),
-                    "seed_sources": [], "review": "pending", "cluster": "", "target_section": "",
-                })
-                row["monthly_queries"] = max(row["monthly_queries"], count)
-                source = {"seed": block["seed"], "kind": kind}
-                if source not in row["seed_sources"]:
-                    row["seed_sources"].append(source)
-    return {"queries": sorted(rows.values(), key=lambda r: (-r["monthly_queries"], r["query"]))}
-
-
-def write_page(page: dict, region: str, api_key: str, folder_id: str, fixture: Path | None) -> int:
-    if fixture:
-        sample = json.loads(fixture.read_text(encoding="utf-8"))
-        raw = [{"seed": seed, "response": sample} for seed in page["seeds"]]
-    else:
-        raw = [{"seed": seed, "response": fetch_top(seed, region, api_key, folder_id)} for seed in page["seeds"]]
-    now = datetime.now(timezone.utc).isoformat(timespec="seconds")
-    output = ROOT / "data" / page["id"]
+def run(page: dict, region: str) -> dict:
+    page_id = page["id"]
+    output = ROOT / "seo/data" / page_id
     output.mkdir(parents=True, exist_ok=True)
-    meta = {"page_id": page["id"], "title": page["title"], "url": page["url"],
-            "locale": page["locale"], "region": region or "all", "seeds": page["seeds"],
-            "collected_at": now, "source": "Yandex Wordstat Search API GetTop",
-            "editorial_status": "needs_review"}
-    semantics = {**meta, **normalize(raw)}
-    (output / "wordstat.json").write_text(json.dumps({**meta, "responses": raw}, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    (output / "semantics.json").write_text(json.dumps(semantics, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    raw = collect(page_id, page["seeds"], output / "wordstat.json", refresh=True)
+    keywords = build_keywords(raw, topic=page["title"])
+    intent = analyze(page_id, page["title"], keywords)
+    (output / "keywords.json").write_text(json.dumps(keywords, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    (output / "intent.json").write_text(json.dumps(intent, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    manifest = {"page_id": page_id, "title": page["title"], "url": page["url"],
+                "locale": page["locale"], "region": region or "all", "seeds": page["seeds"],
+                "collected_at": raw["collected_at"], "source": raw["source"],
+                "editorial_status": "needs_review"}
+    (output / "manifest.json").write_text(json.dumps(manifest, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     lines = [f"# {page['title']} — семантика", "", f"URL: {page['url']}",
-             f"Собрано: {now}; регион: {region or 'все'}; статус: требует ручной проверки.", "",
-             "| Запрос | Частотность Wordstat | Тип интента | Кластер | Проверка |",
-             "|---|---:|---|---|---|"]
-    for row in semantics["queries"][:100]:
-        query = row["query"].replace("|", "\\|")
-        lines.append(f"| {query} | {row['monthly_queries']} | {row['query_type']} | — | проверить |")
+             f"Собрано: {raw['collected_at']}; регион: {region or 'все'}; статус: требует ручной проверки.", "",
+             "| Запрос | Частотность Wordstat | Предварительный интент | Проверка |",
+             "|---|---:|---|---|"]
+    for row in keywords.get("all_keywords", [])[:100]:
+        phrase = row["keyword"].replace("|", "\\|")
+        lines.append(f"| {phrase} | {row['count']} | {row['intent']} | проверить |")
     (output / "README.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
-    return len(semantics["queries"])
+    return {"page_id": page_id, "keywords": len(keywords.get("all_keywords", [])),
+            "questions": len(keywords.get("questions", [])), "status": intent.get("status")}
 
 
 def main() -> None:
-    parser = argparse.ArgumentParser()
-    parser.add_argument("--page", required=True, help="Page ID from pages.json or all")
-    parser.add_argument("--region", default="225", help="Wordstat region ID; empty for all regions")
-    parser.add_argument("--fixture", type=Path, help="Local-only JSON response for testing")
+    parser = argparse.ArgumentParser(description="Collect semantics using local 1000 Frameworks modules")
+    parser.add_argument("--page", required=True, help="Page ID from seo/pages.json")
+    parser.add_argument("--region", default="225", help="Numeric Wordstat region; empty for all regions")
     args = parser.parse_args()
     if args.region and not re.fullmatch(r"\d+", args.region):
-        parser.error("Region must be a numeric Wordstat region ID")
-    pages = get_pages()
-    if args.page != "all" and args.page not in pages:
-        parser.error(f"Unknown page ID: {args.page}")
-    api_key = os.environ.get("YANDEX_CLOUD_API_KEY", "")
-    folder_id = os.environ.get("YANDEX_CLOUD_FOLDER_ID", "")
-    if not args.fixture and (not api_key or not folder_id):
-        parser.error("Set YANDEX_CLOUD_API_KEY and YANDEX_CLOUD_FOLDER_ID as Actions secrets")
-    selected = pages.values() if args.page == "all" else [pages[args.page]]
-    for page in selected:
-        count = write_page(page, args.region, api_key, folder_id, args.fixture)
-        print(f"{page['id']}: {count} queries saved for editorial review")
+        parser.error("Region must be numeric")
+    registry = pages()
+    if args.page not in registry:
+        parser.error("Unknown page ID")
+    os.environ["YANDEX_WORDSTAT_REGIONS"] = args.region
+    if WordstatConfig.from_env().missing():
+        parser.error("GitHub Actions secrets YANDEX_CLOUD_API_KEY and YANDEX_CLOUD_FOLDER_ID are required")
+    try:
+        result = run(registry[args.page], args.region)
+    except WordstatError as exc:
+        # The unchanged connector includes API response details in exceptions.
+        # Report only the HTTP status, never the response body or credentials.
+        match = re.search(r"HTTP (\d{3})", str(exc))
+        code = match.group(1) if match else "unavailable"
+        raise SystemExit(f"Wordstat request failed (HTTP {code}); check Actions secrets and Yandex permissions") from None
+    print(json.dumps(result, ensure_ascii=False))
 
 
 if __name__ == "__main__":
-    try:
-        main()
-    except (RuntimeError, ValueError) as exc:
-        print(str(exc), file=sys.stderr)
-        raise SystemExit(1)
+    main()
