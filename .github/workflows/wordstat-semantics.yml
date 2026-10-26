@@ -1,0 +1,62 @@
+name: Collect Wordstat semantics
+
+on:
+  workflow_dispatch:
+    inputs:
+      page_id:
+        description: Page ID from seo/pages.json, or all
+        required: true
+        default: jtbd
+        type: string
+      region:
+        description: Wordstat region ID (225 = Russia; blank = all regions)
+        required: false
+        default: "225"
+        type: string
+
+permissions:
+  contents: write
+
+concurrency:
+  group: wordstat-semantics
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Check credentials
+        env:
+          YANDEX_CLOUD_API_KEY: ${{ secrets.YANDEX_CLOUD_API_KEY }}
+          YANDEX_CLOUD_FOLDER_ID: ${{ secrets.YANDEX_CLOUD_FOLDER_ID }}
+        run: |
+          if [ -z "$YANDEX_CLOUD_API_KEY" ] || [ -z "$YANDEX_CLOUD_FOLDER_ID" ]; then
+            echo "Add YANDEX_CLOUD_API_KEY and YANDEX_CLOUD_FOLDER_ID in repository Actions secrets."
+            exit 1
+          fi
+      - name: Collect and classify queries
+        env:
+          YANDEX_CLOUD_API_KEY: ${{ secrets.YANDEX_CLOUD_API_KEY }}
+          YANDEX_CLOUD_FOLDER_ID: ${{ secrets.YANDEX_CLOUD_FOLDER_ID }}
+          PAGE_ID: ${{ inputs.page_id }}
+          WORDSTAT_REGION: ${{ inputs.region }}
+        run: |
+          python seo/collect.py --page "$PAGE_ID" --region "$WORDSTAT_REGION"
+      - name: Commit semantic artifacts
+        env:
+          PAGE_ID: ${{ inputs.page_id }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add seo/data
+          if ! git diff --cached --quiet; then
+            git commit -m "seo: update Wordstat semantics for $PAGE_ID"
+            git push
+          fi
