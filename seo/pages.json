@@ -1,0 +1,9 @@
+{
+  "pages": [
+    {"id": "jtbd", "title": "Jobs to Be Done", "url": "https://1000factors.ru/strategy/jtbd/", "locale": "ru-RU", "seeds": ["jobs to be done", "jtbd", "методология jtbd", "jtbd интервью", "jtbd пример"]},
+    {"id": "odi", "title": "Outcome-Driven Innovation", "url": "https://1000factors.ru/strategy/odi/", "locale": "ru-RU", "seeds": ["outcome driven innovation", "odi методология", "работы клиента результаты"]},
+    {"id": "customer-development", "title": "Customer Development", "url": "https://1000factors.ru/strategy/customer-development/", "locale": "ru-RU", "seeds": ["customer development", "кастдев", "интервью с клиентами", "custdev вопросы"]},
+    {"id": "switch-interview", "title": "Switch Interview", "url": "https://1000factors.ru/strategy/switch-interview/", "locale": "ru-RU", "seeds": ["switch interview", "интервью о переключении", "jtbd switch интервью"]},
+    {"id": "business-model-canvas", "title": "Business Model Canvas", "url": "https://1000factors.ru/strategy/business-model-canvas/", "locale": "ru-RU", "seeds": ["business model canvas", "канва бизнес модели", "шаблон бизнес модели", "бизнес модель остервальдера"]}
+  ]
+}
