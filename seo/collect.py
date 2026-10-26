@@ -70,9 +70,17 @@ def main() -> None:
     os.environ["YANDEX_WORDSTAT_REGIONS"] = args.region
     if WordstatConfig.from_env().missing():
         parser.error("GitHub Actions secrets YANDEX_CLOUD_API_KEY and YANDEX_CLOUD_FOLDER_ID are required")
+    key = WordstatConfig.from_env().api_key
+    if any(char.isspace() for char in key):
+        # Copy/paste into Secrets can insert a line break in an otherwise valid key.
+        # The connector reads this environment variable; never print its value.
+        key = "".join(key.split())
+        os.environ["YANDEX_CLOUD_API_KEY"] = key
+    if any(ord(char) < 33 or ord(char) > 126 for char in key):
+        parser.error("YANDEX_CLOUD_API_KEY contains unsupported characters; save only the key value")
     try:
         result = run(registry[args.page], args.region)
-    except WordstatError as exc:
+    except (WordstatError, ValueError) as exc:
         # The unchanged connector includes API response details in exceptions.
         # Report only the HTTP status, never the response body or credentials.
         match = re.search(r"HTTP (\d{3})", str(exc))
