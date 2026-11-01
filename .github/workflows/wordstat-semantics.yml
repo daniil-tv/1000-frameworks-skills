@@ -13,9 +13,12 @@ on:
         required: false
         default: "225"
         type: string
+  issues:
+    types: [opened]
 
 permissions:
   contents: write
+  issues: write
 
 concurrency:
   group: wordstat-semantics
@@ -23,6 +26,11 @@ concurrency:
 
 jobs:
   collect:
+    if: >-
+      github.event_name == 'workflow_dispatch' ||
+      (github.event_name == 'issues' &&
+       github.actor == github.repository_owner &&
+       startsWith(github.event.issue.title, '[semantics] '))
     runs-on: ubuntu-latest
     timeout-minutes: 20
     steps:
@@ -32,6 +40,33 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+      - name: Resolve request
+        id: request
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+          INPUT_PAGE_ID: ${{ inputs.page_id }}
+          INPUT_REGION: ${{ inputs.region }}
+          ISSUE_TITLE: ${{ github.event.issue.title }}
+          ISSUE_BODY: ${{ github.event.issue.body }}
+        run: |
+          if [ "$EVENT_NAME" = "workflow_dispatch" ]; then
+            PAGE_ID="$INPUT_PAGE_ID"
+            REGION="$INPUT_REGION"
+          else
+            PAGE_ID="${ISSUE_TITLE#\[semantics\] }"
+            REGION="$(printf '%s\n' "$ISSUE_BODY" | sed -nE 's/^[[:space:]]*region:[[:space:]]*([0-9]*)[[:space:]]*$/\1/p' | head -n 1)"
+            REGION="${REGION:-225}"
+          fi
+          if ! printf '%s' "$PAGE_ID" | grep -Eq '^[a-z0-9-]+$'; then
+            echo "Invalid page ID."
+            exit 2
+          fi
+          if [ -n "$REGION" ] && ! printf '%s' "$REGION" | grep -Eq '^[0-9]+$'; then
+            echo "Invalid region ID."
+            exit 2
+          fi
+          echo "page_id=$PAGE_ID" >> "$GITHUB_OUTPUT"
+          echo "region=$REGION" >> "$GITHUB_OUTPUT"
       - name: Check credentials
         env:
           YANDEX_CLOUD_API_KEY: ${{ secrets.YANDEX_CLOUD_API_KEY }}
@@ -45,13 +80,13 @@ jobs:
         env:
           YANDEX_CLOUD_API_KEY: ${{ secrets.YANDEX_CLOUD_API_KEY }}
           YANDEX_CLOUD_FOLDER_ID: ${{ secrets.YANDEX_CLOUD_FOLDER_ID }}
-          PAGE_ID: ${{ inputs.page_id }}
-          WORDSTAT_REGION: ${{ inputs.region }}
+          PAGE_ID: ${{ steps.request.outputs.page_id }}
+          WORDSTAT_REGION: ${{ steps.request.outputs.region }}
         run: |
           python seo/collect.py --page "$PAGE_ID" --region "$WORDSTAT_REGION"
       - name: Commit semantic artifacts
         env:
-          PAGE_ID: ${{ inputs.page_id }}
+          PAGE_ID: ${{ steps.request.outputs.page_id }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -60,3 +95,12 @@ jobs:
             git commit -m "seo: update Wordstat semantics for $PAGE_ID"
             git push
           fi
+      - name: Report result to GPT request
+        if: github.event_name == 'issues'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          PAGE_ID: ${{ steps.request.outputs.page_id }}
+        run: |
+          gh issue comment "$ISSUE_NUMBER" --body "Сбор завершён. Результаты: `seo/data/$PAGE_ID/`. Запуск: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+          gh issue close "$ISSUE_NUMBER" --reason completed
