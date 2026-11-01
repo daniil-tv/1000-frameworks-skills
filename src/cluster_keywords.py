@@ -15,7 +15,10 @@ WORD_RE = re.compile(r"[a-zа-яё0-9]+", re.I)
 QUESTION_WORDS = {"как", "что", "зачем", "почему", "когда", "какой", "какие", "где", "сколько"}
 COMMERCIAL = {"цена", "стоимость", "заказать", "услуги", "агентство", "курс", "обучение"}
 PRACTICAL = {"методы", "этапы", "план", "шаблон", "пример", "интервью", "опрос", "гайд", "чеклист"}
-NOISE = {"вакансии", "работа", "зарплата", "скачать бесплатно", "реферат", "курсовая"}
+NOISE = {
+    "ваканси", "зарплат", "резюме", "должностн", "обязанност",
+    "работа в банке", "скачать бесплатно", "реферат", "курсовая",
+}
 
 
 def normalize(value: str) -> str:
@@ -61,13 +64,33 @@ def is_noise(phrase: str, topic_tokens: set[str]) -> bool:
     return bool(topic_tokens) and not bool(match_tokens(normalized) & topic_tokens)
 
 
+def as_count(value: Any) -> int:
+    try:
+        return int(value or 0)
+    except (TypeError, ValueError):
+        return 0
+
+
 def build(raw: dict[str, Any], *, topic: str) -> dict[str, Any]:
-    topic_tokens = match_tokens(topic)
+    seed_tokens = set()
+    for seed_block in raw.get("seeds", []):
+        seed_tokens.update(match_tokens(str(seed_block.get("seed", ""))))
+    topic_tokens = match_tokens(topic) | seed_tokens
     phrases: dict[str, dict[str, Any]] = {}
     excluded = []
     for seed_block in raw.get("seeds", []):
-        seed = seed_block.get("seed", "")
+        seed = normalize(str(seed_block.get("seed", "")))
         payload = seed_block.get("payload", {})
+        # Wordstat can return totalCount without detailed rows for a rare phrase.
+        # Preserve the measured seed so low-frequency semantics never disappear.
+        seed_count = as_count(payload.get("totalCount") or payload.get("total_count"))
+        if seed and seed_count:
+            current = phrases.setdefault(
+                seed,
+                {"keyword": seed, "count": 0, "sources": [], "intent": intent(seed)},
+            )
+            current["count"] = max(current["count"], seed_count)
+            current["sources"].append({"seed": seed, "kind": "seed_total"})
         for kind in ("results", "associations"):
             for row in payload.get(kind, []):
                 phrase = normalize(str(row.get("phrase", "")))
@@ -76,7 +99,7 @@ def build(raw: dict[str, Any], *, topic: str) -> dict[str, Any]:
                 if is_noise(phrase, topic_tokens):
                     excluded.append({"phrase": phrase, "reason": "noise_or_topic_mismatch", "seed": seed})
                     continue
-                count = int(row.get("count") or 0)
+                count = as_count(row.get("count"))
                 current = phrases.setdefault(phrase, {"keyword": phrase, "count": 0, "sources": [], "intent": intent(phrase)})
                 current["count"] = max(current["count"], count)
                 current["sources"].append({"seed": seed, "kind": kind})
