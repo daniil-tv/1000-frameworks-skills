@@ -1,0 +1,19 @@
+{
+  "page_id": "jtbd",
+  "title": "Jobs to Be Done",
+  "url": "https://1000factors.ru/strategy/jtbd/",
+  "locale": "ru-RU",
+  "region": "225",
+  "seeds": [
+    "jobs to be done",
+    "jtbd",
+    "jobs to be done методология",
+    "jtbd интервью",
+    "jtbd примеры",
+    "jobs to be done в маркетинге",
+    "работы клиента jtbd"
+  ],
+  "collected_at": "2026-11-02",
+  "source": "Yandex Wordstat API",
+  "editorial_status": "needs_review"
+}

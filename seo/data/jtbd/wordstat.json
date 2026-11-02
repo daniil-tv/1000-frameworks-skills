@@ -1,0 +1,651 @@
+{
+  "page_id": "jtbd",
+  "status": "complete",
+  "source": "Yandex Wordstat API",
+  "collected_at": "2026-11-02",
+  "regions": [
+    "225"
+  ],
+  "seeds": [
+    {
+      "seed": "jobs to be done",
+      "cache_hit": false,
+      "payload": {
+        "totalCount": "21950",
+        "results": [
+          {
+            "phrase": "jobs to be done",
+            "count": "21937"
+          },
+          {
+            "phrase": "метод jobs to be done",
+            "count": "147"
+          },
+          {
+            "phrase": "jobs to be done перевод",
+            "count": "134"
+          },
+          {
+            "phrase": "jobs to be done jtbd",
+            "count": "110"
+          },
+          {
+            "phrase": "что такое job to be done",
+            "count": "92"
+          },
+          {
+            "phrase": "advanced jobs to be done",
+            "count": "59"
+          },
+          {
+            "phrase": "концепции jobs to be done",
+            "count": "56"
+          },
+          {
+            "phrase": "jobs to be done примеры",
+            "count": "42"
+          },
+          {
+            "phrase": "jobs to be done в маркетинге",
+            "count": "33"
+          },
+          {
+            "phrase": "метод jobs to be done книга",
+            "count": "22"
+          },
+          {
+            "phrase": "фреймворк jobs to be done",
+            "count": "18"
+          },
+          {
+            "phrase": "jobs to be done как сделать",
+            "count": "17"
+          },
+          {
+            "phrase": "jobs to be done это простыми словами",
+            "count": "15"
+          }
+        ],
+        "associations": [
+          {
+            "phrase": "this that these those",
+            "count": "397247"
+          },
+          {
+            "phrase": "ты не мой",
+            "count": "531384"
+          },
+          {
+            "phrase": "what about me",
+            "count": "140576"
+          },
+          {
+            "phrase": "me too",
+            "count": "184631"
+          },
+          {
+            "phrase": "all of me",
+            "count": "112830"
+          },
+          {
+            "phrase": "хорошо там где нас нет",
+            "count": "4478"
+          },
+          {
+            "phrase": "for me",
+            "count": "994016"
+          },
+          {
+            "phrase": "in on at",
+            "count": "301706"
+          },
+          {
+            "phrase": "as for me",
+            "count": "48203"
+          },
+          {
+            "phrase": "а я иду такая вся",
+            "count": "5421"
+          },
+          {
+            "phrase": "я хочу нет я хочу",
+            "count": "85651"
+          },
+          {
+            "phrase": "они идут за тобой",
+            "count": "5561"
+          },
+          {
+            "phrase": "я пл",
+            "count": "8590"
+          },
+          {
+            "phrase": "иди ко мне",
+            "count": "43042"
+          },
+          {
+            "phrase": "ой да",
+            "count": "88978"
+          },
+          {
+            "phrase": "this that",
+            "count": "397827"
+          },
+          {
+            "phrase": "я иду искатт",
+            "count": "79"
+          },
+          {
+            "phrase": "от а до я",
+            "count": "152207"
+          }
+        ]
+      }
+    },
+    {
+      "seed": "jtbd",
+      "cache_hit": false,
+      "payload": {
+        "totalCount": "3020",
+        "results": [
+          {
+            "phrase": "jtbd",
+            "count": "2976"
+          },
+          {
+            "phrase": "jtbd что это в маркетинге",
+            "count": "188"
+          },
+          {
+            "phrase": "jobs to be done jtbd",
+            "count": "110"
+          },
+          {
+            "phrase": "jtbd пример",
+            "count": "96"
+          },
+          {
+            "phrase": "jtbd интервью",
+            "count": "76"
+          },
+          {
+            "phrase": "метод jtbd",
+            "count": "71"
+          },
+          {
+            "phrase": "модель jtbd",
+            "count": "71"
+          },
+          {
+            "phrase": "что такое сегментация по jtbd",
+            "count": "49"
+          },
+          {
+            "phrase": "фреймворк jtbd",
+            "count": "48"
+          },
+          {
+            "phrase": "методологии jtbd",
+            "count": "42"
+          },
+          {
+            "phrase": "как корректно формулируется jtbd",
+            "count": "37"
+          },
+          {
+            "phrase": "jtbd замесин",
+            "count": "37"
+          },
+          {
+            "phrase": "cjm и jtbd",
+            "count": "36"
+          },
+          {
+            "phrase": "подход jtbd",
+            "count": "35"
+          },
+          {
+            "phrase": "концепция jtbd",
+            "count": "35"
+          },
+          {
+            "phrase": "формула jtbd",
+            "count": "34"
+          },
+          {
+            "phrase": "jtbd это простыми словами",
+            "count": "25"
+          },
+          {
+            "phrase": "jtbd анализ это",
+            "count": "21"
+          },
+          {
+            "phrase": "особенности jtbd для b2b",
+            "count": "12"
+          },
+          {
+            "phrase": "как в jtbd воспринимается продукт",
+            "count": "12"
+          },
+          {
+            "phrase": "как jtbd может помочь в нейминге",
+            "count": "9"
+          },
+          {
+            "phrase": "jtbd что это в маркетинге простыми словами",
+            "count": "7"
+          },
+          {
+            "phrase": "jtbd для ретинола",
+            "count": "7"
+          },
+          {
+            "phrase": "jtbd отличия от custdev",
+            "count": "6"
+          },
+          {
+            "phrase": "обучение jtbd",
+            "count": "5"
+          }
+        ],
+        "associations": [
+          {
+            "phrase": "йцу",
+            "count": "2837"
+          },
+          {
+            "phrase": "выа",
+            "count": "3044"
+          },
+          {
+            "phrase": "дмдк",
+            "count": "36949"
+          },
+          {
+            "phrase": "dze",
+            "count": "2963"
+          },
+          {
+            "phrase": "jcl",
+            "count": "2174"
+          },
+          {
+            "phrase": "нцд",
+            "count": "6941"
+          },
+          {
+            "phrase": "джд",
+            "count": "7904"
+          },
+          {
+            "phrase": "блд",
+            "count": "5386"
+          },
+          {
+            "phrase": "екром",
+            "count": "10186"
+          },
+          {
+            "phrase": "ыпр",
+            "count": "389"
+          },
+          {
+            "phrase": "ддба",
+            "count": "2520"
+          },
+          {
+            "phrase": "tqm",
+            "count": "3290"
+          },
+          {
+            "phrase": "твж",
+            "count": "2697"
+          },
+          {
+            "phrase": "бто",
+            "count": "3868"
+          },
+          {
+            "phrase": "jobs to be done",
+            "count": "21681"
+          },
+          {
+            "phrase": "gw4b15l",
+            "count": "1854"
+          },
+          {
+            "phrase": "c6h5nh2",
+            "count": "804"
+          },
+          {
+            "phrase": "иср",
+            "count": "7748"
+          },
+          {
+            "phrase": "c12h22o11",
+            "count": "1730"
+          },
+          {
+            "phrase": "ддб1",
+            "count": "262"
+          }
+        ]
+      }
+    },
+    {
+      "seed": "jobs to be done методология",
+      "cache_hit": false,
+      "payload": {
+        "totalCount": "18"
+      }
+    },
+    {
+      "seed": "jtbd интервью",
+      "cache_hit": false,
+      "payload": {
+        "totalCount": "76",
+        "results": [
+          {
+            "phrase": "jtbd интервью",
+            "count": "76"
+          }
+        ],
+        "associations": [
+          {
+            "phrase": "им щи ван",
+            "count": "2026"
+          },
+          {
+            "phrase": "фонд вциом опрос что это",
+            "count": "9912"
+          },
+          {
+            "phrase": "им щи ван фильмы",
+            "count": "686"
+          },
+          {
+            "phrase": "чхэ вон бин",
+            "count": "512"
+          },
+          {
+            "phrase": "тест на знание стран мира",
+            "count": "1019"
+          },
+          {
+            "phrase": "фонд вциом опрос зачем звонят",
+            "count": "2696"
+          },
+          {
+            "phrase": "интервьюер это",
+            "count": "2569"
+          },
+          {
+            "phrase": "ты мне я тебе актеры",
+            "count": "68600"
+          },
+          {
+            "phrase": "чхве вон ен фильмы",
+            "count": "526"
+          },
+          {
+            "phrase": "но джэ вон фильмы",
+            "count": "210"
+          },
+          {
+            "phrase": "брэндон ли фильмы",
+            "count": "792"
+          },
+          {
+            "phrase": "чхэ вон бин фильмы",
+            "count": "83"
+          },
+          {
+            "phrase": "дело художника выразить свое видение мира егэ",
+            "count": "231"
+          },
+          {
+            "phrase": "чжу вон фильмы",
+            "count": "246"
+          },
+          {
+            "phrase": "чем отличается союз от предлога",
+            "count": "538"
+          },
+          {
+            "phrase": "чем отличается предлог от союза",
+            "count": "538"
+          },
+          {
+            "phrase": "интервьюер и интервьюируемый",
+            "count": "193"
+          }
+        ]
+      }
+    },
+    {
+      "seed": "jtbd примеры",
+      "cache_hit": false,
+      "payload": {
+        "totalCount": "96",
+        "results": [
+          {
+            "phrase": "jtbd пример",
+            "count": "96"
+          }
+        ],
+        "associations": [
+          {
+            "phrase": "характеристика с места работы образец",
+            "count": "19225"
+          },
+          {
+            "phrase": "ниссан примера р12",
+            "count": "66169"
+          },
+          {
+            "phrase": "примеры до 10",
+            "count": "15796"
+          },
+          {
+            "phrase": "примеры до 20",
+            "count": "14285"
+          },
+          {
+            "phrase": "example com",
+            "count": "10878"
+          },
+          {
+            "phrase": "example com что это",
+            "count": "522"
+          },
+          {
+            "phrase": "for example",
+            "count": "78343"
+          },
+          {
+            "phrase": "https example com",
+            "count": "3802"
+          },
+          {
+            "phrase": "образец объявления",
+            "count": "17365"
+          },
+          {
+            "phrase": "example example org",
+            "count": "835"
+          },
+          {
+            "phrase": "форма м29 на списание материалов образец заполнения",
+            "count": "84"
+          },
+          {
+            "phrase": "http example com",
+            "count": "842"
+          },
+          {
+            "phrase": "образец это",
+            "count": "129300"
+          },
+          {
+            "phrase": "как пишется характеристика с места работы образец",
+            "count": "119"
+          },
+          {
+            "phrase": "опытный образец это",
+            "count": "512"
+          }
+        ]
+      }
+    },
+    {
+      "seed": "jobs to be done в маркетинге",
+      "cache_hit": false,
+      "payload": {
+        "totalCount": "34",
+        "results": [
+          {
+            "phrase": "jobs to be done в маркетинге",
+            "count": "33"
+          }
+        ],
+        "associations": [
+          {
+            "phrase": "this that these those",
+            "count": "397247"
+          },
+          {
+            "phrase": "this av",
+            "count": "863"
+          },
+          {
+            "phrase": "p l что это такое в бизнесе",
+            "count": "1192"
+          },
+          {
+            "phrase": "me too",
+            "count": "184631"
+          },
+          {
+            "phrase": "хорошо там где нас нет",
+            "count": "4478"
+          },
+          {
+            "phrase": "чдд это",
+            "count": "2343"
+          },
+          {
+            "phrase": "in on at",
+            "count": "301706"
+          },
+          {
+            "phrase": "as for me",
+            "count": "48203"
+          },
+          {
+            "phrase": "all make",
+            "count": "84024"
+          },
+          {
+            "phrase": "a market",
+            "count": "29346"
+          },
+          {
+            "phrase": "я хочу нет я хочу",
+            "count": "85651"
+          },
+          {
+            "phrase": "омаж это",
+            "count": "869"
+          },
+          {
+            "phrase": "иди ко мне",
+            "count": "43042"
+          },
+          {
+            "phrase": "this that",
+            "count": "397827"
+          },
+          {
+            "phrase": "от а до я",
+            "count": "152207"
+          },
+          {
+            "phrase": "рекламодатель это",
+            "count": "1702"
+          }
+        ]
+      }
+    },
+    {
+      "seed": "работы клиента jtbd",
+      "cache_hit": false,
+      "payload": {
+        "totalCount": "13"
+      }
+    }
+  ],
+  "dynamics": {
+    "seed": "jobs to be done",
+    "cache_hit": false,
+    "payload": {
+      "results": [
+        {
+          "date": "2025-11-01T00:00:00Z",
+          "count": "55571",
+          "share": 0.000509048557452764
+        },
+        {
+          "date": "2025-12-01T00:00:00Z",
+          "count": "61719",
+          "share": 0.0005742221428213997
+        },
+        {
+          "date": "2026-01-01T00:00:00Z",
+          "count": "24188",
+          "share": 0.0002469648070647226
+        },
+        {
+          "date": "2026-02-01T00:00:00Z",
+          "count": "31188",
+          "share": 0.0003485528161282087
+        },
+        {
+          "date": "2026-03-01T00:00:00Z",
+          "count": "31686",
+          "share": 0.0003050489200712737
+        },
+        {
+          "date": "2026-04-01T00:00:00Z",
+          "count": "34292",
+          "share": 0.0003222722359561394
+        },
+        {
+          "date": "2026-05-01T00:00:00Z",
+          "count": "29120",
+          "share": 0.00029343581263619286
+        },
+        {
+          "date": "2026-06-01T00:00:00Z",
+          "count": "6782",
+          "share": 7.055667221164604e-05
+        },
+        {
+          "date": "2026-07-01T00:00:00Z",
+          "count": "2855",
+          "share": 2.7944987272537766e-05
+        },
+        {
+          "date": "2026-08-01T00:00:00Z",
+          "count": "2658",
+          "share": 2.5067783638265222e-05
+        },
+        {
+          "date": "2026-09-01T00:00:00Z",
+          "count": "21584",
+          "share": 0.00019591399493874948
+        }
+      ]
+    }
+  }
+}

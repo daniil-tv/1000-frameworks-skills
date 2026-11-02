@@ -1,0 +1,1597 @@
+{
+  "page_id": "jtbd",
+  "status": "complete",
+  "topic": "Jobs to Be Done",
+  "primary_cluster": [
+    {
+      "keyword": "ниссан примера р12",
+      "count": 66169,
+      "sources": [
+        {
+          "seed": "jtbd примеры",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "jobs to be done",
+      "count": 21950,
+      "sources": [
+        {
+          "seed": "jobs to be done",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "jobs to be done",
+          "kind": "results"
+        },
+        {
+          "seed": "jtbd",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "характеристика с места работы образец",
+      "count": 19225,
+      "sources": [
+        {
+          "seed": "jtbd примеры",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "примеры до 10",
+      "count": 15796,
+      "sources": [
+        {
+          "seed": "jtbd примеры",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "примеры до 20",
+      "count": 14285,
+      "sources": [
+        {
+          "seed": "jtbd примеры",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "jtbd",
+      "count": 3020,
+      "sources": [
+        {
+          "seed": "jtbd",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "jtbd",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "p l что это такое в бизнесе",
+      "count": 1192,
+      "sources": [
+        {
+          "seed": "jobs to be done в маркетинге",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "jtbd что это в маркетинге",
+      "count": 188,
+      "sources": [
+        {
+          "seed": "jtbd",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "метод jobs to be done",
+      "count": 147,
+      "sources": [
+        {
+          "seed": "jobs to be done",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "jobs to be done перевод",
+      "count": 134,
+      "sources": [
+        {
+          "seed": "jobs to be done",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "как пишется характеристика с места работы образец",
+      "count": 119,
+      "sources": [
+        {
+          "seed": "jtbd примеры",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "jobs to be done jtbd",
+      "count": 110,
+      "sources": [
+        {
+          "seed": "jobs to be done",
+          "kind": "results"
+        },
+        {
+          "seed": "jtbd",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "jtbd пример",
+      "count": 96,
+      "sources": [
+        {
+          "seed": "jtbd",
+          "kind": "results"
+        },
+        {
+          "seed": "jtbd примеры",
+          "kind": "results"
+        }
+      ],
+      "intent": "practical"
+    },
+    {
+      "keyword": "jtbd примеры",
+      "count": 96,
+      "sources": [
+        {
+          "seed": "jtbd примеры",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "что такое job to be done",
+      "count": 92,
+      "sources": [
+        {
+          "seed": "jobs to be done",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "jtbd интервью",
+      "count": 76,
+      "sources": [
+        {
+          "seed": "jtbd",
+          "kind": "results"
+        },
+        {
+          "seed": "jtbd интервью",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "jtbd интервью",
+          "kind": "results"
+        }
+      ],
+      "intent": "practical"
+    },
+    {
+      "keyword": "метод jtbd",
+      "count": 71,
+      "sources": [
+        {
+          "seed": "jtbd",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "модель jtbd",
+      "count": 71,
+      "sources": [
+        {
+          "seed": "jtbd",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "advanced jobs to be done",
+      "count": 59,
+      "sources": [
+        {
+          "seed": "jobs to be done",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "концепции jobs to be done",
+      "count": 56,
+      "sources": [
+        {
+          "seed": "jobs to be done",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "что такое сегментация по jtbd",
+      "count": 49,
+      "sources": [
+        {
+          "seed": "jtbd",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "фреймворк jtbd",
+      "count": 48,
+      "sources": [
+        {
+          "seed": "jtbd",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "jobs to be done примеры",
+      "count": 42,
+      "sources": [
+        {
+          "seed": "jobs to be done",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "методологии jtbd",
+      "count": 42,
+      "sources": [
+        {
+          "seed": "jtbd",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "jtbd замесин",
+      "count": 37,
+      "sources": [
+        {
+          "seed": "jtbd",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "как корректно формулируется jtbd",
+      "count": 37,
+      "sources": [
+        {
+          "seed": "jtbd",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "cjm и jtbd",
+      "count": 36,
+      "sources": [
+        {
+          "seed": "jtbd",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "концепция jtbd",
+      "count": 35,
+      "sources": [
+        {
+          "seed": "jtbd",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "подход jtbd",
+      "count": 35,
+      "sources": [
+        {
+          "seed": "jtbd",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "jobs to be done в маркетинге",
+      "count": 34,
+      "sources": [
+        {
+          "seed": "jobs to be done",
+          "kind": "results"
+        },
+        {
+          "seed": "jobs to be done в маркетинге",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "jobs to be done в маркетинге",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    }
+  ],
+  "secondary_clusters": {
+    "informational_question": [
+      {
+        "keyword": "p l что это такое в бизнесе",
+        "count": 1192,
+        "sources": [
+          {
+            "seed": "jobs to be done в маркетинге",
+            "kind": "associations"
+          }
+        ],
+        "intent": "informational_question"
+      },
+      {
+        "keyword": "jtbd что это в маркетинге",
+        "count": 188,
+        "sources": [
+          {
+            "seed": "jtbd",
+            "kind": "results"
+          }
+        ],
+        "intent": "informational_question"
+      },
+      {
+        "keyword": "как пишется характеристика с места работы образец",
+        "count": 119,
+        "sources": [
+          {
+            "seed": "jtbd примеры",
+            "kind": "associations"
+          }
+        ],
+        "intent": "informational_question"
+      },
+      {
+        "keyword": "что такое job to be done",
+        "count": 92,
+        "sources": [
+          {
+            "seed": "jobs to be done",
+            "kind": "results"
+          }
+        ],
+        "intent": "informational_question"
+      },
+      {
+        "keyword": "что такое сегментация по jtbd",
+        "count": 49,
+        "sources": [
+          {
+            "seed": "jtbd",
+            "kind": "results"
+          }
+        ],
+        "intent": "informational_question"
+      },
+      {
+        "keyword": "как корректно формулируется jtbd",
+        "count": 37,
+        "sources": [
+          {
+            "seed": "jtbd",
+            "kind": "results"
+          }
+        ],
+        "intent": "informational_question"
+      },
+      {
+        "keyword": "jobs to be done как сделать",
+        "count": 17,
+        "sources": [
+          {
+            "seed": "jobs to be done",
+            "kind": "results"
+          }
+        ],
+        "intent": "informational_question"
+      },
+      {
+        "keyword": "как в jtbd воспринимается продукт",
+        "count": 12,
+        "sources": [
+          {
+            "seed": "jtbd",
+            "kind": "results"
+          }
+        ],
+        "intent": "informational_question"
+      },
+      {
+        "keyword": "как jtbd может помочь в нейминге",
+        "count": 9,
+        "sources": [
+          {
+            "seed": "jtbd",
+            "kind": "results"
+          }
+        ],
+        "intent": "informational_question"
+      },
+      {
+        "keyword": "jtbd что это в маркетинге простыми словами",
+        "count": 7,
+        "sources": [
+          {
+            "seed": "jtbd",
+            "kind": "results"
+          }
+        ],
+        "intent": "informational_question"
+      }
+    ],
+    "practical": [
+      {
+        "keyword": "jtbd пример",
+        "count": 96,
+        "sources": [
+          {
+            "seed": "jtbd",
+            "kind": "results"
+          },
+          {
+            "seed": "jtbd примеры",
+            "kind": "results"
+          }
+        ],
+        "intent": "practical"
+      },
+      {
+        "keyword": "jtbd интервью",
+        "count": 76,
+        "sources": [
+          {
+            "seed": "jtbd",
+            "kind": "results"
+          },
+          {
+            "seed": "jtbd интервью",
+            "kind": "seed_total"
+          },
+          {
+            "seed": "jtbd интервью",
+            "kind": "results"
+          }
+        ],
+        "intent": "practical"
+      }
+    ],
+    "commercial": [
+      {
+        "keyword": "обучение jtbd",
+        "count": 5,
+        "sources": [
+          {
+            "seed": "jtbd",
+            "kind": "results"
+          }
+        ],
+        "intent": "commercial"
+      }
+    ]
+  },
+  "questions": [
+    {
+      "keyword": "p l что это такое в бизнесе",
+      "count": 1192,
+      "sources": [
+        {
+          "seed": "jobs to be done в маркетинге",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "jtbd что это в маркетинге",
+      "count": 188,
+      "sources": [
+        {
+          "seed": "jtbd",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "как пишется характеристика с места работы образец",
+      "count": 119,
+      "sources": [
+        {
+          "seed": "jtbd примеры",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "что такое job to be done",
+      "count": 92,
+      "sources": [
+        {
+          "seed": "jobs to be done",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "что такое сегментация по jtbd",
+      "count": 49,
+      "sources": [
+        {
+          "seed": "jtbd",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "как корректно формулируется jtbd",
+      "count": 37,
+      "sources": [
+        {
+          "seed": "jtbd",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "jobs to be done как сделать",
+      "count": 17,
+      "sources": [
+        {
+          "seed": "jobs to be done",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "как в jtbd воспринимается продукт",
+      "count": 12,
+      "sources": [
+        {
+          "seed": "jtbd",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "как jtbd может помочь в нейминге",
+      "count": 9,
+      "sources": [
+        {
+          "seed": "jtbd",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "jtbd что это в маркетинге простыми словами",
+      "count": 7,
+      "sources": [
+        {
+          "seed": "jtbd",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational_question"
+    }
+  ],
+  "candidate_child_pages": [
+    {
+      "keyword": "обучение jtbd",
+      "count": 5,
+      "status": "planned_candidate"
+    }
+  ],
+  "possible_cannibalization": [],
+  "excluded": [
+    {
+      "phrase": "this that these those",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "jobs to be done"
+    },
+    {
+      "phrase": "ты не мой",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "jobs to be done"
+    },
+    {
+      "phrase": "what about me",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "jobs to be done"
+    },
+    {
+      "phrase": "me too",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "jobs to be done"
+    },
+    {
+      "phrase": "all of me",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "jobs to be done"
+    },
+    {
+      "phrase": "хорошо там где нас нет",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "jobs to be done"
+    },
+    {
+      "phrase": "for me",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "jobs to be done"
+    },
+    {
+      "phrase": "in on at",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "jobs to be done"
+    },
+    {
+      "phrase": "as for me",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "jobs to be done"
+    },
+    {
+      "phrase": "а я иду такая вся",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "jobs to be done"
+    },
+    {
+      "phrase": "я хочу нет я хочу",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "jobs to be done"
+    },
+    {
+      "phrase": "они идут за тобой",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "jobs to be done"
+    },
+    {
+      "phrase": "я пл",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "jobs to be done"
+    },
+    {
+      "phrase": "иди ко мне",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "jobs to be done"
+    },
+    {
+      "phrase": "ой да",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "jobs to be done"
+    },
+    {
+      "phrase": "this that",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "jobs to be done"
+    },
+    {
+      "phrase": "я иду искатт",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "jobs to be done"
+    },
+    {
+      "phrase": "от а до я",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "jobs to be done"
+    },
+    {
+      "phrase": "йцу",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "jtbd"
+    },
+    {
+      "phrase": "выа",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "jtbd"
+    },
+    {
+      "phrase": "дмдк",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "jtbd"
+    },
+    {
+      "phrase": "dze",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "jtbd"
+    },
+    {
+      "phrase": "jcl",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "jtbd"
+    },
+    {
+      "phrase": "нцд",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "jtbd"
+    },
+    {
+      "phrase": "джд",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "jtbd"
+    },
+    {
+      "phrase": "блд",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "jtbd"
+    },
+    {
+      "phrase": "екром",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "jtbd"
+    },
+    {
+      "phrase": "ыпр",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "jtbd"
+    },
+    {
+      "phrase": "ддба",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "jtbd"
+    },
+    {
+      "phrase": "tqm",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "jtbd"
+    },
+    {
+      "phrase": "твж",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "jtbd"
+    },
+    {
+      "phrase": "бто",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "jtbd"
+    },
+    {
+      "phrase": "gw4b15l",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "jtbd"
+    },
+    {
+      "phrase": "c6h5nh2",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "jtbd"
+    },
+    {
+      "phrase": "иср",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "jtbd"
+    },
+    {
+      "phrase": "c12h22o11",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "jtbd"
+    },
+    {
+      "phrase": "ддб1",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "jtbd"
+    },
+    {
+      "phrase": "им щи ван",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "jtbd интервью"
+    },
+    {
+      "phrase": "фонд вциом опрос что это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "jtbd интервью"
+    },
+    {
+      "phrase": "им щи ван фильмы",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "jtbd интервью"
+    },
+    {
+      "phrase": "чхэ вон бин",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "jtbd интервью"
+    },
+    {
+      "phrase": "тест на знание стран мира",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "jtbd интервью"
+    },
+    {
+      "phrase": "фонд вциом опрос зачем звонят",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "jtbd интервью"
+    },
+    {
+      "phrase": "интервьюер это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "jtbd интервью"
+    },
+    {
+      "phrase": "ты мне я тебе актеры",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "jtbd интервью"
+    },
+    {
+      "phrase": "чхве вон ен фильмы",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "jtbd интервью"
+    },
+    {
+      "phrase": "но джэ вон фильмы",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "jtbd интервью"
+    },
+    {
+      "phrase": "брэндон ли фильмы",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "jtbd интервью"
+    },
+    {
+      "phrase": "чхэ вон бин фильмы",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "jtbd интервью"
+    },
+    {
+      "phrase": "дело художника выразить свое видение мира егэ",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "jtbd интервью"
+    },
+    {
+      "phrase": "чжу вон фильмы",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "jtbd интервью"
+    },
+    {
+      "phrase": "чем отличается союз от предлога",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "jtbd интервью"
+    },
+    {
+      "phrase": "чем отличается предлог от союза",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "jtbd интервью"
+    },
+    {
+      "phrase": "интервьюер и интервьюируемый",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "jtbd интервью"
+    },
+    {
+      "phrase": "example com",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "jtbd примеры"
+    },
+    {
+      "phrase": "example com что это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "jtbd примеры"
+    },
+    {
+      "phrase": "for example",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "jtbd примеры"
+    },
+    {
+      "phrase": "https example com",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "jtbd примеры"
+    },
+    {
+      "phrase": "образец объявления",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "jtbd примеры"
+    },
+    {
+      "phrase": "example example org",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "jtbd примеры"
+    },
+    {
+      "phrase": "форма м29 на списание материалов образец заполнения",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "jtbd примеры"
+    },
+    {
+      "phrase": "http example com",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "jtbd примеры"
+    },
+    {
+      "phrase": "образец это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "jtbd примеры"
+    },
+    {
+      "phrase": "опытный образец это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "jtbd примеры"
+    },
+    {
+      "phrase": "this that these those",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "jobs to be done в маркетинге"
+    },
+    {
+      "phrase": "this av",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "jobs to be done в маркетинге"
+    },
+    {
+      "phrase": "me too",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "jobs to be done в маркетинге"
+    },
+    {
+      "phrase": "хорошо там где нас нет",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "jobs to be done в маркетинге"
+    },
+    {
+      "phrase": "чдд это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "jobs to be done в маркетинге"
+    },
+    {
+      "phrase": "in on at",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "jobs to be done в маркетинге"
+    },
+    {
+      "phrase": "as for me",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "jobs to be done в маркетинге"
+    },
+    {
+      "phrase": "all make",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "jobs to be done в маркетинге"
+    },
+    {
+      "phrase": "a market",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "jobs to be done в маркетинге"
+    },
+    {
+      "phrase": "я хочу нет я хочу",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "jobs to be done в маркетинге"
+    },
+    {
+      "phrase": "омаж это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "jobs to be done в маркетинге"
+    },
+    {
+      "phrase": "иди ко мне",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "jobs to be done в маркетинге"
+    },
+    {
+      "phrase": "this that",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "jobs to be done в маркетинге"
+    },
+    {
+      "phrase": "от а до я",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "jobs to be done в маркетинге"
+    },
+    {
+      "phrase": "рекламодатель это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "jobs to be done в маркетинге"
+    }
+  ],
+  "all_keywords": [
+    {
+      "keyword": "ниссан примера р12",
+      "count": 66169,
+      "sources": [
+        {
+          "seed": "jtbd примеры",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "jobs to be done",
+      "count": 21950,
+      "sources": [
+        {
+          "seed": "jobs to be done",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "jobs to be done",
+          "kind": "results"
+        },
+        {
+          "seed": "jtbd",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "характеристика с места работы образец",
+      "count": 19225,
+      "sources": [
+        {
+          "seed": "jtbd примеры",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "примеры до 10",
+      "count": 15796,
+      "sources": [
+        {
+          "seed": "jtbd примеры",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "примеры до 20",
+      "count": 14285,
+      "sources": [
+        {
+          "seed": "jtbd примеры",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "jtbd",
+      "count": 3020,
+      "sources": [
+        {
+          "seed": "jtbd",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "jtbd",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "p l что это такое в бизнесе",
+      "count": 1192,
+      "sources": [
+        {
+          "seed": "jobs to be done в маркетинге",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "jtbd что это в маркетинге",
+      "count": 188,
+      "sources": [
+        {
+          "seed": "jtbd",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "метод jobs to be done",
+      "count": 147,
+      "sources": [
+        {
+          "seed": "jobs to be done",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "jobs to be done перевод",
+      "count": 134,
+      "sources": [
+        {
+          "seed": "jobs to be done",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "как пишется характеристика с места работы образец",
+      "count": 119,
+      "sources": [
+        {
+          "seed": "jtbd примеры",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "jobs to be done jtbd",
+      "count": 110,
+      "sources": [
+        {
+          "seed": "jobs to be done",
+          "kind": "results"
+        },
+        {
+          "seed": "jtbd",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "jtbd пример",
+      "count": 96,
+      "sources": [
+        {
+          "seed": "jtbd",
+          "kind": "results"
+        },
+        {
+          "seed": "jtbd примеры",
+          "kind": "results"
+        }
+      ],
+      "intent": "practical"
+    },
+    {
+      "keyword": "jtbd примеры",
+      "count": 96,
+      "sources": [
+        {
+          "seed": "jtbd примеры",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "что такое job to be done",
+      "count": 92,
+      "sources": [
+        {
+          "seed": "jobs to be done",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "jtbd интервью",
+      "count": 76,
+      "sources": [
+        {
+          "seed": "jtbd",
+          "kind": "results"
+        },
+        {
+          "seed": "jtbd интервью",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "jtbd интервью",
+          "kind": "results"
+        }
+      ],
+      "intent": "practical"
+    },
+    {
+      "keyword": "метод jtbd",
+      "count": 71,
+      "sources": [
+        {
+          "seed": "jtbd",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "модель jtbd",
+      "count": 71,
+      "sources": [
+        {
+          "seed": "jtbd",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "advanced jobs to be done",
+      "count": 59,
+      "sources": [
+        {
+          "seed": "jobs to be done",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "концепции jobs to be done",
+      "count": 56,
+      "sources": [
+        {
+          "seed": "jobs to be done",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "что такое сегментация по jtbd",
+      "count": 49,
+      "sources": [
+        {
+          "seed": "jtbd",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "фреймворк jtbd",
+      "count": 48,
+      "sources": [
+        {
+          "seed": "jtbd",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "jobs to be done примеры",
+      "count": 42,
+      "sources": [
+        {
+          "seed": "jobs to be done",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "методологии jtbd",
+      "count": 42,
+      "sources": [
+        {
+          "seed": "jtbd",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "jtbd замесин",
+      "count": 37,
+      "sources": [
+        {
+          "seed": "jtbd",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "как корректно формулируется jtbd",
+      "count": 37,
+      "sources": [
+        {
+          "seed": "jtbd",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "cjm и jtbd",
+      "count": 36,
+      "sources": [
+        {
+          "seed": "jtbd",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "концепция jtbd",
+      "count": 35,
+      "sources": [
+        {
+          "seed": "jtbd",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "подход jtbd",
+      "count": 35,
+      "sources": [
+        {
+          "seed": "jtbd",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "jobs to be done в маркетинге",
+      "count": 34,
+      "sources": [
+        {
+          "seed": "jobs to be done",
+          "kind": "results"
+        },
+        {
+          "seed": "jobs to be done в маркетинге",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "jobs to be done в маркетинге",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "формула jtbd",
+      "count": 34,
+      "sources": [
+        {
+          "seed": "jtbd",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "jtbd это простыми словами",
+      "count": 25,
+      "sources": [
+        {
+          "seed": "jtbd",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "метод jobs to be done книга",
+      "count": 22,
+      "sources": [
+        {
+          "seed": "jobs to be done",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "jtbd анализ это",
+      "count": 21,
+      "sources": [
+        {
+          "seed": "jtbd",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "jobs to be done методология",
+      "count": 18,
+      "sources": [
+        {
+          "seed": "jobs to be done методология",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "фреймворк jobs to be done",
+      "count": 18,
+      "sources": [
+        {
+          "seed": "jobs to be done",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "jobs to be done как сделать",
+      "count": 17,
+      "sources": [
+        {
+          "seed": "jobs to be done",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "jobs to be done это простыми словами",
+      "count": 15,
+      "sources": [
+        {
+          "seed": "jobs to be done",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "работы клиента jtbd",
+      "count": 13,
+      "sources": [
+        {
+          "seed": "работы клиента jtbd",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "как в jtbd воспринимается продукт",
+      "count": 12,
+      "sources": [
+        {
+          "seed": "jtbd",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "особенности jtbd для b2b",
+      "count": 12,
+      "sources": [
+        {
+          "seed": "jtbd",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "как jtbd может помочь в нейминге",
+      "count": 9,
+      "sources": [
+        {
+          "seed": "jtbd",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "jtbd для ретинола",
+      "count": 7,
+      "sources": [
+        {
+          "seed": "jtbd",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "jtbd что это в маркетинге простыми словами",
+      "count": 7,
+      "sources": [
+        {
+          "seed": "jtbd",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "jtbd отличия от custdev",
+      "count": 6,
+      "sources": [
+        {
+          "seed": "jtbd",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "обучение jtbd",
+      "count": 5,
+      "sources": [
+        {
+          "seed": "jtbd",
+          "kind": "results"
+        }
+      ],
+      "intent": "commercial"
+    }
+  ]
+}
