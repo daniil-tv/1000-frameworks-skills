@@ -1,0 +1,888 @@
+{
+  "page_id": "strategy-category",
+  "status": "complete",
+  "topic": "Фреймворки стратегии",
+  "primary_cluster": [
+    {
+      "keyword": "скачать стратегии",
+      "count": 43525,
+      "sources": [
+        {
+          "seed": "стратегические фреймворки",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "экономические стратегии",
+      "count": 32339,
+      "sources": [
+        {
+          "seed": "методы стратегического планирования",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "фреймворк",
+      "count": 25869,
+      "sources": [
+        {
+          "seed": "стратегические фреймворки",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "игры стратегии на пк",
+      "count": 10941,
+      "sources": [
+        {
+          "seed": "стратегические фреймворки",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "пошаговые стратегии",
+      "count": 10423,
+      "sources": [
+        {
+          "seed": "методы стратегического планирования",
+          "kind": "associations"
+        },
+        {
+          "seed": "стратегические фреймворки",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "лучшие стратегии на пк",
+      "count": 6449,
+      "sources": [
+        {
+          "seed": "стратегические фреймворки",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "фреймворк это",
+      "count": 5177,
+      "sources": [
+        {
+          "seed": "стратегические фреймворки",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "что такое фреймворк",
+      "count": 1838,
+      "sources": [
+        {
+          "seed": "стратегические фреймворки",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "военные стратегии на пк",
+      "count": 1740,
+      "sources": [
+        {
+          "seed": "стратегические фреймворки",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "фреймворк что это",
+      "count": 1338,
+      "sources": [
+        {
+          "seed": "стратегические фреймворки",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "методы стратегического планирования",
+      "count": 1320,
+      "sources": [
+        {
+          "seed": "методы стратегического планирования",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "методы стратегического планирования",
+          "kind": "results"
+        }
+      ],
+      "intent": "practical"
+    },
+    {
+      "keyword": "методы стратегического анализа",
+      "count": 1061,
+      "sources": [
+        {
+          "seed": "методы стратегического анализа",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "методы стратегического анализа",
+          "kind": "results"
+        }
+      ],
+      "intent": "practical"
+    },
+    {
+      "keyword": "чем отличается тактика от стратегии",
+      "count": 929,
+      "sources": [
+        {
+          "seed": "методы стратегического анализа",
+          "kind": "associations"
+        },
+        {
+          "seed": "методы стратегического планирования",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "методы разработки стратегии",
+      "count": 733,
+      "sources": [
+        {
+          "seed": "методы разработки стратегии",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "practical"
+    },
+    {
+      "keyword": "инструменты стратегического анализа",
+      "count": 616,
+      "sources": [
+        {
+          "seed": "инструменты стратегического анализа",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "инструменты стратегического анализа",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "лучшие стратегии на пк всех времен",
+      "count": 447,
+      "sources": [
+        {
+          "seed": "методы стратегического планирования",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "отличие тактики от стратегии",
+      "count": 329,
+      "sources": [
+        {
+          "seed": "методы стратегического анализа",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "матрицы стратегического анализа",
+      "count": 265,
+      "sources": [
+        {
+          "seed": "матрицы стратегического анализа",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "пошаговые стратегии на пк список лучших",
+      "count": 198,
+      "sources": [
+        {
+          "seed": "методы стратегического планирования",
+          "kind": "associations"
+        },
+        {
+          "seed": "стратегические фреймворки",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "фреймворки стратегии",
+      "count": 56,
+      "sources": [
+        {
+          "seed": "фреймворки стратегии",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "стратегические фреймворки",
+      "count": 34,
+      "sources": [
+        {
+          "seed": "стратегические фреймворки",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "стратегические фреймворки",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "что является основным инструментом стратегического анализа конкурентов",
+      "count": 10,
+      "sources": [
+        {
+          "seed": "инструменты стратегического анализа",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational_question"
+    }
+  ],
+  "secondary_clusters": {
+    "informational_question": [
+      {
+        "keyword": "что такое фреймворк",
+        "count": 1838,
+        "sources": [
+          {
+            "seed": "стратегические фреймворки",
+            "kind": "associations"
+          }
+        ],
+        "intent": "informational_question"
+      },
+      {
+        "keyword": "фреймворк что это",
+        "count": 1338,
+        "sources": [
+          {
+            "seed": "стратегические фреймворки",
+            "kind": "associations"
+          }
+        ],
+        "intent": "informational_question"
+      },
+      {
+        "keyword": "что является основным инструментом стратегического анализа конкурентов",
+        "count": 10,
+        "sources": [
+          {
+            "seed": "инструменты стратегического анализа",
+            "kind": "results"
+          }
+        ],
+        "intent": "informational_question"
+      }
+    ],
+    "practical": [
+      {
+        "keyword": "методы стратегического планирования",
+        "count": 1320,
+        "sources": [
+          {
+            "seed": "методы стратегического планирования",
+            "kind": "seed_total"
+          },
+          {
+            "seed": "методы стратегического планирования",
+            "kind": "results"
+          }
+        ],
+        "intent": "practical"
+      },
+      {
+        "keyword": "методы стратегического анализа",
+        "count": 1061,
+        "sources": [
+          {
+            "seed": "методы стратегического анализа",
+            "kind": "seed_total"
+          },
+          {
+            "seed": "методы стратегического анализа",
+            "kind": "results"
+          }
+        ],
+        "intent": "practical"
+      },
+      {
+        "keyword": "методы разработки стратегии",
+        "count": 733,
+        "sources": [
+          {
+            "seed": "методы разработки стратегии",
+            "kind": "seed_total"
+          }
+        ],
+        "intent": "practical"
+      }
+    ]
+  },
+  "questions": [
+    {
+      "keyword": "что такое фреймворк",
+      "count": 1838,
+      "sources": [
+        {
+          "seed": "стратегические фреймворки",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "фреймворк что это",
+      "count": 1338,
+      "sources": [
+        {
+          "seed": "стратегические фреймворки",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "что является основным инструментом стратегического анализа конкурентов",
+      "count": 10,
+      "sources": [
+        {
+          "seed": "инструменты стратегического анализа",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational_question"
+    }
+  ],
+  "candidate_child_pages": [],
+  "possible_cannibalization": [],
+  "excluded": [
+    {
+      "phrase": "стратегия онтологической игры подготовка операторов",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "методы стратегического анализа"
+    },
+    {
+      "phrase": "тактика и стратегия разница",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "методы стратегического анализа"
+    },
+    {
+      "phrase": "обоснуйте оценку глобализации как противоречивого процесса",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "методы стратегического анализа"
+    },
+    {
+      "phrase": "стратегия что это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "методы стратегического анализа"
+    },
+    {
+      "phrase": "методология исследования",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "методы стратегического анализа"
+    },
+    {
+      "phrase": "методология исследования это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "методы стратегического анализа"
+    },
+    {
+      "phrase": "чем отличается стратегия от тактики",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "методы стратегического анализа"
+    },
+    {
+      "phrase": "стратегия развития",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "методы стратегического анализа"
+    },
+    {
+      "phrase": "программа и методика испытаний",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "методы стратегического анализа"
+    },
+    {
+      "phrase": "стратегия устойчивого развития",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "методы стратегического анализа"
+    },
+    {
+      "phrase": "центр лабораторных исследований",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "методы стратегического анализа"
+    },
+    {
+      "phrase": "лабораторные исследования это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "методы стратегического анализа"
+    },
+    {
+      "phrase": "стратегия непрямых действий",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "методы стратегического анализа"
+    },
+    {
+      "phrase": "анализируй это фильм 1999",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "инструменты стратегического анализа"
+    },
+    {
+      "phrase": "анализатор это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "инструменты стратегического анализа"
+    },
+    {
+      "phrase": "хроматограф это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "инструменты стратегического анализа"
+    },
+    {
+      "phrase": "анализатор состоит из",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "инструменты стратегического анализа"
+    },
+    {
+      "phrase": "спектрометр это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "инструменты стратегического анализа"
+    },
+    {
+      "phrase": "анализатор металлов",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "инструменты стратегического анализа"
+    },
+    {
+      "phrase": "examination wiki",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "инструменты стратегического анализа"
+    },
+    {
+      "phrase": "кондуктометр это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "инструменты стратегического анализа"
+    },
+    {
+      "phrase": "оценка инвентаря кс2",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "инструменты стратегического анализа"
+    },
+    {
+      "phrase": "устаревшая должность в органах кроссворд",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "инструменты стратегического анализа"
+    },
+    {
+      "phrase": "спектрометр что это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "инструменты стратегического анализа"
+    },
+    {
+      "phrase": "explain analyze",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "инструменты стратегического анализа"
+    },
+    {
+      "phrase": "прецизионность это в лаборатории",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "инструменты стратегического анализа"
+    },
+    {
+      "phrase": "хроматограф что это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "инструменты стратегического анализа"
+    },
+    {
+      "phrase": "стратегия",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "методы стратегического планирования"
+    },
+    {
+      "phrase": "тезисный план это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "методы стратегического планирования"
+    },
+    {
+      "phrase": "что такое тезисный план",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "методы стратегического планирования"
+    },
+    {
+      "phrase": "стратегия это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "методы стратегического планирования"
+    },
+    {
+      "phrase": "план это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "методы стратегического планирования"
+    },
+    {
+      "phrase": "топ стратегий",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "методы стратегического планирования"
+    },
+    {
+      "phrase": "стратег это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "методы стратегического планирования"
+    },
+    {
+      "phrase": "стратегия в реальном времени",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "методы стратегического планирования"
+    },
+    {
+      "phrase": "стратегия это простыми словами",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "методы стратегического планирования"
+    },
+    {
+      "phrase": "тактика и стратегия разница",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "методы стратегического планирования"
+    },
+    {
+      "phrase": "стратегия что это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "методы стратегического планирования"
+    },
+    {
+      "phrase": "стратегиум",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "стратегические фреймворки"
+    },
+    {
+      "phrase": "топ стратегий",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "стратегические фреймворки"
+    },
+    {
+      "phrase": "рпг 7в",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "стратегические фреймворки"
+    },
+    {
+      "phrase": "игра империя стратегия",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "стратегические фреймворки"
+    },
+    {
+      "phrase": "топ стратегий на пк",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "стратегические фреймворки"
+    },
+    {
+      "phrase": "тактика и стратегия разница",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "стратегические фреймворки"
+    }
+  ],
+  "all_keywords": [
+    {
+      "keyword": "скачать стратегии",
+      "count": 43525,
+      "sources": [
+        {
+          "seed": "стратегические фреймворки",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "экономические стратегии",
+      "count": 32339,
+      "sources": [
+        {
+          "seed": "методы стратегического планирования",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "фреймворк",
+      "count": 25869,
+      "sources": [
+        {
+          "seed": "стратегические фреймворки",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "игры стратегии на пк",
+      "count": 10941,
+      "sources": [
+        {
+          "seed": "стратегические фреймворки",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "пошаговые стратегии",
+      "count": 10423,
+      "sources": [
+        {
+          "seed": "методы стратегического планирования",
+          "kind": "associations"
+        },
+        {
+          "seed": "стратегические фреймворки",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "лучшие стратегии на пк",
+      "count": 6449,
+      "sources": [
+        {
+          "seed": "стратегические фреймворки",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "фреймворк это",
+      "count": 5177,
+      "sources": [
+        {
+          "seed": "стратегические фреймворки",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "что такое фреймворк",
+      "count": 1838,
+      "sources": [
+        {
+          "seed": "стратегические фреймворки",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "военные стратегии на пк",
+      "count": 1740,
+      "sources": [
+        {
+          "seed": "стратегические фреймворки",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "фреймворк что это",
+      "count": 1338,
+      "sources": [
+        {
+          "seed": "стратегические фреймворки",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "методы стратегического планирования",
+      "count": 1320,
+      "sources": [
+        {
+          "seed": "методы стратегического планирования",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "методы стратегического планирования",
+          "kind": "results"
+        }
+      ],
+      "intent": "practical"
+    },
+    {
+      "keyword": "методы стратегического анализа",
+      "count": 1061,
+      "sources": [
+        {
+          "seed": "методы стратегического анализа",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "методы стратегического анализа",
+          "kind": "results"
+        }
+      ],
+      "intent": "practical"
+    },
+    {
+      "keyword": "чем отличается тактика от стратегии",
+      "count": 929,
+      "sources": [
+        {
+          "seed": "методы стратегического анализа",
+          "kind": "associations"
+        },
+        {
+          "seed": "методы стратегического планирования",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "методы разработки стратегии",
+      "count": 733,
+      "sources": [
+        {
+          "seed": "методы разработки стратегии",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "practical"
+    },
+    {
+      "keyword": "инструменты стратегического анализа",
+      "count": 616,
+      "sources": [
+        {
+          "seed": "инструменты стратегического анализа",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "инструменты стратегического анализа",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "лучшие стратегии на пк всех времен",
+      "count": 447,
+      "sources": [
+        {
+          "seed": "методы стратегического планирования",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "отличие тактики от стратегии",
+      "count": 329,
+      "sources": [
+        {
+          "seed": "методы стратегического анализа",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "матрицы стратегического анализа",
+      "count": 265,
+      "sources": [
+        {
+          "seed": "матрицы стратегического анализа",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "пошаговые стратегии на пк список лучших",
+      "count": 198,
+      "sources": [
+        {
+          "seed": "методы стратегического планирования",
+          "kind": "associations"
+        },
+        {
+          "seed": "стратегические фреймворки",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "фреймворки стратегии",
+      "count": 56,
+      "sources": [
+        {
+          "seed": "фреймворки стратегии",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "стратегические фреймворки",
+      "count": 34,
+      "sources": [
+        {
+          "seed": "стратегические фреймворки",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "стратегические фреймворки",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "что является основным инструментом стратегического анализа конкурентов",
+      "count": 10,
+      "sources": [
+        {
+          "seed": "инструменты стратегического анализа",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational_question"
+    }
+  ]
+}
