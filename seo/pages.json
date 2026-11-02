@@ -124,6 +124,22 @@
         "пять сил портера пример",
         "модель портера конкуренция"
       ]
+    },
+    {
+      "id": "stp",
+      "title": "STP (Segmentation, Targeting, Positioning)",
+      "url": "https://1000factors.ru/strategy/stp/",
+      "locale": "ru-RU",
+      "seeds": [
+        "stp маркетинг",
+        "stp анализ",
+        "stp модель",
+        "segmentation targeting positioning",
+        "сегментация таргетинг позиционирование",
+        "stp маркетинг пример",
+        "модель stp маркетинг",
+        "stp стратегия"
+      ]
     }
   ]
 }
