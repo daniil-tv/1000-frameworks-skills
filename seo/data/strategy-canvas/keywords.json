@@ -1,0 +1,597 @@
+{
+  "page_id": "strategy-canvas",
+  "status": "complete",
+  "topic": "Strategy Canvas",
+  "primary_cluster": [
+    {
+      "keyword": "скачать стратегии",
+      "count": 43525,
+      "sources": [
+        {
+          "seed": "стратегическая канва",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "стратегическое планирование",
+      "count": 39631,
+      "sources": [
+        {
+          "seed": "strategy canvas",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "военные стратегии",
+      "count": 13969,
+      "sources": [
+        {
+          "seed": "стратегическая канва",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "пошаговые стратегии",
+      "count": 10423,
+      "sources": [
+        {
+          "seed": "strategy canvas",
+          "kind": "associations"
+        },
+        {
+          "seed": "стратегическая канва",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "стратегическая сессия",
+      "count": 10311,
+      "sources": [
+        {
+          "seed": "strategy canvas",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "ракетные войска стратегического назначения",
+      "count": 10102,
+      "sources": [
+        {
+          "seed": "strategy canvas",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "лучшие стратегии на пк",
+      "count": 6449,
+      "sources": [
+        {
+          "seed": "strategy canvas",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "стратегическое мышление",
+      "count": 6080,
+      "sources": [
+        {
+          "seed": "strategy canvas",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "стратегии поведения в конфликте",
+      "count": 5733,
+      "sources": [
+        {
+          "seed": "strategy canvas",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "стратегическое планирование это",
+      "count": 3355,
+      "sources": [
+        {
+          "seed": "strategy canvas",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "стратегии для byebyedpi",
+      "count": 1885,
+      "sources": [
+        {
+          "seed": "стратегическая канва",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "военные стратегии на пк",
+      "count": 1740,
+      "sources": [
+        {
+          "seed": "стратегическая канва",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "стратегии про средневековье",
+      "count": 1719,
+      "sources": [
+        {
+          "seed": "стратегическая канва",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "пошаговые стратегии на пк список лучших",
+      "count": 198,
+      "sources": [
+        {
+          "seed": "strategy canvas",
+          "kind": "associations"
+        },
+        {
+          "seed": "стратегическая канва",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "стратегическая канва",
+      "count": 123,
+      "sources": [
+        {
+          "seed": "стратегическая канва",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "стратегическая канва",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "strategy canvas",
+      "count": 28,
+      "sources": [
+        {
+          "seed": "strategy canvas",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "strategy canvas",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "канва стратегии",
+      "count": 12,
+      "sources": [
+        {
+          "seed": "канва стратегии",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "стратегическая канва голубой океан",
+      "count": 9,
+      "sources": [
+        {
+          "seed": "стратегическая канва голубой океан",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "the brand strategy canvas шаблон",
+      "count": 6,
+      "sources": [
+        {
+          "seed": "strategy canvas",
+          "kind": "results"
+        }
+      ],
+      "intent": "practical"
+    },
+    {
+      "keyword": "стратегическая канва пример",
+      "count": 2,
+      "sources": [
+        {
+          "seed": "стратегическая канва пример",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "practical"
+    }
+  ],
+  "secondary_clusters": {
+    "practical": [
+      {
+        "keyword": "the brand strategy canvas шаблон",
+        "count": 6,
+        "sources": [
+          {
+            "seed": "strategy canvas",
+            "kind": "results"
+          }
+        ],
+        "intent": "practical"
+      },
+      {
+        "keyword": "стратегическая канва пример",
+        "count": 2,
+        "sources": [
+          {
+            "seed": "стратегическая канва пример",
+            "kind": "seed_total"
+          }
+        ],
+        "intent": "practical"
+      }
+    ]
+  },
+  "questions": [],
+  "candidate_child_pages": [],
+  "possible_cannibalization": [],
+  "excluded": [
+    {
+      "phrase": "стратегия",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "strategy canvas"
+    },
+    {
+      "phrase": "стратегиум",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "strategy canvas"
+    },
+    {
+      "phrase": "стратегия это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "strategy canvas"
+    },
+    {
+      "phrase": "топ стратегий",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "strategy canvas"
+    },
+    {
+      "phrase": "византийский стиль",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "strategy canvas"
+    },
+    {
+      "phrase": "стратегия в реальном времени",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "strategy canvas"
+    },
+    {
+      "phrase": "strategium",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "strategy canvas"
+    },
+    {
+      "phrase": "тактика и стратегия разница",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "strategy canvas"
+    },
+    {
+      "phrase": "12 лет рабства",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "стратегическая канва"
+    },
+    {
+      "phrase": "стратегиум",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "стратегическая канва"
+    },
+    {
+      "phrase": "топ стратегий",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "стратегическая канва"
+    },
+    {
+      "phrase": "византия это какая страна",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "стратегическая канва"
+    },
+    {
+      "phrase": "стратегия в реальном времени",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "стратегическая канва"
+    },
+    {
+      "phrase": "strategium",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "стратегическая канва"
+    },
+    {
+      "phrase": "стратегия онтологической игры подготовка операторов",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "стратегическая канва"
+    },
+    {
+      "phrase": "тактика и стратегия разница",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "стратегическая канва"
+    },
+    {
+      "phrase": "стратегия 2030",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "стратегическая канва"
+    }
+  ],
+  "all_keywords": [
+    {
+      "keyword": "скачать стратегии",
+      "count": 43525,
+      "sources": [
+        {
+          "seed": "стратегическая канва",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "стратегическое планирование",
+      "count": 39631,
+      "sources": [
+        {
+          "seed": "strategy canvas",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "военные стратегии",
+      "count": 13969,
+      "sources": [
+        {
+          "seed": "стратегическая канва",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "пошаговые стратегии",
+      "count": 10423,
+      "sources": [
+        {
+          "seed": "strategy canvas",
+          "kind": "associations"
+        },
+        {
+          "seed": "стратегическая канва",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "стратегическая сессия",
+      "count": 10311,
+      "sources": [
+        {
+          "seed": "strategy canvas",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "ракетные войска стратегического назначения",
+      "count": 10102,
+      "sources": [
+        {
+          "seed": "strategy canvas",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "лучшие стратегии на пк",
+      "count": 6449,
+      "sources": [
+        {
+          "seed": "strategy canvas",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "стратегическое мышление",
+      "count": 6080,
+      "sources": [
+        {
+          "seed": "strategy canvas",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "стратегии поведения в конфликте",
+      "count": 5733,
+      "sources": [
+        {
+          "seed": "strategy canvas",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "стратегическое планирование это",
+      "count": 3355,
+      "sources": [
+        {
+          "seed": "strategy canvas",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "стратегии для byebyedpi",
+      "count": 1885,
+      "sources": [
+        {
+          "seed": "стратегическая канва",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "военные стратегии на пк",
+      "count": 1740,
+      "sources": [
+        {
+          "seed": "стратегическая канва",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "стратегии про средневековье",
+      "count": 1719,
+      "sources": [
+        {
+          "seed": "стратегическая канва",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "пошаговые стратегии на пк список лучших",
+      "count": 198,
+      "sources": [
+        {
+          "seed": "strategy canvas",
+          "kind": "associations"
+        },
+        {
+          "seed": "стратегическая канва",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "стратегическая канва",
+      "count": 123,
+      "sources": [
+        {
+          "seed": "стратегическая канва",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "стратегическая канва",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "strategy canvas",
+      "count": 28,
+      "sources": [
+        {
+          "seed": "strategy canvas",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "strategy canvas",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "канва стратегии",
+      "count": 12,
+      "sources": [
+        {
+          "seed": "канва стратегии",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "стратегическая канва голубой океан",
+      "count": 9,
+      "sources": [
+        {
+          "seed": "стратегическая канва голубой океан",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "the brand strategy canvas шаблон",
+      "count": 6,
+      "sources": [
+        {
+          "seed": "strategy canvas",
+          "kind": "results"
+        }
+      ],
+      "intent": "practical"
+    },
+    {
+      "keyword": "стратегическая канва пример",
+      "count": 2,
+      "sources": [
+        {
+          "seed": "стратегическая канва пример",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "practical"
+    }
+  ]
+}
