@@ -1,0 +1,132 @@
+{
+  "page_id": "four-actions-framework",
+  "status": "complete",
+  "source": "Yandex Wordstat API",
+  "collected_at": "2026-11-02",
+  "regions": [
+    "225"
+  ],
+  "seeds": [
+    {
+      "seed": "four actions framework",
+      "cache_hit": false,
+      "payload": {
+        "totalCount": "6"
+      }
+    },
+    {
+      "seed": "четыре действия голубой океан",
+      "cache_hit": false,
+      "payload": {
+        "totalCount": "6"
+      }
+    },
+    {
+      "seed": "модель четырех действий",
+      "cache_hit": false,
+      "payload": {
+        "totalCount": "187",
+        "results": [
+          {
+            "phrase": "модель четырех действий",
+            "count": "183"
+          }
+        ],
+        "associations": [
+          {
+            "phrase": "вариант 4",
+            "count": "1940684"
+          },
+          {
+            "phrase": "ту 4",
+            "count": "2446557"
+          },
+          {
+            "phrase": "четвертый вид",
+            "count": "21544"
+          },
+          {
+            "phrase": "осд 4",
+            "count": "44736"
+          },
+          {
+            "phrase": "феи все части по порядку",
+            "count": "2558"
+          },
+          {
+            "phrase": "все на 4",
+            "count": "1324768"
+          },
+          {
+            "phrase": "4 ка",
+            "count": "148494"
+          },
+          {
+            "phrase": "4 в ряд",
+            "count": "950834"
+          },
+          {
+            "phrase": "этапы моделирования",
+            "count": "15117"
+          }
+        ]
+      }
+    },
+    {
+      "seed": "eliminate reduce raise create",
+      "cache_hit": false,
+      "payload": {}
+    },
+    {
+      "seed": "матрица четырех действий голубой океан",
+      "cache_hit": false,
+      "payload": {}
+    },
+    {
+      "seed": "four actions framework пример",
+      "cache_hit": false,
+      "payload": {}
+    }
+  ],
+  "dynamics": {
+    "seed": "four actions framework",
+    "cache_hit": false,
+    "payload": {
+      "results": [
+        {
+          "date": "2025-11-01T00:00:00Z"
+        },
+        {
+          "date": "2025-12-01T00:00:00Z"
+        },
+        {
+          "date": "2026-01-01T00:00:00Z"
+        },
+        {
+          "date": "2026-02-01T00:00:00Z"
+        },
+        {
+          "date": "2026-03-01T00:00:00Z"
+        },
+        {
+          "date": "2026-04-01T00:00:00Z"
+        },
+        {
+          "date": "2026-05-01T00:00:00Z"
+        },
+        {
+          "date": "2026-06-01T00:00:00Z"
+        },
+        {
+          "date": "2026-07-01T00:00:00Z"
+        },
+        {
+          "date": "2026-08-01T00:00:00Z"
+        },
+        {
+          "date": "2026-09-01T00:00:00Z"
+        }
+      ]
+    }
+  }
+}

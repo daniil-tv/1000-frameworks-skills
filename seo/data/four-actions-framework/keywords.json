@@ -1,0 +1,134 @@
+{
+  "page_id": "four-actions-framework",
+  "status": "complete",
+  "topic": "Four Actions Framework",
+  "primary_cluster": [
+    {
+      "keyword": "модель четырех действий",
+      "count": 187,
+      "sources": [
+        {
+          "seed": "модель четырех действий",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "модель четырех действий",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "four actions framework",
+      "count": 6,
+      "sources": [
+        {
+          "seed": "four actions framework",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "четыре действия голубой океан",
+      "count": 6,
+      "sources": [
+        {
+          "seed": "четыре действия голубой океан",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    }
+  ],
+  "secondary_clusters": {},
+  "questions": [],
+  "candidate_child_pages": [],
+  "possible_cannibalization": [],
+  "excluded": [
+    {
+      "phrase": "вариант 4",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "модель четырех действий"
+    },
+    {
+      "phrase": "ту 4",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "модель четырех действий"
+    },
+    {
+      "phrase": "четвертый вид",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "модель четырех действий"
+    },
+    {
+      "phrase": "осд 4",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "модель четырех действий"
+    },
+    {
+      "phrase": "феи все части по порядку",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "модель четырех действий"
+    },
+    {
+      "phrase": "все на 4",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "модель четырех действий"
+    },
+    {
+      "phrase": "4 ка",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "модель четырех действий"
+    },
+    {
+      "phrase": "4 в ряд",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "модель четырех действий"
+    },
+    {
+      "phrase": "этапы моделирования",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "модель четырех действий"
+    }
+  ],
+  "all_keywords": [
+    {
+      "keyword": "модель четырех действий",
+      "count": 187,
+      "sources": [
+        {
+          "seed": "модель четырех действий",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "модель четырех действий",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "four actions framework",
+      "count": 6,
+      "sources": [
+        {
+          "seed": "four actions framework",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "четыре действия голубой океан",
+      "count": 6,
+      "sources": [
+        {
+          "seed": "четыре действия голубой океан",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    }
+  ]
+}
