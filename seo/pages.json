@@ -155,6 +155,34 @@
         "opportunity solution tree шаблон",
         "continuous discovery opportunity solution tree"
       ]
+    },
+    {
+      "id": "strategy-canvas",
+      "title": "Strategy Canvas",
+      "url": "https://1000factors.ru/strategy/strategy-canvas/",
+      "locale": "ru-RU",
+      "seeds": [
+        "strategy canvas",
+        "стратегическая канва",
+        "канва стратегии",
+        "стратегическая канва пример",
+        "strategy canvas blue ocean",
+        "стратегическая канва голубой океан"
+      ]
+    },
+    {
+      "id": "four-actions-framework",
+      "title": "Four Actions Framework",
+      "url": "https://1000factors.ru/strategy/four-actions-framework/",
+      "locale": "ru-RU",
+      "seeds": [
+        "four actions framework",
+        "четыре действия голубой океан",
+        "модель четырех действий",
+        "eliminate reduce raise create",
+        "матрица четырех действий голубой океан",
+        "four actions framework пример"
+      ]
     }
   ]
 }
