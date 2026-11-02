@@ -1,0 +1,1689 @@
+{
+  "page_id": "porters-five-forces",
+  "status": "complete",
+  "topic": "Пять сил Портера",
+  "primary_cluster": [
+    {
+      "keyword": "porter",
+      "count": 42476,
+      "sources": [
+        {
+          "seed": "пять сил портера",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "персона 5",
+      "count": 42428,
+      "sources": [
+        {
+          "seed": "пять сил портера",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "конкор 5",
+      "count": 28334,
+      "sources": [
+        {
+          "seed": "пять конкурентных сил портера",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "форт 5",
+      "count": 25047,
+      "sources": [
+        {
+          "seed": "porter five forces",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "jackson 5",
+      "count": 8981,
+      "sources": [
+        {
+          "seed": "porter five forces",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "рокки 5",
+      "count": 6248,
+      "sources": [
+        {
+          "seed": "пять сил портера",
+          "kind": "associations"
+        },
+        {
+          "seed": "porter five forces",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "5 футов 5 дюймов в см",
+      "count": 5051,
+      "sources": [
+        {
+          "seed": "модель пяти сил портера",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "ад для одиночек 5",
+      "count": 4191,
+      "sources": [
+        {
+          "seed": "модель пяти сил портера",
+          "kind": "associations"
+        },
+        {
+          "seed": "модель портера конкуренция",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "оксид фосфора 5 формула",
+      "count": 4036,
+      "sources": [
+        {
+          "seed": "porter five forces",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "5 сил портера",
+      "count": 2801,
+      "sources": [
+        {
+          "seed": "5 сил портера",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "5 сил портера",
+          "kind": "results"
+        },
+        {
+          "seed": "porter five forces",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "уцц 5",
+      "count": 2478,
+      "sources": [
+        {
+          "seed": "porter five forces",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "вапорессо хрос 5",
+      "count": 2138,
+      "sources": [
+        {
+          "seed": "пять конкурентных сил портера",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "geometric future model 5",
+      "count": 2060,
+      "sources": [
+        {
+          "seed": "модель пяти сил портера",
+          "kind": "associations"
+        },
+        {
+          "seed": "модель портера конкуренция",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "джили ех 5 em i",
+      "count": 1920,
+      "sources": [
+        {
+          "seed": "porter five forces",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "пять сил портера",
+      "count": 1866,
+      "sources": [
+        {
+          "seed": "пять сил портера",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "пять сил портера",
+          "kind": "results"
+        },
+        {
+          "seed": "porter five forces",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "жаркое соперничество 5 серия",
+      "count": 1642,
+      "sources": [
+        {
+          "seed": "модель портера конкуренция",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "paisley porter",
+      "count": 1232,
+      "sources": [
+        {
+          "seed": "5 сил портера",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "терминатор 5 генезис",
+      "count": 1061,
+      "sources": [
+        {
+          "seed": "пять сил портера",
+          "kind": "associations"
+        },
+        {
+          "seed": "модель пяти сил портера",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "5 7 футов в см",
+      "count": 1036,
+      "sources": [
+        {
+          "seed": "модель пяти сил портера",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "6 футов 5 дюймов в см",
+      "count": 1034,
+      "sources": [
+        {
+          "seed": "модель пяти сил портера",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "модель пяти сил портера",
+      "count": 991,
+      "sources": [
+        {
+          "seed": "пять сил портера",
+          "kind": "results"
+        },
+        {
+          "seed": "модель пяти сил портера",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "модель пяти сил портера",
+          "kind": "results"
+        },
+        {
+          "seed": "porter five forces",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "анализ пяти сил портера",
+      "count": 860,
+      "sources": [
+        {
+          "seed": "пять сил портера",
+          "kind": "results"
+        },
+        {
+          "seed": "анализ пяти сил портера",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "анализ пяти сил портера",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "неоспоримый 5 дата выхода",
+      "count": 850,
+      "sources": [
+        {
+          "seed": "пять конкурентных сил портера",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "как включить хиро 5",
+      "count": 830,
+      "sources": [
+        {
+          "seed": "пять сил портера",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "net a porter",
+      "count": 798,
+      "sources": [
+        {
+          "seed": "пять сил портера",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "анализ 5 сил портера",
+      "count": 740,
+      "sources": [
+        {
+          "seed": "5 сил портера",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "марка итальянского грузовика кроссворд 5",
+      "count": 600,
+      "sources": [
+        {
+          "seed": "модель пяти сил портера",
+          "kind": "associations"
+        },
+        {
+          "seed": "модель портера конкуренция",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "5 футов 10 дюймов в см",
+      "count": 578,
+      "sources": [
+        {
+          "seed": "модель пяти сил портера",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "character creator 5",
+      "count": 564,
+      "sources": [
+        {
+          "seed": "пять сил портера",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "регулятор скорости sty 1 5",
+      "count": 560,
+      "sources": [
+        {
+          "seed": "пять сил портера",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    }
+  ],
+  "secondary_clusters": {
+    "informational_question": [
+      {
+        "keyword": "как включить хиро 5",
+        "count": 830,
+        "sources": [
+          {
+            "seed": "пять сил портера",
+            "kind": "associations"
+          }
+        ],
+        "intent": "informational_question"
+      },
+      {
+        "keyword": "что анализирует модель пяти сил портера",
+        "count": 20,
+        "sources": [
+          {
+            "seed": "пять сил портера",
+            "kind": "results"
+          },
+          {
+            "seed": "модель пяти сил портера",
+            "kind": "results"
+          }
+        ],
+        "intent": "informational_question"
+      },
+      {
+        "keyword": "5 сил портера как провести анализ",
+        "count": 12,
+        "sources": [
+          {
+            "seed": "5 сил портера",
+            "kind": "results"
+          }
+        ],
+        "intent": "informational_question"
+      }
+    ],
+    "practical": [
+      {
+        "keyword": "ретри паладин 3.3 5 пве гайд сирус",
+        "count": 183,
+        "sources": [
+          {
+            "seed": "пять сил портера",
+            "kind": "associations"
+          }
+        ],
+        "intent": "practical"
+      },
+      {
+        "keyword": "ретро пал пве 3.3 5 гайд сирус",
+        "count": 100,
+        "sources": [
+          {
+            "seed": "пять конкурентных сил портера",
+            "kind": "associations"
+          }
+        ],
+        "intent": "practical"
+      },
+      {
+        "keyword": "5 сил портера пример",
+        "count": 91,
+        "sources": [
+          {
+            "seed": "5 сил портера",
+            "kind": "results"
+          }
+        ],
+        "intent": "practical"
+      },
+      {
+        "keyword": "5 сил портера пример анализа",
+        "count": 50,
+        "sources": [
+          {
+            "seed": "5 сил портера",
+            "kind": "results"
+          }
+        ],
+        "intent": "practical"
+      },
+      {
+        "keyword": "пять сил портера пример",
+        "count": 30,
+        "sources": [
+          {
+            "seed": "пять сил портера пример",
+            "kind": "seed_total"
+          }
+        ],
+        "intent": "practical"
+      }
+    ]
+  },
+  "questions": [
+    {
+      "keyword": "как включить хиро 5",
+      "count": 830,
+      "sources": [
+        {
+          "seed": "пять сил портера",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "что анализирует модель пяти сил портера",
+      "count": 20,
+      "sources": [
+        {
+          "seed": "пять сил портера",
+          "kind": "results"
+        },
+        {
+          "seed": "модель пяти сил портера",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "5 сил портера как провести анализ",
+      "count": 12,
+      "sources": [
+        {
+          "seed": "5 сил портера",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational_question"
+    }
+  ],
+  "candidate_child_pages": [],
+  "possible_cannibalization": [],
+  "excluded": [
+    {
+      "phrase": "силачка кан нам сун",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "пять сил портера"
+    },
+    {
+      "phrase": "кирка тысячи атрибутов",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "пять сил портера"
+    },
+    {
+      "phrase": "кружочки паши сникерса и тати",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "5 сил портера"
+    },
+    {
+      "phrase": "кирка тысячи атрибутов",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "5 сил портера"
+    },
+    {
+      "phrase": "изобилие под песчаными дюнами 2 геншин",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "5 сил портера"
+    },
+    {
+      "phrase": "паша сникерс и тати кружочки кхм",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "5 сил портера"
+    },
+    {
+      "phrase": "изобилие под песчаными дюнами 2",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "5 сил портера"
+    },
+    {
+      "phrase": "allpowers r1500",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "5 сил портера"
+    },
+    {
+      "phrase": "силачка кан нам сун актеры",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "5 сил портера"
+    },
+    {
+      "phrase": "venom power terra hunter",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "5 сил портера"
+    },
+    {
+      "phrase": "ла лига таблица 2025 2026",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "модель пяти сил портера"
+    },
+    {
+      "phrase": "счастливые девочки не умирают 2022",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "модель пяти сил портера"
+    },
+    {
+      "phrase": "средняя кинетическая энергия молекул формула",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "анализ пяти сил портера"
+    },
+    {
+      "phrase": "формула средней кинетической энергии",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "анализ пяти сил портера"
+    },
+    {
+      "phrase": "ст 1005 гк рф агентский договор",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "пять конкурентных сил портера"
+    },
+    {
+      "phrase": "far far west freetp",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "porter five forces"
+    },
+    {
+      "phrase": "nero s day at disneyland",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "porter five forces"
+    },
+    {
+      "phrase": "минифорс ви рейнджеры",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "porter five forces"
+    },
+    {
+      "phrase": "valor mortis дата выхода",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "porter five forces"
+    },
+    {
+      "phrase": "невыносимая тяжесть огромного таланта фильм 2022",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "модель портера конкуренция"
+    },
+    {
+      "phrase": "ла лига таблица 2025 2026",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "модель портера конкуренция"
+    },
+    {
+      "phrase": "силачка кан нам сун",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "модель портера конкуренция"
+    },
+    {
+      "phrase": "уровень симпатии марики ненормально высокий",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "модель портера конкуренция"
+    },
+    {
+      "phrase": "она носит шанель и селин миксует бренды",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "модель портера конкуренция"
+    },
+    {
+      "phrase": "янги узбек кинолари 2026",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "модель портера конкуренция"
+    }
+  ],
+  "all_keywords": [
+    {
+      "keyword": "porter",
+      "count": 42476,
+      "sources": [
+        {
+          "seed": "пять сил портера",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "персона 5",
+      "count": 42428,
+      "sources": [
+        {
+          "seed": "пять сил портера",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "конкор 5",
+      "count": 28334,
+      "sources": [
+        {
+          "seed": "пять конкурентных сил портера",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "форт 5",
+      "count": 25047,
+      "sources": [
+        {
+          "seed": "porter five forces",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "jackson 5",
+      "count": 8981,
+      "sources": [
+        {
+          "seed": "porter five forces",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "рокки 5",
+      "count": 6248,
+      "sources": [
+        {
+          "seed": "пять сил портера",
+          "kind": "associations"
+        },
+        {
+          "seed": "porter five forces",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "5 футов 5 дюймов в см",
+      "count": 5051,
+      "sources": [
+        {
+          "seed": "модель пяти сил портера",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "ад для одиночек 5",
+      "count": 4191,
+      "sources": [
+        {
+          "seed": "модель пяти сил портера",
+          "kind": "associations"
+        },
+        {
+          "seed": "модель портера конкуренция",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "оксид фосфора 5 формула",
+      "count": 4036,
+      "sources": [
+        {
+          "seed": "porter five forces",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "5 сил портера",
+      "count": 2801,
+      "sources": [
+        {
+          "seed": "5 сил портера",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "5 сил портера",
+          "kind": "results"
+        },
+        {
+          "seed": "porter five forces",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "уцц 5",
+      "count": 2478,
+      "sources": [
+        {
+          "seed": "porter five forces",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "вапорессо хрос 5",
+      "count": 2138,
+      "sources": [
+        {
+          "seed": "пять конкурентных сил портера",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "geometric future model 5",
+      "count": 2060,
+      "sources": [
+        {
+          "seed": "модель пяти сил портера",
+          "kind": "associations"
+        },
+        {
+          "seed": "модель портера конкуренция",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "джили ех 5 em i",
+      "count": 1920,
+      "sources": [
+        {
+          "seed": "porter five forces",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "пять сил портера",
+      "count": 1866,
+      "sources": [
+        {
+          "seed": "пять сил портера",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "пять сил портера",
+          "kind": "results"
+        },
+        {
+          "seed": "porter five forces",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "жаркое соперничество 5 серия",
+      "count": 1642,
+      "sources": [
+        {
+          "seed": "модель портера конкуренция",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "paisley porter",
+      "count": 1232,
+      "sources": [
+        {
+          "seed": "5 сил портера",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "терминатор 5 генезис",
+      "count": 1061,
+      "sources": [
+        {
+          "seed": "пять сил портера",
+          "kind": "associations"
+        },
+        {
+          "seed": "модель пяти сил портера",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "5 7 футов в см",
+      "count": 1036,
+      "sources": [
+        {
+          "seed": "модель пяти сил портера",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "6 футов 5 дюймов в см",
+      "count": 1034,
+      "sources": [
+        {
+          "seed": "модель пяти сил портера",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "модель пяти сил портера",
+      "count": 991,
+      "sources": [
+        {
+          "seed": "пять сил портера",
+          "kind": "results"
+        },
+        {
+          "seed": "модель пяти сил портера",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "модель пяти сил портера",
+          "kind": "results"
+        },
+        {
+          "seed": "porter five forces",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "анализ пяти сил портера",
+      "count": 860,
+      "sources": [
+        {
+          "seed": "пять сил портера",
+          "kind": "results"
+        },
+        {
+          "seed": "анализ пяти сил портера",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "анализ пяти сил портера",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "неоспоримый 5 дата выхода",
+      "count": 850,
+      "sources": [
+        {
+          "seed": "пять конкурентных сил портера",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "как включить хиро 5",
+      "count": 830,
+      "sources": [
+        {
+          "seed": "пять сил портера",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "net a porter",
+      "count": 798,
+      "sources": [
+        {
+          "seed": "пять сил портера",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "анализ 5 сил портера",
+      "count": 740,
+      "sources": [
+        {
+          "seed": "5 сил портера",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "марка итальянского грузовика кроссворд 5",
+      "count": 600,
+      "sources": [
+        {
+          "seed": "модель пяти сил портера",
+          "kind": "associations"
+        },
+        {
+          "seed": "модель портера конкуренция",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "5 футов 10 дюймов в см",
+      "count": 578,
+      "sources": [
+        {
+          "seed": "модель пяти сил портера",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "character creator 5",
+      "count": 564,
+      "sources": [
+        {
+          "seed": "пять сил портера",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "регулятор скорости sty 1 5",
+      "count": 560,
+      "sources": [
+        {
+          "seed": "пять сил портера",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "модель 5 сил портера",
+      "count": 497,
+      "sources": [
+        {
+          "seed": "5 сил портера",
+          "kind": "results"
+        },
+        {
+          "seed": "porter five forces",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "компьютерное тестирование мцко 5 класс",
+      "count": 470,
+      "sources": [
+        {
+          "seed": "анализ пяти сил портера",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "спартак севилья 5 1",
+      "count": 425,
+      "sources": [
+        {
+          "seed": "анализ пяти сил портера",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "народ полинезии 5 букв",
+      "count": 413,
+      "sources": [
+        {
+          "seed": "пять сил портера",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "5 футов 7 дюймов в см",
+      "count": 410,
+      "sources": [
+        {
+          "seed": "модель пяти сил портера",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "счастье большой путинковский пер 5 меню",
+      "count": 366,
+      "sources": [
+        {
+          "seed": "пять сил портера",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "nike pegasus trail 5 gore tex",
+      "count": 359,
+      "sources": [
+        {
+          "seed": "пять конкурентных сил портера",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "конкор ам 5 мг 5 мг",
+      "count": 346,
+      "sources": [
+        {
+          "seed": "пять конкурентных сил портера",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "модель портера конкуренция",
+      "count": 344,
+      "sources": [
+        {
+          "seed": "модель портера конкуренция",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "5 футов 9 дюймов в см",
+      "count": 323,
+      "sources": [
+        {
+          "seed": "модель пяти сил портера",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "5 футов 6 дюймов в сантиметрах",
+      "count": 310,
+      "sources": [
+        {
+          "seed": "пять сил портера",
+          "kind": "associations"
+        },
+        {
+          "seed": "модель пяти сил портера",
+          "kind": "associations"
+        },
+        {
+          "seed": "модель портера конкуренция",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "5 сил портера это",
+      "count": 291,
+      "sources": [
+        {
+          "seed": "porter five forces",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "5 сил конкуренции портера",
+      "count": 274,
+      "sources": [
+        {
+          "seed": "5 сил портера",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "пять конкурентных сил портера",
+      "count": 212,
+      "sources": [
+        {
+          "seed": "пять сил портера",
+          "kind": "results"
+        },
+        {
+          "seed": "пять конкурентных сил портера",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "пять конкурентных сил портера",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "модель пяти сил конкуренции портера",
+      "count": 194,
+      "sources": [
+        {
+          "seed": "пять сил портера",
+          "kind": "results"
+        },
+        {
+          "seed": "модель пяти сил портера",
+          "kind": "results"
+        },
+        {
+          "seed": "модель портера конкуренция",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "ретри паладин 3.3 5 пве гайд сирус",
+      "count": 183,
+      "sources": [
+        {
+          "seed": "пять сил портера",
+          "kind": "associations"
+        }
+      ],
+      "intent": "practical"
+    },
+    {
+      "keyword": "hsk 5 пробные тесты",
+      "count": 176,
+      "sources": [
+        {
+          "seed": "анализ пяти сил портера",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "5 конкурентных сил портера",
+      "count": 161,
+      "sources": [
+        {
+          "seed": "5 сил портера",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "устав оон глава 5 статья 23",
+      "count": 154,
+      "sources": [
+        {
+          "seed": "анализ пяти сил портера",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "pickalbatros sands port ghalib 5",
+      "count": 149,
+      "sources": [
+        {
+          "seed": "анализ пяти сил портера",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "модель пяти сил м портера",
+      "count": 140,
+      "sources": [
+        {
+          "seed": "пять сил портера",
+          "kind": "results"
+        },
+        {
+          "seed": "модель пяти сил портера",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "porter yoshida co",
+      "count": 134,
+      "sources": [
+        {
+          "seed": "пять сил портера",
+          "kind": "associations"
+        },
+        {
+          "seed": "5 сил портера",
+          "kind": "associations"
+        },
+        {
+          "seed": "анализ пяти сил портера",
+          "kind": "associations"
+        },
+        {
+          "seed": "пять конкурентных сил портера",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "пять сил майкла портера",
+      "count": 123,
+      "sources": [
+        {
+          "seed": "пять сил портера",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "ретро пал пве 3.3 5 гайд сирус",
+      "count": 100,
+      "sources": [
+        {
+          "seed": "пять конкурентных сил портера",
+          "kind": "associations"
+        }
+      ],
+      "intent": "practical"
+    },
+    {
+      "keyword": "5 сил м портера",
+      "count": 98,
+      "sources": [
+        {
+          "seed": "5 сил портера",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "5 сил майкла портера",
+      "count": 97,
+      "sources": [
+        {
+          "seed": "5 сил портера",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "5 сил портера пример",
+      "count": 91,
+      "sources": [
+        {
+          "seed": "5 сил портера",
+          "kind": "results"
+        }
+      ],
+      "intent": "practical"
+    },
+    {
+      "keyword": "модель пяти сил майкла портера",
+      "count": 69,
+      "sources": [
+        {
+          "seed": "пять сил портера",
+          "kind": "results"
+        },
+        {
+          "seed": "модель пяти сил портера",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "анализ 5 конкурентных сил портера",
+      "count": 68,
+      "sources": [
+        {
+          "seed": "5 сил портера",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "союз 5 ракета носитель характеристики",
+      "count": 68,
+      "sources": [
+        {
+          "seed": "пять сил портера",
+          "kind": "associations"
+        },
+        {
+          "seed": "модель пяти сил портера",
+          "kind": "associations"
+        },
+        {
+          "seed": "модель портера конкуренция",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "прокачка горного дела 3.3 5 за альянс",
+      "count": 60,
+      "sources": [
+        {
+          "seed": "пять конкурентных сил портера",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "пять сил конкуренции по портеру",
+      "count": 56,
+      "sources": [
+        {
+          "seed": "пять сил портера",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "5 сил портера пример анализа",
+      "count": 50,
+      "sources": [
+        {
+          "seed": "5 сил портера",
+          "kind": "results"
+        }
+      ],
+      "intent": "practical"
+    },
+    {
+      "keyword": "porter five forces",
+      "count": 50,
+      "sources": [
+        {
+          "seed": "porter five forces",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "porter five forces",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "модель пяти сил конкуренции м портера",
+      "count": 50,
+      "sources": [
+        {
+          "seed": "пять сил портера",
+          "kind": "results"
+        },
+        {
+          "seed": "модель пяти сил портера",
+          "kind": "results"
+        },
+        {
+          "seed": "модель портера конкуренция",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "модель пяти конкурентных сил м портера",
+      "count": 49,
+      "sources": [
+        {
+          "seed": "пять сил портера",
+          "kind": "results"
+        },
+        {
+          "seed": "модель пяти сил портера",
+          "kind": "results"
+        },
+        {
+          "seed": "пять конкурентных сил портера",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "5 сил портера таблица",
+      "count": 40,
+      "sources": [
+        {
+          "seed": "5 сил портера",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "5 сил портера это простыми словами",
+      "count": 35,
+      "sources": [
+        {
+          "seed": "5 сил портера",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "porter s five forces",
+      "count": 34,
+      "sources": [
+        {
+          "seed": "porter five forces",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "пять сил портера пример",
+      "count": 30,
+      "sources": [
+        {
+          "seed": "пять сил портера пример",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "practical"
+    },
+    {
+      "keyword": "модель 5 сил портера используется для анализа",
+      "count": 29,
+      "sources": [
+        {
+          "seed": "5 сил портера",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "пять сил портера это метод анализа",
+      "count": 23,
+      "sources": [
+        {
+          "seed": "пять сил портера",
+          "kind": "results"
+        },
+        {
+          "seed": "анализ пяти сил портера",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "что анализирует модель пяти сил портера",
+      "count": 20,
+      "sources": [
+        {
+          "seed": "пять сил портера",
+          "kind": "results"
+        },
+        {
+          "seed": "модель пяти сил портера",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "5 конкурентных сил майкла портера",
+      "count": 18,
+      "sources": [
+        {
+          "seed": "5 сил портера",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "майкл портер 5 сил конкуренции",
+      "count": 18,
+      "sources": [
+        {
+          "seed": "5 сил портера",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "модель пяти конкурентных сил майкла портера",
+      "count": 16,
+      "sources": [
+        {
+          "seed": "пять сил портера",
+          "kind": "results"
+        },
+        {
+          "seed": "модель пяти сил портера",
+          "kind": "results"
+        },
+        {
+          "seed": "пять конкурентных сил портера",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "5 сил портера как провести анализ",
+      "count": 12,
+      "sources": [
+        {
+          "seed": "5 сил портера",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "метод пять сил майкла портера",
+      "count": 8,
+      "sources": [
+        {
+          "seed": "пять сил портера",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "5 сил портера таблица для гостиниц",
+      "count": 7,
+      "sources": [
+        {
+          "seed": "5 сил портера",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "5 сил портера видео",
+      "count": 4,
+      "sources": [
+        {
+          "seed": "5 сил портера",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    }
+  ]
+}
