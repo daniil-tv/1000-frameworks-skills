@@ -15,6 +15,17 @@
       "intent": "informational"
     },
     {
+      "keyword": "карта работы клиента",
+      "count": 1102,
+      "sources": [
+        {
+          "seed": "карта работы клиента",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
       "keyword": "желаемые результаты клиента",
       "count": 411,
       "sources": [
@@ -26,33 +37,33 @@
       "intent": "informational"
     },
     {
-      "keyword": "desired outcomes",
-      "count": 58,
+      "keyword": "инновации на основе результатов",
+      "count": 59,
       "sources": [
         {
-          "seed": "desired outcomes",
+          "seed": "инновации на основе результатов",
           "kind": "seed_total"
         }
       ],
       "intent": "informational"
     },
     {
-      "keyword": "customer job map",
-      "count": 12,
+      "keyword": "измеримые результаты клиента",
+      "count": 41,
       "sources": [
         {
-          "seed": "customer job map",
+          "seed": "измеримые результаты клиента",
           "kind": "seed_total"
         }
       ],
       "intent": "informational"
     },
     {
-      "keyword": "outcome driven innovation",
-      "count": 9,
+      "keyword": "неудовлетворенные потребности клиентов",
+      "count": 24,
       "sources": [
         {
-          "seed": "outcome driven innovation",
+          "seed": "неудовлетворенные потребности клиентов",
           "kind": "seed_total"
         }
       ],
@@ -77,6 +88,17 @@
       "intent": "informational"
     },
     {
+      "keyword": "карта работы клиента",
+      "count": 1102,
+      "sources": [
+        {
+          "seed": "карта работы клиента",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
       "keyword": "желаемые результаты клиента",
       "count": 411,
       "sources": [
@@ -88,33 +110,33 @@
       "intent": "informational"
     },
     {
-      "keyword": "desired outcomes",
-      "count": 58,
+      "keyword": "инновации на основе результатов",
+      "count": 59,
       "sources": [
         {
-          "seed": "desired outcomes",
+          "seed": "инновации на основе результатов",
           "kind": "seed_total"
         }
       ],
       "intent": "informational"
     },
     {
-      "keyword": "customer job map",
-      "count": 12,
+      "keyword": "измеримые результаты клиента",
+      "count": 41,
       "sources": [
         {
-          "seed": "customer job map",
+          "seed": "измеримые результаты клиента",
           "kind": "seed_total"
         }
       ],
       "intent": "informational"
     },
     {
-      "keyword": "outcome driven innovation",
-      "count": 9,
+      "keyword": "неудовлетворенные потребности клиентов",
+      "count": 24,
       "sources": [
         {
-          "seed": "outcome driven innovation",
+          "seed": "неудовлетворенные потребности клиентов",
           "kind": "seed_total"
         }
       ],
