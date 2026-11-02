@@ -31,6 +31,35 @@ def pages() -> dict[str, dict]:
     return result
 
 
+def request_seeds(path: str | None) -> list[str]:
+    if not path:
+        return []
+    source = Path(path)
+    if not source.exists():
+        return []
+    result = []
+    in_seeds = False
+    for raw in source.read_text(encoding="utf-8").splitlines():
+        line = raw.strip()
+        if line.lower() == "seeds:":
+            in_seeds = True
+            continue
+        if not in_seeds:
+            continue
+        if not line:
+            continue
+        if not line.startswith("- "):
+            break
+        phrase = line[2:].strip()
+        if phrase:
+            result.append(phrase)
+    if result and not 1 <= len(result) <= 8:
+        raise ValueError("A semantics request needs 1–8 seeds")
+    if any(len(seed) > 400 or "\n" in seed or "\r" in seed for seed in result):
+        raise ValueError("Invalid seed in semantics request")
+    return result
+
+
 def run(page: dict, region: str) -> dict:
     page_id = page["id"]
     output = ROOT / "seo/data" / page_id
@@ -61,12 +90,17 @@ def main() -> None:
     parser = argparse.ArgumentParser(description="Collect semantics using local 1000 Frameworks modules")
     parser.add_argument("--page", required=True, help="Page ID from seo/pages.json")
     parser.add_argument("--region", default="225", help="Numeric Wordstat region; empty for all regions")
+    parser.add_argument("--request-file", help="Issue or dispatch body with an optional seeds: list")
     args = parser.parse_args()
     if args.region and not re.fullmatch(r"\d+", args.region):
         parser.error("Region must be numeric")
     registry = pages()
     if args.page not in registry:
         parser.error("Unknown page ID")
+    page = dict(registry[args.page])
+    override = request_seeds(args.request_file)
+    if override:
+        page["seeds"] = override
     os.environ["YANDEX_WORDSTAT_REGIONS"] = args.region
     if WordstatConfig.from_env().missing():
         parser.error("GitHub Actions secrets YANDEX_CLOUD_API_KEY and YANDEX_CLOUD_FOLDER_ID are required")
@@ -79,7 +113,7 @@ def main() -> None:
     if any(ord(char) < 33 or ord(char) > 126 for char in key):
         parser.error("YANDEX_CLOUD_API_KEY contains unsupported characters; save only the key value")
     try:
-        result = run(registry[args.page], args.region)
+        result = run(page, args.region)
     except (WordstatError, ValueError) as exc:
         # The unchanged connector includes API response details in exceptions.
         # Report only the HTTP status, never the response body or credentials.
