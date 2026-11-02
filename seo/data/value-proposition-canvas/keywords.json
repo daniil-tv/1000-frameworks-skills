@@ -1,0 +1,762 @@
+{
+  "page_id": "value-proposition-canvas",
+  "status": "complete",
+  "topic": "Value Proposition Canvas",
+  "primary_cluster": [
+    {
+      "keyword": "предложение это",
+      "count": 2500437,
+      "sources": [
+        {
+          "seed": "канва ценностного предложения",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "к примеру",
+      "count": 808785,
+      "sources": [
+        {
+          "seed": "шаблон ценностного предложения",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "сложное предложение это",
+      "count": 133376,
+      "sources": [
+        {
+          "seed": "канва ценностного предложения",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "односоставные предложения виды",
+      "count": 51152,
+      "sources": [
+        {
+          "seed": "канва ценностного предложения",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "односоставное предложение это",
+      "count": 20857,
+      "sources": [
+        {
+          "seed": "канва ценностного предложения",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "примеры до 100",
+      "count": 6576,
+      "sources": [
+        {
+          "seed": "шаблон ценностного предложения",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "градация примеры",
+      "count": 4558,
+      "sources": [
+        {
+          "seed": "шаблон ценностного предложения",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "ямб пример",
+      "count": 2901,
+      "sources": [
+        {
+          "seed": "шаблон ценностного предложения",
+          "kind": "associations"
+        }
+      ],
+      "intent": "practical"
+    },
+    {
+      "keyword": "паронимы это простыми словами с примерами",
+      "count": 234,
+      "sources": [
+        {
+          "seed": "шаблон ценностного предложения",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "value proposition canvas",
+      "count": 211,
+      "sources": [
+        {
+          "seed": "value proposition canvas",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "value proposition canvas",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "шаблон ценностного предложения",
+      "count": 184,
+      "sources": [
+        {
+          "seed": "шаблон ценностного предложения",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "шаблон ценностного предложения",
+          "kind": "results"
+        }
+      ],
+      "intent": "practical"
+    },
+    {
+      "keyword": "канва ценностного предложения",
+      "count": 138,
+      "sources": [
+        {
+          "seed": "канва ценностного предложения",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "канва ценностного предложения",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "суммпроизв в excel примеры с условиями",
+      "count": 135,
+      "sources": [
+        {
+          "seed": "шаблон ценностного предложения",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "карта ценностного предложения",
+      "count": 91,
+      "sources": [
+        {
+          "seed": "карта ценностного предложения",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "карта ценностного предложения",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "шаблон ценностного предложения остервальдера",
+      "count": 55,
+      "sources": [
+        {
+          "seed": "шаблон ценностного предложения",
+          "kind": "results"
+        }
+      ],
+      "intent": "practical"
+    },
+    {
+      "keyword": "модель ценностного предложения остервальдера",
+      "count": 51,
+      "sources": [
+        {
+          "seed": "модель ценностного предложения остервальдера",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "канва ценностного предложения шаблон",
+      "count": 15,
+      "sources": [
+        {
+          "seed": "канва ценностного предложения",
+          "kind": "results"
+        },
+        {
+          "seed": "шаблон ценностного предложения",
+          "kind": "results"
+        }
+      ],
+      "intent": "practical"
+    },
+    {
+      "keyword": "value proposition canvas пример",
+      "count": 3,
+      "sources": [
+        {
+          "seed": "value proposition canvas пример",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "practical"
+    }
+  ],
+  "secondary_clusters": {
+    "practical": [
+      {
+        "keyword": "ямб пример",
+        "count": 2901,
+        "sources": [
+          {
+            "seed": "шаблон ценностного предложения",
+            "kind": "associations"
+          }
+        ],
+        "intent": "practical"
+      },
+      {
+        "keyword": "шаблон ценностного предложения",
+        "count": 184,
+        "sources": [
+          {
+            "seed": "шаблон ценностного предложения",
+            "kind": "seed_total"
+          },
+          {
+            "seed": "шаблон ценностного предложения",
+            "kind": "results"
+          }
+        ],
+        "intent": "practical"
+      },
+      {
+        "keyword": "шаблон ценностного предложения остервальдера",
+        "count": 55,
+        "sources": [
+          {
+            "seed": "шаблон ценностного предложения",
+            "kind": "results"
+          }
+        ],
+        "intent": "practical"
+      },
+      {
+        "keyword": "канва ценностного предложения шаблон",
+        "count": 15,
+        "sources": [
+          {
+            "seed": "канва ценностного предложения",
+            "kind": "results"
+          },
+          {
+            "seed": "шаблон ценностного предложения",
+            "kind": "results"
+          }
+        ],
+        "intent": "practical"
+      },
+      {
+        "keyword": "value proposition canvas пример",
+        "count": 3,
+        "sources": [
+          {
+            "seed": "value proposition canvas пример",
+            "kind": "seed_total"
+          }
+        ],
+        "intent": "practical"
+      }
+    ]
+  },
+  "questions": [],
+  "candidate_child_pages": [],
+  "possible_cannibalization": [],
+  "excluded": [
+    {
+      "phrase": "канвас",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "value proposition canvas"
+    },
+    {
+      "phrase": "напроксен от чего помогает простыми словами",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "value proposition canvas"
+    },
+    {
+      "phrase": "канвас что это за материал",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "value proposition canvas"
+    },
+    {
+      "phrase": "the precinct",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "value proposition canvas"
+    },
+    {
+      "phrase": "prepositions of place",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "value proposition canvas"
+    },
+    {
+      "phrase": "канвас что это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "value proposition canvas"
+    },
+    {
+      "phrase": "випассана это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "value proposition canvas"
+    },
+    {
+      "phrase": "скала это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "value proposition canvas"
+    },
+    {
+      "phrase": "канвас это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "value proposition canvas"
+    },
+    {
+      "phrase": "привидение как пишется",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "value proposition canvas"
+    },
+    {
+      "phrase": "mzlff pyrokinesis оставь себе",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "value proposition canvas"
+    },
+    {
+      "phrase": "метотрексата что это простыми словами",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "value proposition canvas"
+    },
+    {
+      "phrase": "ностальгирующий критик",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "value proposition canvas"
+    },
+    {
+      "phrase": "defining and non defining relative clauses",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "value proposition canvas"
+    },
+    {
+      "phrase": "виды односоставных предложений",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "канва ценностного предложения"
+    },
+    {
+      "phrase": "ценообразование это простыми словами",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "канва ценностного предложения"
+    },
+    {
+      "phrase": "париж любой ценой",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "канва ценностного предложения"
+    },
+    {
+      "phrase": "цент это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "канва ценностного предложения"
+    },
+    {
+      "phrase": "себестоимость продаж это простыми словами",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "канва ценностного предложения"
+    },
+    {
+      "phrase": "казначейские акции это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "канва ценностного предложения"
+    },
+    {
+      "phrase": "котировальный список акций это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "канва ценностного предложения"
+    },
+    {
+      "phrase": "чем отличается цена от стоимости простыми словами",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "канва ценностного предложения"
+    },
+    {
+      "phrase": "продать кейсы кс2 где выгоднее",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "канва ценностного предложения"
+    },
+    {
+      "phrase": "образец титульного листа проекта",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "шаблон ценностного предложения"
+    },
+    {
+      "phrase": "образец титульного листа",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "шаблон ценностного предложения"
+    },
+    {
+      "phrase": "как должен выглядеть титульный лист проекта",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "шаблон ценностного предложения"
+    },
+    {
+      "phrase": "образец проекта",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "шаблон ценностного предложения"
+    },
+    {
+      "phrase": "письмо запрос образец",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "шаблон ценностного предложения"
+    },
+    {
+      "phrase": "образец объявления",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "шаблон ценностного предложения"
+    },
+    {
+      "phrase": "как должен выглядеть титульный лист в презентации",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "шаблон ценностного предложения"
+    },
+    {
+      "phrase": "титульник проекта образец",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "шаблон ценностного предложения"
+    },
+    {
+      "phrase": "maps me",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "карта ценностного предложения"
+    },
+    {
+      "phrase": "karta",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "карта ценностного предложения"
+    },
+    {
+      "phrase": "какие бывают ценности",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "карта ценностного предложения"
+    },
+    {
+      "phrase": "картм",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "карта ценностного предложения"
+    },
+    {
+      "phrase": "карточка организации это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "карта ценностного предложения"
+    },
+    {
+      "phrase": "карточки ком",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "карта ценностного предложения"
+    },
+    {
+      "phrase": "я картв",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "карта ценностного предложения"
+    },
+    {
+      "phrase": "na karte me",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "карта ценностного предложения"
+    },
+    {
+      "phrase": "что такое карточка организации",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "карта ценностного предложения"
+    },
+    {
+      "phrase": "карточка организации это что такое",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "карта ценностного предложения"
+    },
+    {
+      "phrase": "приходящие ценности",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "карта ценностного предложения"
+    },
+    {
+      "phrase": "ценник это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "карта ценностного предложения"
+    },
+    {
+      "phrase": "l card",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "карта ценностного предложения"
+    },
+    {
+      "phrase": "o maps",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "карта ценностного предложения"
+    },
+    {
+      "phrase": "поквартирная карточка что это такое",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "карта ценностного предложения"
+    },
+    {
+      "phrase": "картых",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "карта ценностного предложения"
+    },
+    {
+      "phrase": "картахена где это находится",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "карта ценностного предложения"
+    },
+    {
+      "phrase": "картыя",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "карта ценностного предложения"
+    }
+  ],
+  "all_keywords": [
+    {
+      "keyword": "предложение это",
+      "count": 2500437,
+      "sources": [
+        {
+          "seed": "канва ценностного предложения",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "к примеру",
+      "count": 808785,
+      "sources": [
+        {
+          "seed": "шаблон ценностного предложения",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "сложное предложение это",
+      "count": 133376,
+      "sources": [
+        {
+          "seed": "канва ценностного предложения",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "односоставные предложения виды",
+      "count": 51152,
+      "sources": [
+        {
+          "seed": "канва ценностного предложения",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "односоставное предложение это",
+      "count": 20857,
+      "sources": [
+        {
+          "seed": "канва ценностного предложения",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "примеры до 100",
+      "count": 6576,
+      "sources": [
+        {
+          "seed": "шаблон ценностного предложения",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "градация примеры",
+      "count": 4558,
+      "sources": [
+        {
+          "seed": "шаблон ценностного предложения",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "ямб пример",
+      "count": 2901,
+      "sources": [
+        {
+          "seed": "шаблон ценностного предложения",
+          "kind": "associations"
+        }
+      ],
+      "intent": "practical"
+    },
+    {
+      "keyword": "паронимы это простыми словами с примерами",
+      "count": 234,
+      "sources": [
+        {
+          "seed": "шаблон ценностного предложения",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "value proposition canvas",
+      "count": 211,
+      "sources": [
+        {
+          "seed": "value proposition canvas",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "value proposition canvas",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "шаблон ценностного предложения",
+      "count": 184,
+      "sources": [
+        {
+          "seed": "шаблон ценностного предложения",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "шаблон ценностного предложения",
+          "kind": "results"
+        }
+      ],
+      "intent": "practical"
+    },
+    {
+      "keyword": "канва ценностного предложения",
+      "count": 138,
+      "sources": [
+        {
+          "seed": "канва ценностного предложения",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "канва ценностного предложения",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "суммпроизв в excel примеры с условиями",
+      "count": 135,
+      "sources": [
+        {
+          "seed": "шаблон ценностного предложения",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "карта ценностного предложения",
+      "count": 91,
+      "sources": [
+        {
+          "seed": "карта ценностного предложения",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "карта ценностного предложения",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "шаблон ценностного предложения остервальдера",
+      "count": 55,
+      "sources": [
+        {
+          "seed": "шаблон ценностного предложения",
+          "kind": "results"
+        }
+      ],
+      "intent": "practical"
+    },
+    {
+      "keyword": "модель ценностного предложения остервальдера",
+      "count": 51,
+      "sources": [
+        {
+          "seed": "модель ценностного предложения остервальдера",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "канва ценностного предложения шаблон",
+      "count": 15,
+      "sources": [
+        {
+          "seed": "канва ценностного предложения",
+          "kind": "results"
+        },
+        {
+          "seed": "шаблон ценностного предложения",
+          "kind": "results"
+        }
+      ],
+      "intent": "practical"
+    },
+    {
+      "keyword": "value proposition canvas пример",
+      "count": 3,
+      "sources": [
+        {
+          "seed": "value proposition canvas пример",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "practical"
+    }
+  ]
+}
