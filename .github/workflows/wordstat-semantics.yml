@@ -13,6 +13,10 @@ on:
         required: false
         default: "225"
         type: string
+      seeds:
+        description: Optional override; one "- phrase" per line
+        required: false
+        type: string
   issues:
     types: [opened]
 
@@ -46,6 +50,7 @@ jobs:
           EVENT_NAME: ${{ github.event_name }}
           INPUT_PAGE_ID: ${{ inputs.page_id }}
           INPUT_REGION: ${{ inputs.region }}
+          INPUT_SEEDS: ${{ inputs.seeds }}
           ISSUE_TITLE: ${{ github.event.issue.title }}
           ISSUE_BODY: ${{ github.event.issue.body }}
         run: |
@@ -65,8 +70,20 @@ jobs:
             echo "Invalid region ID."
             exit 2
           fi
+          REQUEST_FILE="$RUNNER_TEMP/semantics-request.txt"
+          if [ "$EVENT_NAME" = "workflow_dispatch" ] && [ -n "$INPUT_SEEDS" ]; then
+            {
+              printf '%s\n' "seeds:"
+              printf '%s\n' "$INPUT_SEEDS"
+            } > "$REQUEST_FILE"
+          elif [ "$EVENT_NAME" = "issues" ]; then
+            printf '%s\n' "$ISSUE_BODY" > "$REQUEST_FILE"
+          else
+            : > "$REQUEST_FILE"
+          fi
           echo "page_id=$PAGE_ID" >> "$GITHUB_OUTPUT"
           echo "region=$REGION" >> "$GITHUB_OUTPUT"
+          echo "request_file=$REQUEST_FILE" >> "$GITHUB_OUTPUT"
       - name: Check credentials
         env:
           YANDEX_CLOUD_API_KEY: ${{ secrets.YANDEX_CLOUD_API_KEY }}
@@ -82,8 +99,9 @@ jobs:
           YANDEX_CLOUD_FOLDER_ID: ${{ secrets.YANDEX_CLOUD_FOLDER_ID }}
           PAGE_ID: ${{ steps.request.outputs.page_id }}
           WORDSTAT_REGION: ${{ steps.request.outputs.region }}
+          REQUEST_FILE: ${{ steps.request.outputs.request_file }}
         run: |
-          python seo/collect.py --page "$PAGE_ID" --region "$WORDSTAT_REGION"
+          python seo/collect.py --page "$PAGE_ID" --region "$WORDSTAT_REGION" --request-file "$REQUEST_FILE"
       - name: Commit semantic artifacts
         env:
           PAGE_ID: ${{ steps.request.outputs.page_id }}
