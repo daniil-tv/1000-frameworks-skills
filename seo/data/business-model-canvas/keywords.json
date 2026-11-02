@@ -1,0 +1,1387 @@
+{
+  "page_id": "business-model-canvas",
+  "status": "complete",
+  "topic": "Business Model Canvas",
+  "primary_cluster": [
+    {
+      "keyword": "бизнес модель",
+      "count": 36920,
+      "sources": [
+        {
+          "seed": "business model canvas",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "примеры прототипов",
+      "count": 8626,
+      "sources": [
+        {
+          "seed": "шаблон бизнес модели",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "бизнес план это",
+      "count": 7503,
+      "sources": [
+        {
+          "seed": "business model canvas",
+          "kind": "associations"
+        }
+      ],
+      "intent": "practical"
+    },
+    {
+      "keyword": "автору бизнес",
+      "count": 5388,
+      "sources": [
+        {
+          "seed": "business model canvas",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "коммерческое предложение пример",
+      "count": 4499,
+      "sources": [
+        {
+          "seed": "шаблон бизнес модели",
+          "kind": "associations"
+        }
+      ],
+      "intent": "practical"
+    },
+    {
+      "keyword": "шаг в бизнес",
+      "count": 3659,
+      "sources": [
+        {
+          "seed": "business model canvas",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "бизнес модель это",
+      "count": 3438,
+      "sources": [
+        {
+          "seed": "business model canvas",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "бизнес модель остервальдера",
+      "count": 2190,
+      "sources": [
+        {
+          "seed": "business model canvas",
+          "kind": "associations"
+        },
+        {
+          "seed": "бизнес модель остервальдера",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "бизнес модель остервальдера",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "институт бизнеса и дизайна москва",
+      "count": 1605,
+      "sources": [
+        {
+          "seed": "business model canvas",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "тнк примеры",
+      "count": 1422,
+      "sources": [
+        {
+          "seed": "шаблон бизнес модели",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "шаблон бизнес модели",
+      "count": 746,
+      "sources": [
+        {
+          "seed": "шаблон бизнес модели",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "шаблон бизнес модели",
+          "kind": "results"
+        }
+      ],
+      "intent": "practical"
+    },
+    {
+      "keyword": "business model canvas",
+      "count": 502,
+      "sources": [
+        {
+          "seed": "business model canvas",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "business model canvas",
+          "kind": "results"
+        },
+        {
+          "seed": "канва бизнес модели",
+          "kind": "associations"
+        },
+        {
+          "seed": "бизнес модель остервальдера",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "канва бизнес модели",
+      "count": 386,
+      "sources": [
+        {
+          "seed": "business model canvas",
+          "kind": "associations"
+        },
+        {
+          "seed": "канва бизнес модели",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "канва бизнес модели",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "построение бизнес моделей остервальдер",
+      "count": 372,
+      "sources": [
+        {
+          "seed": "бизнес модель остервальдера",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "бизнес модель александра остервальдера",
+      "count": 333,
+      "sources": [
+        {
+          "seed": "бизнес модель остервальдера",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "остервальдер и пинье бизнес модель",
+      "count": 317,
+      "sources": [
+        {
+          "seed": "бизнес модель остервальдера",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "шаблон бизнес модели остервальдера",
+      "count": 250,
+      "sources": [
+        {
+          "seed": "бизнес модель остервальдера",
+          "kind": "results"
+        },
+        {
+          "seed": "шаблон бизнес модели",
+          "kind": "results"
+        }
+      ],
+      "intent": "practical"
+    },
+    {
+      "keyword": "макс для бизнеса что это",
+      "count": 231,
+      "sources": [
+        {
+          "seed": "business model canvas",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "бизнес модель канвас",
+      "count": 216,
+      "sources": [
+        {
+          "seed": "business model canvas",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "чем отличается бизнес модель от бизнес плана",
+      "count": 188,
+      "sources": [
+        {
+          "seed": "business model canvas",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "остервальдер бизнес модель книга",
+      "count": 163,
+      "sources": [
+        {
+          "seed": "бизнес модель остервальдера",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "55 шаблонов бизнес моделей",
+      "count": 128,
+      "sources": [
+        {
+          "seed": "шаблон бизнес модели",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "александр остервальдер построение бизнес моделей",
+      "count": 122,
+      "sources": [
+        {
+          "seed": "бизнес модель остервальдера",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "бизнес модели 55 лучших шаблонов",
+      "count": 110,
+      "sources": [
+        {
+          "seed": "шаблон бизнес модели",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "view model cs2",
+      "count": 93,
+      "sources": [
+        {
+          "seed": "бизнес модель остервальдера",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "9 блоков бизнес модели",
+      "count": 75,
+      "sources": [
+        {
+          "seed": "9 блоков бизнес модели",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "александр остервальдер ив пинье построение бизнес моделей",
+      "count": 71,
+      "sources": [
+        {
+          "seed": "бизнес модель остервальдера",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "остервальдер а пинье и построение бизнес моделей",
+      "count": 70,
+      "sources": [
+        {
+          "seed": "бизнес модель остервальдера",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "книга построение бизнес моделей александр остервальдер",
+      "count": 67,
+      "sources": [
+        {
+          "seed": "бизнес модель остервальдера",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "бизнес модель остервальдера и пенье",
+      "count": 58,
+      "sources": [
+        {
+          "seed": "бизнес модель остервальдера",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    }
+  ],
+  "secondary_clusters": {
+    "practical": [
+      {
+        "keyword": "бизнес план это",
+        "count": 7503,
+        "sources": [
+          {
+            "seed": "business model canvas",
+            "kind": "associations"
+          }
+        ],
+        "intent": "practical"
+      },
+      {
+        "keyword": "коммерческое предложение пример",
+        "count": 4499,
+        "sources": [
+          {
+            "seed": "шаблон бизнес модели",
+            "kind": "associations"
+          }
+        ],
+        "intent": "practical"
+      },
+      {
+        "keyword": "шаблон бизнес модели",
+        "count": 746,
+        "sources": [
+          {
+            "seed": "шаблон бизнес модели",
+            "kind": "seed_total"
+          },
+          {
+            "seed": "шаблон бизнес модели",
+            "kind": "results"
+          }
+        ],
+        "intent": "practical"
+      },
+      {
+        "keyword": "шаблон бизнес модели остервальдера",
+        "count": 250,
+        "sources": [
+          {
+            "seed": "бизнес модель остервальдера",
+            "kind": "results"
+          },
+          {
+            "seed": "шаблон бизнес модели",
+            "kind": "results"
+          }
+        ],
+        "intent": "practical"
+      },
+      {
+        "keyword": "шаблон бизнес модели остервальдера и пинье",
+        "count": 48,
+        "sources": [
+          {
+            "seed": "бизнес модель остервальдера",
+            "kind": "results"
+          },
+          {
+            "seed": "шаблон бизнес модели",
+            "kind": "results"
+          }
+        ],
+        "intent": "practical"
+      },
+      {
+        "keyword": "бизнес модель канвас шаблон",
+        "count": 41,
+        "sources": [
+          {
+            "seed": "шаблон бизнес модели",
+            "kind": "results"
+          }
+        ],
+        "intent": "practical"
+      },
+      {
+        "keyword": "business model canvas шаблон",
+        "count": 36,
+        "sources": [
+          {
+            "seed": "business model canvas",
+            "kind": "results"
+          }
+        ],
+        "intent": "practical"
+      },
+      {
+        "keyword": "бизнес модель canvas шаблон",
+        "count": 26,
+        "sources": [
+          {
+            "seed": "шаблон бизнес модели",
+            "kind": "results"
+          }
+        ],
+        "intent": "practical"
+      },
+      {
+        "keyword": "канва бизнес модель шаблон",
+        "count": 18,
+        "sources": [
+          {
+            "seed": "канва бизнес модели",
+            "kind": "results"
+          },
+          {
+            "seed": "шаблон бизнес модели",
+            "kind": "results"
+          }
+        ],
+        "intent": "practical"
+      },
+      {
+        "keyword": "бизнес модель канвас шаблон скачать",
+        "count": 17,
+        "sources": [
+          {
+            "seed": "шаблон бизнес модели",
+            "kind": "results"
+          }
+        ],
+        "intent": "practical"
+      },
+      {
+        "keyword": "финансовая модель бизнеса в excel шаблон",
+        "count": 13,
+        "sources": [
+          {
+            "seed": "шаблон бизнес модели",
+            "kind": "results"
+          }
+        ],
+        "intent": "practical"
+      },
+      {
+        "keyword": "бизнес модель остервальдера пример заполнения",
+        "count": 10,
+        "sources": [
+          {
+            "seed": "бизнес модель остервальдера",
+            "kind": "results"
+          }
+        ],
+        "intent": "practical"
+      },
+      {
+        "keyword": "business model canvas пример",
+        "count": 5,
+        "sources": [
+          {
+            "seed": "business model canvas пример",
+            "kind": "seed_total"
+          }
+        ],
+        "intent": "practical"
+      }
+    ],
+    "informational_question": [
+      {
+        "keyword": "макс для бизнеса что это",
+        "count": 231,
+        "sources": [
+          {
+            "seed": "business model canvas",
+            "kind": "associations"
+          }
+        ],
+        "intent": "informational_question"
+      }
+    ]
+  },
+  "questions": [
+    {
+      "keyword": "макс для бизнеса что это",
+      "count": 231,
+      "sources": [
+        {
+          "seed": "business model canvas",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational_question"
+    }
+  ],
+  "candidate_child_pages": [],
+  "possible_cannibalization": [],
+  "excluded": [
+    {
+      "phrase": "бизон дело манекенщицы",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "business model canvas"
+    },
+    {
+      "phrase": "канвас что это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "business model canvas"
+    },
+    {
+      "phrase": "канвас это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "business model canvas"
+    },
+    {
+      "phrase": "уномаг интернет магазин масштабных моделей",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "business model canvas"
+    },
+    {
+      "phrase": "жанры официально делового стиля",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "business model canvas"
+    },
+    {
+      "phrase": "модельная лавка магазин масштабных моделей",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "business model canvas"
+    },
+    {
+      "phrase": "арма моделс магазин масштабных моделей",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "business model canvas"
+    },
+    {
+      "phrase": "моделирование это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "канва бизнес модели"
+    },
+    {
+      "phrase": "швейный шаг кроссворд",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "канва бизнес модели"
+    },
+    {
+      "phrase": "торговая марка это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "канва бизнес модели"
+    },
+    {
+      "phrase": "создание кроссворда онлайн со своими словами",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "канва бизнес модели"
+    },
+    {
+      "phrase": "признак создающий разницу между данным предметом кроссворд",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "канва бизнес модели"
+    },
+    {
+      "phrase": "что такое канвас",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "канва бизнес модели"
+    },
+    {
+      "phrase": "система кадры вип версия для коммерческих организаций",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "канва бизнес модели"
+    },
+    {
+      "phrase": "фабрика кроссвордов составить кроссворд",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "канва бизнес модели"
+    },
+    {
+      "phrase": "моделинг это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "канва бизнес модели"
+    },
+    {
+      "phrase": "марка тип изделия конструкции кроссворд",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "канва бизнес модели"
+    },
+    {
+      "phrase": "tuvio что за бренд кто производитель",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "канва бизнес модели"
+    },
+    {
+      "phrase": "models com",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "канва бизнес модели"
+    },
+    {
+      "phrase": "виды моделирования",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "канва бизнес модели"
+    },
+    {
+      "phrase": "зонтичный бренд",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "канва бизнес модели"
+    },
+    {
+      "phrase": "vgv что за бренд",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "канва бизнес модели"
+    },
+    {
+      "phrase": "зонтичный бренд это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "канва бизнес модели"
+    },
+    {
+      "phrase": "как разместить товар по схемограмме",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "канва бизнес модели"
+    },
+    {
+      "phrase": "моделирование это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "бизнес модель остервальдера"
+    },
+    {
+      "phrase": "финмодель",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "бизнес модель остервальдера"
+    },
+    {
+      "phrase": "cfd моделирование это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "бизнес модель остервальдера"
+    },
+    {
+      "phrase": "3д моделирование это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "бизнес модель остервальдера"
+    },
+    {
+      "phrase": "roas это в маркетинге",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "бизнес модель остервальдера"
+    },
+    {
+      "phrase": "кросс маркетинг это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "бизнес модель остервальдера"
+    },
+    {
+      "phrase": "зонтичный бренд это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "бизнес модель остервальдера"
+    },
+    {
+      "phrase": "как разместить товар по схемограмме",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "бизнес модель остервальдера"
+    },
+    {
+      "phrase": "модельные позы",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "бизнес модель остервальдера"
+    },
+    {
+      "phrase": "программа для моделирования мебели",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "бизнес модель остервальдера"
+    },
+    {
+      "phrase": "модельер в технической отрасли кроссворд",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "бизнес модель остервальдера"
+    },
+    {
+      "phrase": "стартапы это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "бизнес модель остервальдера"
+    },
+    {
+      "phrase": "тфп в моделинге это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "бизнес модель остервальдера"
+    },
+    {
+      "phrase": "финмодель это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "бизнес модель остервальдера"
+    },
+    {
+      "phrase": "моделирование это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "шаблон бизнес модели"
+    },
+    {
+      "phrase": "образец коммерческого предложения",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "шаблон бизнес модели"
+    },
+    {
+      "phrase": "отчет о проделанной работе образец",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "шаблон бизнес модели"
+    },
+    {
+      "phrase": "коммерческое предложение от ип образец 2025",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "шаблон бизнес модели"
+    },
+    {
+      "phrase": "формат а3х3",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "шаблон бизнес модели"
+    },
+    {
+      "phrase": "этапы моделирования",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "шаблон бизнес модели"
+    },
+    {
+      "phrase": "бланк организации образец",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "шаблон бизнес модели"
+    },
+    {
+      "phrase": "фирменный бланк организации образец",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "шаблон бизнес модели"
+    },
+    {
+      "phrase": "заявление без содержания заработной платы образец",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "шаблон бизнес модели"
+    },
+    {
+      "phrase": "формат а2х3",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "шаблон бизнес модели"
+    },
+    {
+      "phrase": "спецификация образец",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "шаблон бизнес модели"
+    },
+    {
+      "phrase": "структура предприятия образец схема",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "шаблон бизнес модели"
+    },
+    {
+      "phrase": "виды моделирования",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "шаблон бизнес модели"
+    },
+    {
+      "phrase": "xlxs что за формат",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "шаблон бизнес модели"
+    },
+    {
+      "phrase": "титульник проекта образец",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "шаблон бизнес модели"
+    }
+  ],
+  "all_keywords": [
+    {
+      "keyword": "бизнес модель",
+      "count": 36920,
+      "sources": [
+        {
+          "seed": "business model canvas",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "примеры прототипов",
+      "count": 8626,
+      "sources": [
+        {
+          "seed": "шаблон бизнес модели",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "бизнес план это",
+      "count": 7503,
+      "sources": [
+        {
+          "seed": "business model canvas",
+          "kind": "associations"
+        }
+      ],
+      "intent": "practical"
+    },
+    {
+      "keyword": "автору бизнес",
+      "count": 5388,
+      "sources": [
+        {
+          "seed": "business model canvas",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "коммерческое предложение пример",
+      "count": 4499,
+      "sources": [
+        {
+          "seed": "шаблон бизнес модели",
+          "kind": "associations"
+        }
+      ],
+      "intent": "practical"
+    },
+    {
+      "keyword": "шаг в бизнес",
+      "count": 3659,
+      "sources": [
+        {
+          "seed": "business model canvas",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "бизнес модель это",
+      "count": 3438,
+      "sources": [
+        {
+          "seed": "business model canvas",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "бизнес модель остервальдера",
+      "count": 2190,
+      "sources": [
+        {
+          "seed": "business model canvas",
+          "kind": "associations"
+        },
+        {
+          "seed": "бизнес модель остервальдера",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "бизнес модель остервальдера",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "институт бизнеса и дизайна москва",
+      "count": 1605,
+      "sources": [
+        {
+          "seed": "business model canvas",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "тнк примеры",
+      "count": 1422,
+      "sources": [
+        {
+          "seed": "шаблон бизнес модели",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "шаблон бизнес модели",
+      "count": 746,
+      "sources": [
+        {
+          "seed": "шаблон бизнес модели",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "шаблон бизнес модели",
+          "kind": "results"
+        }
+      ],
+      "intent": "practical"
+    },
+    {
+      "keyword": "business model canvas",
+      "count": 502,
+      "sources": [
+        {
+          "seed": "business model canvas",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "business model canvas",
+          "kind": "results"
+        },
+        {
+          "seed": "канва бизнес модели",
+          "kind": "associations"
+        },
+        {
+          "seed": "бизнес модель остервальдера",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "канва бизнес модели",
+      "count": 386,
+      "sources": [
+        {
+          "seed": "business model canvas",
+          "kind": "associations"
+        },
+        {
+          "seed": "канва бизнес модели",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "канва бизнес модели",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "построение бизнес моделей остервальдер",
+      "count": 372,
+      "sources": [
+        {
+          "seed": "бизнес модель остервальдера",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "бизнес модель александра остервальдера",
+      "count": 333,
+      "sources": [
+        {
+          "seed": "бизнес модель остервальдера",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "остервальдер и пинье бизнес модель",
+      "count": 317,
+      "sources": [
+        {
+          "seed": "бизнес модель остервальдера",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "шаблон бизнес модели остервальдера",
+      "count": 250,
+      "sources": [
+        {
+          "seed": "бизнес модель остервальдера",
+          "kind": "results"
+        },
+        {
+          "seed": "шаблон бизнес модели",
+          "kind": "results"
+        }
+      ],
+      "intent": "practical"
+    },
+    {
+      "keyword": "макс для бизнеса что это",
+      "count": 231,
+      "sources": [
+        {
+          "seed": "business model canvas",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "бизнес модель канвас",
+      "count": 216,
+      "sources": [
+        {
+          "seed": "business model canvas",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "чем отличается бизнес модель от бизнес плана",
+      "count": 188,
+      "sources": [
+        {
+          "seed": "business model canvas",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "остервальдер бизнес модель книга",
+      "count": 163,
+      "sources": [
+        {
+          "seed": "бизнес модель остервальдера",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "55 шаблонов бизнес моделей",
+      "count": 128,
+      "sources": [
+        {
+          "seed": "шаблон бизнес модели",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "александр остервальдер построение бизнес моделей",
+      "count": 122,
+      "sources": [
+        {
+          "seed": "бизнес модель остервальдера",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "бизнес модели 55 лучших шаблонов",
+      "count": 110,
+      "sources": [
+        {
+          "seed": "шаблон бизнес модели",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "view model cs2",
+      "count": 93,
+      "sources": [
+        {
+          "seed": "бизнес модель остервальдера",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "9 блоков бизнес модели",
+      "count": 75,
+      "sources": [
+        {
+          "seed": "9 блоков бизнес модели",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "александр остервальдер ив пинье построение бизнес моделей",
+      "count": 71,
+      "sources": [
+        {
+          "seed": "бизнес модель остервальдера",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "остервальдер а пинье и построение бизнес моделей",
+      "count": 70,
+      "sources": [
+        {
+          "seed": "бизнес модель остервальдера",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "книга построение бизнес моделей александр остервальдер",
+      "count": 67,
+      "sources": [
+        {
+          "seed": "бизнес модель остервальдера",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "бизнес модель остервальдера и пенье",
+      "count": 58,
+      "sources": [
+        {
+          "seed": "бизнес модель остервальдера",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "шаблон бизнес модели остервальдера и пинье",
+      "count": 48,
+      "sources": [
+        {
+          "seed": "бизнес модель остервальдера",
+          "kind": "results"
+        },
+        {
+          "seed": "шаблон бизнес модели",
+          "kind": "results"
+        }
+      ],
+      "intent": "practical"
+    },
+    {
+      "keyword": "бизнес модель канвас шаблон",
+      "count": 41,
+      "sources": [
+        {
+          "seed": "шаблон бизнес модели",
+          "kind": "results"
+        }
+      ],
+      "intent": "practical"
+    },
+    {
+      "keyword": "информация о бизнес модели александра остервальдера",
+      "count": 40,
+      "sources": [
+        {
+          "seed": "бизнес модель остервальдера",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "канва бизнес модели по остервальдеру",
+      "count": 38,
+      "sources": [
+        {
+          "seed": "канва бизнес модели",
+          "kind": "results"
+        },
+        {
+          "seed": "бизнес модель остервальдера",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "business model canvas шаблон",
+      "count": 36,
+      "sources": [
+        {
+          "seed": "business model canvas",
+          "kind": "results"
+        }
+      ],
+      "intent": "practical"
+    },
+    {
+      "keyword": "оливер гассман бизнес модели 55 лучших шаблонов",
+      "count": 34,
+      "sources": [
+        {
+          "seed": "шаблон бизнес модели",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "бизнес модель canvas шаблон",
+      "count": 26,
+      "sources": [
+        {
+          "seed": "шаблон бизнес модели",
+          "kind": "results"
+        }
+      ],
+      "intent": "practical"
+    },
+    {
+      "keyword": "бизнес модель остервальдера презентация",
+      "count": 25,
+      "sources": [
+        {
+          "seed": "бизнес модель остервальдера",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "канва бизнес модель шаблон",
+      "count": 18,
+      "sources": [
+        {
+          "seed": "канва бизнес модели",
+          "kind": "results"
+        },
+        {
+          "seed": "шаблон бизнес модели",
+          "kind": "results"
+        }
+      ],
+      "intent": "practical"
+    },
+    {
+      "keyword": "эксель бизнес модель остервальдера",
+      "count": 18,
+      "sources": [
+        {
+          "seed": "бизнес модель остервальдера",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "бизнес модель канвас шаблон скачать",
+      "count": 17,
+      "sources": [
+        {
+          "seed": "шаблон бизнес модели",
+          "kind": "results"
+        }
+      ],
+      "intent": "practical"
+    },
+    {
+      "keyword": "финансовая модель бизнеса в excel шаблон",
+      "count": 13,
+      "sources": [
+        {
+          "seed": "шаблон бизнес модели",
+          "kind": "results"
+        }
+      ],
+      "intent": "practical"
+    },
+    {
+      "keyword": "бизнес модели 55 лучших шаблонов pdf",
+      "count": 10,
+      "sources": [
+        {
+          "seed": "шаблон бизнес модели",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "бизнес модель остервальдера пример заполнения",
+      "count": 10,
+      "sources": [
+        {
+          "seed": "бизнес модель остервальдера",
+          "kind": "results"
+        }
+      ],
+      "intent": "practical"
+    },
+    {
+      "keyword": "business model canvas пример",
+      "count": 5,
+      "sources": [
+        {
+          "seed": "business model canvas пример",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "practical"
+    },
+    {
+      "keyword": "эксель бизнес модель остервальдера заполненная таблица",
+      "count": 5,
+      "sources": [
+        {
+          "seed": "бизнес модель остервальдера",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    }
+  ]
+}
