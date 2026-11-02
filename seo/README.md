@@ -30,7 +30,16 @@
 Подключите GitHub к чату и дайте ему доступ к приватному репозиторию. Для запуска GPT должен создать Issue в `daniil-tv/1000-frameworks-skills`:
 
 - заголовок: `[semantics] <page-id>`, например `[semantics] odi`;
-- тело: `region: 225`.
+- тело:
+  ```text
+  region: 225
+  seeds:
+  - outcome driven innovation
+  - desired outcomes
+  - job mapping
+  ```
+
+Блок `seeds:` необязателен. Если он указан, его 1–8 фраз имеют приоритет над `seo/pages.json`; фактически использованный список записывается в `manifest.json`.
 
 Workflow принимает такие заявки только от владельца репозитория, запускает Wordstat, сохраняет результат в `seo/data/<page-id>/`, оставляет ссылку на запуск и закрывает Issue. После завершения попросите GPT прочитать `keywords.json`, `intent.json` и `manifest.json`. API-ключ чату не передаётся.
 
