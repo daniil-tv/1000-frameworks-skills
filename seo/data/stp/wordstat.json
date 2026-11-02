@@ -1,0 +1,500 @@
+{
+  "page_id": "stp",
+  "status": "complete",
+  "source": "Yandex Wordstat API",
+  "collected_at": "2026-11-02",
+  "regions": [
+    "225"
+  ],
+  "seeds": [
+    {
+      "seed": "stp маркетинг",
+      "cache_hit": false,
+      "payload": {
+        "totalCount": "86",
+        "results": [
+          {
+            "phrase": "stp маркетинг",
+            "count": "84"
+          }
+        ],
+        "associations": [
+          {
+            "phrase": "маркетолог это",
+            "count": "12980"
+          },
+          {
+            "phrase": "таргет это",
+            "count": "7344"
+          },
+          {
+            "phrase": "таргетированная реклама это",
+            "count": "2253"
+          },
+          {
+            "phrase": "кто такой маркетолог",
+            "count": "3852"
+          },
+          {
+            "phrase": "маркетолог это простыми словами",
+            "count": "2107"
+          },
+          {
+            "phrase": "маркетинговая стратегия",
+            "count": "10627"
+          },
+          {
+            "phrase": "сео продвижение это",
+            "count": "464"
+          },
+          {
+            "phrase": "таргет что это",
+            "count": "2579"
+          },
+          {
+            "phrase": "cpa что это такое в рекламе",
+            "count": "230"
+          },
+          {
+            "phrase": "erid в рекламе что это",
+            "count": "534"
+          },
+          {
+            "phrase": "что такое таргетированная реклама",
+            "count": "8117"
+          },
+          {
+            "phrase": "ctr что это в рекламе",
+            "count": "172"
+          },
+          {
+            "phrase": "маркетинговая стратегия это",
+            "count": "1270"
+          },
+          {
+            "phrase": "интернет маркетолог это",
+            "count": "543"
+          },
+          {
+            "phrase": "маркетинговые исследования это",
+            "count": "1710"
+          },
+          {
+            "phrase": "маркетинговый ход",
+            "count": "4360"
+          },
+          {
+            "phrase": "маркетинговые коммуникации",
+            "count": "7591"
+          }
+        ]
+      }
+    },
+    {
+      "seed": "stp анализ",
+      "cache_hit": false,
+      "payload": {
+        "totalCount": "42",
+        "results": [
+          {
+            "phrase": "stp анализ",
+            "count": "40"
+          }
+        ],
+        "associations": [
+          {
+            "phrase": "свот анализ",
+            "count": "10828"
+          },
+          {
+            "phrase": "swot анализ это",
+            "count": "5477"
+          },
+          {
+            "phrase": "pest анализ",
+            "count": "6611"
+          },
+          {
+            "phrase": "факторный анализ",
+            "count": "14203"
+          },
+          {
+            "phrase": "пест анализ",
+            "count": "2563"
+          },
+          {
+            "phrase": "оам анализ",
+            "count": "13056"
+          },
+          {
+            "phrase": "hcv что это за анализ",
+            "count": "4909"
+          },
+          {
+            "phrase": "свот анализ это",
+            "count": "1325"
+          },
+          {
+            "phrase": "оам что это за анализ",
+            "count": "2037"
+          },
+          {
+            "phrase": "скт что это за обследование",
+            "count": "667"
+          },
+          {
+            "phrase": "pest анализ это",
+            "count": "873"
+          },
+          {
+            "phrase": "а б тестирование что это",
+            "count": "346"
+          },
+          {
+            "phrase": "мп статс аналитика",
+            "count": "145"
+          },
+          {
+            "phrase": "контроль оам что это",
+            "count": "293"
+          },
+          {
+            "phrase": "гсо это в лаборатории",
+            "count": "80"
+          },
+          {
+            "phrase": "мскт ппн что это за обследование",
+            "count": "61"
+          }
+        ]
+      }
+    },
+    {
+      "seed": "stp модель",
+      "cache_hit": false,
+      "payload": {
+        "totalCount": "1651",
+        "results": [
+          {
+            "phrase": "stp модель",
+            "count": "1612"
+          },
+          {
+            "phrase": "stp 3d модель",
+            "count": "515"
+          },
+          {
+            "phrase": "чем открыть stp файл 3d модели",
+            "count": "84"
+          },
+          {
+            "phrase": "клювик управления 3d модель stp",
+            "count": "23"
+          },
+          {
+            "phrase": "чем открыть stp файл 3d модели онлайн",
+            "count": "21"
+          },
+          {
+            "phrase": "шкив gt2 cad модель stp",
+            "count": "19"
+          },
+          {
+            "phrase": "3d модели stp канализационных фитингов",
+            "count": "16"
+          },
+          {
+            "phrase": "кран пнд 3d модель stp sldprt",
+            "count": "16"
+          },
+          {
+            "phrase": "модель d 37sub stp",
+            "count": "15"
+          },
+          {
+            "phrase": "ручка клювик управления 3d модель stp",
+            "count": "12"
+          },
+          {
+            "phrase": "направляющие hiwin модель скачать stp соберизавод",
+            "count": "9"
+          },
+          {
+            "phrase": "нлп 4.252 123 3d модель stp",
+            "count": "8"
+          },
+          {
+            "phrase": "скачать stp модель узел sbpft205",
+            "count": "7"
+          },
+          {
+            "phrase": "крыльчатка для мини трд 3д модель stp",
+            "count": "6"
+          },
+          {
+            "phrase": "winmodels модель stp 01 mini сборка",
+            "count": "5"
+          },
+          {
+            "phrase": "слив с крыши трубы 3д модели stp",
+            "count": "5"
+          },
+          {
+            "phrase": "скачать stp модель sputnik ap24 32",
+            "count": "5"
+          },
+          {
+            "phrase": "stp модель lu sk40 er25",
+            "count": "5"
+          },
+          {
+            "phrase": "pb8s2 8 3д модель stp",
+            "count": "5"
+          },
+          {
+            "phrase": "вентилятор trs8025 3d модель stp скачать",
+            "count": "5"
+          },
+          {
+            "phrase": "замок l 77 88 модель stp",
+            "count": "5"
+          }
+        ],
+        "associations": [
+          {
+            "phrase": "стп",
+            "count": "72686"
+          },
+          {
+            "phrase": "model",
+            "count": "956946"
+          },
+          {
+            "phrase": "моделакс н",
+            "count": "6778"
+          },
+          {
+            "phrase": "мод на тт",
+            "count": "127664"
+          },
+          {
+            "phrase": "ряд е24",
+            "count": "1096"
+          },
+          {
+            "phrase": "стп это",
+            "count": "2551"
+          },
+          {
+            "phrase": "tenet модельный ряд",
+            "count": "532"
+          },
+          {
+            "phrase": "view model",
+            "count": "6031"
+          },
+          {
+            "phrase": "модел",
+            "count": "94068"
+          },
+          {
+            "phrase": "джетур модельный ряд",
+            "count": "1649"
+          },
+          {
+            "phrase": "тфп это",
+            "count": "1286"
+          },
+          {
+            "phrase": "nn models",
+            "count": "2097"
+          },
+          {
+            "phrase": "jetour модельный ряд",
+            "count": "372"
+          },
+          {
+            "phrase": "models com",
+            "count": "13735"
+          },
+          {
+            "phrase": "стп что это",
+            "count": "878"
+          },
+          {
+            "phrase": "xnova model v3",
+            "count": "131"
+          }
+        ]
+      }
+    },
+    {
+      "seed": "segmentation targeting positioning",
+      "cache_hit": false,
+      "payload": {
+        "totalCount": "20"
+      }
+    },
+    {
+      "seed": "сегментация таргетинг позиционирование",
+      "cache_hit": false,
+      "payload": {
+        "totalCount": "20"
+      }
+    },
+    {
+      "seed": "stp маркетинг пример",
+      "cache_hit": false,
+      "payload": {}
+    },
+    {
+      "seed": "модель stp маркетинг",
+      "cache_hit": false,
+      "payload": {
+        "totalCount": "4"
+      }
+    },
+    {
+      "seed": "stp стратегия",
+      "cache_hit": false,
+      "payload": {
+        "totalCount": "17",
+        "results": [
+          {
+            "phrase": "stp стратегия",
+            "count": "17"
+          }
+        ],
+        "associations": [
+          {
+            "phrase": "стп",
+            "count": "72686"
+          },
+          {
+            "phrase": "стратегиум",
+            "count": "1085"
+          },
+          {
+            "phrase": "ракетные войска стратегического назначения",
+            "count": "10102"
+          },
+          {
+            "phrase": "дота стратз",
+            "count": "2204"
+          },
+          {
+            "phrase": "стратегическое планирование",
+            "count": "39631"
+          },
+          {
+            "phrase": "strategy partners",
+            "count": "1613"
+          },
+          {
+            "phrase": "стратегическая сессия",
+            "count": "10311"
+          },
+          {
+            "phrase": "стратегическое планирование это",
+            "count": "3355"
+          },
+          {
+            "phrase": "strategy",
+            "count": "46470"
+          },
+          {
+            "phrase": "стп это",
+            "count": "2551"
+          },
+          {
+            "phrase": "стратегическое мышление",
+            "count": "6080"
+          },
+          {
+            "phrase": "strategium",
+            "count": "1480"
+          },
+          {
+            "phrase": "фз о стратегическом планировании",
+            "count": "3709"
+          },
+          {
+            "phrase": "стп партс",
+            "count": "215"
+          },
+          {
+            "phrase": "этп стратег",
+            "count": "4023"
+          },
+          {
+            "phrase": "стп что это",
+            "count": "878"
+          }
+        ]
+      }
+    }
+  ],
+  "dynamics": {
+    "seed": "stp маркетинг",
+    "cache_hit": false,
+    "payload": {
+      "results": [
+        {
+          "date": "2025-11-01T00:00:00Z",
+          "count": "125",
+          "share": 1.1450409328893758e-06
+        },
+        {
+          "date": "2025-12-01T00:00:00Z",
+          "count": "135",
+          "share": 1.2560149918321578e-06
+        },
+        {
+          "date": "2026-01-01T00:00:00Z",
+          "count": "110",
+          "share": 1.1231242259434217e-06
+        },
+        {
+          "date": "2026-02-01T00:00:00Z",
+          "count": "97",
+          "share": 1.08405871375004e-06
+        },
+        {
+          "date": "2026-03-01T00:00:00Z",
+          "count": "139",
+          "share": 1.3381872085434277e-06
+        },
+        {
+          "date": "2026-04-01T00:00:00Z",
+          "count": "115",
+          "share": 1.080756652716553e-06
+        },
+        {
+          "date": "2026-05-01T00:00:00Z",
+          "count": "183",
+          "share": 1.8440506082562942e-06
+        },
+        {
+          "date": "2026-06-01T00:00:00Z",
+          "count": "137",
+          "share": 1.4252822313470226e-06
+        },
+        {
+          "date": "2026-07-01T00:00:00Z",
+          "count": "40",
+          "share": 3.915234644138391e-07
+        },
+        {
+          "date": "2026-08-01T00:00:00Z",
+          "count": "56",
+          "share": 5.281399111146924e-07
+        },
+        {
+          "date": "2026-09-01T00:00:00Z",
+          "count": "78",
+          "share": 7.079916421989649e-07
+        }
+      ]
+    }
+  }
+}

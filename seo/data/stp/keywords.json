@@ -1,0 +1,1125 @@
+{
+  "page_id": "stp",
+  "status": "complete",
+  "topic": "STP (Segmentation, Targeting, Positioning)",
+  "primary_cluster": [
+    {
+      "keyword": "факторный анализ",
+      "count": 14203,
+      "sources": [
+        {
+          "seed": "stp анализ",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "оам анализ",
+      "count": 13056,
+      "sources": [
+        {
+          "seed": "stp анализ",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "свот анализ",
+      "count": 10828,
+      "sources": [
+        {
+          "seed": "stp анализ",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "маркетинговая стратегия",
+      "count": 10627,
+      "sources": [
+        {
+          "seed": "stp маркетинг",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "pest анализ",
+      "count": 6611,
+      "sources": [
+        {
+          "seed": "stp анализ",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "swot анализ это",
+      "count": 5477,
+      "sources": [
+        {
+          "seed": "stp анализ",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "hcv что это за анализ",
+      "count": 4909,
+      "sources": [
+        {
+          "seed": "stp анализ",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "этп стратег",
+      "count": 4023,
+      "sources": [
+        {
+          "seed": "stp стратегия",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "пест анализ",
+      "count": 2563,
+      "sources": [
+        {
+          "seed": "stp анализ",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "оам что это за анализ",
+      "count": 2037,
+      "sources": [
+        {
+          "seed": "stp анализ",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "stp модель",
+      "count": 1651,
+      "sources": [
+        {
+          "seed": "stp модель",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "stp модель",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "свот анализ это",
+      "count": 1325,
+      "sources": [
+        {
+          "seed": "stp анализ",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "маркетинговая стратегия это",
+      "count": 1270,
+      "sources": [
+        {
+          "seed": "stp маркетинг",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "pest анализ это",
+      "count": 873,
+      "sources": [
+        {
+          "seed": "stp анализ",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "stp 3d модель",
+      "count": 515,
+      "sources": [
+        {
+          "seed": "stp модель",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "stp маркетинг",
+      "count": 86,
+      "sources": [
+        {
+          "seed": "stp маркетинг",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "stp маркетинг",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "чем открыть stp файл 3d модели",
+      "count": 84,
+      "sources": [
+        {
+          "seed": "stp модель",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "stp анализ",
+      "count": 42,
+      "sources": [
+        {
+          "seed": "stp анализ",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "stp анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "клювик управления 3d модель stp",
+      "count": 23,
+      "sources": [
+        {
+          "seed": "stp модель",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "чем открыть stp файл 3d модели онлайн",
+      "count": 21,
+      "sources": [
+        {
+          "seed": "stp модель",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "segmentation targeting positioning",
+      "count": 20,
+      "sources": [
+        {
+          "seed": "segmentation targeting positioning",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "сегментация таргетинг позиционирование",
+      "count": 20,
+      "sources": [
+        {
+          "seed": "сегментация таргетинг позиционирование",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "шкив gt2 cad модель stp",
+      "count": 19,
+      "sources": [
+        {
+          "seed": "stp модель",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "stp стратегия",
+      "count": 17,
+      "sources": [
+        {
+          "seed": "stp стратегия",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "stp стратегия",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "3d модели stp канализационных фитингов",
+      "count": 16,
+      "sources": [
+        {
+          "seed": "stp модель",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "кран пнд 3d модель stp sldprt",
+      "count": 16,
+      "sources": [
+        {
+          "seed": "stp модель",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "модель d 37sub stp",
+      "count": 15,
+      "sources": [
+        {
+          "seed": "stp модель",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "ручка клювик управления 3d модель stp",
+      "count": 12,
+      "sources": [
+        {
+          "seed": "stp модель",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "направляющие hiwin модель скачать stp соберизавод",
+      "count": 9,
+      "sources": [
+        {
+          "seed": "stp модель",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "нлп 4.252 123 3d модель stp",
+      "count": 8,
+      "sources": [
+        {
+          "seed": "stp модель",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    }
+  ],
+  "secondary_clusters": {
+    "informational_question": [
+      {
+        "keyword": "hcv что это за анализ",
+        "count": 4909,
+        "sources": [
+          {
+            "seed": "stp анализ",
+            "kind": "associations"
+          }
+        ],
+        "intent": "informational_question"
+      },
+      {
+        "keyword": "оам что это за анализ",
+        "count": 2037,
+        "sources": [
+          {
+            "seed": "stp анализ",
+            "kind": "associations"
+          }
+        ],
+        "intent": "informational_question"
+      }
+    ]
+  },
+  "questions": [
+    {
+      "keyword": "hcv что это за анализ",
+      "count": 4909,
+      "sources": [
+        {
+          "seed": "stp анализ",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "оам что это за анализ",
+      "count": 2037,
+      "sources": [
+        {
+          "seed": "stp анализ",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational_question"
+    }
+  ],
+  "candidate_child_pages": [],
+  "possible_cannibalization": [],
+  "excluded": [
+    {
+      "phrase": "маркетолог это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "stp маркетинг"
+    },
+    {
+      "phrase": "таргет это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "stp маркетинг"
+    },
+    {
+      "phrase": "таргетированная реклама это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "stp маркетинг"
+    },
+    {
+      "phrase": "кто такой маркетолог",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "stp маркетинг"
+    },
+    {
+      "phrase": "маркетолог это простыми словами",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "stp маркетинг"
+    },
+    {
+      "phrase": "сео продвижение это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "stp маркетинг"
+    },
+    {
+      "phrase": "таргет что это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "stp маркетинг"
+    },
+    {
+      "phrase": "cpa что это такое в рекламе",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "stp маркетинг"
+    },
+    {
+      "phrase": "erid в рекламе что это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "stp маркетинг"
+    },
+    {
+      "phrase": "что такое таргетированная реклама",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "stp маркетинг"
+    },
+    {
+      "phrase": "ctr что это в рекламе",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "stp маркетинг"
+    },
+    {
+      "phrase": "интернет маркетолог это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "stp маркетинг"
+    },
+    {
+      "phrase": "маркетинговые исследования это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "stp маркетинг"
+    },
+    {
+      "phrase": "маркетинговый ход",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "stp маркетинг"
+    },
+    {
+      "phrase": "маркетинговые коммуникации",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "stp маркетинг"
+    },
+    {
+      "phrase": "скт что это за обследование",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "stp анализ"
+    },
+    {
+      "phrase": "а б тестирование что это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "stp анализ"
+    },
+    {
+      "phrase": "мп статс аналитика",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "stp анализ"
+    },
+    {
+      "phrase": "контроль оам что это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "stp анализ"
+    },
+    {
+      "phrase": "гсо это в лаборатории",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "stp анализ"
+    },
+    {
+      "phrase": "мскт ппн что это за обследование",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "stp анализ"
+    },
+    {
+      "phrase": "стп",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "stp модель"
+    },
+    {
+      "phrase": "model",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "stp модель"
+    },
+    {
+      "phrase": "моделакс н",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "stp модель"
+    },
+    {
+      "phrase": "мод на тт",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "stp модель"
+    },
+    {
+      "phrase": "ряд е24",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "stp модель"
+    },
+    {
+      "phrase": "стп это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "stp модель"
+    },
+    {
+      "phrase": "tenet модельный ряд",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "stp модель"
+    },
+    {
+      "phrase": "view model",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "stp модель"
+    },
+    {
+      "phrase": "модел",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "stp модель"
+    },
+    {
+      "phrase": "джетур модельный ряд",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "stp модель"
+    },
+    {
+      "phrase": "тфп это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "stp модель"
+    },
+    {
+      "phrase": "nn models",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "stp модель"
+    },
+    {
+      "phrase": "jetour модельный ряд",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "stp модель"
+    },
+    {
+      "phrase": "models com",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "stp модель"
+    },
+    {
+      "phrase": "стп что это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "stp модель"
+    },
+    {
+      "phrase": "xnova model v3",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "stp модель"
+    },
+    {
+      "phrase": "стп",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "stp стратегия"
+    },
+    {
+      "phrase": "стратегиум",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "stp стратегия"
+    },
+    {
+      "phrase": "ракетные войска стратегического назначения",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "stp стратегия"
+    },
+    {
+      "phrase": "дота стратз",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "stp стратегия"
+    },
+    {
+      "phrase": "стратегическое планирование",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "stp стратегия"
+    },
+    {
+      "phrase": "strategy partners",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "stp стратегия"
+    },
+    {
+      "phrase": "стратегическая сессия",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "stp стратегия"
+    },
+    {
+      "phrase": "стратегическое планирование это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "stp стратегия"
+    },
+    {
+      "phrase": "strategy",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "stp стратегия"
+    },
+    {
+      "phrase": "стп это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "stp стратегия"
+    },
+    {
+      "phrase": "стратегическое мышление",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "stp стратегия"
+    },
+    {
+      "phrase": "strategium",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "stp стратегия"
+    },
+    {
+      "phrase": "фз о стратегическом планировании",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "stp стратегия"
+    },
+    {
+      "phrase": "стп партс",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "stp стратегия"
+    },
+    {
+      "phrase": "стп что это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "stp стратегия"
+    }
+  ],
+  "all_keywords": [
+    {
+      "keyword": "факторный анализ",
+      "count": 14203,
+      "sources": [
+        {
+          "seed": "stp анализ",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "оам анализ",
+      "count": 13056,
+      "sources": [
+        {
+          "seed": "stp анализ",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "свот анализ",
+      "count": 10828,
+      "sources": [
+        {
+          "seed": "stp анализ",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "маркетинговая стратегия",
+      "count": 10627,
+      "sources": [
+        {
+          "seed": "stp маркетинг",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "pest анализ",
+      "count": 6611,
+      "sources": [
+        {
+          "seed": "stp анализ",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "swot анализ это",
+      "count": 5477,
+      "sources": [
+        {
+          "seed": "stp анализ",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "hcv что это за анализ",
+      "count": 4909,
+      "sources": [
+        {
+          "seed": "stp анализ",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "этп стратег",
+      "count": 4023,
+      "sources": [
+        {
+          "seed": "stp стратегия",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "пест анализ",
+      "count": 2563,
+      "sources": [
+        {
+          "seed": "stp анализ",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "оам что это за анализ",
+      "count": 2037,
+      "sources": [
+        {
+          "seed": "stp анализ",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "stp модель",
+      "count": 1651,
+      "sources": [
+        {
+          "seed": "stp модель",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "stp модель",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "свот анализ это",
+      "count": 1325,
+      "sources": [
+        {
+          "seed": "stp анализ",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "маркетинговая стратегия это",
+      "count": 1270,
+      "sources": [
+        {
+          "seed": "stp маркетинг",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "pest анализ это",
+      "count": 873,
+      "sources": [
+        {
+          "seed": "stp анализ",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "stp 3d модель",
+      "count": 515,
+      "sources": [
+        {
+          "seed": "stp модель",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "stp маркетинг",
+      "count": 86,
+      "sources": [
+        {
+          "seed": "stp маркетинг",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "stp маркетинг",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "чем открыть stp файл 3d модели",
+      "count": 84,
+      "sources": [
+        {
+          "seed": "stp модель",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "stp анализ",
+      "count": 42,
+      "sources": [
+        {
+          "seed": "stp анализ",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "stp анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "клювик управления 3d модель stp",
+      "count": 23,
+      "sources": [
+        {
+          "seed": "stp модель",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "чем открыть stp файл 3d модели онлайн",
+      "count": 21,
+      "sources": [
+        {
+          "seed": "stp модель",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "segmentation targeting positioning",
+      "count": 20,
+      "sources": [
+        {
+          "seed": "segmentation targeting positioning",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "сегментация таргетинг позиционирование",
+      "count": 20,
+      "sources": [
+        {
+          "seed": "сегментация таргетинг позиционирование",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "шкив gt2 cad модель stp",
+      "count": 19,
+      "sources": [
+        {
+          "seed": "stp модель",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "stp стратегия",
+      "count": 17,
+      "sources": [
+        {
+          "seed": "stp стратегия",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "stp стратегия",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "3d модели stp канализационных фитингов",
+      "count": 16,
+      "sources": [
+        {
+          "seed": "stp модель",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "кран пнд 3d модель stp sldprt",
+      "count": 16,
+      "sources": [
+        {
+          "seed": "stp модель",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "модель d 37sub stp",
+      "count": 15,
+      "sources": [
+        {
+          "seed": "stp модель",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "ручка клювик управления 3d модель stp",
+      "count": 12,
+      "sources": [
+        {
+          "seed": "stp модель",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "направляющие hiwin модель скачать stp соберизавод",
+      "count": 9,
+      "sources": [
+        {
+          "seed": "stp модель",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "нлп 4.252 123 3d модель stp",
+      "count": 8,
+      "sources": [
+        {
+          "seed": "stp модель",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "скачать stp модель узел sbpft205",
+      "count": 7,
+      "sources": [
+        {
+          "seed": "stp модель",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "крыльчатка для мини трд 3д модель stp",
+      "count": 6,
+      "sources": [
+        {
+          "seed": "stp модель",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "pb8s2 8 3д модель stp",
+      "count": 5,
+      "sources": [
+        {
+          "seed": "stp модель",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "stp модель lu sk40 er25",
+      "count": 5,
+      "sources": [
+        {
+          "seed": "stp модель",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "winmodels модель stp 01 mini сборка",
+      "count": 5,
+      "sources": [
+        {
+          "seed": "stp модель",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "вентилятор trs8025 3d модель stp скачать",
+      "count": 5,
+      "sources": [
+        {
+          "seed": "stp модель",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "замок l 77 88 модель stp",
+      "count": 5,
+      "sources": [
+        {
+          "seed": "stp модель",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "скачать stp модель sputnik ap24 32",
+      "count": 5,
+      "sources": [
+        {
+          "seed": "stp модель",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "слив с крыши трубы 3д модели stp",
+      "count": 5,
+      "sources": [
+        {
+          "seed": "stp модель",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "модель stp маркетинг",
+      "count": 4,
+      "sources": [
+        {
+          "seed": "модель stp маркетинг",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    }
+  ]
+}
