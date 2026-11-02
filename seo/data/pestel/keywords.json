@@ -1,0 +1,1902 @@
+{
+  "page_id": "pestel",
+  "status": "complete",
+  "topic": "PESTEL-анализ",
+  "primary_cluster": [
+    {
+      "keyword": "свот анализ",
+      "count": 10828,
+      "sources": [
+        {
+          "seed": "пест анализ",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "пест это",
+      "count": 7952,
+      "sources": [
+        {
+          "seed": "pest анализ",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "pest анализ",
+      "count": 7317,
+      "sources": [
+        {
+          "seed": "pest анализ",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "pest анализ",
+          "kind": "results"
+        },
+        {
+          "seed": "пест анализ",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "swot анализ это",
+      "count": 5477,
+      "sources": [
+        {
+          "seed": "пест анализ",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "пест анализ",
+      "count": 2973,
+      "sources": [
+        {
+          "seed": "пест анализ",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "пест анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "пест контроль",
+      "count": 1853,
+      "sources": [
+        {
+          "seed": "pest анализ",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "pestel анализ",
+      "count": 1558,
+      "sources": [
+        {
+          "seed": "pestel анализ",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "pestel анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "swot и pest анализ",
+      "count": 1166,
+      "sources": [
+        {
+          "seed": "pest анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "pest анализ внешней среды",
+      "count": 743,
+      "sources": [
+        {
+          "seed": "pest анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "матрица pest анализа",
+      "count": 513,
+      "sources": [
+        {
+          "seed": "pest анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "анализ внешней среды организации pest",
+      "count": 394,
+      "sources": [
+        {
+          "seed": "pest анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "пест контроль это",
+      "count": 388,
+      "sources": [
+        {
+          "seed": "pestel анализ",
+          "kind": "associations"
+        },
+        {
+          "seed": "pest анализ",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "pest анализ компании",
+      "count": 340,
+      "sources": [
+        {
+          "seed": "pest анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "факторы pestel",
+      "count": 292,
+      "sources": [
+        {
+          "seed": "факторы pestel",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "пест контроль что это",
+      "count": 247,
+      "sources": [
+        {
+          "seed": "pestel анализ",
+          "kind": "associations"
+        },
+        {
+          "seed": "pest анализ",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "pest анализ стратегическое планирование",
+      "count": 237,
+      "sources": [
+        {
+          "seed": "pest анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "pest анализ пример",
+      "count": 235,
+      "sources": [
+        {
+          "seed": "pest анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "practical"
+    },
+    {
+      "keyword": "свот и пест анализ",
+      "count": 185,
+      "sources": [
+        {
+          "seed": "пест анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "пест анализ пример",
+      "count": 158,
+      "sources": [
+        {
+          "seed": "пест анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "practical"
+    },
+    {
+      "keyword": "pest анализ таблица",
+      "count": 148,
+      "sources": [
+        {
+          "seed": "pest анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "pest анализ в маркетинге",
+      "count": 97,
+      "sources": [
+        {
+          "seed": "pest анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "объектом pest анализа является",
+      "count": 81,
+      "sources": [
+        {
+          "seed": "pest анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "пестел анализ",
+      "count": 70,
+      "sources": [
+        {
+          "seed": "пестел анализ",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "пест анализ таблица",
+      "count": 61,
+      "sources": [
+        {
+          "seed": "пест анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "анализ макросреды pestel",
+      "count": 48,
+      "sources": [
+        {
+          "seed": "анализ макросреды pestel",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "pest анализ презентация",
+      "count": 43,
+      "sources": [
+        {
+          "seed": "pest анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "пример pest анализа предприятия",
+      "count": 37,
+      "sources": [
+        {
+          "seed": "pest анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "practical"
+    },
+    {
+      "keyword": "pest анализ как делать",
+      "count": 34,
+      "sources": [
+        {
+          "seed": "pest анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "пест анализ это простыми словами",
+      "count": 34,
+      "sources": [
+        {
+          "seed": "пест анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "pest анализ это простыми словами",
+      "count": 31,
+      "sources": [
+        {
+          "seed": "pest анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    }
+  ],
+  "secondary_clusters": {
+    "informational_question": [
+      {
+        "keyword": "пест контроль что это",
+        "count": 247,
+        "sources": [
+          {
+            "seed": "pestel анализ",
+            "kind": "associations"
+          },
+          {
+            "seed": "pest анализ",
+            "kind": "associations"
+          }
+        ],
+        "intent": "informational_question"
+      },
+      {
+        "keyword": "pest анализ как делать",
+        "count": 34,
+        "sources": [
+          {
+            "seed": "pest анализ",
+            "kind": "results"
+          }
+        ],
+        "intent": "informational_question"
+      },
+      {
+        "keyword": "что изучает pest анализ",
+        "count": 31,
+        "sources": [
+          {
+            "seed": "pest анализ",
+            "kind": "results"
+          }
+        ],
+        "intent": "informational_question"
+      },
+      {
+        "keyword": "как провести pest анализ",
+        "count": 27,
+        "sources": [
+          {
+            "seed": "pest анализ",
+            "kind": "results"
+          }
+        ],
+        "intent": "informational_question"
+      },
+      {
+        "keyword": "как выглядит пест анализ",
+        "count": 24,
+        "sources": [
+          {
+            "seed": "пест анализ",
+            "kind": "results"
+          }
+        ],
+        "intent": "informational_question"
+      },
+      {
+        "keyword": "как делать пест анализ",
+        "count": 23,
+        "sources": [
+          {
+            "seed": "пест анализ",
+            "kind": "results"
+          }
+        ],
+        "intent": "informational_question"
+      },
+      {
+        "keyword": "pest анализ как сделать",
+        "count": 17,
+        "sources": [
+          {
+            "seed": "pest анализ",
+            "kind": "results"
+          }
+        ],
+        "intent": "informational_question"
+      },
+      {
+        "keyword": "pest анализ как читается",
+        "count": 15,
+        "sources": [
+          {
+            "seed": "pest анализ",
+            "kind": "results"
+          }
+        ],
+        "intent": "informational_question"
+      },
+      {
+        "keyword": "как сделать пест анализ",
+        "count": 14,
+        "sources": [
+          {
+            "seed": "пест анализ",
+            "kind": "results"
+          }
+        ],
+        "intent": "informational_question"
+      },
+      {
+        "keyword": "pestel анализ как делать",
+        "count": 12,
+        "sources": [
+          {
+            "seed": "pestel анализ",
+            "kind": "results"
+          }
+        ],
+        "intent": "informational_question"
+      },
+      {
+        "keyword": "пестел анализ что такое",
+        "count": 11,
+        "sources": [
+          {
+            "seed": "пестел анализ",
+            "kind": "results"
+          }
+        ],
+        "intent": "informational_question"
+      },
+      {
+        "keyword": "pestel анализ как читается",
+        "count": 9,
+        "sources": [
+          {
+            "seed": "pestel анализ",
+            "kind": "results"
+          }
+        ],
+        "intent": "informational_question"
+      },
+      {
+        "keyword": "как делается пест анализ",
+        "count": 9,
+        "sources": [
+          {
+            "seed": "пест анализ",
+            "kind": "results"
+          }
+        ],
+        "intent": "informational_question"
+      }
+    ],
+    "practical": [
+      {
+        "keyword": "pest анализ пример",
+        "count": 235,
+        "sources": [
+          {
+            "seed": "pest анализ",
+            "kind": "results"
+          }
+        ],
+        "intent": "practical"
+      },
+      {
+        "keyword": "пест анализ пример",
+        "count": 158,
+        "sources": [
+          {
+            "seed": "пест анализ",
+            "kind": "results"
+          }
+        ],
+        "intent": "practical"
+      },
+      {
+        "keyword": "пример pest анализа предприятия",
+        "count": 37,
+        "sources": [
+          {
+            "seed": "pest анализ",
+            "kind": "results"
+          }
+        ],
+        "intent": "practical"
+      },
+      {
+        "keyword": "шаблон pest анализа",
+        "count": 28,
+        "sources": [
+          {
+            "seed": "pest анализ",
+            "kind": "results"
+          }
+        ],
+        "intent": "practical"
+      },
+      {
+        "keyword": "этапы проведения pest анализа",
+        "count": 28,
+        "sources": [
+          {
+            "seed": "pest анализ",
+            "kind": "results"
+          }
+        ],
+        "intent": "practical"
+      },
+      {
+        "keyword": "pestel анализ пример",
+        "count": 27,
+        "sources": [
+          {
+            "seed": "pestel анализ",
+            "kind": "results"
+          },
+          {
+            "seed": "pestel анализ пример",
+            "kind": "seed_total"
+          },
+          {
+            "seed": "pestel анализ пример",
+            "kind": "results"
+          }
+        ],
+        "intent": "practical"
+      },
+      {
+        "keyword": "пример пест анализа предприятия",
+        "count": 17,
+        "sources": [
+          {
+            "seed": "пест анализ",
+            "kind": "results"
+          }
+        ],
+        "intent": "practical"
+      },
+      {
+        "keyword": "пестел анализ пример",
+        "count": 4,
+        "sources": [
+          {
+            "seed": "пестел анализ пример",
+            "kind": "seed_total"
+          }
+        ],
+        "intent": "practical"
+      },
+      {
+        "keyword": "pest анализ пример производственного предприятия",
+        "count": 3,
+        "sources": [
+          {
+            "seed": "pest анализ",
+            "kind": "results"
+          }
+        ],
+        "intent": "practical"
+      }
+    ]
+  },
+  "questions": [
+    {
+      "keyword": "пест контроль что это",
+      "count": 247,
+      "sources": [
+        {
+          "seed": "pestel анализ",
+          "kind": "associations"
+        },
+        {
+          "seed": "pest анализ",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "pest анализ как делать",
+      "count": 34,
+      "sources": [
+        {
+          "seed": "pest анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "что изучает pest анализ",
+      "count": 31,
+      "sources": [
+        {
+          "seed": "pest анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "как провести pest анализ",
+      "count": 27,
+      "sources": [
+        {
+          "seed": "pest анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "как выглядит пест анализ",
+      "count": 24,
+      "sources": [
+        {
+          "seed": "пест анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "как делать пест анализ",
+      "count": 23,
+      "sources": [
+        {
+          "seed": "пест анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "pest анализ как сделать",
+      "count": 17,
+      "sources": [
+        {
+          "seed": "pest анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "pest анализ как читается",
+      "count": 15,
+      "sources": [
+        {
+          "seed": "pest анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "как сделать пест анализ",
+      "count": 14,
+      "sources": [
+        {
+          "seed": "пест анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "pestel анализ как делать",
+      "count": 12,
+      "sources": [
+        {
+          "seed": "pestel анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "пестел анализ что такое",
+      "count": 11,
+      "sources": [
+        {
+          "seed": "пестел анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "pestel анализ как читается",
+      "count": 9,
+      "sources": [
+        {
+          "seed": "pestel анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "как делается пест анализ",
+      "count": 9,
+      "sources": [
+        {
+          "seed": "пест анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational_question"
+    }
+  ],
+  "candidate_child_pages": [],
+  "possible_cannibalization": [],
+  "excluded": [
+    {
+      "phrase": "тест на дере",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "pestel анализ"
+    },
+    {
+      "phrase": "ұто тест",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "pestel анализ"
+    },
+    {
+      "phrase": "тест на тип",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "pestel анализ"
+    },
+    {
+      "phrase": "оценка за тест",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "pestel анализ"
+    },
+    {
+      "phrase": "тестирование это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "pestel анализ"
+    },
+    {
+      "phrase": "исследование это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "pestel анализ"
+    },
+    {
+      "phrase": "тест это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "pestel анализ"
+    },
+    {
+      "phrase": "e2e тестирование что это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "pestel анализ"
+    },
+    {
+      "phrase": "тест кто",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "pestel анализ"
+    },
+    {
+      "phrase": "uat тестирование это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "pestel анализ"
+    },
+    {
+      "phrase": "лабораторные исследования это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "pestel анализ"
+    },
+    {
+      "phrase": "ұто тест",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "пестел анализ"
+    },
+    {
+      "phrase": "оценка за тест",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "пестел анализ"
+    },
+    {
+      "phrase": "тестирование это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "пестел анализ"
+    },
+    {
+      "phrase": "исследование это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "пестел анализ"
+    },
+    {
+      "phrase": "тест это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "пестел анализ"
+    },
+    {
+      "phrase": "оценивание теста",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "пестел анализ"
+    },
+    {
+      "phrase": "проверка теста",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "пестел анализ"
+    },
+    {
+      "phrase": "оценивание тестов",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "пестел анализ"
+    },
+    {
+      "phrase": "оценить прохождение теста",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "пестел анализ"
+    },
+    {
+      "phrase": "тест к",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "пестел анализ"
+    },
+    {
+      "phrase": "критерии оценивания теста",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "пестел анализ"
+    },
+    {
+      "phrase": "оценка теста",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "пестел анализ"
+    },
+    {
+      "phrase": "тест какой",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "пестел анализ"
+    },
+    {
+      "phrase": "тест на дере",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "pest анализ"
+    },
+    {
+      "phrase": "ұто тест",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "pest анализ"
+    },
+    {
+      "phrase": "экоголик проверка состава",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "pest анализ"
+    },
+    {
+      "phrase": "экоголик проверить состав продукта",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "pest анализ"
+    },
+    {
+      "phrase": "ецпэ экспертиза",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "pest анализ"
+    },
+    {
+      "phrase": "лабораторные исследования это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "pest анализ"
+    },
+    {
+      "phrase": "гис тест пройти тестирование",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "pest анализ"
+    },
+    {
+      "phrase": "реферат на тему пест анализ",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "пест анализ"
+    },
+    {
+      "phrase": "ецпэ экспертиза",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "пест анализ"
+    },
+    {
+      "phrase": "лабораторные исследования это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "пест анализ"
+    },
+    {
+      "phrase": "гис тест пройти тестирование",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "пест анализ"
+    },
+    {
+      "phrase": "гсо это в лаборатории",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "пест анализ"
+    },
+    {
+      "phrase": "example com",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "pestel анализ пример"
+    },
+    {
+      "phrase": "тест на тип",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "pestel анализ пример"
+    },
+    {
+      "phrase": "аналитическая справка образец",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "pestel анализ пример"
+    },
+    {
+      "phrase": "for example",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "pestel анализ пример"
+    },
+    {
+      "phrase": "д тест что это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "pestel анализ пример"
+    },
+    {
+      "phrase": "тест это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "pestel анализ пример"
+    },
+    {
+      "phrase": "получение образцов для сравнительного исследования",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "pestel анализ пример"
+    },
+    {
+      "phrase": "методология исследования это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "pestel анализ пример"
+    },
+    {
+      "phrase": "постановление о получении образцов для сравнительного исследования",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "pestel анализ пример"
+    },
+    {
+      "phrase": "виды тестов",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "pestel анализ пример"
+    },
+    {
+      "phrase": "протокол получения образцов для сравнительного исследования",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "pestel анализ пример"
+    },
+    {
+      "phrase": "example example org",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "pestel анализ пример"
+    },
+    {
+      "phrase": "метод экспертных оценок это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "pestel анализ пример"
+    },
+    {
+      "phrase": "образцы для сравнительного исследования",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "pestel анализ пример"
+    },
+    {
+      "phrase": "доверенность на получение товарно материальных ценностей образец",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "pestel анализ пример"
+    },
+    {
+      "phrase": "протокол получения образцов для сравнительного исследования бланк",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "pestel анализ пример"
+    },
+    {
+      "phrase": "сбор образцов для сравнительного исследования",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "pestel анализ пример"
+    }
+  ],
+  "all_keywords": [
+    {
+      "keyword": "свот анализ",
+      "count": 10828,
+      "sources": [
+        {
+          "seed": "пест анализ",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "пест это",
+      "count": 7952,
+      "sources": [
+        {
+          "seed": "pest анализ",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "pest анализ",
+      "count": 7317,
+      "sources": [
+        {
+          "seed": "pest анализ",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "pest анализ",
+          "kind": "results"
+        },
+        {
+          "seed": "пест анализ",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "swot анализ это",
+      "count": 5477,
+      "sources": [
+        {
+          "seed": "пест анализ",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "пест анализ",
+      "count": 2973,
+      "sources": [
+        {
+          "seed": "пест анализ",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "пест анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "пест контроль",
+      "count": 1853,
+      "sources": [
+        {
+          "seed": "pest анализ",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "pestel анализ",
+      "count": 1558,
+      "sources": [
+        {
+          "seed": "pestel анализ",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "pestel анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "swot и pest анализ",
+      "count": 1166,
+      "sources": [
+        {
+          "seed": "pest анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "pest анализ внешней среды",
+      "count": 743,
+      "sources": [
+        {
+          "seed": "pest анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "матрица pest анализа",
+      "count": 513,
+      "sources": [
+        {
+          "seed": "pest анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "анализ внешней среды организации pest",
+      "count": 394,
+      "sources": [
+        {
+          "seed": "pest анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "пест контроль это",
+      "count": 388,
+      "sources": [
+        {
+          "seed": "pestel анализ",
+          "kind": "associations"
+        },
+        {
+          "seed": "pest анализ",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "pest анализ компании",
+      "count": 340,
+      "sources": [
+        {
+          "seed": "pest анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "факторы pestel",
+      "count": 292,
+      "sources": [
+        {
+          "seed": "факторы pestel",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "пест контроль что это",
+      "count": 247,
+      "sources": [
+        {
+          "seed": "pestel анализ",
+          "kind": "associations"
+        },
+        {
+          "seed": "pest анализ",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "pest анализ стратегическое планирование",
+      "count": 237,
+      "sources": [
+        {
+          "seed": "pest анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "pest анализ пример",
+      "count": 235,
+      "sources": [
+        {
+          "seed": "pest анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "practical"
+    },
+    {
+      "keyword": "свот и пест анализ",
+      "count": 185,
+      "sources": [
+        {
+          "seed": "пест анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "пест анализ пример",
+      "count": 158,
+      "sources": [
+        {
+          "seed": "пест анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "practical"
+    },
+    {
+      "keyword": "pest анализ таблица",
+      "count": 148,
+      "sources": [
+        {
+          "seed": "pest анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "pest анализ в маркетинге",
+      "count": 97,
+      "sources": [
+        {
+          "seed": "pest анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "объектом pest анализа является",
+      "count": 81,
+      "sources": [
+        {
+          "seed": "pest анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "пестел анализ",
+      "count": 70,
+      "sources": [
+        {
+          "seed": "пестел анализ",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "пест анализ таблица",
+      "count": 61,
+      "sources": [
+        {
+          "seed": "пест анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "анализ макросреды pestel",
+      "count": 48,
+      "sources": [
+        {
+          "seed": "анализ макросреды pestel",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "pest анализ презентация",
+      "count": 43,
+      "sources": [
+        {
+          "seed": "pest анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "пример pest анализа предприятия",
+      "count": 37,
+      "sources": [
+        {
+          "seed": "pest анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "practical"
+    },
+    {
+      "keyword": "pest анализ как делать",
+      "count": 34,
+      "sources": [
+        {
+          "seed": "pest анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "пест анализ это простыми словами",
+      "count": 34,
+      "sources": [
+        {
+          "seed": "пест анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "pest анализ это простыми словами",
+      "count": 31,
+      "sources": [
+        {
+          "seed": "pest анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "что изучает pest анализ",
+      "count": 31,
+      "sources": [
+        {
+          "seed": "pest анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "шаблон pest анализа",
+      "count": 28,
+      "sources": [
+        {
+          "seed": "pest анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "practical"
+    },
+    {
+      "keyword": "этапы проведения pest анализа",
+      "count": 28,
+      "sources": [
+        {
+          "seed": "pest анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "practical"
+    },
+    {
+      "keyword": "pestel анализ пример",
+      "count": 27,
+      "sources": [
+        {
+          "seed": "pestel анализ",
+          "kind": "results"
+        },
+        {
+          "seed": "pestel анализ пример",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "pestel анализ пример",
+          "kind": "results"
+        }
+      ],
+      "intent": "practical"
+    },
+    {
+      "keyword": "как провести pest анализ",
+      "count": 27,
+      "sources": [
+        {
+          "seed": "pest анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "как выглядит пест анализ",
+      "count": 24,
+      "sources": [
+        {
+          "seed": "пест анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "pest анализ bmw",
+      "count": 23,
+      "sources": [
+        {
+          "seed": "pest анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "как делать пест анализ",
+      "count": 23,
+      "sources": [
+        {
+          "seed": "пест анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "матрица пест анализа",
+      "count": 22,
+      "sources": [
+        {
+          "seed": "пест анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "pest анализ онлайн",
+      "count": 21,
+      "sources": [
+        {
+          "seed": "pest анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "способ анализа pestel это",
+      "count": 20,
+      "sources": [
+        {
+          "seed": "pestel анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "pest анализ газпром",
+      "count": 18,
+      "sources": [
+        {
+          "seed": "pest анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "pest анализ расшифровка",
+      "count": 18,
+      "sources": [
+        {
+          "seed": "pest анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "pest анализ как сделать",
+      "count": 17,
+      "sources": [
+        {
+          "seed": "pest анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "пример пест анализа предприятия",
+      "count": 17,
+      "sources": [
+        {
+          "seed": "пест анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "practical"
+    },
+    {
+      "keyword": "pest анализ как читается",
+      "count": 15,
+      "sources": [
+        {
+          "seed": "pest анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "установите верную последовательность этапов проведения pest анализа",
+      "count": 15,
+      "sources": [
+        {
+          "seed": "pest анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "для чего нужен pest анализ",
+      "count": 14,
+      "sources": [
+        {
+          "seed": "pest анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "как сделать пест анализ",
+      "count": 14,
+      "sources": [
+        {
+          "seed": "пест анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "политические факторы в пест анализе",
+      "count": 14,
+      "sources": [
+        {
+          "seed": "пест анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "пест анализ продуктового магазина",
+      "count": 13,
+      "sources": [
+        {
+          "seed": "пест анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "pestel анализ как делать",
+      "count": 12,
+      "sources": [
+        {
+          "seed": "pestel анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "готовый pest анализ рыбоперерабатывающего производства на примере",
+      "count": 12,
+      "sources": [
+        {
+          "seed": "pest анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "пест анализ в маркетинге",
+      "count": 12,
+      "sources": [
+        {
+          "seed": "пест анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "пест анализ презентация",
+      "count": 12,
+      "sources": [
+        {
+          "seed": "пест анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "пест анализ расшифровка",
+      "count": 12,
+      "sources": [
+        {
+          "seed": "пест анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "пестел анализ что такое",
+      "count": 11,
+      "sources": [
+        {
+          "seed": "пестел анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "видео pest анализ",
+      "count": 10,
+      "sources": [
+        {
+          "seed": "pest анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "пест анализ пятерочки",
+      "count": 10,
+      "sources": [
+        {
+          "seed": "пест анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "pestel анализ как читается",
+      "count": 9,
+      "sources": [
+        {
+          "seed": "pestel анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "pestel анализ расшифровка",
+      "count": 9,
+      "sources": [
+        {
+          "seed": "pestel анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "как делается пест анализ",
+      "count": 9,
+      "sources": [
+        {
+          "seed": "пест анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "скиллбокс пест анализ",
+      "count": 9,
+      "sources": [
+        {
+          "seed": "пест анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "pest и pestel анализ отличия",
+      "count": 8,
+      "sources": [
+        {
+          "seed": "pestel анализ",
+          "kind": "results"
+        },
+        {
+          "seed": "pest анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "пест анализ вкусвилл",
+      "count": 8,
+      "sources": [
+        {
+          "seed": "пест анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "пест анализ и свот анализ отличия",
+      "count": 8,
+      "sources": [
+        {
+          "seed": "пест анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "pest анализ вкусно и точка",
+      "count": 7,
+      "sources": [
+        {
+          "seed": "pest анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "для чего нужен пест анализ",
+      "count": 7,
+      "sources": [
+        {
+          "seed": "пест анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "пест анализ а део",
+      "count": 7,
+      "sources": [
+        {
+          "seed": "пест анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "pest анализ coca cola",
+      "count": 5,
+      "sources": [
+        {
+          "seed": "pest анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "pest анализ ао транснефть приволга",
+      "count": 5,
+      "sources": [
+        {
+          "seed": "pest анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "пошаговая инструкция по проведению пест анализа",
+      "count": 5,
+      "sources": [
+        {
+          "seed": "пест анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "честный знак это пест анализ технологический",
+      "count": 5,
+      "sources": [
+        {
+          "seed": "пест анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "пестел анализ пример",
+      "count": 4,
+      "sources": [
+        {
+          "seed": "пестел анализ пример",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "practical"
+    },
+    {
+      "keyword": "pest анализ пример производственного предприятия",
+      "count": 3,
+      "sources": [
+        {
+          "seed": "pest анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "practical"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "page_id": "pestel",
+  "title": "PESTEL-анализ",
+  "url": "https://1000factors.ru/strategy/pestel/",
+  "locale": "ru-RU",
+  "region": "225",
+  "seeds": [
+    "pestel анализ",
+    "пестел анализ",
+    "pest анализ",
+    "пест анализ",
+    "pestel анализ пример",
+    "пестел анализ пример",
+    "факторы pestel",
+    "анализ макросреды pestel"
+  ],
+  "collected_at": "2026-11-02",
+  "source": "Yandex Wordstat API",
+  "editorial_status": "needs_review"
+}
