@@ -1,0 +1,127 @@
+{
+  "page_id": "switch-interview",
+  "status": "complete",
+  "topic": "Switch Interview",
+  "primary_cluster": [
+    {
+      "keyword": "switch interview",
+      "count": 29,
+      "sources": [
+        {
+          "seed": "switch interview",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "switch интервью",
+      "count": 12,
+      "sources": [
+        {
+          "seed": "switch интервью",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "practical"
+    },
+    {
+      "keyword": "four forces of progress",
+      "count": 1,
+      "sources": [
+        {
+          "seed": "four forces of progress",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "интервью смена продукта",
+      "count": 1,
+      "sources": [
+        {
+          "seed": "интервью смена продукта",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "practical"
+    }
+  ],
+  "secondary_clusters": {
+    "practical": [
+      {
+        "keyword": "switch интервью",
+        "count": 12,
+        "sources": [
+          {
+            "seed": "switch интервью",
+            "kind": "seed_total"
+          }
+        ],
+        "intent": "practical"
+      },
+      {
+        "keyword": "интервью смена продукта",
+        "count": 1,
+        "sources": [
+          {
+            "seed": "интервью смена продукта",
+            "kind": "seed_total"
+          }
+        ],
+        "intent": "practical"
+      }
+    ]
+  },
+  "questions": [],
+  "candidate_child_pages": [],
+  "possible_cannibalization": [],
+  "excluded": [],
+  "all_keywords": [
+    {
+      "keyword": "switch interview",
+      "count": 29,
+      "sources": [
+        {
+          "seed": "switch interview",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "switch интервью",
+      "count": 12,
+      "sources": [
+        {
+          "seed": "switch интервью",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "practical"
+    },
+    {
+      "keyword": "four forces of progress",
+      "count": 1,
+      "sources": [
+        {
+          "seed": "four forces of progress",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "интервью смена продукта",
+      "count": 1,
+      "sources": [
+        {
+          "seed": "интервью смена продукта",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "practical"
+    }
+  ]
+}

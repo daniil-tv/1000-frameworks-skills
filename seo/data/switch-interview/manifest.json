@@ -1,0 +1,18 @@
+{
+  "page_id": "switch-interview",
+  "title": "Switch Interview",
+  "url": "https://1000factors.ru/strategy/switch-interview/",
+  "locale": "ru-RU",
+  "region": "225",
+  "seeds": [
+    "switch interview",
+    "switch интервью",
+    "интервью о переключении",
+    "jtbd switch interview",
+    "интервью смена продукта",
+    "four forces of progress"
+  ],
+  "collected_at": "2026-11-02",
+  "source": "Yandex Wordstat API",
+  "editorial_status": "needs_review"
+}
