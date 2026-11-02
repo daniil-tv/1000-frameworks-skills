@@ -5,10 +5,9 @@
   "locale": "ru-RU",
   "region": "225",
   "seeds": [
-    "outcome driven innovation",
-    "odi методология",
-    "работы клиента результаты",
-    "потребности клиента"
+    "ulwick outcome driven innovation",
+    "desired outcome metrics",
+    "job mapping"
   ],
   "collected_at": "2026-11-02",
   "source": "Yandex Wordstat API",
