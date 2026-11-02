@@ -8,33 +8,70 @@
   ],
   "seeds": [
     {
-      "seed": "ulwick outcome driven innovation",
-      "cache_hit": false,
-      "payload": {}
-    },
-    {
-      "seed": "desired outcome metrics",
-      "cache_hit": false,
-      "payload": {}
-    },
-    {
-      "seed": "job mapping",
+      "seed": "outcome driven innovation",
       "cache_hit": false,
       "payload": {
-        "totalCount": "422"
+        "totalCount": "9"
+      }
+    },
+    {
+      "seed": "outcome driven innovation methodology",
+      "cache_hit": false,
+      "payload": {}
+    },
+    {
+      "seed": "desired outcomes",
+      "cache_hit": false,
+      "payload": {
+        "totalCount": "58"
+      }
+    },
+    {
+      "seed": "desired outcome statement",
+      "cache_hit": false,
+      "payload": {}
+    },
+    {
+      "seed": "customer job map",
+      "cache_hit": false,
+      "payload": {
+        "totalCount": "12"
+      }
+    },
+    {
+      "seed": "job map methodology",
+      "cache_hit": false,
+      "payload": {}
+    },
+    {
+      "seed": "желаемые результаты клиента",
+      "cache_hit": false,
+      "payload": {
+        "totalCount": "411"
+      }
+    },
+    {
+      "seed": "карта работ клиента",
+      "cache_hit": false,
+      "payload": {
+        "totalCount": "1102"
       }
     }
   ],
   "dynamics": {
-    "seed": "ulwick outcome driven innovation",
+    "seed": "outcome driven innovation",
     "cache_hit": false,
     "payload": {
       "results": [
         {
-          "date": "2025-11-01T00:00:00Z"
+          "date": "2025-11-01T00:00:00Z",
+          "count": "5",
+          "share": 4.580163731557503e-08
         },
         {
-          "date": "2025-12-01T00:00:00Z"
+          "date": "2025-12-01T00:00:00Z",
+          "count": "7",
+          "share": 6.512670328018596e-08
         },
         {
           "date": "2026-01-01T00:00:00Z"
@@ -46,13 +83,19 @@
           "date": "2026-03-01T00:00:00Z"
         },
         {
-          "date": "2026-04-01T00:00:00Z"
+          "date": "2026-04-01T00:00:00Z",
+          "count": "10",
+          "share": 9.397883936665678e-08
         },
         {
-          "date": "2026-05-01T00:00:00Z"
+          "date": "2026-05-01T00:00:00Z",
+          "count": "8",
+          "share": 8.061423424071231e-08
         },
         {
-          "date": "2026-06-01T00:00:00Z"
+          "date": "2026-06-01T00:00:00Z",
+          "count": "9",
+          "share": 9.363167943155622e-08
         },
         {
           "date": "2026-07-01T00:00:00Z"

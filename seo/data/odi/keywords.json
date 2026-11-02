@@ -4,11 +4,55 @@
   "topic": "Outcome-Driven Innovation",
   "primary_cluster": [
     {
-      "keyword": "job mapping",
-      "count": 422,
+      "keyword": "карта работ клиента",
+      "count": 1102,
       "sources": [
         {
-          "seed": "job mapping",
+          "seed": "карта работ клиента",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "желаемые результаты клиента",
+      "count": 411,
+      "sources": [
+        {
+          "seed": "желаемые результаты клиента",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "desired outcomes",
+      "count": 58,
+      "sources": [
+        {
+          "seed": "desired outcomes",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "customer job map",
+      "count": 12,
+      "sources": [
+        {
+          "seed": "customer job map",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "outcome driven innovation",
+      "count": 9,
+      "sources": [
+        {
+          "seed": "outcome driven innovation",
           "kind": "seed_total"
         }
       ],
@@ -22,11 +66,55 @@
   "excluded": [],
   "all_keywords": [
     {
-      "keyword": "job mapping",
-      "count": 422,
+      "keyword": "карта работ клиента",
+      "count": 1102,
       "sources": [
         {
-          "seed": "job mapping",
+          "seed": "карта работ клиента",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "желаемые результаты клиента",
+      "count": 411,
+      "sources": [
+        {
+          "seed": "желаемые результаты клиента",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "desired outcomes",
+      "count": 58,
+      "sources": [
+        {
+          "seed": "desired outcomes",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "customer job map",
+      "count": 12,
+      "sources": [
+        {
+          "seed": "customer job map",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "outcome driven innovation",
+      "count": 9,
+      "sources": [
+        {
+          "seed": "outcome driven innovation",
           "kind": "seed_total"
         }
       ],

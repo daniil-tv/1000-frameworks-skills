@@ -5,9 +5,14 @@
   "locale": "ru-RU",
   "region": "225",
   "seeds": [
-    "ulwick outcome driven innovation",
-    "desired outcome metrics",
-    "job mapping"
+    "outcome driven innovation",
+    "outcome driven innovation methodology",
+    "desired outcomes",
+    "desired outcome statement",
+    "customer job map",
+    "job map methodology",
+    "желаемые результаты клиента",
+    "карта работ клиента"
   ],
   "collected_at": "2026-11-02",
   "source": "Yandex Wordstat API",
