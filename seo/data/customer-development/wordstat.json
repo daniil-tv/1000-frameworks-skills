@@ -1,0 +1,451 @@
+{
+  "page_id": "customer-development",
+  "status": "complete",
+  "source": "Yandex Wordstat API",
+  "collected_at": "2026-11-02",
+  "regions": [
+    "225"
+  ],
+  "seeds": [
+    {
+      "seed": "customer development",
+      "cache_hit": false,
+      "payload": {
+        "totalCount": "1026",
+        "results": [
+          {
+            "phrase": "customer development",
+            "count": "987"
+          },
+          {
+            "phrase": "методология customer development",
+            "count": "70"
+          },
+          {
+            "phrase": "customer development custdev",
+            "count": "44"
+          },
+          {
+            "phrase": "customer development перевод",
+            "count": "40"
+          },
+          {
+            "phrase": "customer development manager",
+            "count": "25"
+          },
+          {
+            "phrase": "изучение потребителей customer development",
+            "count": "25"
+          },
+          {
+            "phrase": "изучение потребителей customer development презентация",
+            "count": "10"
+          },
+          {
+            "phrase": "что такое customer development unit economy",
+            "count": "6"
+          }
+        ],
+        "associations": [
+          {
+            "phrase": "квинтэссенция это",
+            "count": "9187"
+          },
+          {
+            "phrase": "кульминация это",
+            "count": "18410"
+          },
+          {
+            "phrase": "девелопер это",
+            "count": "11517"
+          },
+          {
+            "phrase": "девелопмент это",
+            "count": "5593"
+          },
+          {
+            "phrase": "оказия это",
+            "count": "5652"
+          },
+          {
+            "phrase": "постулат это",
+            "count": "5996"
+          },
+          {
+            "phrase": "даст таун",
+            "count": "2653"
+          },
+          {
+            "phrase": "семинар это",
+            "count": "16905"
+          },
+          {
+            "phrase": "кто написал",
+            "count": "1491387"
+          },
+          {
+            "phrase": "префект это",
+            "count": "3207"
+          },
+          {
+            "phrase": "гавань это",
+            "count": "4798"
+          },
+          {
+            "phrase": "developer",
+            "count": "66698"
+          },
+          {
+            "phrase": "консул это",
+            "count": "2245"
+          },
+          {
+            "phrase": "колонизация это",
+            "count": "6147"
+          },
+          {
+            "phrase": "давай придумаем",
+            "count": "49306"
+          },
+          {
+            "phrase": "гикаю это",
+            "count": "858"
+          },
+          {
+            "phrase": "палантир это что такое",
+            "count": "1278"
+          }
+        ]
+      }
+    },
+    {
+      "seed": "кастдев",
+      "cache_hit": false,
+      "payload": {
+        "totalCount": "2673",
+        "results": [
+          {
+            "phrase": "кастдев",
+            "count": "2650"
+          },
+          {
+            "phrase": "кастдев это простыми словами",
+            "count": "96"
+          },
+          {
+            "phrase": "кастдев интервью",
+            "count": "68"
+          },
+          {
+            "phrase": "кастдев как проводить",
+            "count": "33"
+          },
+          {
+            "phrase": "кастдев в маркетинге это",
+            "count": "29"
+          },
+          {
+            "phrase": "вопросы для кастдева",
+            "count": "29"
+          },
+          {
+            "phrase": "кастдев как пишется",
+            "count": "26"
+          },
+          {
+            "phrase": "проведение кастдевов",
+            "count": "25"
+          },
+          {
+            "phrase": "касдев или кастдев",
+            "count": "13"
+          },
+          {
+            "phrase": "кастдевы и мастдевы что это",
+            "count": "7"
+          },
+          {
+            "phrase": "что значит кастдев",
+            "count": "7"
+          }
+        ],
+        "associations": [
+          {
+            "phrase": "кас рф",
+            "count": "84803"
+          },
+          {
+            "phrase": "каким ты был таким остался",
+            "count": "13406"
+          },
+          {
+            "phrase": "бутафория это",
+            "count": "3680"
+          },
+          {
+            "phrase": "зиждиться это",
+            "count": "3702"
+          },
+          {
+            "phrase": "костек",
+            "count": "24461"
+          },
+          {
+            "phrase": "каста это",
+            "count": "12605"
+          },
+          {
+            "phrase": "все что тебя касается",
+            "count": "17793"
+          },
+          {
+            "phrase": "непосредственно это",
+            "count": "75767"
+          },
+          {
+            "phrase": "кастом",
+            "count": "207184"
+          },
+          {
+            "phrase": "это все что останется",
+            "count": "60253"
+          },
+          {
+            "phrase": "что такое ополчение",
+            "count": "1799"
+          },
+          {
+            "phrase": "что такое кастет",
+            "count": "521"
+          },
+          {
+            "phrase": "что такое закулисье",
+            "count": "1897"
+          },
+          {
+            "phrase": "сидим едим рф",
+            "count": "2151"
+          },
+          {
+            "phrase": "кастом это",
+            "count": "1878"
+          },
+          {
+            "phrase": "все кастинги",
+            "count": "35018"
+          },
+          {
+            "phrase": "что такое каста",
+            "count": "4304"
+          },
+          {
+            "phrase": "касдев",
+            "count": "1185"
+          },
+          {
+            "phrase": "касдев это",
+            "count": "564"
+          }
+        ]
+      }
+    },
+    {
+      "seed": "кастдев интервью",
+      "cache_hit": false,
+      "payload": {
+        "totalCount": "69",
+        "results": [
+          {
+            "phrase": "кастдев интервью",
+            "count": "68"
+          }
+        ],
+        "associations": [
+          {
+            "phrase": "интервью",
+            "count": "2512117"
+          },
+          {
+            "phrase": "шелест интервью",
+            "count": "15222"
+          },
+          {
+            "phrase": "интервью фильм",
+            "count": "43466"
+          },
+          {
+            "phrase": "шелест последнее интервью",
+            "count": "10339"
+          },
+          {
+            "phrase": "арестович последнее интервью",
+            "count": "1951"
+          },
+          {
+            "phrase": "интервью это",
+            "count": "27656"
+          },
+          {
+            "phrase": "интервью соловьева",
+            "count": "5687"
+          },
+          {
+            "phrase": "интервью пригожина",
+            "count": "2068"
+          },
+          {
+            "phrase": "интервью род",
+            "count": "1147"
+          },
+          {
+            "phrase": "косаткина интервью",
+            "count": "260"
+          },
+          {
+            "phrase": "интервьюер и интервьюируемый",
+            "count": "193"
+          },
+          {
+            "phrase": "интервьюер и респондент",
+            "count": "352"
+          },
+          {
+            "phrase": "интервьюэр",
+            "count": "146"
+          }
+        ]
+      }
+    },
+    {
+      "seed": "метод customer development",
+      "cache_hit": false,
+      "payload": {
+        "totalCount": "37"
+      }
+    },
+    {
+      "seed": "customer discovery",
+      "cache_hit": false,
+      "payload": {
+        "totalCount": "75",
+        "results": [
+          {
+            "phrase": "customer discovery",
+            "count": "73"
+          }
+        ],
+        "associations": [
+          {
+            "phrase": "как найти канал в макс",
+            "count": "3644"
+          },
+          {
+            "phrase": "дискавери это",
+            "count": "2419"
+          },
+          {
+            "phrase": "discovercars",
+            "count": "253"
+          },
+          {
+            "phrase": "дискавери вселенная",
+            "count": "449"
+          },
+          {
+            "phrase": "kate mobile перестал работать",
+            "count": "1852"
+          },
+          {
+            "phrase": "дискавери 1",
+            "count": "5448"
+          },
+          {
+            "phrase": "дискавери как это работает",
+            "count": "339"
+          },
+          {
+            "phrase": "дискавери ченел",
+            "count": "1106"
+          }
+        ]
+      }
+    },
+    {
+      "seed": "customer validation",
+      "cache_hit": false,
+      "payload": {
+        "totalCount": "36"
+      }
+    },
+    {
+      "seed": "интервью с клиентами кастдев",
+      "cache_hit": false,
+      "payload": {
+        "totalCount": "1"
+      }
+    }
+  ],
+  "dynamics": {
+    "seed": "customer development",
+    "cache_hit": false,
+    "payload": {
+      "results": [
+        {
+          "date": "2025-11-01T00:00:00Z",
+          "count": "1796",
+          "share": 1.645194812375455e-05
+        },
+        {
+          "date": "2025-12-01T00:00:00Z",
+          "count": "1746",
+          "share": 1.624446056102924e-05
+        },
+        {
+          "date": "2026-01-01T00:00:00Z",
+          "count": "990",
+          "share": 1.0108118033490795e-05
+        },
+        {
+          "date": "2026-02-01T00:00:00Z",
+          "count": "1060",
+          "share": 1.1846414810051984e-05
+        },
+        {
+          "date": "2026-03-01T00:00:00Z",
+          "count": "1143",
+          "share": 1.1003942297590921e-05
+        },
+        {
+          "date": "2026-04-01T00:00:00Z",
+          "count": "1000",
+          "share": 9.39788393666568e-06
+        },
+        {
+          "date": "2026-05-01T00:00:00Z",
+          "count": "889",
+          "share": 8.958256779999156e-06
+        },
+        {
+          "date": "2026-06-01T00:00:00Z",
+          "count": "902",
+          "share": 9.383974983029302e-06
+        },
+        {
+          "date": "2026-07-01T00:00:00Z",
+          "count": "574",
+          "share": 5.618361714338591e-06
+        },
+        {
+          "date": "2026-08-01T00:00:00Z",
+          "count": "446",
+          "share": 4.206257149234871e-06
+        },
+        {
+          "date": "2026-09-01T00:00:00Z",
+          "count": "807",
+          "share": 7.324990451981599e-06
+        }
+      ]
+    }
+  }
+}

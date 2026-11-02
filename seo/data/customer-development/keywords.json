@@ -1,0 +1,1199 @@
+{
+  "page_id": "customer-development",
+  "status": "complete",
+  "topic": "Customer Development",
+  "primary_cluster": [
+    {
+      "keyword": "интервью",
+      "count": 2512117,
+      "sources": [
+        {
+          "seed": "кастдев интервью",
+          "kind": "associations"
+        }
+      ],
+      "intent": "practical"
+    },
+    {
+      "keyword": "интервью фильм",
+      "count": 43466,
+      "sources": [
+        {
+          "seed": "кастдев интервью",
+          "kind": "associations"
+        }
+      ],
+      "intent": "practical"
+    },
+    {
+      "keyword": "интервью это",
+      "count": 27656,
+      "sources": [
+        {
+          "seed": "кастдев интервью",
+          "kind": "associations"
+        }
+      ],
+      "intent": "practical"
+    },
+    {
+      "keyword": "шелест интервью",
+      "count": 15222,
+      "sources": [
+        {
+          "seed": "кастдев интервью",
+          "kind": "associations"
+        }
+      ],
+      "intent": "practical"
+    },
+    {
+      "keyword": "шелест последнее интервью",
+      "count": 10339,
+      "sources": [
+        {
+          "seed": "кастдев интервью",
+          "kind": "associations"
+        }
+      ],
+      "intent": "practical"
+    },
+    {
+      "keyword": "интервью соловьева",
+      "count": 5687,
+      "sources": [
+        {
+          "seed": "кастдев интервью",
+          "kind": "associations"
+        }
+      ],
+      "intent": "practical"
+    },
+    {
+      "keyword": "кастдев",
+      "count": 2673,
+      "sources": [
+        {
+          "seed": "кастдев",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "кастдев",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "интервью пригожина",
+      "count": 2068,
+      "sources": [
+        {
+          "seed": "кастдев интервью",
+          "kind": "associations"
+        }
+      ],
+      "intent": "practical"
+    },
+    {
+      "keyword": "арестович последнее интервью",
+      "count": 1951,
+      "sources": [
+        {
+          "seed": "кастдев интервью",
+          "kind": "associations"
+        }
+      ],
+      "intent": "practical"
+    },
+    {
+      "keyword": "интервью род",
+      "count": 1147,
+      "sources": [
+        {
+          "seed": "кастдев интервью",
+          "kind": "associations"
+        }
+      ],
+      "intent": "practical"
+    },
+    {
+      "keyword": "customer development",
+      "count": 1026,
+      "sources": [
+        {
+          "seed": "customer development",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "customer development",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "косаткина интервью",
+      "count": 260,
+      "sources": [
+        {
+          "seed": "кастдев интервью",
+          "kind": "associations"
+        }
+      ],
+      "intent": "practical"
+    },
+    {
+      "keyword": "кастдев это простыми словами",
+      "count": 96,
+      "sources": [
+        {
+          "seed": "кастдев",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "customer discovery",
+      "count": 75,
+      "sources": [
+        {
+          "seed": "customer discovery",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "customer discovery",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "методология customer development",
+      "count": 70,
+      "sources": [
+        {
+          "seed": "customer development",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "кастдев интервью",
+      "count": 69,
+      "sources": [
+        {
+          "seed": "кастдев",
+          "kind": "results"
+        },
+        {
+          "seed": "кастдев интервью",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "кастдев интервью",
+          "kind": "results"
+        }
+      ],
+      "intent": "practical"
+    },
+    {
+      "keyword": "customer development custdev",
+      "count": 44,
+      "sources": [
+        {
+          "seed": "customer development",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "customer development перевод",
+      "count": 40,
+      "sources": [
+        {
+          "seed": "customer development",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "метод customer development",
+      "count": 37,
+      "sources": [
+        {
+          "seed": "метод customer development",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "customer validation",
+      "count": 36,
+      "sources": [
+        {
+          "seed": "customer validation",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "кастдев как проводить",
+      "count": 33,
+      "sources": [
+        {
+          "seed": "кастдев",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "кастдев в маркетинге это",
+      "count": 29,
+      "sources": [
+        {
+          "seed": "кастдев",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "кастдев как пишется",
+      "count": 26,
+      "sources": [
+        {
+          "seed": "кастдев",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "customer development manager",
+      "count": 25,
+      "sources": [
+        {
+          "seed": "customer development",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "изучение потребителей customer development",
+      "count": 25,
+      "sources": [
+        {
+          "seed": "customer development",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "касдев или кастдев",
+      "count": 13,
+      "sources": [
+        {
+          "seed": "кастдев",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "изучение потребителей customer development презентация",
+      "count": 10,
+      "sources": [
+        {
+          "seed": "customer development",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "что значит кастдев",
+      "count": 7,
+      "sources": [
+        {
+          "seed": "кастдев",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "что такое customer development unit economy",
+      "count": 6,
+      "sources": [
+        {
+          "seed": "customer development",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "интервью с клиентами кастдев",
+      "count": 1,
+      "sources": [
+        {
+          "seed": "интервью с клиентами кастдев",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "practical"
+    }
+  ],
+  "secondary_clusters": {
+    "practical": [
+      {
+        "keyword": "интервью",
+        "count": 2512117,
+        "sources": [
+          {
+            "seed": "кастдев интервью",
+            "kind": "associations"
+          }
+        ],
+        "intent": "practical"
+      },
+      {
+        "keyword": "интервью фильм",
+        "count": 43466,
+        "sources": [
+          {
+            "seed": "кастдев интервью",
+            "kind": "associations"
+          }
+        ],
+        "intent": "practical"
+      },
+      {
+        "keyword": "интервью это",
+        "count": 27656,
+        "sources": [
+          {
+            "seed": "кастдев интервью",
+            "kind": "associations"
+          }
+        ],
+        "intent": "practical"
+      },
+      {
+        "keyword": "шелест интервью",
+        "count": 15222,
+        "sources": [
+          {
+            "seed": "кастдев интервью",
+            "kind": "associations"
+          }
+        ],
+        "intent": "practical"
+      },
+      {
+        "keyword": "шелест последнее интервью",
+        "count": 10339,
+        "sources": [
+          {
+            "seed": "кастдев интервью",
+            "kind": "associations"
+          }
+        ],
+        "intent": "practical"
+      },
+      {
+        "keyword": "интервью соловьева",
+        "count": 5687,
+        "sources": [
+          {
+            "seed": "кастдев интервью",
+            "kind": "associations"
+          }
+        ],
+        "intent": "practical"
+      },
+      {
+        "keyword": "интервью пригожина",
+        "count": 2068,
+        "sources": [
+          {
+            "seed": "кастдев интервью",
+            "kind": "associations"
+          }
+        ],
+        "intent": "practical"
+      },
+      {
+        "keyword": "арестович последнее интервью",
+        "count": 1951,
+        "sources": [
+          {
+            "seed": "кастдев интервью",
+            "kind": "associations"
+          }
+        ],
+        "intent": "practical"
+      },
+      {
+        "keyword": "интервью род",
+        "count": 1147,
+        "sources": [
+          {
+            "seed": "кастдев интервью",
+            "kind": "associations"
+          }
+        ],
+        "intent": "practical"
+      },
+      {
+        "keyword": "косаткина интервью",
+        "count": 260,
+        "sources": [
+          {
+            "seed": "кастдев интервью",
+            "kind": "associations"
+          }
+        ],
+        "intent": "practical"
+      },
+      {
+        "keyword": "кастдев интервью",
+        "count": 69,
+        "sources": [
+          {
+            "seed": "кастдев",
+            "kind": "results"
+          },
+          {
+            "seed": "кастдев интервью",
+            "kind": "seed_total"
+          },
+          {
+            "seed": "кастдев интервью",
+            "kind": "results"
+          }
+        ],
+        "intent": "practical"
+      },
+      {
+        "keyword": "интервью с клиентами кастдев",
+        "count": 1,
+        "sources": [
+          {
+            "seed": "интервью с клиентами кастдев",
+            "kind": "seed_total"
+          }
+        ],
+        "intent": "practical"
+      }
+    ],
+    "informational_question": [
+      {
+        "keyword": "кастдев как проводить",
+        "count": 33,
+        "sources": [
+          {
+            "seed": "кастдев",
+            "kind": "results"
+          }
+        ],
+        "intent": "informational_question"
+      },
+      {
+        "keyword": "кастдев как пишется",
+        "count": 26,
+        "sources": [
+          {
+            "seed": "кастдев",
+            "kind": "results"
+          }
+        ],
+        "intent": "informational_question"
+      },
+      {
+        "keyword": "что значит кастдев",
+        "count": 7,
+        "sources": [
+          {
+            "seed": "кастдев",
+            "kind": "results"
+          }
+        ],
+        "intent": "informational_question"
+      },
+      {
+        "keyword": "что такое customer development unit economy",
+        "count": 6,
+        "sources": [
+          {
+            "seed": "customer development",
+            "kind": "results"
+          }
+        ],
+        "intent": "informational_question"
+      }
+    ]
+  },
+  "questions": [
+    {
+      "keyword": "кастдев как проводить",
+      "count": 33,
+      "sources": [
+        {
+          "seed": "кастдев",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "кастдев как пишется",
+      "count": 26,
+      "sources": [
+        {
+          "seed": "кастдев",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "что значит кастдев",
+      "count": 7,
+      "sources": [
+        {
+          "seed": "кастдев",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "что такое customer development unit economy",
+      "count": 6,
+      "sources": [
+        {
+          "seed": "customer development",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational_question"
+    }
+  ],
+  "candidate_child_pages": [],
+  "possible_cannibalization": [],
+  "excluded": [
+    {
+      "phrase": "квинтэссенция это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "customer development"
+    },
+    {
+      "phrase": "кульминация это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "customer development"
+    },
+    {
+      "phrase": "девелопер это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "customer development"
+    },
+    {
+      "phrase": "девелопмент это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "customer development"
+    },
+    {
+      "phrase": "оказия это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "customer development"
+    },
+    {
+      "phrase": "постулат это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "customer development"
+    },
+    {
+      "phrase": "даст таун",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "customer development"
+    },
+    {
+      "phrase": "семинар это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "customer development"
+    },
+    {
+      "phrase": "кто написал",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "customer development"
+    },
+    {
+      "phrase": "префект это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "customer development"
+    },
+    {
+      "phrase": "гавань это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "customer development"
+    },
+    {
+      "phrase": "developer",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "customer development"
+    },
+    {
+      "phrase": "консул это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "customer development"
+    },
+    {
+      "phrase": "колонизация это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "customer development"
+    },
+    {
+      "phrase": "давай придумаем",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "customer development"
+    },
+    {
+      "phrase": "гикаю это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "customer development"
+    },
+    {
+      "phrase": "палантир это что такое",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "customer development"
+    },
+    {
+      "phrase": "вопросы для кастдева",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "кастдев"
+    },
+    {
+      "phrase": "проведение кастдевов",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "кастдев"
+    },
+    {
+      "phrase": "кастдевы и мастдевы что это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "кастдев"
+    },
+    {
+      "phrase": "кас рф",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "кастдев"
+    },
+    {
+      "phrase": "каким ты был таким остался",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "кастдев"
+    },
+    {
+      "phrase": "бутафория это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "кастдев"
+    },
+    {
+      "phrase": "зиждиться это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "кастдев"
+    },
+    {
+      "phrase": "костек",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "кастдев"
+    },
+    {
+      "phrase": "каста это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "кастдев"
+    },
+    {
+      "phrase": "все что тебя касается",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "кастдев"
+    },
+    {
+      "phrase": "непосредственно это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "кастдев"
+    },
+    {
+      "phrase": "кастом",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "кастдев"
+    },
+    {
+      "phrase": "это все что останется",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "кастдев"
+    },
+    {
+      "phrase": "что такое ополчение",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "кастдев"
+    },
+    {
+      "phrase": "что такое кастет",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "кастдев"
+    },
+    {
+      "phrase": "что такое закулисье",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "кастдев"
+    },
+    {
+      "phrase": "сидим едим рф",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "кастдев"
+    },
+    {
+      "phrase": "кастом это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "кастдев"
+    },
+    {
+      "phrase": "все кастинги",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "кастдев"
+    },
+    {
+      "phrase": "что такое каста",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "кастдев"
+    },
+    {
+      "phrase": "касдев",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "кастдев"
+    },
+    {
+      "phrase": "касдев это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "кастдев"
+    },
+    {
+      "phrase": "интервьюер и интервьюируемый",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "кастдев интервью"
+    },
+    {
+      "phrase": "интервьюер и респондент",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "кастдев интервью"
+    },
+    {
+      "phrase": "интервьюэр",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "кастдев интервью"
+    },
+    {
+      "phrase": "как найти канал в макс",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "customer discovery"
+    },
+    {
+      "phrase": "дискавери это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "customer discovery"
+    },
+    {
+      "phrase": "discovercars",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "customer discovery"
+    },
+    {
+      "phrase": "дискавери вселенная",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "customer discovery"
+    },
+    {
+      "phrase": "kate mobile перестал работать",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "customer discovery"
+    },
+    {
+      "phrase": "дискавери 1",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "customer discovery"
+    },
+    {
+      "phrase": "дискавери как это работает",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "customer discovery"
+    },
+    {
+      "phrase": "дискавери ченел",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "customer discovery"
+    }
+  ],
+  "all_keywords": [
+    {
+      "keyword": "интервью",
+      "count": 2512117,
+      "sources": [
+        {
+          "seed": "кастдев интервью",
+          "kind": "associations"
+        }
+      ],
+      "intent": "practical"
+    },
+    {
+      "keyword": "интервью фильм",
+      "count": 43466,
+      "sources": [
+        {
+          "seed": "кастдев интервью",
+          "kind": "associations"
+        }
+      ],
+      "intent": "practical"
+    },
+    {
+      "keyword": "интервью это",
+      "count": 27656,
+      "sources": [
+        {
+          "seed": "кастдев интервью",
+          "kind": "associations"
+        }
+      ],
+      "intent": "practical"
+    },
+    {
+      "keyword": "шелест интервью",
+      "count": 15222,
+      "sources": [
+        {
+          "seed": "кастдев интервью",
+          "kind": "associations"
+        }
+      ],
+      "intent": "practical"
+    },
+    {
+      "keyword": "шелест последнее интервью",
+      "count": 10339,
+      "sources": [
+        {
+          "seed": "кастдев интервью",
+          "kind": "associations"
+        }
+      ],
+      "intent": "practical"
+    },
+    {
+      "keyword": "интервью соловьева",
+      "count": 5687,
+      "sources": [
+        {
+          "seed": "кастдев интервью",
+          "kind": "associations"
+        }
+      ],
+      "intent": "practical"
+    },
+    {
+      "keyword": "кастдев",
+      "count": 2673,
+      "sources": [
+        {
+          "seed": "кастдев",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "кастдев",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "интервью пригожина",
+      "count": 2068,
+      "sources": [
+        {
+          "seed": "кастдев интервью",
+          "kind": "associations"
+        }
+      ],
+      "intent": "practical"
+    },
+    {
+      "keyword": "арестович последнее интервью",
+      "count": 1951,
+      "sources": [
+        {
+          "seed": "кастдев интервью",
+          "kind": "associations"
+        }
+      ],
+      "intent": "practical"
+    },
+    {
+      "keyword": "интервью род",
+      "count": 1147,
+      "sources": [
+        {
+          "seed": "кастдев интервью",
+          "kind": "associations"
+        }
+      ],
+      "intent": "practical"
+    },
+    {
+      "keyword": "customer development",
+      "count": 1026,
+      "sources": [
+        {
+          "seed": "customer development",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "customer development",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "косаткина интервью",
+      "count": 260,
+      "sources": [
+        {
+          "seed": "кастдев интервью",
+          "kind": "associations"
+        }
+      ],
+      "intent": "practical"
+    },
+    {
+      "keyword": "кастдев это простыми словами",
+      "count": 96,
+      "sources": [
+        {
+          "seed": "кастдев",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "customer discovery",
+      "count": 75,
+      "sources": [
+        {
+          "seed": "customer discovery",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "customer discovery",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "методология customer development",
+      "count": 70,
+      "sources": [
+        {
+          "seed": "customer development",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "кастдев интервью",
+      "count": 69,
+      "sources": [
+        {
+          "seed": "кастдев",
+          "kind": "results"
+        },
+        {
+          "seed": "кастдев интервью",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "кастдев интервью",
+          "kind": "results"
+        }
+      ],
+      "intent": "practical"
+    },
+    {
+      "keyword": "customer development custdev",
+      "count": 44,
+      "sources": [
+        {
+          "seed": "customer development",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "customer development перевод",
+      "count": 40,
+      "sources": [
+        {
+          "seed": "customer development",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "метод customer development",
+      "count": 37,
+      "sources": [
+        {
+          "seed": "метод customer development",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "customer validation",
+      "count": 36,
+      "sources": [
+        {
+          "seed": "customer validation",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "кастдев как проводить",
+      "count": 33,
+      "sources": [
+        {
+          "seed": "кастдев",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "кастдев в маркетинге это",
+      "count": 29,
+      "sources": [
+        {
+          "seed": "кастдев",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "кастдев как пишется",
+      "count": 26,
+      "sources": [
+        {
+          "seed": "кастдев",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "customer development manager",
+      "count": 25,
+      "sources": [
+        {
+          "seed": "customer development",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "изучение потребителей customer development",
+      "count": 25,
+      "sources": [
+        {
+          "seed": "customer development",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "касдев или кастдев",
+      "count": 13,
+      "sources": [
+        {
+          "seed": "кастдев",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "изучение потребителей customer development презентация",
+      "count": 10,
+      "sources": [
+        {
+          "seed": "customer development",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "что значит кастдев",
+      "count": 7,
+      "sources": [
+        {
+          "seed": "кастдев",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "что такое customer development unit economy",
+      "count": 6,
+      "sources": [
+        {
+          "seed": "customer development",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "интервью с клиентами кастдев",
+      "count": 1,
+      "sources": [
+        {
+          "seed": "интервью с клиентами кастдев",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "practical"
+    }
+  ]
+}

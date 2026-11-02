@@ -1,0 +1,19 @@
+{
+  "page_id": "customer-development",
+  "title": "Customer Development",
+  "url": "https://1000factors.ru/strategy/customer-development/",
+  "locale": "ru-RU",
+  "region": "225",
+  "seeds": [
+    "customer development",
+    "кастдев",
+    "кастдев интервью",
+    "метод customer development",
+    "customer discovery",
+    "customer validation",
+    "интервью с клиентами кастдев"
+  ],
+  "collected_at": "2026-11-02",
+  "source": "Yandex Wordstat API",
+  "editorial_status": "needs_review"
+}
