@@ -1,0 +1,200 @@
+{
+  "page_id": "opportunity-solution-tree",
+  "status": "complete",
+  "topic": "Opportunity Solution Tree",
+  "primary_cluster": [
+    {
+      "keyword": "дерево возможностей и решений",
+      "count": 86,
+      "sources": [
+        {
+          "seed": "дерево возможностей и решений",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "opportunity solution tree",
+      "count": 51,
+      "sources": [
+        {
+          "seed": "opportunity solution tree",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "opportunity solution tree",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "дерево возможностей продукт",
+      "count": 5,
+      "sources": [
+        {
+          "seed": "дерево возможностей продукт",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "opportunity solution tree пример",
+      "count": 1,
+      "sources": [
+        {
+          "seed": "opportunity solution tree пример",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "practical"
+    }
+  ],
+  "secondary_clusters": {
+    "practical": [
+      {
+        "keyword": "opportunity solution tree пример",
+        "count": 1,
+        "sources": [
+          {
+            "seed": "opportunity solution tree пример",
+            "kind": "seed_total"
+          }
+        ],
+        "intent": "practical"
+      }
+    ]
+  },
+  "questions": [],
+  "candidate_child_pages": [],
+  "possible_cannibalization": [],
+  "excluded": [
+    {
+      "phrase": "перерождение в аристократа со способностью анализа",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "opportunity solution tree"
+    },
+    {
+      "phrase": "librarian tidy up the arcane library",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "opportunity solution tree"
+    },
+    {
+      "phrase": "all the things she said",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "opportunity solution tree"
+    },
+    {
+      "phrase": "a simple life with my unobtrusive sister",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "opportunity solution tree"
+    },
+    {
+      "phrase": "fabric api 1.21 1",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "opportunity solution tree"
+    },
+    {
+      "phrase": "i can t think straight фильм 2007",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "opportunity solution tree"
+    },
+    {
+      "phrase": "beauty of joseon spf",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "opportunity solution tree"
+    },
+    {
+      "phrase": "i can t wait bob sinclar kiesza",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "opportunity solution tree"
+    },
+    {
+      "phrase": "i can t decide джейк ширз",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "opportunity solution tree"
+    },
+    {
+      "phrase": "уильям б дэвис",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "opportunity solution tree"
+    },
+    {
+      "phrase": "beauty of joseon relief sun rice probiotics",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "opportunity solution tree"
+    },
+    {
+      "phrase": "a simple life with my unobtrusive прохождение",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "opportunity solution tree"
+    },
+    {
+      "phrase": "i wish if only",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "opportunity solution tree"
+    },
+    {
+      "phrase": "солюшенс",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "opportunity solution tree"
+    },
+    {
+      "phrase": "i wish that i could lie",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "opportunity solution tree"
+    }
+  ],
+  "all_keywords": [
+    {
+      "keyword": "дерево возможностей и решений",
+      "count": 86,
+      "sources": [
+        {
+          "seed": "дерево возможностей и решений",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "opportunity solution tree",
+      "count": 51,
+      "sources": [
+        {
+          "seed": "opportunity solution tree",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "opportunity solution tree",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "дерево возможностей продукт",
+      "count": 5,
+      "sources": [
+        {
+          "seed": "дерево возможностей продукт",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "opportunity solution tree пример",
+      "count": 1,
+      "sources": [
+        {
+          "seed": "opportunity solution tree пример",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "practical"
+    }
+  ]
+}

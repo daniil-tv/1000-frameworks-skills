@@ -1,0 +1,181 @@
+{
+  "page_id": "opportunity-solution-tree",
+  "status": "complete",
+  "source": "Yandex Wordstat API",
+  "collected_at": "2026-11-02",
+  "regions": [
+    "225"
+  ],
+  "seeds": [
+    {
+      "seed": "opportunity solution tree",
+      "cache_hit": false,
+      "payload": {
+        "totalCount": "51",
+        "results": [
+          {
+            "phrase": "opportunity solution tree",
+            "count": "51"
+          }
+        ],
+        "associations": [
+          {
+            "phrase": "перерождение в аристократа со способностью анализа",
+            "count": "26408"
+          },
+          {
+            "phrase": "librarian tidy up the arcane library",
+            "count": "6711"
+          },
+          {
+            "phrase": "all the things she said",
+            "count": "14314"
+          },
+          {
+            "phrase": "a simple life with my unobtrusive sister",
+            "count": "4232"
+          },
+          {
+            "phrase": "fabric api 1.21 1",
+            "count": "2750"
+          },
+          {
+            "phrase": "i can t think straight фильм 2007",
+            "count": "1266"
+          },
+          {
+            "phrase": "beauty of joseon spf",
+            "count": "1117"
+          },
+          {
+            "phrase": "i can t wait bob sinclar kiesza",
+            "count": "413"
+          },
+          {
+            "phrase": "i can t decide джейк ширз",
+            "count": "1055"
+          },
+          {
+            "phrase": "уильям б дэвис",
+            "count": "314"
+          },
+          {
+            "phrase": "beauty of joseon relief sun rice probiotics",
+            "count": "599"
+          },
+          {
+            "phrase": "a simple life with my unobtrusive прохождение",
+            "count": "276"
+          },
+          {
+            "phrase": "i wish if only",
+            "count": "2279"
+          },
+          {
+            "phrase": "солюшенс",
+            "count": "18459"
+          },
+          {
+            "phrase": "i wish that i could lie",
+            "count": "1004"
+          }
+        ]
+      }
+    },
+    {
+      "seed": "дерево возможностей и решений",
+      "cache_hit": false,
+      "payload": {
+        "totalCount": "86"
+      }
+    },
+    {
+      "seed": "opportunity solution tree пример",
+      "cache_hit": false,
+      "payload": {
+        "totalCount": "1"
+      }
+    },
+    {
+      "seed": "дерево возможностей продукт",
+      "cache_hit": false,
+      "payload": {
+        "totalCount": "5"
+      }
+    },
+    {
+      "seed": "тереза торрес дерево возможностей",
+      "cache_hit": false,
+      "payload": {}
+    },
+    {
+      "seed": "opportunity solution tree шаблон",
+      "cache_hit": false,
+      "payload": {}
+    },
+    {
+      "seed": "continuous discovery opportunity solution tree",
+      "cache_hit": false,
+      "payload": {}
+    }
+  ],
+  "dynamics": {
+    "seed": "opportunity solution tree",
+    "cache_hit": false,
+    "payload": {
+      "results": [
+        {
+          "date": "2025-11-01T00:00:00Z",
+          "count": "12",
+          "share": 1.0992392955738006e-07
+        },
+        {
+          "date": "2025-12-01T00:00:00Z",
+          "count": "12",
+          "share": 1.1164577705174735e-07
+        },
+        {
+          "date": "2026-01-01T00:00:00Z"
+        },
+        {
+          "date": "2026-02-01T00:00:00Z",
+          "count": "7",
+          "share": 7.82310411984565e-08
+        },
+        {
+          "date": "2026-03-01T00:00:00Z",
+          "count": "15",
+          "share": 1.4440869156943465e-07
+        },
+        {
+          "date": "2026-04-01T00:00:00Z",
+          "count": "20",
+          "share": 1.8795767873331355e-07
+        },
+        {
+          "date": "2026-05-01T00:00:00Z",
+          "count": "16",
+          "share": 1.6122846848142462e-07
+        },
+        {
+          "date": "2026-06-01T00:00:00Z"
+        },
+        {
+          "date": "2026-07-01T00:00:00Z",
+          "count": "9",
+          "share": 8.80927794931138e-08
+        },
+        {
+          "date": "2026-08-01T00:00:00Z",
+          "count": "10",
+          "share": 9.431069841333792e-08
+        },
+        {
+          "date": "2026-09-01T00:00:00Z",
+          "count": "14",
+          "share": 1.2707542295878858e-07
+        }
+      ]
+    }
+  }
+}
