@@ -1,0 +1,102 @@
+{
+  "page_id": "business-model-environment-map",
+  "status": "complete",
+  "topic": "Business Model Environment Map",
+  "primary_cluster": [
+    {
+      "keyword": "внешняя среда бизнес модели",
+      "count": 53,
+      "sources": [
+        {
+          "seed": "внешняя среда бизнес модели",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "окружение бизнес модели",
+      "count": 18,
+      "sources": [
+        {
+          "seed": "окружение бизнес модели",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "business model environment",
+      "count": 9,
+      "sources": [
+        {
+          "seed": "business model environment",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "анализ окружения бизнес модели",
+      "count": 4,
+      "sources": [
+        {
+          "seed": "анализ окружения бизнес модели",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    }
+  ],
+  "secondary_clusters": {},
+  "questions": [],
+  "candidate_child_pages": [],
+  "possible_cannibalization": [],
+  "excluded": [],
+  "all_keywords": [
+    {
+      "keyword": "внешняя среда бизнес модели",
+      "count": 53,
+      "sources": [
+        {
+          "seed": "внешняя среда бизнес модели",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "окружение бизнес модели",
+      "count": 18,
+      "sources": [
+        {
+          "seed": "окружение бизнес модели",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "business model environment",
+      "count": 9,
+      "sources": [
+        {
+          "seed": "business model environment",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "анализ окружения бизнес модели",
+      "count": 4,
+      "sources": [
+        {
+          "seed": "анализ окружения бизнес модели",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    }
+  ]
+}
