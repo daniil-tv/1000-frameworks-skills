@@ -1,0 +1,50 @@
+{
+  "page": "learning-card",
+  "status": "qualitative_research_pending_wordstat",
+  "collected_on": "2026-11-06",
+  "primary_intent": "informational/how-to",
+  "keywords": [
+    {
+      "query": "learning card",
+      "role": "primary_candidate",
+      "frequency": null,
+      "frequency_verified": false
+    },
+    {
+      "query": "learning card strategyzer",
+      "role": "supporting_candidate",
+      "frequency": null,
+      "frequency_verified": false
+    },
+    {
+      "query": "карточка выводов эксперимента",
+      "role": "supporting_candidate",
+      "frequency": null,
+      "frequency_verified": false
+    },
+    {
+      "query": "анализ результатов теста гипотез",
+      "role": "supporting_candidate",
+      "frequency": null,
+      "frequency_verified": false
+    },
+    {
+      "query": "карточка результатов эксперимента",
+      "role": "supporting_candidate",
+      "frequency": null,
+      "frequency_verified": false
+    }
+  ],
+  "excluded_intents": [
+    "скачать неофициальный платный шаблон",
+    "общие запросы о маркетинге без названия методологии"
+  ],
+  "serp_verified": false,
+  "wordstat_verified": false,
+  "related_candidates": [
+    "Test Card",
+    "Customer Development",
+    "Opportunity Solution Tree"
+  ],
+  "note": "Предварительные поисковые кластеры по смыслу статьи. Это не выгрузка Wordstat. Нельзя считать страницу SEO-approved до проверки частотности, SERP, релевантности и канонических URL."
+}
