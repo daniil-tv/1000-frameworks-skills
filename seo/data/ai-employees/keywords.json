@@ -1,0 +1,1726 @@
+{
+  "page_id": "ai-employees",
+  "status": "complete",
+  "topic": "ИИ-сотрудники для бизнеса",
+  "primary_cluster": [
+    {
+      "keyword": "профи для специалистов",
+      "count": 31920,
+      "sources": [
+        {
+          "seed": "ai сотрудники",
+          "kind": "associations"
+        },
+        {
+          "seed": "виртуальный сотрудник",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "цифровой сотрудник",
+      "count": 7559,
+      "sources": [
+        {
+          "seed": "цифровой сотрудник",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "цифровой сотрудник",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "ии сотрудник",
+      "count": 7107,
+      "sources": [
+        {
+          "seed": "ии сотрудники",
+          "kind": "results"
+        },
+        {
+          "seed": "ии сотрудник",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "ии сотрудник",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "ии сотрудники",
+      "count": 7107,
+      "sources": [
+        {
+          "seed": "ии сотрудники",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "искусственный интеллект сотрудники",
+      "count": 1228,
+      "sources": [
+        {
+          "seed": "искусственный интеллект сотрудники",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "виртуальный сотрудник",
+      "count": 1074,
+      "sources": [
+        {
+          "seed": "виртуальный сотрудник",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "виртуальный сотрудник",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "profi ru для специалистов",
+      "count": 742,
+      "sources": [
+        {
+          "seed": "виртуальный сотрудник",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "ai сотрудники",
+      "count": 732,
+      "sources": [
+        {
+          "seed": "ai сотрудники",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "сотрудник ai",
+      "count": 719,
+      "sources": [
+        {
+          "seed": "ai сотрудники",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "сотрудник агент ии",
+      "count": 357,
+      "sources": [
+        {
+          "seed": "ии сотрудники",
+          "kind": "results"
+        },
+        {
+          "seed": "ии сотрудник",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "система кадры вип версия для коммерческих организаций",
+      "count": 301,
+      "sources": [
+        {
+          "seed": "ии сотрудники для бизнеса",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "ии сотрудники для бизнеса",
+      "count": 224,
+      "sources": [
+        {
+          "seed": "ии сотрудники",
+          "kind": "results"
+        },
+        {
+          "seed": "ии сотрудник",
+          "kind": "results"
+        },
+        {
+          "seed": "ии сотрудники для бизнеса",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "ии сотрудники для бизнеса",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "ai employee",
+      "count": 147,
+      "sources": [
+        {
+          "seed": "ai employee",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "цифровой профиль сотрудника",
+      "count": 110,
+      "sources": [
+        {
+          "seed": "цифровой сотрудник",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "цифровые технологии обеспечивающие мобильность работы сотрудников организации",
+      "count": 77,
+      "sources": [
+        {
+          "seed": "цифровой сотрудник",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "витрина ии сервисов для сотрудников правительства москвы",
+      "count": 61,
+      "sources": [
+        {
+          "seed": "ии сотрудники",
+          "kind": "results"
+        },
+        {
+          "seed": "ии сотрудник",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "ии для контроля сотрудников",
+      "count": 59,
+      "sources": [
+        {
+          "seed": "ии сотрудники",
+          "kind": "results"
+        },
+        {
+          "seed": "ии сотрудник",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "как создать ии сотрудника",
+      "count": 51,
+      "sources": [
+        {
+          "seed": "ии сотрудники",
+          "kind": "results"
+        },
+        {
+          "seed": "ии сотрудник",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "характеристика на сотрудника ии",
+      "count": 51,
+      "sources": [
+        {
+          "seed": "ии сотрудники",
+          "kind": "results"
+        },
+        {
+          "seed": "ии сотрудник",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "цифровые сотрудники тренд",
+      "count": 48,
+      "sources": [
+        {
+          "seed": "цифровой сотрудник",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "ии для поиска сотрудников",
+      "count": 46,
+      "sources": [
+        {
+          "seed": "ии сотрудники",
+          "kind": "results"
+        },
+        {
+          "seed": "ии сотрудник",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "лига цифровой экономики отзывы сотрудников",
+      "count": 43,
+      "sources": [
+        {
+          "seed": "цифровой сотрудник",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "виртуальные ии сотрудники для бизнеса",
+      "count": 36,
+      "sources": [
+        {
+          "seed": "ии сотрудники",
+          "kind": "results"
+        },
+        {
+          "seed": "ии сотрудник",
+          "kind": "results"
+        },
+        {
+          "seed": "ии сотрудники для бизнеса",
+          "kind": "results"
+        },
+        {
+          "seed": "виртуальный сотрудник",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "ai помощник сотрудника",
+      "count": 32,
+      "sources": [
+        {
+          "seed": "ai сотрудники",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "ии в опросах сотрудников",
+      "count": 25,
+      "sources": [
+        {
+          "seed": "ии сотрудники",
+          "kind": "results"
+        },
+        {
+          "seed": "ии сотрудник",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "сокращение сотрудников из за ии",
+      "count": 15,
+      "sources": [
+        {
+          "seed": "ии сотрудники",
+          "kind": "results"
+        },
+        {
+          "seed": "ии сотрудник",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "высшая школа искусственного интеллекта отзывы сотрудников",
+      "count": 13,
+      "sources": [
+        {
+          "seed": "искусственный интеллект сотрудники",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "ии заменит офисных сотрудников",
+      "count": 12,
+      "sources": [
+        {
+          "seed": "ии сотрудники",
+          "kind": "results"
+        },
+        {
+          "seed": "ии сотрудник",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "макрон цифровые системы отзывы сотрудников",
+      "count": 12,
+      "sources": [
+        {
+          "seed": "цифровой сотрудник",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "ai up отзывы сотрудников",
+      "count": 11,
+      "sources": [
+        {
+          "seed": "ai сотрудники",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    }
+  ],
+  "secondary_clusters": {
+    "informational_question": [
+      {
+        "keyword": "как создать ии сотрудника",
+        "count": 51,
+        "sources": [
+          {
+            "seed": "ии сотрудники",
+            "kind": "results"
+          },
+          {
+            "seed": "ии сотрудник",
+            "kind": "results"
+          }
+        ],
+        "intent": "informational_question"
+      },
+      {
+        "keyword": "как называется сотрудник который работает с ии",
+        "count": 7,
+        "sources": [
+          {
+            "seed": "ии сотрудники",
+            "kind": "results"
+          },
+          {
+            "seed": "ии сотрудник",
+            "kind": "results"
+          }
+        ],
+        "intent": "informational_question"
+      },
+      {
+        "keyword": "видео пранк как ии заменяет сотрудников созвон",
+        "count": 5,
+        "sources": [
+          {
+            "seed": "ии сотрудники",
+            "kind": "results"
+          },
+          {
+            "seed": "ии сотрудник",
+            "kind": "results"
+          }
+        ],
+        "intent": "informational_question"
+      }
+    ],
+    "commercial": [
+      {
+        "keyword": "корпоративное электронное обучение сотрудников цифровым коммуникациям",
+        "count": 14,
+        "sources": [
+          {
+            "seed": "цифровой сотрудник",
+            "kind": "results"
+          }
+        ],
+        "intent": "commercial"
+      },
+      {
+        "keyword": "обучение по созданию цифровых сотрудников",
+        "count": 7,
+        "sources": [
+          {
+            "seed": "цифровой сотрудник",
+            "kind": "results"
+          }
+        ],
+        "intent": "commercial"
+      }
+    ]
+  },
+  "questions": [
+    {
+      "keyword": "как создать ии сотрудника",
+      "count": 51,
+      "sources": [
+        {
+          "seed": "ии сотрудники",
+          "kind": "results"
+        },
+        {
+          "seed": "ии сотрудник",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "как называется сотрудник который работает с ии",
+      "count": 7,
+      "sources": [
+        {
+          "seed": "ии сотрудники",
+          "kind": "results"
+        },
+        {
+          "seed": "ии сотрудник",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "видео пранк как ии заменяет сотрудников созвон",
+      "count": 5,
+      "sources": [
+        {
+          "seed": "ии сотрудники",
+          "kind": "results"
+        },
+        {
+          "seed": "ии сотрудник",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational_question"
+    }
+  ],
+  "candidate_child_pages": [
+    {
+      "keyword": "корпоративное электронное обучение сотрудников цифровым коммуникациям",
+      "count": 14,
+      "status": "planned_candidate"
+    },
+    {
+      "keyword": "обучение по созданию цифровых сотрудников",
+      "count": 7,
+      "status": "planned_candidate"
+    }
+  ],
+  "possible_cannibalization": [],
+  "excluded": [
+    {
+      "phrase": "моя работа",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ии сотрудники"
+    },
+    {
+      "phrase": "отдел кадров",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ии сотрудники"
+    },
+    {
+      "phrase": "должность",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ии сотрудники"
+    },
+    {
+      "phrase": "кадры фильм",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ии сотрудники"
+    },
+    {
+      "phrase": "работодатель это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ии сотрудники"
+    },
+    {
+      "phrase": "специалист ру",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ии сотрудники"
+    },
+    {
+      "phrase": "здравствуйте еще ищете специалиста",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ии сотрудники"
+    },
+    {
+      "phrase": "вкк центр персонал что это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ии сотрудники"
+    },
+    {
+      "phrase": "управление персоналом",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ии сотрудники"
+    },
+    {
+      "phrase": "специалист по кадрам",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ии сотрудники"
+    },
+    {
+      "phrase": "рабочий",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ии сотрудники"
+    },
+    {
+      "phrase": "специалист это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ии сотрудники"
+    },
+    {
+      "phrase": "вакансии для хороших людей",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ии сотрудники"
+    },
+    {
+      "phrase": "специалист по кадрам вакансии",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ии сотрудники"
+    },
+    {
+      "phrase": "кто такой методист",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ии сотрудники"
+    },
+    {
+      "phrase": "персонал это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ии сотрудники"
+    },
+    {
+      "phrase": "работник это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ии сотрудники"
+    },
+    {
+      "phrase": "правила работы с персоналом",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ии сотрудники"
+    },
+    {
+      "phrase": "моя работа",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ии сотрудник"
+    },
+    {
+      "phrase": "отдел кадров",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ии сотрудник"
+    },
+    {
+      "phrase": "должность",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ии сотрудник"
+    },
+    {
+      "phrase": "кадры фильм",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ии сотрудник"
+    },
+    {
+      "phrase": "работодатель это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ии сотрудник"
+    },
+    {
+      "phrase": "специалист ру",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ии сотрудник"
+    },
+    {
+      "phrase": "здравствуйте еще ищете специалиста",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ии сотрудник"
+    },
+    {
+      "phrase": "вкк центр персонал что это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ии сотрудник"
+    },
+    {
+      "phrase": "управление персоналом",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ии сотрудник"
+    },
+    {
+      "phrase": "специалист по кадрам",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ии сотрудник"
+    },
+    {
+      "phrase": "рабочий",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ии сотрудник"
+    },
+    {
+      "phrase": "специалист это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ии сотрудник"
+    },
+    {
+      "phrase": "вакансии для хороших людей",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ии сотрудник"
+    },
+    {
+      "phrase": "специалист по кадрам вакансии",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ии сотрудник"
+    },
+    {
+      "phrase": "кто такой методист",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ии сотрудник"
+    },
+    {
+      "phrase": "персонал это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ии сотрудник"
+    },
+    {
+      "phrase": "работник это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ии сотрудник"
+    },
+    {
+      "phrase": "правила работы с персоналом",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ии сотрудник"
+    },
+    {
+      "phrase": "аис кадры",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ai сотрудники"
+    },
+    {
+      "phrase": "hr специалист кто это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ai сотрудники"
+    },
+    {
+      "phrase": "кадры с сво",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ai сотрудники"
+    },
+    {
+      "phrase": "вкк центр персонал что это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ai сотрудники"
+    },
+    {
+      "phrase": "специалист по кадрам",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ai сотрудники"
+    },
+    {
+      "phrase": "вкк центр персонал",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ai сотрудники"
+    },
+    {
+      "phrase": "специалист по кадрам вакансии",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ai сотрудники"
+    },
+    {
+      "phrase": "окз специалист по кадрам",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ai сотрудники"
+    },
+    {
+      "phrase": "персонал это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ai сотрудники"
+    },
+    {
+      "phrase": "работа россии общероссийская база вакансий и резюме",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ai сотрудники"
+    },
+    {
+      "phrase": "правила работы с персоналом",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ai сотрудники"
+    },
+    {
+      "phrase": "управление персоналом это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ai сотрудники"
+    },
+    {
+      "phrase": "образец характеристики на работника с места работы",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ai сотрудники"
+    },
+    {
+      "phrase": "должностная инструкция специалиста по кадрам",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ai сотрудники"
+    },
+    {
+      "phrase": "должностное лицо это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ии сотрудники для бизнеса"
+    },
+    {
+      "phrase": "должностное лицо",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ии сотрудники для бизнеса"
+    },
+    {
+      "phrase": "вкк центр персонал что это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ии сотрудники для бизнеса"
+    },
+    {
+      "phrase": "управление персоналом",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ии сотрудники для бизнеса"
+    },
+    {
+      "phrase": "специалист по кадрам вакансии",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ии сотрудники для бизнеса"
+    },
+    {
+      "phrase": "cpo должность это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ии сотрудники для бизнеса"
+    },
+    {
+      "phrase": "правила работы с персоналом",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ии сотрудники для бизнеса"
+    },
+    {
+      "phrase": "управление персоналом это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ии сотрудники для бизнеса"
+    },
+    {
+      "phrase": "кто такой работодатель",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ии сотрудники для бизнеса"
+    },
+    {
+      "phrase": "ахч расшифровка должности в организации",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ии сотрудники для бизнеса"
+    },
+    {
+      "phrase": "категорийный менеджер это кто и чем занимается",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ии сотрудники для бизнеса"
+    },
+    {
+      "phrase": "торговое дело кем работать после колледжа",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ии сотрудники для бизнеса"
+    },
+    {
+      "phrase": "ауп это персонал кто относится",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ии сотрудники для бизнеса"
+    },
+    {
+      "phrase": "ооо вкк центр персонал",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ии сотрудники для бизнеса"
+    },
+    {
+      "phrase": "деловые качества работника",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ии сотрудники для бизнеса"
+    },
+    {
+      "phrase": "кто такой промоутер",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "виртуальный сотрудник"
+    },
+    {
+      "phrase": "кто такие тцк",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "виртуальный сотрудник"
+    },
+    {
+      "phrase": "дистанционная работа",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "виртуальный сотрудник"
+    },
+    {
+      "phrase": "hr специалист кто это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "виртуальный сотрудник"
+    },
+    {
+      "phrase": "портал работника",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "виртуальный сотрудник"
+    },
+    {
+      "phrase": "специалист ру",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "виртуальный сотрудник"
+    },
+    {
+      "phrase": "кто такой супервайзер",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "виртуальный сотрудник"
+    },
+    {
+      "phrase": "кто такой айтишник",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "виртуальный сотрудник"
+    },
+    {
+      "phrase": "специалист по кадрам",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "виртуальный сотрудник"
+    },
+    {
+      "phrase": "кто такой темщик",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "виртуальный сотрудник"
+    },
+    {
+      "phrase": "кто такие тцкашники",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "виртуальный сотрудник"
+    },
+    {
+      "phrase": "it специалист",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "виртуальный сотрудник"
+    },
+    {
+      "phrase": "hr специалист",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "виртуальный сотрудник"
+    },
+    {
+      "phrase": "специалист это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "виртуальный сотрудник"
+    },
+    {
+      "phrase": "специалист по кадрам вакансии",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "виртуальный сотрудник"
+    },
+    {
+      "phrase": "кем можно работать удаленно",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "виртуальный сотрудник"
+    },
+    {
+      "phrase": "айти специалист",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "виртуальный сотрудник"
+    },
+    {
+      "phrase": "цифровой след сотрудника курсовая работа",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "цифровой сотрудник"
+    },
+    {
+      "phrase": "итд ком",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "цифровой сотрудник"
+    },
+    {
+      "phrase": "моя работа",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "цифровой сотрудник"
+    },
+    {
+      "phrase": "диджитал",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "цифровой сотрудник"
+    },
+    {
+      "phrase": "цифровизация это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "цифровой сотрудник"
+    },
+    {
+      "phrase": "диджитал это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "цифровой сотрудник"
+    },
+    {
+      "phrase": "т технологии",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "цифровой сотрудник"
+    },
+    {
+      "phrase": "специалист ру",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "цифровой сотрудник"
+    },
+    {
+      "phrase": "что такое кто",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "цифровой сотрудник"
+    },
+    {
+      "phrase": "что такое эцп",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "цифровой сотрудник"
+    },
+    {
+      "phrase": "электронщик",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "цифровой сотрудник"
+    },
+    {
+      "phrase": "профессионализм это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "цифровой сотрудник"
+    },
+    {
+      "phrase": "it специалист",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "цифровой сотрудник"
+    },
+    {
+      "phrase": "специалист это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "цифровой сотрудник"
+    },
+    {
+      "phrase": "что такое цифровизация",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "цифровой сотрудник"
+    },
+    {
+      "phrase": "что такое диджитал",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "цифровой сотрудник"
+    },
+    {
+      "phrase": "персонал это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "цифровой сотрудник"
+    },
+    {
+      "phrase": "работник это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "цифровой сотрудник"
+    }
+  ],
+  "all_keywords": [
+    {
+      "keyword": "профи для специалистов",
+      "count": 31920,
+      "sources": [
+        {
+          "seed": "ai сотрудники",
+          "kind": "associations"
+        },
+        {
+          "seed": "виртуальный сотрудник",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "цифровой сотрудник",
+      "count": 7559,
+      "sources": [
+        {
+          "seed": "цифровой сотрудник",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "цифровой сотрудник",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "ии сотрудник",
+      "count": 7107,
+      "sources": [
+        {
+          "seed": "ии сотрудники",
+          "kind": "results"
+        },
+        {
+          "seed": "ии сотрудник",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "ии сотрудник",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "ии сотрудники",
+      "count": 7107,
+      "sources": [
+        {
+          "seed": "ии сотрудники",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "искусственный интеллект сотрудники",
+      "count": 1228,
+      "sources": [
+        {
+          "seed": "искусственный интеллект сотрудники",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "виртуальный сотрудник",
+      "count": 1074,
+      "sources": [
+        {
+          "seed": "виртуальный сотрудник",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "виртуальный сотрудник",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "profi ru для специалистов",
+      "count": 742,
+      "sources": [
+        {
+          "seed": "виртуальный сотрудник",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "ai сотрудники",
+      "count": 732,
+      "sources": [
+        {
+          "seed": "ai сотрудники",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "сотрудник ai",
+      "count": 719,
+      "sources": [
+        {
+          "seed": "ai сотрудники",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "сотрудник агент ии",
+      "count": 357,
+      "sources": [
+        {
+          "seed": "ии сотрудники",
+          "kind": "results"
+        },
+        {
+          "seed": "ии сотрудник",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "система кадры вип версия для коммерческих организаций",
+      "count": 301,
+      "sources": [
+        {
+          "seed": "ии сотрудники для бизнеса",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "ии сотрудники для бизнеса",
+      "count": 224,
+      "sources": [
+        {
+          "seed": "ии сотрудники",
+          "kind": "results"
+        },
+        {
+          "seed": "ии сотрудник",
+          "kind": "results"
+        },
+        {
+          "seed": "ии сотрудники для бизнеса",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "ии сотрудники для бизнеса",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "ai employee",
+      "count": 147,
+      "sources": [
+        {
+          "seed": "ai employee",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "цифровой профиль сотрудника",
+      "count": 110,
+      "sources": [
+        {
+          "seed": "цифровой сотрудник",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "цифровые технологии обеспечивающие мобильность работы сотрудников организации",
+      "count": 77,
+      "sources": [
+        {
+          "seed": "цифровой сотрудник",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "витрина ии сервисов для сотрудников правительства москвы",
+      "count": 61,
+      "sources": [
+        {
+          "seed": "ии сотрудники",
+          "kind": "results"
+        },
+        {
+          "seed": "ии сотрудник",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "ии для контроля сотрудников",
+      "count": 59,
+      "sources": [
+        {
+          "seed": "ии сотрудники",
+          "kind": "results"
+        },
+        {
+          "seed": "ии сотрудник",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "как создать ии сотрудника",
+      "count": 51,
+      "sources": [
+        {
+          "seed": "ии сотрудники",
+          "kind": "results"
+        },
+        {
+          "seed": "ии сотрудник",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "характеристика на сотрудника ии",
+      "count": 51,
+      "sources": [
+        {
+          "seed": "ии сотрудники",
+          "kind": "results"
+        },
+        {
+          "seed": "ии сотрудник",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "цифровые сотрудники тренд",
+      "count": 48,
+      "sources": [
+        {
+          "seed": "цифровой сотрудник",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "ии для поиска сотрудников",
+      "count": 46,
+      "sources": [
+        {
+          "seed": "ии сотрудники",
+          "kind": "results"
+        },
+        {
+          "seed": "ии сотрудник",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "лига цифровой экономики отзывы сотрудников",
+      "count": 43,
+      "sources": [
+        {
+          "seed": "цифровой сотрудник",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "виртуальные ии сотрудники для бизнеса",
+      "count": 36,
+      "sources": [
+        {
+          "seed": "ии сотрудники",
+          "kind": "results"
+        },
+        {
+          "seed": "ии сотрудник",
+          "kind": "results"
+        },
+        {
+          "seed": "ии сотрудники для бизнеса",
+          "kind": "results"
+        },
+        {
+          "seed": "виртуальный сотрудник",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "ai помощник сотрудника",
+      "count": 32,
+      "sources": [
+        {
+          "seed": "ai сотрудники",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "ии в опросах сотрудников",
+      "count": 25,
+      "sources": [
+        {
+          "seed": "ии сотрудники",
+          "kind": "results"
+        },
+        {
+          "seed": "ии сотрудник",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "сокращение сотрудников из за ии",
+      "count": 15,
+      "sources": [
+        {
+          "seed": "ии сотрудники",
+          "kind": "results"
+        },
+        {
+          "seed": "ии сотрудник",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "корпоративное электронное обучение сотрудников цифровым коммуникациям",
+      "count": 14,
+      "sources": [
+        {
+          "seed": "цифровой сотрудник",
+          "kind": "results"
+        }
+      ],
+      "intent": "commercial"
+    },
+    {
+      "keyword": "высшая школа искусственного интеллекта отзывы сотрудников",
+      "count": 13,
+      "sources": [
+        {
+          "seed": "искусственный интеллект сотрудники",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "ии заменит офисных сотрудников",
+      "count": 12,
+      "sources": [
+        {
+          "seed": "ии сотрудники",
+          "kind": "results"
+        },
+        {
+          "seed": "ии сотрудник",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "макрон цифровые системы отзывы сотрудников",
+      "count": 12,
+      "sources": [
+        {
+          "seed": "цифровой сотрудник",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "ai up отзывы сотрудников",
+      "count": 11,
+      "sources": [
+        {
+          "seed": "ai сотрудники",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "ано цифровая трансформация отзывы сотрудников",
+      "count": 11,
+      "sources": [
+        {
+          "seed": "цифровой сотрудник",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "ии для наблюдения камер сотрудников",
+      "count": 11,
+      "sources": [
+        {
+          "seed": "ии сотрудники",
+          "kind": "results"
+        },
+        {
+          "seed": "ии сотрудник",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "ано цифровой аудит отзывы сотрудников",
+      "count": 10,
+      "sources": [
+        {
+          "seed": "цифровой сотрудник",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "сотрудники anthropic поклоняются ии",
+      "count": 9,
+      "sources": [
+        {
+          "seed": "ии сотрудники",
+          "kind": "results"
+        },
+        {
+          "seed": "ии сотрудник",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "цифровой домовой отзывы сотрудников",
+      "count": 9,
+      "sources": [
+        {
+          "seed": "цифровой сотрудник",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "цифровой офис сотрудника рсхб",
+      "count": 9,
+      "sources": [
+        {
+          "seed": "цифровой сотрудник",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "отзывы сотрудников о компании цифровой рай",
+      "count": 8,
+      "sources": [
+        {
+          "seed": "цифровой сотрудник",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "alena hemkova sexy employee ai upscaled 1080p",
+      "count": 7,
+      "sources": [
+        {
+          "seed": "ai employee",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "как называется сотрудник который работает с ии",
+      "count": 7,
+      "sources": [
+        {
+          "seed": "ии сотрудники",
+          "kind": "results"
+        },
+        {
+          "seed": "ии сотрудник",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "обучение по созданию цифровых сотрудников",
+      "count": 7,
+      "sources": [
+        {
+          "seed": "цифровой сотрудник",
+          "kind": "results"
+        }
+      ],
+      "intent": "commercial"
+    },
+    {
+      "keyword": "центр развития цифровых платформ отзывы сотрудников",
+      "count": 7,
+      "sources": [
+        {
+          "seed": "цифровой сотрудник",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "цифровой след сотрудника digital footprint",
+      "count": 7,
+      "sources": [
+        {
+          "seed": "цифровой сотрудник",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "комэкспо ai нейрооператор отзывы сотрудников",
+      "count": 6,
+      "sources": [
+        {
+          "seed": "ai сотрудники",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "модель поведения ии на сотрудников",
+      "count": 6,
+      "sources": [
+        {
+          "seed": "ии сотрудники",
+          "kind": "results"
+        },
+        {
+          "seed": "ии сотрудник",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "первая цифровая стоматология отзывы сотрудников",
+      "count": 6,
+      "sources": [
+        {
+          "seed": "цифровой сотрудник",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "сегежа цифровые решения отзывы сотрудников",
+      "count": 6,
+      "sources": [
+        {
+          "seed": "цифровой сотрудник",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "видео пранк как ии заменяет сотрудников созвон",
+      "count": 5,
+      "sources": [
+        {
+          "seed": "ии сотрудники",
+          "kind": "results"
+        },
+        {
+          "seed": "ии сотрудник",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "единая цифровая платформа отзывы сотрудников черный список",
+      "count": 5,
+      "sources": [
+        {
+          "seed": "цифровой сотрудник",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "пгуас сентябрь 2026г институт цифрового управления сотрудники",
+      "count": 5,
+      "sources": [
+        {
+          "seed": "цифровой сотрудник",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "цифровое ядро в пятерочке отзывы сотрудников",
+      "count": 5,
+      "sources": [
+        {
+          "seed": "цифровой сотрудник",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "цифровой офис сотрудника россельхозбанк веб версия",
+      "count": 5,
+      "sources": [
+        {
+          "seed": "цифровой сотрудник",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    }
+  ]
+}

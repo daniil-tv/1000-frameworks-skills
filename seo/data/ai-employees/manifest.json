@@ -1,0 +1,20 @@
+{
+  "page_id": "ai-employees",
+  "title": "ИИ-сотрудники для бизнеса",
+  "url": "https://1000factors.ru/ai-employees/",
+  "locale": "ru-RU",
+  "region": "225",
+  "seeds": [
+    "ии сотрудники",
+    "ии сотрудник",
+    "ai сотрудники",
+    "ии сотрудники для бизнеса",
+    "виртуальный сотрудник",
+    "цифровой сотрудник",
+    "ai employee",
+    "искусственный интеллект сотрудники"
+  ],
+  "collected_at": "2026-11-06",
+  "source": "Yandex Wordstat API",
+  "editorial_status": "needs_review"
+}
