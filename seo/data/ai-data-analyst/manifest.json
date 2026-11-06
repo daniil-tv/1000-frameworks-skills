@@ -1,0 +1,18 @@
+{
+  "page_id": "ai-data-analyst",
+  "title": "ИИ-аналитик данных",
+  "url": "https://1000factors.ru/ai-employees/analytics/ai-data-analyst/",
+  "locale": "ru-RU",
+  "region": "225",
+  "seeds": [
+    "ии аналитик",
+    "ai аналитик",
+    "ai data analyst",
+    "ии аналитик данных",
+    "ии анализ данных",
+    "нейросеть для анализа данных"
+  ],
+  "collected_at": "2026-11-06",
+  "source": "Yandex Wordstat API",
+  "editorial_status": "needs_review"
+}

@@ -1,0 +1,2045 @@
+{
+  "page_id": "ai-data-analyst",
+  "status": "complete",
+  "topic": "ИИ-аналитик данных",
+  "primary_cluster": [
+    {
+      "keyword": "нейросеть бесплатно",
+      "count": 1246703,
+      "sources": [
+        {
+          "seed": "нейросеть для анализа данных",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "нейросеть ответ",
+      "count": 116929,
+      "sources": [
+        {
+          "seed": "нейросеть для анализа данных",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "нейросеть это",
+      "count": 92085,
+      "sources": [
+        {
+          "seed": "нейросеть для анализа данных",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "что такое нейросеть",
+      "count": 33168,
+      "sources": [
+        {
+          "seed": "нейросеть для анализа данных",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "нейросеть что это",
+      "count": 22242,
+      "sources": [
+        {
+          "seed": "нейросеть для анализа данных",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "ии аналитик",
+      "count": 7323,
+      "sources": [
+        {
+          "seed": "ии аналитик",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "ии аналитика",
+      "count": 7221,
+      "sources": [
+        {
+          "seed": "ии аналитик",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "анф анализ",
+      "count": 7197,
+      "sources": [
+        {
+          "seed": "ai аналитик",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "проверка на нейросеть",
+      "count": 6505,
+      "sources": [
+        {
+          "seed": "нейросеть для анализа данных",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "ии анализ данных",
+      "count": 5579,
+      "sources": [
+        {
+          "seed": "ии анализ данных",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "data analysis",
+      "count": 5173,
+      "sources": [
+        {
+          "seed": "ии аналитик данных",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "проверка на нейросеть текст",
+      "count": 2896,
+      "sources": [
+        {
+          "seed": "нейросеть для анализа данных",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "ии для анализа данных",
+      "count": 2737,
+      "sources": [
+        {
+          "seed": "ии анализ данных",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "ии для аналитики",
+      "count": 2335,
+      "sources": [
+        {
+          "seed": "ии аналитик",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "data analyst",
+      "count": 1852,
+      "sources": [
+        {
+          "seed": "ии аналитик",
+          "kind": "associations"
+        },
+        {
+          "seed": "ии аналитик данных",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "data analytics",
+      "count": 1484,
+      "sources": [
+        {
+          "seed": "ai аналитик",
+          "kind": "associations"
+        },
+        {
+          "seed": "ии аналитик данных",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "нейросеть для анализа данных",
+      "count": 1473,
+      "sources": [
+        {
+          "seed": "нейросеть для анализа данных",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "нейросеть для анализа данных",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "ии аналитик данных",
+      "count": 1428,
+      "sources": [
+        {
+          "seed": "ии аналитик данных",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "ии аналитика данных",
+      "count": 1406,
+      "sources": [
+        {
+          "seed": "ии аналитик",
+          "kind": "results"
+        },
+        {
+          "seed": "ии аналитик данных",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "эй бро нейросеть",
+      "count": 1288,
+      "sources": [
+        {
+          "seed": "нейросеть для анализа данных",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "ai аналитик",
+      "count": 1245,
+      "sources": [
+        {
+          "seed": "ai аналитик",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "ai аналитика",
+      "count": 1219,
+      "sources": [
+        {
+          "seed": "ai аналитик",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "ai аналитики",
+      "count": 1219,
+      "sources": [
+        {
+          "seed": "ai аналитик",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "нейросеть для поиска информации",
+      "count": 717,
+      "sources": [
+        {
+          "seed": "нейросеть для анализа данных",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "бизнес аналитик ии",
+      "count": 575,
+      "sources": [
+        {
+          "seed": "ии аналитик",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "ии финансовый аналитик",
+      "count": 534,
+      "sources": [
+        {
+          "seed": "ии аналитик",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "ии для аналитики данных",
+      "count": 479,
+      "sources": [
+        {
+          "seed": "ии аналитик",
+          "kind": "results"
+        },
+        {
+          "seed": "ии аналитик данных",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "каулограмма это за анализ",
+      "count": 472,
+      "sources": [
+        {
+          "seed": "ии аналитик данных",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "лучшая нейросеть для анализа данных",
+      "count": 435,
+      "sources": [
+        {
+          "seed": "нейросеть для анализа данных",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "ai analiz",
+      "count": 375,
+      "sources": [
+        {
+          "seed": "ии аналитик",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    }
+  ],
+  "secondary_clusters": {
+    "informational_question": [
+      {
+        "keyword": "что такое нейросеть",
+        "count": 33168,
+        "sources": [
+          {
+            "seed": "нейросеть для анализа данных",
+            "kind": "associations"
+          }
+        ],
+        "intent": "informational_question"
+      },
+      {
+        "keyword": "нейросеть что это",
+        "count": 22242,
+        "sources": [
+          {
+            "seed": "нейросеть для анализа данных",
+            "kind": "associations"
+          }
+        ],
+        "intent": "informational_question"
+      },
+      {
+        "keyword": "как ии помогает в финансовой аналитике",
+        "count": 316,
+        "sources": [
+          {
+            "seed": "ии аналитик",
+            "kind": "results"
+          }
+        ],
+        "intent": "informational_question"
+      },
+      {
+        "keyword": "кальпопроктеин анализ кала что показывает",
+        "count": 155,
+        "sources": [
+          {
+            "seed": "ии аналитик данных",
+            "kind": "associations"
+          }
+        ],
+        "intent": "informational_question"
+      },
+      {
+        "keyword": "дата аналитик что это",
+        "count": 144,
+        "sources": [
+          {
+            "seed": "ии анализ данных",
+            "kind": "associations"
+          }
+        ],
+        "intent": "informational_question"
+      },
+      {
+        "keyword": "как использовать ии для анализа данных",
+        "count": 97,
+        "sources": [
+          {
+            "seed": "ии анализ данных",
+            "kind": "results"
+          }
+        ],
+        "intent": "informational_question"
+      },
+      {
+        "keyword": "как ии помогает в финансовой аналитике тест",
+        "count": 26,
+        "sources": [
+          {
+            "seed": "ии аналитик",
+            "kind": "results"
+          }
+        ],
+        "intent": "informational_question"
+      },
+      {
+        "keyword": "как ии помогает при анализе данных",
+        "count": 7,
+        "sources": [
+          {
+            "seed": "ии анализ данных",
+            "kind": "results"
+          }
+        ],
+        "intent": "informational_question"
+      }
+    ],
+    "commercial": [
+      {
+        "keyword": "курс ии для аналитика",
+        "count": 176,
+        "sources": [
+          {
+            "seed": "ии аналитик",
+            "kind": "results"
+          }
+        ],
+        "intent": "commercial"
+      },
+      {
+        "keyword": "нейросети для анализа данных курс",
+        "count": 53,
+        "sources": [
+          {
+            "seed": "нейросеть для анализа данных",
+            "kind": "results"
+          }
+        ],
+        "intent": "commercial"
+      },
+      {
+        "keyword": "курс аналитик данных с модулем по ии",
+        "count": 27,
+        "sources": [
+          {
+            "seed": "ии аналитик",
+            "kind": "results"
+          },
+          {
+            "seed": "ии аналитик данных",
+            "kind": "results"
+          }
+        ],
+        "intent": "commercial"
+      },
+      {
+        "keyword": "курс ai для аналитиков",
+        "count": 15,
+        "sources": [
+          {
+            "seed": "ai аналитик",
+            "kind": "results"
+          }
+        ],
+        "intent": "commercial"
+      },
+      {
+        "keyword": "algo usdt курс трейдинг аналитика ии",
+        "count": 6,
+        "sources": [
+          {
+            "seed": "ии аналитик",
+            "kind": "results"
+          }
+        ],
+        "intent": "commercial"
+      }
+    ]
+  },
+  "questions": [
+    {
+      "keyword": "что такое нейросеть",
+      "count": 33168,
+      "sources": [
+        {
+          "seed": "нейросеть для анализа данных",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "нейросеть что это",
+      "count": 22242,
+      "sources": [
+        {
+          "seed": "нейросеть для анализа данных",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "как ии помогает в финансовой аналитике",
+      "count": 316,
+      "sources": [
+        {
+          "seed": "ии аналитик",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "кальпопроктеин анализ кала что показывает",
+      "count": 155,
+      "sources": [
+        {
+          "seed": "ии аналитик данных",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "дата аналитик что это",
+      "count": 144,
+      "sources": [
+        {
+          "seed": "ии анализ данных",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "как использовать ии для анализа данных",
+      "count": 97,
+      "sources": [
+        {
+          "seed": "ии анализ данных",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "как ии помогает в финансовой аналитике тест",
+      "count": 26,
+      "sources": [
+        {
+          "seed": "ии аналитик",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "как ии помогает при анализе данных",
+      "count": 7,
+      "sources": [
+        {
+          "seed": "ии анализ данных",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational_question"
+    }
+  ],
+  "candidate_child_pages": [
+    {
+      "keyword": "курс ии для аналитика",
+      "count": 176,
+      "status": "planned_candidate"
+    },
+    {
+      "keyword": "нейросети для анализа данных курс",
+      "count": 53,
+      "status": "planned_candidate"
+    },
+    {
+      "keyword": "курс аналитик данных с модулем по ии",
+      "count": 27,
+      "status": "planned_candidate"
+    },
+    {
+      "keyword": "курс ai для аналитиков",
+      "count": 15,
+      "status": "planned_candidate"
+    },
+    {
+      "keyword": "algo usdt курс трейдинг аналитика ии",
+      "count": 6,
+      "status": "planned_candidate"
+    }
+  ],
+  "possible_cannibalization": [],
+  "excluded": [
+    {
+      "phrase": "вакансия аналитик 1с со знанием ии",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ии аналитик"
+    },
+    {
+      "phrase": "анализируй это фильм 1999",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ии аналитик"
+    },
+    {
+      "phrase": "анализирующее скрещивание это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ии аналитик"
+    },
+    {
+      "phrase": "hybrid analysis",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ии аналитик"
+    },
+    {
+      "phrase": "аналитическое мышление",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ии аналитик"
+    },
+    {
+      "phrase": "аналитическая записка",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ии аналитик"
+    },
+    {
+      "phrase": "анализируй это фильм",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ии аналитик"
+    },
+    {
+      "phrase": "аналитический центр вциом",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ии аналитик"
+    },
+    {
+      "phrase": "artificial analysis",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ии аналитик"
+    },
+    {
+      "phrase": "аналитическая философия",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ии аналитик"
+    },
+    {
+      "phrase": "analytics",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ии аналитик"
+    },
+    {
+      "phrase": "аналитическая психология",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ии аналитик"
+    },
+    {
+      "phrase": "аналитическая химия это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ии аналитик"
+    },
+    {
+      "phrase": "analyze",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ии аналитик"
+    },
+    {
+      "phrase": "аналитический центр циом",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ии аналитик"
+    },
+    {
+      "phrase": "аналитичность",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ии аналитик"
+    },
+    {
+      "phrase": "анализируй это фильм 1999",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ai аналитик"
+    },
+    {
+      "phrase": "artificial analysis",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ai аналитик"
+    },
+    {
+      "phrase": "аналитическая философия",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ai аналитик"
+    },
+    {
+      "phrase": "анализируй это фильм 1999 актеры",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ai аналитик"
+    },
+    {
+      "phrase": "преаналитика",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ai аналитик"
+    },
+    {
+      "phrase": "тест на аналитическое мышление",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ai аналитик"
+    },
+    {
+      "phrase": "эйлер аналитические технологии",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ai аналитик"
+    },
+    {
+      "phrase": "аналитнет",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ai аналитик"
+    },
+    {
+      "phrase": "аналитичность",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ai аналитик"
+    },
+    {
+      "phrase": "анализируй это фильм 1999",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ии аналитик данных"
+    },
+    {
+      "phrase": "аналитическая справка",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ии аналитик данных"
+    },
+    {
+      "phrase": "аналитическая записка",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ии аналитик данных"
+    },
+    {
+      "phrase": "аналитическая философия",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ии аналитик данных"
+    },
+    {
+      "phrase": "аналитическая записка это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ии аналитик данных"
+    },
+    {
+      "phrase": "аналитическая психология",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ии аналитик данных"
+    },
+    {
+      "phrase": "аналитический отчет",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ии аналитик данных"
+    },
+    {
+      "phrase": "analyze",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ии аналитик данных"
+    },
+    {
+      "phrase": "аналитический центр циом",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ии аналитик данных"
+    },
+    {
+      "phrase": "эйлер аналитические технологии",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ии аналитик данных"
+    },
+    {
+      "phrase": "аналитическая записка пример",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ии аналитик данных"
+    },
+    {
+      "phrase": "моя лаборатория",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ии анализ данных"
+    },
+    {
+      "phrase": "анализатор это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ии анализ данных"
+    },
+    {
+      "phrase": "анализатор состоит из",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ии анализ данных"
+    },
+    {
+      "phrase": "измерение информации",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ии анализ данных"
+    },
+    {
+      "phrase": "аналитическая записка это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ии анализ данных"
+    },
+    {
+      "phrase": "алфавитный подход к измерению информации",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ии анализ данных"
+    },
+    {
+      "phrase": "лабораторные исследования это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ии анализ данных"
+    },
+    {
+      "phrase": "ивд что это такое в лаборатории",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ии анализ данных"
+    },
+    {
+      "phrase": "задать вопрос нейросети",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "нейросеть для анализа данных"
+    },
+    {
+      "phrase": "агрегатор нейросетей",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "нейросеть для анализа данных"
+    },
+    {
+      "phrase": "популярные нейросети",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "нейросеть для анализа данных"
+    },
+    {
+      "phrase": "какие есть нейросети",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "нейросеть для анализа данных"
+    },
+    {
+      "phrase": "вопрос нейросети",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "нейросеть для анализа данных"
+    },
+    {
+      "phrase": "все нейросети",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "нейросеть для анализа данных"
+    },
+    {
+      "phrase": "тест на нейроотличность или нейротипичность",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "нейросеть для анализа данных"
+    }
+  ],
+  "all_keywords": [
+    {
+      "keyword": "нейросеть бесплатно",
+      "count": 1246703,
+      "sources": [
+        {
+          "seed": "нейросеть для анализа данных",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "нейросеть ответ",
+      "count": 116929,
+      "sources": [
+        {
+          "seed": "нейросеть для анализа данных",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "нейросеть это",
+      "count": 92085,
+      "sources": [
+        {
+          "seed": "нейросеть для анализа данных",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "что такое нейросеть",
+      "count": 33168,
+      "sources": [
+        {
+          "seed": "нейросеть для анализа данных",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "нейросеть что это",
+      "count": 22242,
+      "sources": [
+        {
+          "seed": "нейросеть для анализа данных",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "ии аналитик",
+      "count": 7323,
+      "sources": [
+        {
+          "seed": "ии аналитик",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "ии аналитика",
+      "count": 7221,
+      "sources": [
+        {
+          "seed": "ии аналитик",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "анф анализ",
+      "count": 7197,
+      "sources": [
+        {
+          "seed": "ai аналитик",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "проверка на нейросеть",
+      "count": 6505,
+      "sources": [
+        {
+          "seed": "нейросеть для анализа данных",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "ии анализ данных",
+      "count": 5579,
+      "sources": [
+        {
+          "seed": "ии анализ данных",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "data analysis",
+      "count": 5173,
+      "sources": [
+        {
+          "seed": "ии аналитик данных",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "проверка на нейросеть текст",
+      "count": 2896,
+      "sources": [
+        {
+          "seed": "нейросеть для анализа данных",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "ии для анализа данных",
+      "count": 2737,
+      "sources": [
+        {
+          "seed": "ии анализ данных",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "ии для аналитики",
+      "count": 2335,
+      "sources": [
+        {
+          "seed": "ии аналитик",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "data analyst",
+      "count": 1852,
+      "sources": [
+        {
+          "seed": "ии аналитик",
+          "kind": "associations"
+        },
+        {
+          "seed": "ии аналитик данных",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "data analytics",
+      "count": 1484,
+      "sources": [
+        {
+          "seed": "ai аналитик",
+          "kind": "associations"
+        },
+        {
+          "seed": "ии аналитик данных",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "нейросеть для анализа данных",
+      "count": 1473,
+      "sources": [
+        {
+          "seed": "нейросеть для анализа данных",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "нейросеть для анализа данных",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "ии аналитик данных",
+      "count": 1428,
+      "sources": [
+        {
+          "seed": "ии аналитик данных",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "ии аналитика данных",
+      "count": 1406,
+      "sources": [
+        {
+          "seed": "ии аналитик",
+          "kind": "results"
+        },
+        {
+          "seed": "ии аналитик данных",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "эй бро нейросеть",
+      "count": 1288,
+      "sources": [
+        {
+          "seed": "нейросеть для анализа данных",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "ai аналитик",
+      "count": 1245,
+      "sources": [
+        {
+          "seed": "ai аналитик",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "ai аналитика",
+      "count": 1219,
+      "sources": [
+        {
+          "seed": "ai аналитик",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "ai аналитики",
+      "count": 1219,
+      "sources": [
+        {
+          "seed": "ai аналитик",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "нейросеть для поиска информации",
+      "count": 717,
+      "sources": [
+        {
+          "seed": "нейросеть для анализа данных",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "бизнес аналитик ии",
+      "count": 575,
+      "sources": [
+        {
+          "seed": "ии аналитик",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "ии финансовый аналитик",
+      "count": 534,
+      "sources": [
+        {
+          "seed": "ии аналитик",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "ии для аналитики данных",
+      "count": 479,
+      "sources": [
+        {
+          "seed": "ии аналитик",
+          "kind": "results"
+        },
+        {
+          "seed": "ии аналитик данных",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "каулограмма это за анализ",
+      "count": 472,
+      "sources": [
+        {
+          "seed": "ии аналитик данных",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "лучшая нейросеть для анализа данных",
+      "count": 435,
+      "sources": [
+        {
+          "seed": "нейросеть для анализа данных",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "ai analiz",
+      "count": 375,
+      "sources": [
+        {
+          "seed": "ии аналитик",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "анализ данных и технологии ии",
+      "count": 342,
+      "sources": [
+        {
+          "seed": "ии анализ данных",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "как ии помогает в финансовой аналитике",
+      "count": 316,
+      "sources": [
+        {
+          "seed": "ии аналитик",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "анализ данных с помощью ии",
+      "count": 301,
+      "sources": [
+        {
+          "seed": "ии анализ данных",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "аналитика с помощью ии",
+      "count": 294,
+      "sources": [
+        {
+          "seed": "ии аналитик",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "ии в работе аналитика",
+      "count": 272,
+      "sources": [
+        {
+          "seed": "ии аналитик",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "анализ данных через ии",
+      "count": 242,
+      "sources": [
+        {
+          "seed": "ии анализ данных",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "заменит ли ии аналитиков",
+      "count": 198,
+      "sources": [
+        {
+          "seed": "ии аналитик",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "лучшие ии для аналитики",
+      "count": 183,
+      "sources": [
+        {
+          "seed": "ии аналитик",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "курс ии для аналитика",
+      "count": 176,
+      "sources": [
+        {
+          "seed": "ии аналитик",
+          "kind": "results"
+        }
+      ],
+      "intent": "commercial"
+    },
+    {
+      "keyword": "ии для бизнес аналитика",
+      "count": 164,
+      "sources": [
+        {
+          "seed": "ии аналитик",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "ии агенты для аналитика",
+      "count": 162,
+      "sources": [
+        {
+          "seed": "ии аналитик",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "ии агенты для аналитики",
+      "count": 162,
+      "sources": [
+        {
+          "seed": "ии аналитик",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "кальпопроктеин анализ кала что показывает",
+      "count": 155,
+      "sources": [
+        {
+          "seed": "ии аналитик данных",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "ии для анализа данных и прогнозирования",
+      "count": 149,
+      "sources": [
+        {
+          "seed": "ии анализ данных",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "дата аналитик что это",
+      "count": 144,
+      "sources": [
+        {
+          "seed": "ии анализ данных",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "ии для системного аналитика",
+      "count": 141,
+      "sources": [
+        {
+          "seed": "ии аналитик",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "ии для системных аналитиков",
+      "count": 141,
+      "sources": [
+        {
+          "seed": "ии аналитик",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "ии речевая аналитика",
+      "count": 138,
+      "sources": [
+        {
+          "seed": "ии аналитик",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "лучшие ии для анализа данных",
+      "count": 128,
+      "sources": [
+        {
+          "seed": "ии анализ данных",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "ии для аналитика 1с",
+      "count": 104,
+      "sources": [
+        {
+          "seed": "ии аналитик",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "аналитика данных с помощью ии",
+      "count": 100,
+      "sources": [
+        {
+          "seed": "ии аналитик",
+          "kind": "results"
+        },
+        {
+          "seed": "ии аналитик данных",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "как использовать ии для анализа данных",
+      "count": 97,
+      "sources": [
+        {
+          "seed": "ии анализ данных",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "бесплатная нейросеть для анализа данных",
+      "count": 94,
+      "sources": [
+        {
+          "seed": "нейросеть для анализа данных",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "программы с ии для анализа данных",
+      "count": 91,
+      "sources": [
+        {
+          "seed": "ии анализ данных",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "бесплатные ии для анализа данных",
+      "count": 84,
+      "sources": [
+        {
+          "seed": "ии анализ данных",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "ии аналитик ставок",
+      "count": 82,
+      "sources": [
+        {
+          "seed": "ии аналитик",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "ии аналитика звонков",
+      "count": 77,
+      "sources": [
+        {
+          "seed": "ии аналитик",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "ии аналитика спорта",
+      "count": 72,
+      "sources": [
+        {
+          "seed": "ии аналитик",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "сайт аналитики ии",
+      "count": 68,
+      "sources": [
+        {
+          "seed": "ии аналитик",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "заменит ли ии аналитиков данных",
+      "count": 59,
+      "sources": [
+        {
+          "seed": "ии аналитик",
+          "kind": "results"
+        },
+        {
+          "seed": "ии аналитик данных",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "ии спортивный аналитик",
+      "count": 59,
+      "sources": [
+        {
+          "seed": "ии аналитик",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "нейросети для анализа данных курс",
+      "count": 53,
+      "sources": [
+        {
+          "seed": "нейросеть для анализа данных",
+          "kind": "results"
+        }
+      ],
+      "intent": "commercial"
+    },
+    {
+      "keyword": "ai data analyst",
+      "count": 51,
+      "sources": [
+        {
+          "seed": "ai data analyst",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "ии аналитик акций",
+      "count": 44,
+      "sources": [
+        {
+          "seed": "ии аналитик",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "ai финансовый аналитик",
+      "count": 41,
+      "sources": [
+        {
+          "seed": "ai аналитик",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "аналитик 1с и ии",
+      "count": 38,
+      "sources": [
+        {
+          "seed": "ии аналитик",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "нейросеть для анализа данных в excel",
+      "count": 36,
+      "sources": [
+        {
+          "seed": "нейросеть для анализа данных",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "анализ клиентских данных с ии",
+      "count": 31,
+      "sources": [
+        {
+          "seed": "ии анализ данных",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "ии агенты для системного аналитика",
+      "count": 31,
+      "sources": [
+        {
+          "seed": "ии аналитик",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "курс аналитик данных с модулем по ии",
+      "count": 27,
+      "sources": [
+        {
+          "seed": "ии аналитик",
+          "kind": "results"
+        },
+        {
+          "seed": "ии аналитик данных",
+          "kind": "results"
+        }
+      ],
+      "intent": "commercial"
+    },
+    {
+      "keyword": "нейросети для анализа данных и исследований",
+      "count": 27,
+      "sources": [
+        {
+          "seed": "нейросеть для анализа данных",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "как ии помогает в финансовой аналитике тест",
+      "count": 26,
+      "sources": [
+        {
+          "seed": "ии аналитик",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "ии аналитика товаров для рекламы",
+      "count": 23,
+      "sources": [
+        {
+          "seed": "ии аналитик",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "заменит ли ии бизнес аналитиков",
+      "count": 21,
+      "sources": [
+        {
+          "seed": "ии аналитик",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "заменит ли ии финансовых аналитиков",
+      "count": 19,
+      "sources": [
+        {
+          "seed": "ии аналитик",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "ии аналитик биржи",
+      "count": 18,
+      "sources": [
+        {
+          "seed": "ии аналитик",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "ai аналитика спорт",
+      "count": 17,
+      "sources": [
+        {
+          "seed": "ai аналитик",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "заменит ли ии системных аналитиков",
+      "count": 17,
+      "sources": [
+        {
+          "seed": "ии аналитик",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "нейросети для анализа данных нетология",
+      "count": 17,
+      "sources": [
+        {
+          "seed": "нейросеть для анализа данных",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "технологии ии и анализ данных мирэа",
+      "count": 17,
+      "sources": [
+        {
+          "seed": "ии анализ данных",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "футбольная аналитика и статистика ai",
+      "count": 16,
+      "sources": [
+        {
+          "seed": "ai аналитик",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "курс ai для аналитиков",
+      "count": 15,
+      "sources": [
+        {
+          "seed": "ai аналитик",
+          "kind": "results"
+        }
+      ],
+      "intent": "commercial"
+    },
+    {
+      "keyword": "нейросеть для анализа данных онлайн",
+      "count": 15,
+      "sources": [
+        {
+          "seed": "нейросеть для анализа данных",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "ai first аналитика",
+      "count": 14,
+      "sources": [
+        {
+          "seed": "ai аналитик",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "топ нейросетей для анализа данных",
+      "count": 13,
+      "sources": [
+        {
+          "seed": "нейросеть для анализа данных",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "ai аналитика спортивных матчей",
+      "count": 11,
+      "sources": [
+        {
+          "seed": "ai аналитик",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "ии в мире аналитики",
+      "count": 11,
+      "sources": [
+        {
+          "seed": "ии аналитик",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "ai с аналитикой wb",
+      "count": 9,
+      "sources": [
+        {
+          "seed": "ai аналитик",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "аналитика на маркетплейсах с ии",
+      "count": 9,
+      "sources": [
+        {
+          "seed": "ии аналитик",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "sf education финансовый аналитик ии",
+      "count": 8,
+      "sources": [
+        {
+          "seed": "ии аналитик",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "речевая аналитика ai звонков локально",
+      "count": 8,
+      "sources": [
+        {
+          "seed": "ai аналитик",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "аналитика данных и использование ии в психологии",
+      "count": 7,
+      "sources": [
+        {
+          "seed": "ии аналитик",
+          "kind": "results"
+        },
+        {
+          "seed": "ии аналитик данных",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "как ии помогает при анализе данных",
+      "count": 7,
+      "sources": [
+        {
+          "seed": "ии анализ данных",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "лучшие нейросети для анализа и прогноза данных",
+      "count": 7,
+      "sources": [
+        {
+          "seed": "нейросеть для анализа данных",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "ai аналитика ставок",
+      "count": 6,
+      "sources": [
+        {
+          "seed": "ai аналитик",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "algo usdt курс трейдинг аналитика ии",
+      "count": 6,
+      "sources": [
+        {
+          "seed": "ии аналитик",
+          "kind": "results"
+        }
+      ],
+      "intent": "commercial"
+    },
+    {
+      "keyword": "видеонаблюдение с ии аналитикой екатеринбург",
+      "count": 6,
+      "sources": [
+        {
+          "seed": "ии аналитик",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "ии аналитик по играм стандофф 2",
+      "count": 6,
+      "sources": [
+        {
+          "seed": "ии аналитик",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "ии для анализа данных excel бесплатно",
+      "count": 6,
+      "sources": [
+        {
+          "seed": "ии анализ данных",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "видеорегистратор линия nvr 10s с ai аналитикой",
+      "count": 5,
+      "sources": [
+        {
+          "seed": "ai аналитик",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "ии для аналитики продаж на маркетплейсах курсы",
+      "count": 5,
+      "sources": [
+        {
+          "seed": "ии аналитик",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "использование ии для анализа данных онлайн",
+      "count": 5,
+      "sources": [
+        {
+          "seed": "ии анализ данных",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    }
+  ]
+}
