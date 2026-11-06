@@ -1,0 +1,50 @@
+{
+  "page": "tows-matrix",
+  "status": "qualitative_research_pending_wordstat",
+  "collected_on": "2026-11-06",
+  "primary_intent": "informational/how-to",
+  "keywords": [
+    {
+      "query": "матрица tows",
+      "role": "primary_candidate",
+      "frequency": null,
+      "frequency_verified": false
+    },
+    {
+      "query": "tows анализ",
+      "role": "supporting_candidate",
+      "frequency": null,
+      "frequency_verified": false
+    },
+    {
+      "query": "матрица tows пример",
+      "role": "supporting_candidate",
+      "frequency": null,
+      "frequency_verified": false
+    },
+    {
+      "query": "матрица tows и swot",
+      "role": "supporting_candidate",
+      "frequency": null,
+      "frequency_verified": false
+    },
+    {
+      "query": "стратегии so st wo wt",
+      "role": "supporting_candidate",
+      "frequency": null,
+      "frequency_verified": false
+    }
+  ],
+  "excluded_intents": [
+    "скачать неофициальный платный шаблон",
+    "общие запросы о маркетинге без названия методологии"
+  ],
+  "serp_verified": false,
+  "wordstat_verified": false,
+  "related_candidates": [
+    "PESTEL",
+    "Пять сил Портера",
+    "Матрица Ансоффа"
+  ],
+  "note": "Предварительные поисковые кластеры по смыслу статьи. Это не выгрузка Wordstat. Нельзя считать страницу SEO-approved до проверки частотности, SERP, релевантности и канонических URL."
+}
