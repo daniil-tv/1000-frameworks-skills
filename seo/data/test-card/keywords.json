@@ -1,0 +1,531 @@
+{
+  "page_id": "test-card",
+  "status": "complete",
+  "topic": "Test Card",
+  "primary_cluster": [
+    {
+      "keyword": "test card",
+      "count": 2223,
+      "sources": [
+        {
+          "seed": "test card",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "test card",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "sd card test",
+      "count": 458,
+      "sources": [
+        {
+          "seed": "test card",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "haired test card",
+      "count": 77,
+      "sources": [
+        {
+          "seed": "test card",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "sd card test pro",
+      "count": 72,
+      "sources": [
+        {
+          "seed": "test card",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "sd card test скачать",
+      "count": 45,
+      "sources": [
+        {
+          "seed": "test card",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "sd card test pro скачать",
+      "count": 31,
+      "sources": [
+        {
+          "seed": "test card",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "test video card",
+      "count": 25,
+      "sources": [
+        {
+          "seed": "test card",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "карточка проверки гипотез",
+      "count": 25,
+      "sources": [
+        {
+          "seed": "карточка проверки гипотез",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "wisconsin card sorting test",
+      "count": 24,
+      "sources": [
+        {
+          "seed": "test card",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "gigabyte graphics card test",
+      "count": 18,
+      "sources": [
+        {
+          "seed": "test card",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "vagina health self test card",
+      "count": 16,
+      "sources": [
+        {
+          "seed": "test card",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "cd card test",
+      "count": 14,
+      "sources": [
+        {
+          "seed": "test card",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "test cards satellite",
+      "count": 8,
+      "sources": [
+        {
+          "seed": "test card",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "карточка теста гипотез",
+      "count": 8,
+      "sources": [
+        {
+          "seed": "карточка теста гипотез",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "true sd card capacity speed test",
+      "count": 6,
+      "sources": [
+        {
+          "seed": "test card",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "sd card test pro 4pda",
+      "count": 5,
+      "sources": [
+        {
+          "seed": "test card",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "random test credit card numbers generator",
+      "count": 4,
+      "sources": [
+        {
+          "seed": "test card",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "sd card test pro скачать на андроид",
+      "count": 1,
+      "sources": [
+        {
+          "seed": "test card",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "test card strategyzer",
+      "count": 1,
+      "sources": [
+        {
+          "seed": "test card strategyzer",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    }
+  ],
+  "secondary_clusters": {},
+  "questions": [],
+  "candidate_child_pages": [],
+  "possible_cannibalization": [],
+  "excluded": [
+    {
+      "phrase": "тесты",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "test card"
+    },
+    {
+      "phrase": "тесты на эрудицию",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "test card"
+    },
+    {
+      "phrase": "тест равена",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "test card"
+    },
+    {
+      "phrase": "gigtest ru пройти тест",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "test card"
+    },
+    {
+      "phrase": "интересные тесты",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "test card"
+    },
+    {
+      "phrase": "тест на личностные качества",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "test card"
+    },
+    {
+      "phrase": "что такое технологическая карта",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "test card"
+    },
+    {
+      "phrase": "тест кто я",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "test card"
+    },
+    {
+      "phrase": "тест сети",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "test card"
+    },
+    {
+      "phrase": "тест кто я из осд",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "test card"
+    },
+    {
+      "phrase": "тест на способность любить",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "test card"
+    },
+    {
+      "phrase": "2ip ru тест",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "test card"
+    },
+    {
+      "phrase": "виды тестирования",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "test card"
+    },
+    {
+      "phrase": "пробный тест",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "test card"
+    },
+    {
+      "phrase": "пройти тест на что нибудь",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "test card"
+    },
+    {
+      "phrase": "завершить тестирование",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "test card"
+    },
+    {
+      "phrase": "тест какая ты песня",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "test card"
+    },
+    {
+      "phrase": "ұто тест",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "test card"
+    }
+  ],
+  "all_keywords": [
+    {
+      "keyword": "test card",
+      "count": 2223,
+      "sources": [
+        {
+          "seed": "test card",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "test card",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "sd card test",
+      "count": 458,
+      "sources": [
+        {
+          "seed": "test card",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "haired test card",
+      "count": 77,
+      "sources": [
+        {
+          "seed": "test card",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "sd card test pro",
+      "count": 72,
+      "sources": [
+        {
+          "seed": "test card",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "sd card test скачать",
+      "count": 45,
+      "sources": [
+        {
+          "seed": "test card",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "sd card test pro скачать",
+      "count": 31,
+      "sources": [
+        {
+          "seed": "test card",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "test video card",
+      "count": 25,
+      "sources": [
+        {
+          "seed": "test card",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "карточка проверки гипотез",
+      "count": 25,
+      "sources": [
+        {
+          "seed": "карточка проверки гипотез",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "wisconsin card sorting test",
+      "count": 24,
+      "sources": [
+        {
+          "seed": "test card",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "gigabyte graphics card test",
+      "count": 18,
+      "sources": [
+        {
+          "seed": "test card",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "vagina health self test card",
+      "count": 16,
+      "sources": [
+        {
+          "seed": "test card",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "cd card test",
+      "count": 14,
+      "sources": [
+        {
+          "seed": "test card",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "test cards satellite",
+      "count": 8,
+      "sources": [
+        {
+          "seed": "test card",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "карточка теста гипотез",
+      "count": 8,
+      "sources": [
+        {
+          "seed": "карточка теста гипотез",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "true sd card capacity speed test",
+      "count": 6,
+      "sources": [
+        {
+          "seed": "test card",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "sd card test pro 4pda",
+      "count": 5,
+      "sources": [
+        {
+          "seed": "test card",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "random test credit card numbers generator",
+      "count": 4,
+      "sources": [
+        {
+          "seed": "test card",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "sd card test pro скачать на андроид",
+      "count": 1,
+      "sources": [
+        {
+          "seed": "test card",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "test card strategyzer",
+      "count": 1,
+      "sources": [
+        {
+          "seed": "test card strategyzer",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    }
+  ]
+}

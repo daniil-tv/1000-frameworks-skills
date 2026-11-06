@@ -1,0 +1,17 @@
+{
+  "page_id": "test-card",
+  "title": "Test Card",
+  "url": "https://1000factors.ru/strategy/test-card/",
+  "locale": "ru-RU",
+  "region": "225",
+  "seeds": [
+    "test card strategyzer",
+    "test card",
+    "карточка теста гипотез",
+    "карточка проверки гипотез",
+    "шаблон теста гипотез"
+  ],
+  "collected_at": "2026-11-06",
+  "source": "Yandex Wordstat API",
+  "editorial_status": "needs_review"
+}
