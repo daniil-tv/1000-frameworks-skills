@@ -264,6 +264,176 @@
         "стратегии ансоффа",
         "матрица ансоффа диверсификация"
       ]
+    },
+    {
+      "id": "ai-employees",
+      "title": "ИИ-сотрудники для бизнеса",
+      "url": "https://1000factors.ru/ai-employees/",
+      "locale": "ru-RU",
+      "seeds": [
+        "ии сотрудники",
+        "ии сотрудник",
+        "ai сотрудники",
+        "ии сотрудники для бизнеса",
+        "виртуальный сотрудник",
+        "цифровой сотрудник",
+        "ai employee",
+        "искусственный интеллект сотрудники"
+      ]
+    },
+    {
+      "id": "ai-employees-marketing",
+      "title": "ИИ для маркетинга",
+      "url": "https://1000factors.ru/ai-employees/marketing/",
+      "locale": "ru-RU",
+      "seeds": [
+        "ии для маркетинга",
+        "ai маркетинг",
+        "нейросети для маркетинга",
+        "ии автоматизация маркетинга",
+        "ai агенты для маркетинга",
+        "ии помощник маркетолога"
+      ]
+    },
+    {
+      "id": "ai-employees-sales",
+      "title": "ИИ для продаж",
+      "url": "https://1000factors.ru/ai-employees/sales/",
+      "locale": "ru-RU",
+      "seeds": [
+        "ии для продаж",
+        "ai продажи",
+        "ии автоматизация продаж",
+        "ии агенты для продаж",
+        "ai для отдела продаж",
+        "искусственный интеллект в продажах"
+      ]
+    },
+    {
+      "id": "ai-employees-support",
+      "title": "ИИ для поддержки клиентов",
+      "url": "https://1000factors.ru/ai-employees/customer-support/",
+      "locale": "ru-RU",
+      "seeds": [
+        "ии поддержка клиентов",
+        "ии для службы поддержки",
+        "ai customer support",
+        "ии оператор поддержки",
+        "нейросеть поддержка клиентов",
+        "автоматизация поддержки ии"
+      ]
+    },
+    {
+      "id": "ai-employees-content",
+      "title": "ИИ для создания контента",
+      "url": "https://1000factors.ru/ai-employees/content/",
+      "locale": "ru-RU",
+      "seeds": [
+        "ии для создания контента",
+        "ai контент",
+        "ии генерация контента",
+        "ии для контент маркетинга",
+        "ии копирайтер",
+        "нейросеть для контента"
+      ]
+    },
+    {
+      "id": "ai-employees-analytics",
+      "title": "ИИ для аналитики",
+      "url": "https://1000factors.ru/ai-employees/analytics/",
+      "locale": "ru-RU",
+      "seeds": [
+        "ии для аналитики",
+        "ии аналитик",
+        "ai аналитика",
+        "искусственный интеллект аналитика данных",
+        "ии анализ данных",
+        "ai data analyst"
+      ]
+    },
+    {
+      "id": "ai-marketer",
+      "title": "ИИ-маркетолог",
+      "url": "https://1000factors.ru/ai-employees/marketing/ai-marketer/",
+      "locale": "ru-RU",
+      "seeds": [
+        "ии маркетолог",
+        "ai маркетолог",
+        "нейросеть маркетолог",
+        "ии ассистент маркетолога",
+        "виртуальный маркетолог",
+        "маркетолог искусственный интеллект"
+      ]
+    },
+    {
+      "id": "ai-seo-specialist",
+      "title": "ИИ SEO-специалист",
+      "url": "https://1000factors.ru/ai-employees/marketing/ai-seo-specialist/",
+      "locale": "ru-RU",
+      "seeds": [
+        "ии seo специалист",
+        "ai seo специалист",
+        "ии для сео",
+        "нейросеть для seo",
+        "seo ai агент",
+        "ии seo оптимизация"
+      ]
+    },
+    {
+      "id": "ai-sales-manager",
+      "title": "ИИ-менеджер по продажам",
+      "url": "https://1000factors.ru/ai-employees/sales/ai-sales-manager/",
+      "locale": "ru-RU",
+      "seeds": [
+        "ии менеджер по продажам",
+        "ai менеджер по продажам",
+        "ии продавец",
+        "виртуальный менеджер по продажам",
+        "ai sales agent",
+        "ии отдел продаж"
+      ]
+    },
+    {
+      "id": "ai-support-operator",
+      "title": "ИИ-оператор поддержки",
+      "url": "https://1000factors.ru/ai-employees/customer-support/ai-support-operator/",
+      "locale": "ru-RU",
+      "seeds": [
+        "ии оператор поддержки",
+        "ai оператор поддержки",
+        "ии бот поддержки",
+        "виртуальный оператор поддержки",
+        "ии консультант для сайта",
+        "ai customer service agent"
+      ]
+    },
+    {
+      "id": "ai-copywriter",
+      "title": "ИИ-копирайтер",
+      "url": "https://1000factors.ru/ai-employees/content/ai-copywriter/",
+      "locale": "ru-RU",
+      "seeds": [
+        "ии копирайтер",
+        "ai копирайтер",
+        "нейросеть копирайтер",
+        "ии редактор",
+        "ai copywriter",
+        "ии генератор текста"
+      ]
+    },
+    {
+      "id": "ai-data-analyst",
+      "title": "ИИ-аналитик данных",
+      "url": "https://1000factors.ru/ai-employees/analytics/ai-data-analyst/",
+      "locale": "ru-RU",
+      "seeds": [
+        "ии аналитик",
+        "ai аналитик",
+        "ai data analyst",
+        "ии аналитик данных",
+        "ии анализ данных",
+        "нейросеть для анализа данных"
+      ]
     }
   ]
 }
