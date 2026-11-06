@@ -1,0 +1,673 @@
+{
+  "page_id": "ansoff-matrix",
+  "status": "complete",
+  "topic": "Матрица Ансоффа",
+  "primary_cluster": [
+    {
+      "keyword": "матрица ансоффа",
+      "count": 1473,
+      "sources": [
+        {
+          "seed": "матрица ансоффа",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "матрица ансоффа",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "стратегии ансоффа",
+      "count": 600,
+      "sources": [
+        {
+          "seed": "стратегии ансоффа",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "матрица товар рынок",
+      "count": 327,
+      "sources": [
+        {
+          "seed": "матрица товар рынок",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "матрица товар рынок",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "матрица ансоффа диверсификация",
+      "count": 101,
+      "sources": [
+        {
+          "seed": "матрица ансоффа диверсификация",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "матрица ансоффа пример",
+      "count": 61,
+      "sources": [
+        {
+          "seed": "матрица ансоффа пример",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "practical"
+    },
+    {
+      "keyword": "матрица игоря ансоффа",
+      "count": 41,
+      "sources": [
+        {
+          "seed": "матрица ансоффа",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "матрица ансоффа это в маркетинге",
+      "count": 33,
+      "sources": [
+        {
+          "seed": "матрица ансоффа",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "ансофф и новая корпоративная стратегия",
+      "count": 23,
+      "sources": [
+        {
+          "seed": "стратегии ансоффа",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "матрица ансоффа ударение",
+      "count": 15,
+      "sources": [
+        {
+          "seed": "матрица ансоффа",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "матрица ансоффа и стратегии роста бизнеса",
+      "count": 6,
+      "sources": [
+        {
+          "seed": "матрица ансоффа",
+          "kind": "results"
+        },
+        {
+          "seed": "стратегии ансоффа",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "к стратегиям по матрице и ансоффа относят",
+      "count": 5,
+      "sources": [
+        {
+          "seed": "матрица ансоффа",
+          "kind": "results"
+        },
+        {
+          "seed": "стратегии ансоффа",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "матрица ансоффа ооо пример",
+      "count": 5,
+      "sources": [
+        {
+          "seed": "матрица ансоффа",
+          "kind": "results"
+        },
+        {
+          "seed": "матрица ансоффа пример",
+          "kind": "results"
+        }
+      ],
+      "intent": "practical"
+    }
+  ],
+  "secondary_clusters": {
+    "practical": [
+      {
+        "keyword": "матрица ансоффа пример",
+        "count": 61,
+        "sources": [
+          {
+            "seed": "матрица ансоффа пример",
+            "kind": "seed_total"
+          }
+        ],
+        "intent": "practical"
+      },
+      {
+        "keyword": "матрица ансоффа ооо пример",
+        "count": 5,
+        "sources": [
+          {
+            "seed": "матрица ансоффа",
+            "kind": "results"
+          },
+          {
+            "seed": "матрица ансоффа пример",
+            "kind": "results"
+          }
+        ],
+        "intent": "practical"
+      }
+    ]
+  },
+  "questions": [],
+  "candidate_child_pages": [],
+  "possible_cannibalization": [],
+  "excluded": [
+    {
+      "phrase": "шматрица",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "матрица ансоффа"
+    },
+    {
+      "phrase": "марица",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "матрица ансоффа"
+    },
+    {
+      "phrase": "матриксил",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "матрица ансоффа"
+    },
+    {
+      "phrase": "матриса",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "матрица ансоффа"
+    },
+    {
+      "phrase": "матри",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "матрица ансоффа"
+    },
+    {
+      "phrase": "the matrix",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "матрица ансоффа"
+    },
+    {
+      "phrase": "матрона это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "матрица ансоффа"
+    },
+    {
+      "phrase": "матрикс это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "матрица ансоффа"
+    },
+    {
+      "phrase": "data matrix что это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "матрица ансоффа"
+    },
+    {
+      "phrase": "матричная структура",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "матрица ансоффа"
+    },
+    {
+      "phrase": "матричная структура управления это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "матрица ансоффа"
+    },
+    {
+      "phrase": "matrix org",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "матрица ансоффа"
+    },
+    {
+      "phrase": "матрих",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "матрица ансоффа"
+    },
+    {
+      "phrase": "матричные процессы",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "матрица ансоффа"
+    },
+    {
+      "phrase": "матрика",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "матрица ансоффа"
+    },
+    {
+      "phrase": "matrice",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "матрица ансоффа"
+    },
+    {
+      "phrase": "матриманиальный это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "матрица ансоффа"
+    },
+    {
+      "phrase": "что такое data matrix",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "матрица ансоффа"
+    },
+    {
+      "phrase": "матрикон",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "матрица ансоффа"
+    },
+    {
+      "phrase": "своя компания меню",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "матрица ансоффа пример"
+    },
+    {
+      "phrase": "all of me",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "матрица ансоффа пример"
+    },
+    {
+      "phrase": "for me",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "матрица ансоффа пример"
+    },
+    {
+      "phrase": "i ve полная форма",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "матрица ансоффа пример"
+    },
+    {
+      "phrase": "die for me",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "матрица ансоффа пример"
+    },
+    {
+      "phrase": "y m c a",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "матрица ансоффа пример"
+    },
+    {
+      "phrase": "i d полная форма",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "матрица ансоффа пример"
+    },
+    {
+      "phrase": "формат а3х3",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "матрица ансоффа пример"
+    },
+    {
+      "phrase": "c a чей бренд",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "матрица ансоффа пример"
+    },
+    {
+      "phrase": "категория диалектики раскрывающая главные стороны предмета это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "матрица ансоффа пример"
+    },
+    {
+      "phrase": "формат а2х3",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "матрица ансоффа пример"
+    },
+    {
+      "phrase": "как называются стороны равнобедренного треугольника",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "матрица ансоффа пример"
+    },
+    {
+      "phrase": "f ma что за формула",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "матрица ансоффа пример"
+    },
+    {
+      "phrase": "формула медианы треугольника через стороны",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "матрица ансоффа пример"
+    },
+    {
+      "phrase": "i am all of me",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "матрица ансоффа пример"
+    },
+    {
+      "phrase": "i u r что за формула",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "матрица ансоффа пример"
+    },
+    {
+      "phrase": "логарифмы формулы и их свойства",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "матрица ансоффа пример"
+    },
+    {
+      "phrase": "фэо это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "матрица ансоффа пример"
+    },
+    {
+      "phrase": "поиск предметов",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "матрица товар рынок"
+    },
+    {
+      "phrase": "н маркет",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "матрица товар рынок"
+    },
+    {
+      "phrase": "магазины рядом со мной",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "матрица товар рынок"
+    },
+    {
+      "phrase": "автозапчасти рядом со мной на карте",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "матрица товар рынок"
+    },
+    {
+      "phrase": "розничная торговля это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "матрица товар рынок"
+    },
+    {
+      "phrase": "барахла нет",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "матрица товар рынок"
+    },
+    {
+      "phrase": "а маркет",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "матрица товар рынок"
+    },
+    {
+      "phrase": "ай маркет",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "матрица товар рынок"
+    },
+    {
+      "phrase": "a market",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "матрица товар рынок"
+    },
+    {
+      "phrase": "точно также",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "матрица товар рынок"
+    },
+    {
+      "phrase": "магазин мм2",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "матрица товар рынок"
+    },
+    {
+      "phrase": "все эти базарят но эта со мною",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "матрица товар рынок"
+    },
+    {
+      "phrase": "что такое розничная торговля",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "матрица товар рынок"
+    },
+    {
+      "phrase": "купи маркет",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "матрица товар рынок"
+    },
+    {
+      "phrase": "нет в наличии",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "матрица товар рынок"
+    },
+    {
+      "phrase": "фа маркет",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "матрица товар рынок"
+    },
+    {
+      "phrase": "allow third party software",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "стратегии ансоффа"
+    },
+    {
+      "phrase": "как поставить неразрывный пробел в ворде",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "стратегии ансоффа"
+    },
+    {
+      "phrase": "allow third party software cs2",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "стратегии ансоффа"
+    },
+    {
+      "phrase": "официально деловой стиль речи это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "стратегии ансоффа"
+    },
+    {
+      "phrase": "перехват управления последний выпуск 2026 года",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "стратегии ансоффа"
+    },
+    {
+      "phrase": "ст 95 44 фз последняя редакция",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "стратегии ансоффа"
+    },
+    {
+      "phrase": "какую роль в бизнесе играет дивергентное мышление",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "стратегии ансоффа"
+    },
+    {
+      "phrase": "allow third party software что это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "стратегии ансоффа"
+    },
+    {
+      "phrase": "юбисофт коннект войти",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "стратегии ансоффа"
+    },
+    {
+      "phrase": "навия отряды",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "стратегии ансоффа"
+    },
+    {
+      "phrase": "аси агентство стратегических инициатив",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "стратегии ансоффа"
+    },
+    {
+      "phrase": "перехват управления последнее 2026",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "стратегии ансоффа"
+    }
+  ],
+  "all_keywords": [
+    {
+      "keyword": "матрица ансоффа",
+      "count": 1473,
+      "sources": [
+        {
+          "seed": "матрица ансоффа",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "матрица ансоффа",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "стратегии ансоффа",
+      "count": 600,
+      "sources": [
+        {
+          "seed": "стратегии ансоффа",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "матрица товар рынок",
+      "count": 327,
+      "sources": [
+        {
+          "seed": "матрица товар рынок",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "матрица товар рынок",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "матрица ансоффа диверсификация",
+      "count": 101,
+      "sources": [
+        {
+          "seed": "матрица ансоффа диверсификация",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "матрица ансоффа пример",
+      "count": 61,
+      "sources": [
+        {
+          "seed": "матрица ансоффа пример",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "practical"
+    },
+    {
+      "keyword": "матрица игоря ансоффа",
+      "count": 41,
+      "sources": [
+        {
+          "seed": "матрица ансоффа",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "матрица ансоффа это в маркетинге",
+      "count": 33,
+      "sources": [
+        {
+          "seed": "матрица ансоффа",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "ансофф и новая корпоративная стратегия",
+      "count": 23,
+      "sources": [
+        {
+          "seed": "стратегии ансоффа",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "матрица ансоффа ударение",
+      "count": 15,
+      "sources": [
+        {
+          "seed": "матрица ансоффа",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "матрица ансоффа и стратегии роста бизнеса",
+      "count": 6,
+      "sources": [
+        {
+          "seed": "матрица ансоффа",
+          "kind": "results"
+        },
+        {
+          "seed": "стратегии ансоффа",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "к стратегиям по матрице и ансоффа относят",
+      "count": 5,
+      "sources": [
+        {
+          "seed": "матрица ансоффа",
+          "kind": "results"
+        },
+        {
+          "seed": "стратегии ансоффа",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "матрица ансоффа ооо пример",
+      "count": 5,
+      "sources": [
+        {
+          "seed": "матрица ансоффа",
+          "kind": "results"
+        },
+        {
+          "seed": "матрица ансоффа пример",
+          "kind": "results"
+        }
+      ],
+      "intent": "practical"
+    }
+  ]
+}
