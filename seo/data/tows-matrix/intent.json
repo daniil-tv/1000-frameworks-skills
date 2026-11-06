@@ -1,0 +1,29 @@
+{
+  "page_id": "tows-matrix",
+  "status": "complete",
+  "editorial_status": "needs_review",
+  "search_intent": "informational_practical",
+  "intent_source": "page_specific_rules",
+  "serp_verified": false,
+  "serp_questions": [],
+  "primary_keywords": [
+    "матрица tows",
+    "tows матрица",
+    "tows анализ",
+    "стратегии so st wo wt",
+    "матрица tows пример"
+  ],
+  "user_job": "Разработать варианты стратегических действий из сочетаний внутренних и внешних факторов.",
+  "context": "Есть подтверждённые факторы SWOT, но ещё нет приоритизированного плана действий.",
+  "trigger": "Нужно связать сильные и слабые стороны с возможностями и угрозами.",
+  "expected_outcome": "Варианты SO, ST, WO, WT с причинной логикой, рисками и проверками.",
+  "current_alternatives": [
+    "SWOT как перечень без действий",
+    "решения без привязки к факторам"
+  ],
+  "criteria_of_success": [
+    "факторы имеют источники",
+    "каждый вариант связан с конкретной парой факторов",
+    "решения реализуемы и проверяемы"
+  ]
+}

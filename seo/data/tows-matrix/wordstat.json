@@ -1,0 +1,243 @@
+{
+  "page_id": "tows-matrix",
+  "status": "complete",
+  "source": "Yandex Wordstat API",
+  "collected_at": "2026-11-06",
+  "regions": [
+    "225"
+  ],
+  "seeds": [
+    {
+      "seed": "матрица tows",
+      "cache_hit": false,
+      "payload": {
+        "totalCount": "80",
+        "results": [
+          {
+            "phrase": "tows матрица",
+            "count": "79"
+          }
+        ],
+        "associations": [
+          {
+            "phrase": "on my own",
+            "count": "22116"
+          },
+          {
+            "phrase": "the matrix",
+            "count": "9481"
+          },
+          {
+            "phrase": "the matrix path of neo",
+            "count": "491"
+          },
+          {
+            "phrase": "enter the matrix",
+            "count": "735"
+          },
+          {
+            "phrase": "matrix food for soft",
+            "count": "1164"
+          },
+          {
+            "phrase": "мама он не такой как все",
+            "count": "3477"
+          },
+          {
+            "phrase": "matrix org",
+            "count": "607"
+          },
+          {
+            "phrase": "matrixxx",
+            "count": "1663"
+          },
+          {
+            "phrase": "матричные процессы",
+            "count": "4528"
+          },
+          {
+            "phrase": "матрикс 4 т",
+            "count": "912"
+          },
+          {
+            "phrase": "матрис 4т",
+            "count": "401"
+          },
+          {
+            "phrase": "matrix 6mm",
+            "count": "195"
+          },
+          {
+            "phrase": "ice on my baby",
+            "count": "1366"
+          }
+        ]
+      }
+    },
+    {
+      "seed": "tows анализ",
+      "cache_hit": false,
+      "payload": {
+        "totalCount": "78",
+        "results": [
+          {
+            "phrase": "tows анализ",
+            "count": "77"
+          }
+        ],
+        "associations": [
+          {
+            "phrase": "анализируй это фильм 1999",
+            "count": "6361"
+          },
+          {
+            "phrase": "epd qms ru проверка",
+            "count": "3818"
+          },
+          {
+            "phrase": "анализируй то фильм 2002",
+            "count": "2485"
+          },
+          {
+            "phrase": "проверка траст фактора кс2",
+            "count": "384"
+          },
+          {
+            "phrase": "a b тестирование что это",
+            "count": "511"
+          },
+          {
+            "phrase": "исследование это",
+            "count": "325423"
+          },
+          {
+            "phrase": "проверка траст фактора",
+            "count": "1828"
+          },
+          {
+            "phrase": "vin01 проверка",
+            "count": "478"
+          },
+          {
+            "phrase": "проверить траст фактор",
+            "count": "2417"
+          },
+          {
+            "phrase": "ецпэ экспертиза",
+            "count": "303"
+          },
+          {
+            "phrase": "тбанк проверка контрагентов",
+            "count": "274"
+          },
+          {
+            "phrase": "qms ry проверка",
+            "count": "80"
+          },
+          {
+            "phrase": "проверка тз",
+            "count": "832"
+          },
+          {
+            "phrase": "как проверить траст фактор в кс2",
+            "count": "169"
+          },
+          {
+            "phrase": "uat тестирование это",
+            "count": "153"
+          },
+          {
+            "phrase": "центр лабораторных исследований",
+            "count": "2086"
+          },
+          {
+            "phrase": "1vs1 проверка",
+            "count": "323"
+          }
+        ]
+      }
+    },
+    {
+      "seed": "матрица tows пример",
+      "cache_hit": false,
+      "payload": {
+        "totalCount": "2"
+      }
+    },
+    {
+      "seed": "tows и swot разница",
+      "cache_hit": false,
+      "payload": {}
+    },
+    {
+      "seed": "стратегии so st wo wt",
+      "cache_hit": false,
+      "payload": {
+        "totalCount": "27"
+      }
+    }
+  ],
+  "dynamics": {
+    "seed": "матрица tows",
+    "cache_hit": false,
+    "payload": {
+      "results": [
+        {
+          "date": "2025-11-01T00:00:00Z",
+          "count": "78",
+          "share": 7.145055421229704e-07
+        },
+        {
+          "date": "2025-12-01T00:00:00Z",
+          "count": "101",
+          "share": 9.396852901855403e-07
+        },
+        {
+          "date": "2026-01-01T00:00:00Z",
+          "count": "55",
+          "share": 5.615621129717108e-07
+        },
+        {
+          "date": "2026-02-01T00:00:00Z",
+          "count": "37",
+          "share": 4.135069320489843e-07
+        },
+        {
+          "date": "2026-03-01T00:00:00Z",
+          "count": "83",
+          "share": 7.99061426684205e-07
+        },
+        {
+          "date": "2026-04-01T00:00:00Z",
+          "count": "100",
+          "share": 9.397883936665677e-07
+        },
+        {
+          "date": "2026-05-01T00:00:00Z",
+          "count": "185",
+          "share": 1.8642041668164724e-06
+        },
+        {
+          "date": "2026-06-01T00:00:00Z",
+          "count": "103",
+          "share": 1.071562553494477e-06
+        },
+        {
+          "date": "2026-07-01T00:00:00Z",
+          "count": "37",
+          "share": 3.621592045828012e-07
+        },
+        {
+          "date": "2026-08-01T00:00:00Z",
+          "count": "15",
+          "share": 1.414660476200069e-07
+        },
+        {
+          "date": "2026-09-01T00:00:00Z",
+          "count": "50",
+          "share": 4.538407962813877e-07
+        }
+      ]
+    }
+  }
+}

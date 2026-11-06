@@ -1,0 +1,297 @@
+{
+  "page_id": "tows-matrix",
+  "status": "complete",
+  "topic": "Матрица TOWS",
+  "primary_cluster": [
+    {
+      "keyword": "матрица tows",
+      "count": 80,
+      "sources": [
+        {
+          "seed": "матрица tows",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "tows матрица",
+      "count": 79,
+      "sources": [
+        {
+          "seed": "матрица tows",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "tows анализ",
+      "count": 78,
+      "sources": [
+        {
+          "seed": "tows анализ",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "tows анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "стратегии so st wo wt",
+      "count": 27,
+      "sources": [
+        {
+          "seed": "стратегии so st wo wt",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "матрица tows пример",
+      "count": 2,
+      "sources": [
+        {
+          "seed": "матрица tows пример",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "practical"
+    }
+  ],
+  "secondary_clusters": {
+    "practical": [
+      {
+        "keyword": "матрица tows пример",
+        "count": 2,
+        "sources": [
+          {
+            "seed": "матрица tows пример",
+            "kind": "seed_total"
+          }
+        ],
+        "intent": "practical"
+      }
+    ]
+  },
+  "questions": [],
+  "candidate_child_pages": [],
+  "possible_cannibalization": [],
+  "excluded": [
+    {
+      "phrase": "on my own",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "матрица tows"
+    },
+    {
+      "phrase": "the matrix",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "матрица tows"
+    },
+    {
+      "phrase": "the matrix path of neo",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "матрица tows"
+    },
+    {
+      "phrase": "enter the matrix",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "матрица tows"
+    },
+    {
+      "phrase": "matrix food for soft",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "матрица tows"
+    },
+    {
+      "phrase": "мама он не такой как все",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "матрица tows"
+    },
+    {
+      "phrase": "matrix org",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "матрица tows"
+    },
+    {
+      "phrase": "matrixxx",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "матрица tows"
+    },
+    {
+      "phrase": "матричные процессы",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "матрица tows"
+    },
+    {
+      "phrase": "матрикс 4 т",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "матрица tows"
+    },
+    {
+      "phrase": "матрис 4т",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "матрица tows"
+    },
+    {
+      "phrase": "matrix 6mm",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "матрица tows"
+    },
+    {
+      "phrase": "ice on my baby",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "матрица tows"
+    },
+    {
+      "phrase": "анализируй это фильм 1999",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "tows анализ"
+    },
+    {
+      "phrase": "epd qms ru проверка",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "tows анализ"
+    },
+    {
+      "phrase": "анализируй то фильм 2002",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "tows анализ"
+    },
+    {
+      "phrase": "проверка траст фактора кс2",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "tows анализ"
+    },
+    {
+      "phrase": "a b тестирование что это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "tows анализ"
+    },
+    {
+      "phrase": "исследование это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "tows анализ"
+    },
+    {
+      "phrase": "проверка траст фактора",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "tows анализ"
+    },
+    {
+      "phrase": "vin01 проверка",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "tows анализ"
+    },
+    {
+      "phrase": "проверить траст фактор",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "tows анализ"
+    },
+    {
+      "phrase": "ецпэ экспертиза",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "tows анализ"
+    },
+    {
+      "phrase": "тбанк проверка контрагентов",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "tows анализ"
+    },
+    {
+      "phrase": "qms ry проверка",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "tows анализ"
+    },
+    {
+      "phrase": "проверка тз",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "tows анализ"
+    },
+    {
+      "phrase": "как проверить траст фактор в кс2",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "tows анализ"
+    },
+    {
+      "phrase": "uat тестирование это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "tows анализ"
+    },
+    {
+      "phrase": "центр лабораторных исследований",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "tows анализ"
+    },
+    {
+      "phrase": "1vs1 проверка",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "tows анализ"
+    }
+  ],
+  "all_keywords": [
+    {
+      "keyword": "матрица tows",
+      "count": 80,
+      "sources": [
+        {
+          "seed": "матрица tows",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "tows матрица",
+      "count": 79,
+      "sources": [
+        {
+          "seed": "матрица tows",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "tows анализ",
+      "count": 78,
+      "sources": [
+        {
+          "seed": "tows анализ",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "tows анализ",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "стратегии so st wo wt",
+      "count": 27,
+      "sources": [
+        {
+          "seed": "стратегии so st wo wt",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "матрица tows пример",
+      "count": 2,
+      "sources": [
+        {
+          "seed": "матрица tows пример",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "practical"
+    }
+  ]
+}
