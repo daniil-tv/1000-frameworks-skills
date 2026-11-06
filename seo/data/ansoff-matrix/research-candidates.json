@@ -1,0 +1,56 @@
+{
+  "page": "ansoff-matrix",
+  "status": "qualitative_research_pending_wordstat",
+  "collected_on": "2026-11-06",
+  "primary_intent": "informational/how-to",
+  "keywords": [
+    {
+      "query": "матрица ансоффа",
+      "role": "primary_candidate",
+      "frequency": null,
+      "frequency_verified": false
+    },
+    {
+      "query": "матрица ансоффа пример",
+      "role": "supporting_candidate",
+      "frequency": null,
+      "frequency_verified": false
+    },
+    {
+      "query": "матрица товар рынок",
+      "role": "supporting_candidate",
+      "frequency": null,
+      "frequency_verified": false
+    },
+    {
+      "query": "стратегии ансоффа",
+      "role": "supporting_candidate",
+      "frequency": null,
+      "frequency_verified": false
+    },
+    {
+      "query": "матрица ансоффа диверсификация",
+      "role": "supporting_candidate",
+      "frequency": null,
+      "frequency_verified": false
+    },
+    {
+      "query": "проникновение на рынок развитие продукта",
+      "role": "supporting_candidate",
+      "frequency": null,
+      "frequency_verified": false
+    }
+  ],
+  "excluded_intents": [
+    "скачать неофициальный платный шаблон",
+    "общие запросы о маркетинге без названия методологии"
+  ],
+  "serp_verified": false,
+  "wordstat_verified": false,
+  "related_candidates": [
+    "Матрица BCG",
+    "STP",
+    "Business Model Canvas"
+  ],
+  "note": "Предварительные поисковые кластеры по смыслу статьи. Это не выгрузка Wordstat. Нельзя считать страницу SEO-approved до проверки частотности, SERP, релевантности и канонических URL."
+}
