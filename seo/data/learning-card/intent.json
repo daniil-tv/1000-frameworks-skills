@@ -1,0 +1,33 @@
+{
+  "page_id": "learning-card",
+  "status": "complete",
+  "editorial_status": "needs_review",
+  "search_intent": "informational_practical",
+  "intent_source": "page_specific_rules",
+  "serp_verified": false,
+  "serp_questions": [],
+  "primary_keywords": [
+    "learning card",
+    "flash card learn",
+    "карточка результатов эксперимента",
+    "flash cards for learning",
+    "карточка выводов эксперимента",
+    "анализ результатов теста гипотез",
+    "flash cards for learning english",
+    "onboarding cards или micro learning",
+    "learning card strategyzer"
+  ],
+  "user_job": "Зафиксировать наблюдения и выводы после эксперимента и принять следующее решение.",
+  "context": "Проверка гипотезы завершена; есть исходная Test Card и собранные данные.",
+  "trigger": "Необходимо отделить факты наблюдения от объяснений команды.",
+  "expected_outcome": "Learning Card с исходной гипотезой, наблюдениями, выводами и следующими действиями.",
+  "current_alternatives": [
+    "неструктурированные итоги теста",
+    "выводы без ссылок на наблюдения"
+  ],
+  "criteria_of_success": [
+    "исходный критерий сохранён",
+    "наблюдения отделены от интерпретаций",
+    "следующее действие зафиксировано"
+  ]
+}

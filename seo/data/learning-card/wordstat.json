@@ -1,0 +1,175 @@
+{
+  "page_id": "learning-card",
+  "status": "complete",
+  "source": "Yandex Wordstat API",
+  "collected_at": "2026-11-06",
+  "regions": [
+    "225"
+  ],
+  "seeds": [
+    {
+      "seed": "learning card strategyzer",
+      "cache_hit": false,
+      "payload": {
+        "totalCount": "1"
+      }
+    },
+    {
+      "seed": "learning card",
+      "cache_hit": false,
+      "payload": {
+        "totalCount": "717",
+        "results": [
+          {
+            "phrase": "flash card learn",
+            "count": "71"
+          },
+          {
+            "phrase": "flash cards for learning",
+            "count": "36"
+          },
+          {
+            "phrase": "flash cards for learning english",
+            "count": "12"
+          },
+          {
+            "phrase": "onboarding cards или micro learning",
+            "count": "7"
+          }
+        ],
+        "associations": [
+          {
+            "phrase": "флеш",
+            "count": "630882"
+          },
+          {
+            "phrase": "флешкоре",
+            "count": "3674"
+          },
+          {
+            "phrase": "флешкор",
+            "count": "3674"
+          },
+          {
+            "phrase": "флеш телеком",
+            "count": "6231"
+          },
+          {
+            "phrase": "флеш карта",
+            "count": "42492"
+          },
+          {
+            "phrase": "моя школьная карта",
+            "count": "9370"
+          },
+          {
+            "phrase": "смотреть флеш",
+            "count": "18045"
+          },
+          {
+            "phrase": "флешбеки это",
+            "count": "4689"
+          },
+          {
+            "phrase": "флэшкор",
+            "count": "798"
+          },
+          {
+            "phrase": "что значит карта в стоп листе",
+            "count": "5772"
+          },
+          {
+            "phrase": "почему карта в стоп листе",
+            "count": "10398"
+          },
+          {
+            "phrase": "флэшка или флешка",
+            "count": "3576"
+          },
+          {
+            "phrase": "флешка это",
+            "count": "26326"
+          },
+          {
+            "phrase": "флеш скорее",
+            "count": "866"
+          },
+          {
+            "phrase": "флэшка или флешка как правильно",
+            "count": "1511"
+          },
+          {
+            "phrase": "флеш это",
+            "count": "14376"
+          },
+          {
+            "phrase": "флеш карта это",
+            "count": "1077"
+          }
+        ]
+      }
+    },
+    {
+      "seed": "карточка выводов эксперимента",
+      "cache_hit": false,
+      "payload": {
+        "totalCount": "27"
+      }
+    },
+    {
+      "seed": "карточка результатов эксперимента",
+      "cache_hit": false,
+      "payload": {
+        "totalCount": "56"
+      }
+    },
+    {
+      "seed": "анализ результатов теста гипотез",
+      "cache_hit": false,
+      "payload": {
+        "totalCount": "19"
+      }
+    }
+  ],
+  "dynamics": {
+    "seed": "learning card strategyzer",
+    "cache_hit": false,
+    "payload": {
+      "results": [
+        {
+          "date": "2025-11-01T00:00:00Z"
+        },
+        {
+          "date": "2025-12-01T00:00:00Z"
+        },
+        {
+          "date": "2026-01-01T00:00:00Z"
+        },
+        {
+          "date": "2026-02-01T00:00:00Z"
+        },
+        {
+          "date": "2026-03-01T00:00:00Z"
+        },
+        {
+          "date": "2026-04-01T00:00:00Z"
+        },
+        {
+          "date": "2026-05-01T00:00:00Z"
+        },
+        {
+          "date": "2026-06-01T00:00:00Z"
+        },
+        {
+          "date": "2026-07-01T00:00:00Z"
+        },
+        {
+          "date": "2026-08-01T00:00:00Z"
+        },
+        {
+          "date": "2026-09-01T00:00:00Z"
+        }
+      ]
+    }
+  }
+}

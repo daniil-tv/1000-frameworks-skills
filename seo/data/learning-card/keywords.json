@@ -1,0 +1,298 @@
+{
+  "page_id": "learning-card",
+  "status": "complete",
+  "topic": "Learning Card",
+  "primary_cluster": [
+    {
+      "keyword": "learning card",
+      "count": 717,
+      "sources": [
+        {
+          "seed": "learning card",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "flash card learn",
+      "count": 71,
+      "sources": [
+        {
+          "seed": "learning card",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "карточка результатов эксперимента",
+      "count": 56,
+      "sources": [
+        {
+          "seed": "карточка результатов эксперимента",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "flash cards for learning",
+      "count": 36,
+      "sources": [
+        {
+          "seed": "learning card",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "карточка выводов эксперимента",
+      "count": 27,
+      "sources": [
+        {
+          "seed": "карточка выводов эксперимента",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "анализ результатов теста гипотез",
+      "count": 19,
+      "sources": [
+        {
+          "seed": "анализ результатов теста гипотез",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "flash cards for learning english",
+      "count": 12,
+      "sources": [
+        {
+          "seed": "learning card",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "onboarding cards или micro learning",
+      "count": 7,
+      "sources": [
+        {
+          "seed": "learning card",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "learning card strategyzer",
+      "count": 1,
+      "sources": [
+        {
+          "seed": "learning card strategyzer",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    }
+  ],
+  "secondary_clusters": {},
+  "questions": [],
+  "candidate_child_pages": [],
+  "possible_cannibalization": [],
+  "excluded": [
+    {
+      "phrase": "флеш",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "learning card"
+    },
+    {
+      "phrase": "флешкоре",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "learning card"
+    },
+    {
+      "phrase": "флешкор",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "learning card"
+    },
+    {
+      "phrase": "флеш телеком",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "learning card"
+    },
+    {
+      "phrase": "флеш карта",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "learning card"
+    },
+    {
+      "phrase": "моя школьная карта",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "learning card"
+    },
+    {
+      "phrase": "смотреть флеш",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "learning card"
+    },
+    {
+      "phrase": "флешбеки это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "learning card"
+    },
+    {
+      "phrase": "флэшкор",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "learning card"
+    },
+    {
+      "phrase": "что значит карта в стоп листе",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "learning card"
+    },
+    {
+      "phrase": "почему карта в стоп листе",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "learning card"
+    },
+    {
+      "phrase": "флэшка или флешка",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "learning card"
+    },
+    {
+      "phrase": "флешка это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "learning card"
+    },
+    {
+      "phrase": "флеш скорее",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "learning card"
+    },
+    {
+      "phrase": "флэшка или флешка как правильно",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "learning card"
+    },
+    {
+      "phrase": "флеш это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "learning card"
+    },
+    {
+      "phrase": "флеш карта это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "learning card"
+    }
+  ],
+  "all_keywords": [
+    {
+      "keyword": "learning card",
+      "count": 717,
+      "sources": [
+        {
+          "seed": "learning card",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "flash card learn",
+      "count": 71,
+      "sources": [
+        {
+          "seed": "learning card",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "карточка результатов эксперимента",
+      "count": 56,
+      "sources": [
+        {
+          "seed": "карточка результатов эксперимента",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "flash cards for learning",
+      "count": 36,
+      "sources": [
+        {
+          "seed": "learning card",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "карточка выводов эксперимента",
+      "count": 27,
+      "sources": [
+        {
+          "seed": "карточка выводов эксперимента",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "анализ результатов теста гипотез",
+      "count": 19,
+      "sources": [
+        {
+          "seed": "анализ результатов теста гипотез",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "flash cards for learning english",
+      "count": 12,
+      "sources": [
+        {
+          "seed": "learning card",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "onboarding cards или micro learning",
+      "count": 7,
+      "sources": [
+        {
+          "seed": "learning card",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "learning card strategyzer",
+      "count": 1,
+      "sources": [
+        {
+          "seed": "learning card strategyzer",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "page_id": "learning-card",
+  "title": "Learning Card",
+  "url": "https://1000factors.ru/strategy/learning-card/",
+  "locale": "ru-RU",
+  "region": "225",
+  "seeds": [
+    "learning card strategyzer",
+    "learning card",
+    "карточка выводов эксперимента",
+    "карточка результатов эксперимента",
+    "анализ результатов теста гипотез"
+  ],
+  "collected_at": "2026-11-06",
+  "source": "Yandex Wordstat API",
+  "editorial_status": "needs_review"
+}
