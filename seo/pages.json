@@ -199,6 +199,71 @@
         "матрица четырех действий голубой океан",
         "four actions framework пример"
       ]
+    },
+    {
+      "id": "test-card",
+      "title": "Test Card",
+      "url": "https://1000factors.ru/strategy/test-card/",
+      "locale": "ru-RU",
+      "seeds": [
+        "test card strategyzer",
+        "test card",
+        "карточка теста гипотез",
+        "карточка проверки гипотез",
+        "шаблон теста гипотез"
+      ]
+    },
+    {
+      "id": "learning-card",
+      "title": "Learning Card",
+      "url": "https://1000factors.ru/strategy/learning-card/",
+      "locale": "ru-RU",
+      "seeds": [
+        "learning card strategyzer",
+        "learning card",
+        "карточка выводов эксперимента",
+        "карточка результатов эксперимента",
+        "анализ результатов теста гипотез"
+      ]
+    },
+    {
+      "id": "bcg-matrix",
+      "title": "Матрица BCG",
+      "url": "https://1000factors.ru/strategy/bcg-matrix/",
+      "locale": "ru-RU",
+      "seeds": [
+        "матрица бкг",
+        "матрица bcg",
+        "бостонская матрица",
+        "матрица бкг пример",
+        "относительная доля рынка bcg"
+      ]
+    },
+    {
+      "id": "tows-matrix",
+      "title": "Матрица TOWS",
+      "url": "https://1000factors.ru/strategy/tows-matrix/",
+      "locale": "ru-RU",
+      "seeds": [
+        "матрица tows",
+        "tows анализ",
+        "матрица tows пример",
+        "tows и swot разница",
+        "стратегии so st wo wt"
+      ]
+    },
+    {
+      "id": "ansoff-matrix",
+      "title": "Матрица Ансоффа",
+      "url": "https://1000factors.ru/strategy/ansoff-matrix/",
+      "locale": "ru-RU",
+      "seeds": [
+        "матрица ансоффа",
+        "матрица ансоффа пример",
+        "матрица товар рынок",
+        "стратегии ансоффа",
+        "матрица ансоффа диверсификация"
+      ]
     }
   ]
 }
