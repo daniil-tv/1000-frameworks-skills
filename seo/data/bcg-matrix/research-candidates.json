@@ -1,0 +1,56 @@
+{
+  "page": "bcg-matrix",
+  "status": "qualitative_research_pending_wordstat",
+  "collected_on": "2026-11-06",
+  "primary_intent": "informational/how-to",
+  "keywords": [
+    {
+      "query": "матрица бкг",
+      "role": "primary_candidate",
+      "frequency": null,
+      "frequency_verified": false
+    },
+    {
+      "query": "матрица bcg",
+      "role": "supporting_candidate",
+      "frequency": null,
+      "frequency_verified": false
+    },
+    {
+      "query": "бостонская матрица",
+      "role": "supporting_candidate",
+      "frequency": null,
+      "frequency_verified": false
+    },
+    {
+      "query": "матрица бкг пример",
+      "role": "supporting_candidate",
+      "frequency": null,
+      "frequency_verified": false
+    },
+    {
+      "query": "матрица bcg четыре квадранта",
+      "role": "supporting_candidate",
+      "frequency": null,
+      "frequency_verified": false
+    },
+    {
+      "query": "относительная доля рынка формула",
+      "role": "supporting_candidate",
+      "frequency": null,
+      "frequency_verified": false
+    }
+  ],
+  "excluded_intents": [
+    "скачать неофициальный платный шаблон",
+    "общие запросы о маркетинге без названия методологии"
+  ],
+  "serp_verified": false,
+  "wordstat_verified": false,
+  "related_candidates": [
+    "Матрица Ансоффа",
+    "Пять сил Портера",
+    "Business Model Canvas"
+  ],
+  "note": "Предварительные поисковые кластеры по смыслу статьи. Это не выгрузка Wordstat. Нельзя считать страницу SEO-approved до проверки частотности, SERP, релевантности и канонических URL."
+}
