@@ -5,16 +5,16 @@
   "locale": "ru-RU",
   "region": "225",
   "seeds": [
-    "методология ODI",
-    "метод outcome driven innovation",
-    "инновации на основе результатов",
+    "outcome driven innovation",
+    "outcome driven innovation methodology",
+    "desired outcomes",
+    "desired outcome statement",
+    "customer job map",
+    "job map methodology",
     "желаемые результаты клиента",
-    "измеримые результаты клиента",
-    "неудовлетворённые потребности клиентов",
-    "карта работы клиента",
     "карта работ клиента"
   ],
-  "collected_at": "2026-11-02",
+  "collected_at": "2026-11-06",
   "source": "Yandex Wordstat API",
   "editorial_status": "needs_review"
 }
