@@ -1,0 +1,19 @@
+{
+  "page_id": "wardley-mapping",
+  "title": "Wardley Mapping",
+  "url": "https://1000factors.ru/strategy/wardley-mapping/",
+  "locale": "ru-RU",
+  "region": "225",
+  "seeds": [
+    "wardley mapping",
+    "wardley maps",
+    "карта уордли",
+    "карты уордли",
+    "мэппинг уордли",
+    "саймон уордли карты",
+    "wardley mapping пример"
+  ],
+  "collected_at": "2026-11-17",
+  "source": "Yandex Wordstat API",
+  "editorial_status": "needs_review"
+}

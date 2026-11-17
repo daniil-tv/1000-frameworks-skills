@@ -1,0 +1,333 @@
+{
+  "page_id": "wardley-mapping",
+  "status": "complete",
+  "source": "Yandex Wordstat API",
+  "collected_at": "2026-11-17",
+  "regions": [
+    "225"
+  ],
+  "seeds": [
+    {
+      "seed": "wardley mapping",
+      "cache_hit": false,
+      "payload": {
+        "totalCount": "14",
+        "results": [
+          {
+            "phrase": "wardley mapping",
+            "count": "14"
+          }
+        ],
+        "associations": [
+          {
+            "phrase": "бобби фишер",
+            "count": "6875"
+          },
+          {
+            "phrase": "кэри фишер",
+            "count": "536"
+          },
+          {
+            "phrase": "вирджил ван дейк ливерпуль",
+            "count": "204"
+          },
+          {
+            "phrase": "worldmap",
+            "count": "2782"
+          },
+          {
+            "phrase": "duncan campbell journalist born 1944",
+            "count": "50"
+          },
+          {
+            "phrase": "dutch warmblood",
+            "count": "110"
+          },
+          {
+            "phrase": "бобби фишер против всего мира",
+            "count": "170"
+          }
+        ]
+      }
+    },
+    {
+      "seed": "wardley maps",
+      "cache_hit": false,
+      "payload": {
+        "totalCount": "14",
+        "results": [
+          {
+            "phrase": "wardley mapping",
+            "count": "14"
+          }
+        ],
+        "associations": [
+          {
+            "phrase": "бобби фишер",
+            "count": "6875"
+          },
+          {
+            "phrase": "кэри фишер",
+            "count": "536"
+          },
+          {
+            "phrase": "вирджил ван дейк ливерпуль",
+            "count": "204"
+          },
+          {
+            "phrase": "worldmap",
+            "count": "2782"
+          },
+          {
+            "phrase": "duncan campbell journalist born 1944",
+            "count": "50"
+          },
+          {
+            "phrase": "dutch warmblood",
+            "count": "110"
+          },
+          {
+            "phrase": "бобби фишер против всего мира",
+            "count": "170"
+          }
+        ]
+      }
+    },
+    {
+      "seed": "карта уордли",
+      "cache_hit": false,
+      "payload": {
+        "totalCount": "8",
+        "results": [
+          {
+            "phrase": "карты уордли",
+            "count": "8"
+          }
+        ],
+        "associations": [
+          {
+            "phrase": "мои карты",
+            "count": "248997"
+          },
+          {
+            "phrase": "где я нахожусь на карте",
+            "count": "10693"
+          },
+          {
+            "phrase": "карта слов",
+            "count": "97105"
+          },
+          {
+            "phrase": "карта свои",
+            "count": "374005"
+          },
+          {
+            "phrase": "world map",
+            "count": "25798"
+          },
+          {
+            "phrase": "поиск по координатам на карте",
+            "count": "2468"
+          },
+          {
+            "phrase": "я карты",
+            "count": "1074294"
+          },
+          {
+            "phrase": "мапс карты",
+            "count": "16945"
+          },
+          {
+            "phrase": "карта всего мира",
+            "count": "47329"
+          },
+          {
+            "phrase": "назад как карточка",
+            "count": "1277"
+          },
+          {
+            "phrase": "карта хср",
+            "count": "3786"
+          },
+          {
+            "phrase": "map of the world",
+            "count": "2441"
+          },
+          {
+            "phrase": "karta mira",
+            "count": "154"
+          },
+          {
+            "phrase": "tf2 maps",
+            "count": "641"
+          },
+          {
+            "phrase": "entry card",
+            "count": "678"
+          },
+          {
+            "phrase": "алякарт это",
+            "count": "57"
+          }
+        ]
+      }
+    },
+    {
+      "seed": "карты уордли",
+      "cache_hit": false,
+      "payload": {
+        "totalCount": "8",
+        "results": [
+          {
+            "phrase": "карты уордли",
+            "count": "8"
+          }
+        ],
+        "associations": [
+          {
+            "phrase": "мои карты",
+            "count": "248997"
+          },
+          {
+            "phrase": "где я нахожусь на карте",
+            "count": "10693"
+          },
+          {
+            "phrase": "карта слов",
+            "count": "97105"
+          },
+          {
+            "phrase": "карта свои",
+            "count": "374005"
+          },
+          {
+            "phrase": "world map",
+            "count": "25798"
+          },
+          {
+            "phrase": "поиск по координатам на карте",
+            "count": "2468"
+          },
+          {
+            "phrase": "я карты",
+            "count": "1074294"
+          },
+          {
+            "phrase": "мапс карты",
+            "count": "16945"
+          },
+          {
+            "phrase": "карта всего мира",
+            "count": "47329"
+          },
+          {
+            "phrase": "назад как карточка",
+            "count": "1277"
+          },
+          {
+            "phrase": "карта хср",
+            "count": "3786"
+          },
+          {
+            "phrase": "map of the world",
+            "count": "2441"
+          },
+          {
+            "phrase": "karta mira",
+            "count": "154"
+          },
+          {
+            "phrase": "tf2 maps",
+            "count": "641"
+          },
+          {
+            "phrase": "entry card",
+            "count": "678"
+          },
+          {
+            "phrase": "алякарт это",
+            "count": "57"
+          }
+        ]
+      }
+    },
+    {
+      "seed": "мэппинг уордли",
+      "cache_hit": false,
+      "payload": {}
+    },
+    {
+      "seed": "саймон уордли карты",
+      "cache_hit": false,
+      "payload": {}
+    },
+    {
+      "seed": "wardley mapping пример",
+      "cache_hit": false,
+      "payload": {}
+    }
+  ],
+  "dynamics": {
+    "seed": "wardley mapping",
+    "cache_hit": false,
+    "payload": {
+      "results": [
+        {
+          "date": "2025-11-01T00:00:00Z",
+          "count": "18",
+          "share": 1.648858943360701e-07
+        },
+        {
+          "date": "2025-12-01T00:00:00Z",
+          "count": "16",
+          "share": 1.488610360689965e-07
+        },
+        {
+          "date": "2026-01-01T00:00:00Z",
+          "count": "10",
+          "share": 1.0210220235849288e-07
+        },
+        {
+          "date": "2026-02-01T00:00:00Z",
+          "count": "5",
+          "share": 5.587931514175464e-08
+        },
+        {
+          "date": "2026-03-01T00:00:00Z",
+          "count": "14",
+          "share": 1.3478144546480567e-07
+        },
+        {
+          "date": "2026-04-01T00:00:00Z",
+          "count": "29",
+          "share": 2.7253863416330467e-07
+        },
+        {
+          "date": "2026-05-01T00:00:00Z",
+          "count": "18",
+          "share": 1.813820270416027e-07
+        },
+        {
+          "date": "2026-06-01T00:00:00Z",
+          "count": "11",
+          "share": 1.1443871930523539e-07
+        },
+        {
+          "date": "2026-07-01T00:00:00Z",
+          "count": "13",
+          "share": 1.272451259344977e-07
+        },
+        {
+          "date": "2026-08-01T00:00:00Z",
+          "count": "12",
+          "share": 1.1317283809600552e-07
+        },
+        {
+          "date": "2026-09-01T00:00:00Z",
+          "count": "17",
+          "share": 1.5430587073567184e-07
+        }
+      ]
+    }
+  }
+}

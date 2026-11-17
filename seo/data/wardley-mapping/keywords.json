@@ -1,0 +1,525 @@
+{
+  "page_id": "wardley-mapping",
+  "status": "complete",
+  "topic": "Wardley Mapping",
+  "primary_cluster": [
+    {
+      "keyword": "я карты",
+      "count": 1074294,
+      "sources": [
+        {
+          "seed": "карта уордли",
+          "kind": "associations"
+        },
+        {
+          "seed": "карты уордли",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "карта свои",
+      "count": 374005,
+      "sources": [
+        {
+          "seed": "карта уордли",
+          "kind": "associations"
+        },
+        {
+          "seed": "карты уордли",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "мои карты",
+      "count": 248997,
+      "sources": [
+        {
+          "seed": "карта уордли",
+          "kind": "associations"
+        },
+        {
+          "seed": "карты уордли",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "карта слов",
+      "count": 97105,
+      "sources": [
+        {
+          "seed": "карта уордли",
+          "kind": "associations"
+        },
+        {
+          "seed": "карты уордли",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "карта всего мира",
+      "count": 47329,
+      "sources": [
+        {
+          "seed": "карта уордли",
+          "kind": "associations"
+        },
+        {
+          "seed": "карты уордли",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "мапс карты",
+      "count": 16945,
+      "sources": [
+        {
+          "seed": "карта уордли",
+          "kind": "associations"
+        },
+        {
+          "seed": "карты уордли",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "карта хср",
+      "count": 3786,
+      "sources": [
+        {
+          "seed": "карта уордли",
+          "kind": "associations"
+        },
+        {
+          "seed": "карты уордли",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "tf2 maps",
+      "count": 641,
+      "sources": [
+        {
+          "seed": "карта уордли",
+          "kind": "associations"
+        },
+        {
+          "seed": "карты уордли",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "wardley mapping",
+      "count": 14,
+      "sources": [
+        {
+          "seed": "wardley mapping",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "wardley mapping",
+          "kind": "results"
+        },
+        {
+          "seed": "wardley maps",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "wardley maps",
+      "count": 14,
+      "sources": [
+        {
+          "seed": "wardley maps",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "карта уордли",
+      "count": 8,
+      "sources": [
+        {
+          "seed": "карта уордли",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "карты уордли",
+      "count": 8,
+      "sources": [
+        {
+          "seed": "карта уордли",
+          "kind": "results"
+        },
+        {
+          "seed": "карты уордли",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "карты уордли",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    }
+  ],
+  "secondary_clusters": {},
+  "questions": [],
+  "candidate_child_pages": [],
+  "possible_cannibalization": [],
+  "excluded": [
+    {
+      "phrase": "бобби фишер",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "wardley mapping"
+    },
+    {
+      "phrase": "кэри фишер",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "wardley mapping"
+    },
+    {
+      "phrase": "вирджил ван дейк ливерпуль",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "wardley mapping"
+    },
+    {
+      "phrase": "worldmap",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "wardley mapping"
+    },
+    {
+      "phrase": "duncan campbell journalist born 1944",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "wardley mapping"
+    },
+    {
+      "phrase": "dutch warmblood",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "wardley mapping"
+    },
+    {
+      "phrase": "бобби фишер против всего мира",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "wardley mapping"
+    },
+    {
+      "phrase": "бобби фишер",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "wardley maps"
+    },
+    {
+      "phrase": "кэри фишер",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "wardley maps"
+    },
+    {
+      "phrase": "вирджил ван дейк ливерпуль",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "wardley maps"
+    },
+    {
+      "phrase": "worldmap",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "wardley maps"
+    },
+    {
+      "phrase": "duncan campbell journalist born 1944",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "wardley maps"
+    },
+    {
+      "phrase": "dutch warmblood",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "wardley maps"
+    },
+    {
+      "phrase": "бобби фишер против всего мира",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "wardley maps"
+    },
+    {
+      "phrase": "где я нахожусь на карте",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "карта уордли"
+    },
+    {
+      "phrase": "world map",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "карта уордли"
+    },
+    {
+      "phrase": "поиск по координатам на карте",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "карта уордли"
+    },
+    {
+      "phrase": "назад как карточка",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "карта уордли"
+    },
+    {
+      "phrase": "map of the world",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "карта уордли"
+    },
+    {
+      "phrase": "karta mira",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "карта уордли"
+    },
+    {
+      "phrase": "entry card",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "карта уордли"
+    },
+    {
+      "phrase": "алякарт это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "карта уордли"
+    },
+    {
+      "phrase": "где я нахожусь на карте",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "карты уордли"
+    },
+    {
+      "phrase": "world map",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "карты уордли"
+    },
+    {
+      "phrase": "поиск по координатам на карте",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "карты уордли"
+    },
+    {
+      "phrase": "назад как карточка",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "карты уордли"
+    },
+    {
+      "phrase": "map of the world",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "карты уордли"
+    },
+    {
+      "phrase": "karta mira",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "карты уордли"
+    },
+    {
+      "phrase": "entry card",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "карты уордли"
+    },
+    {
+      "phrase": "алякарт это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "карты уордли"
+    }
+  ],
+  "all_keywords": [
+    {
+      "keyword": "я карты",
+      "count": 1074294,
+      "sources": [
+        {
+          "seed": "карта уордли",
+          "kind": "associations"
+        },
+        {
+          "seed": "карты уордли",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "карта свои",
+      "count": 374005,
+      "sources": [
+        {
+          "seed": "карта уордли",
+          "kind": "associations"
+        },
+        {
+          "seed": "карты уордли",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "мои карты",
+      "count": 248997,
+      "sources": [
+        {
+          "seed": "карта уордли",
+          "kind": "associations"
+        },
+        {
+          "seed": "карты уордли",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "карта слов",
+      "count": 97105,
+      "sources": [
+        {
+          "seed": "карта уордли",
+          "kind": "associations"
+        },
+        {
+          "seed": "карты уордли",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "карта всего мира",
+      "count": 47329,
+      "sources": [
+        {
+          "seed": "карта уордли",
+          "kind": "associations"
+        },
+        {
+          "seed": "карты уордли",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "мапс карты",
+      "count": 16945,
+      "sources": [
+        {
+          "seed": "карта уордли",
+          "kind": "associations"
+        },
+        {
+          "seed": "карты уордли",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "карта хср",
+      "count": 3786,
+      "sources": [
+        {
+          "seed": "карта уордли",
+          "kind": "associations"
+        },
+        {
+          "seed": "карты уордли",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "tf2 maps",
+      "count": 641,
+      "sources": [
+        {
+          "seed": "карта уордли",
+          "kind": "associations"
+        },
+        {
+          "seed": "карты уордли",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "wardley mapping",
+      "count": 14,
+      "sources": [
+        {
+          "seed": "wardley mapping",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "wardley mapping",
+          "kind": "results"
+        },
+        {
+          "seed": "wardley maps",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "wardley maps",
+      "count": 14,
+      "sources": [
+        {
+          "seed": "wardley maps",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "карта уордли",
+      "count": 8,
+      "sources": [
+        {
+          "seed": "карта уордли",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "карты уордли",
+      "count": 8,
+      "sources": [
+        {
+          "seed": "карта уордли",
+          "kind": "results"
+        },
+        {
+          "seed": "карты уордли",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "карты уордли",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    }
+  ]
+}
