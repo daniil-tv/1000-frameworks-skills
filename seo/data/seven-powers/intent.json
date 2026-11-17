@@ -1,0 +1,36 @@
+{
+  "page_id": "seven-powers",
+  "status": "complete",
+  "editorial_status": "needs_review",
+  "search_intent": "informational_practical",
+  "intent_source": "generic_hypothesis",
+  "serp_verified": false,
+  "serp_questions": [],
+  "primary_keywords": [
+    "семь",
+    "7 powers",
+    "power 7",
+    "12.7 2",
+    "семь шагов",
+    "7.19",
+    "б 7.5",
+    "euro power 7",
+    "краска euro power 7",
+    "tikkurila euro power 7",
+    "краска tikkurila euro power 7",
+    "семь высоток москвы",
+    "tikkivala euro power 7",
+    "ghibli power extra 7",
+    "краска tikkivala euro power 7"
+  ],
+  "user_job": "Понять назначение и способ применения метода «7 Powers Хелмера».",
+  "context": "Нужно выбрать подходящий метод для конкретного управленческого решения.",
+  "trigger": "Нужно разобраться в методе и проверить его применимость к своей задаче.",
+  "expected_outcome": "Понимание назначения метода, входных данных, этапов и ограничений.",
+  "current_alternatives": [],
+  "criteria_of_success": [
+    "метод соответствует задаче",
+    "исходные данные и допущения обозначены",
+    "результат и ограничения понятны"
+  ]
+}
