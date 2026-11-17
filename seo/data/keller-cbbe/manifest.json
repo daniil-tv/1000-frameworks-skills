@@ -15,5 +15,8 @@
   ],
   "collected_at": "2026-11-17",
   "source": "Yandex Wordstat API",
-  "editorial_status": "needs_review"
+  "editorial_status": "approved",
+  "editorial_reviewed_at": "2026-11-17",
+  "relevant_keyword_count": 6,
+  "review_note": "Irrelevant associations removed, raw wordstat.json preserved."
 }
