@@ -70,7 +70,10 @@
       "intent": "informational"
     }
   ],
-  "secondary_clusters": {},
+  "secondary_clusters": {
+    "practical": [],
+    "informational_question": []
+  },
   "questions": [],
   "candidate_child_pages": [],
   "possible_cannibalization": [],
@@ -142,5 +145,7 @@
       ],
       "intent": "informational"
     }
-  ]
+  ],
+  "editorial_status": "approved",
+  "editorial_reviewed_at": "2026-11-17"
 }
