@@ -4,126 +4,6 @@
   "topic": "Wardley Mapping",
   "primary_cluster": [
     {
-      "keyword": "я карты",
-      "count": 1074294,
-      "sources": [
-        {
-          "seed": "карта уордли",
-          "kind": "associations"
-        },
-        {
-          "seed": "карты уордли",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "карта свои",
-      "count": 374005,
-      "sources": [
-        {
-          "seed": "карта уордли",
-          "kind": "associations"
-        },
-        {
-          "seed": "карты уордли",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "мои карты",
-      "count": 248997,
-      "sources": [
-        {
-          "seed": "карта уордли",
-          "kind": "associations"
-        },
-        {
-          "seed": "карты уордли",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "карта слов",
-      "count": 97105,
-      "sources": [
-        {
-          "seed": "карта уордли",
-          "kind": "associations"
-        },
-        {
-          "seed": "карты уордли",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "карта всего мира",
-      "count": 47329,
-      "sources": [
-        {
-          "seed": "карта уордли",
-          "kind": "associations"
-        },
-        {
-          "seed": "карты уордли",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "мапс карты",
-      "count": 16945,
-      "sources": [
-        {
-          "seed": "карта уордли",
-          "kind": "associations"
-        },
-        {
-          "seed": "карты уордли",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "карта хср",
-      "count": 3786,
-      "sources": [
-        {
-          "seed": "карта уордли",
-          "kind": "associations"
-        },
-        {
-          "seed": "карты уордли",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "tf2 maps",
-      "count": 641,
-      "sources": [
-        {
-          "seed": "карта уордли",
-          "kind": "associations"
-        },
-        {
-          "seed": "карты уордли",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
       "keyword": "wardley mapping",
       "count": 14,
       "sources": [
@@ -338,129 +218,49 @@
       "phrase": "алякарт это",
       "reason": "noise_or_topic_mismatch",
       "seed": "карты уордли"
+    },
+    {
+      "phrase": "я карты",
+      "reason": "general_maps_or_games_not_wardley_mapping",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "карта свои",
+      "reason": "general_maps_or_games_not_wardley_mapping",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "мои карты",
+      "reason": "general_maps_or_games_not_wardley_mapping",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "карта слов",
+      "reason": "general_maps_or_games_not_wardley_mapping",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "карта всего мира",
+      "reason": "general_maps_or_games_not_wardley_mapping",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "мапс карты",
+      "reason": "general_maps_or_games_not_wardley_mapping",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "карта хср",
+      "reason": "general_maps_or_games_not_wardley_mapping",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "tf2 maps",
+      "reason": "general_maps_or_games_not_wardley_mapping",
+      "source": "manual_review_2026-11-17"
     }
   ],
   "all_keywords": [
-    {
-      "keyword": "я карты",
-      "count": 1074294,
-      "sources": [
-        {
-          "seed": "карта уордли",
-          "kind": "associations"
-        },
-        {
-          "seed": "карты уордли",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "карта свои",
-      "count": 374005,
-      "sources": [
-        {
-          "seed": "карта уордли",
-          "kind": "associations"
-        },
-        {
-          "seed": "карты уордли",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "мои карты",
-      "count": 248997,
-      "sources": [
-        {
-          "seed": "карта уордли",
-          "kind": "associations"
-        },
-        {
-          "seed": "карты уордли",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "карта слов",
-      "count": 97105,
-      "sources": [
-        {
-          "seed": "карта уордли",
-          "kind": "associations"
-        },
-        {
-          "seed": "карты уордли",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "карта всего мира",
-      "count": 47329,
-      "sources": [
-        {
-          "seed": "карта уордли",
-          "kind": "associations"
-        },
-        {
-          "seed": "карты уордли",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "мапс карты",
-      "count": 16945,
-      "sources": [
-        {
-          "seed": "карта уордли",
-          "kind": "associations"
-        },
-        {
-          "seed": "карты уордли",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "карта хср",
-      "count": 3786,
-      "sources": [
-        {
-          "seed": "карта уордли",
-          "kind": "associations"
-        },
-        {
-          "seed": "карты уордли",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "tf2 maps",
-      "count": 641,
-      "sources": [
-        {
-          "seed": "карта уордли",
-          "kind": "associations"
-        },
-        {
-          "seed": "карты уордли",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational"
-    },
     {
       "keyword": "wardley mapping",
       "count": 14,
@@ -521,5 +321,7 @@
       ],
       "intent": "informational"
     }
-  ]
+  ],
+  "editorial_status": "approved",
+  "editorial_reviewed_at": "2026-11-17"
 }
