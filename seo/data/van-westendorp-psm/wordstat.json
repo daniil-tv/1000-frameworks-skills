@@ -1,0 +1,223 @@
+{
+  "page_id": "van-westendorp-psm",
+  "status": "complete",
+  "source": "Yandex Wordstat API",
+  "collected_at": "2026-11-17",
+  "regions": [
+    "225"
+  ],
+  "seeds": [
+    {
+      "seed": "метод ван вестендорпа",
+      "cache_hit": false,
+      "payload": {
+        "totalCount": "11",
+        "results": [
+          {
+            "phrase": "метод ван вестендорпа",
+            "count": "10"
+          }
+        ],
+        "associations": [
+          {
+            "phrase": "east vs west",
+            "count": "4963"
+          },
+          {
+            "phrase": "one man one jar",
+            "count": "569"
+          },
+          {
+            "phrase": "1 вон",
+            "count": "29691"
+          },
+          {
+            "phrase": "wh4t 1 w0uldnt d0",
+            "count": "253"
+          },
+          {
+            "phrase": "gpt one",
+            "count": "6909"
+          },
+          {
+            "phrase": "мпа в кн м2",
+            "count": "572"
+          },
+          {
+            "phrase": "one year and one day фильм",
+            "count": "165"
+          },
+          {
+            "phrase": "vans sk8 hi",
+            "count": "2717"
+          },
+          {
+            "phrase": "iz one",
+            "count": "1009"
+          },
+          {
+            "phrase": "one take cs2 ru skins",
+            "count": "310"
+          },
+          {
+            "phrase": "waystones 1.20 1",
+            "count": "295"
+          }
+        ]
+      }
+    },
+    {
+      "seed": "модель ван вестендорпа",
+      "cache_hit": false,
+      "payload": {
+        "totalCount": "2"
+      }
+    },
+    {
+      "seed": "ван вестендорп",
+      "cache_hit": false,
+      "payload": {
+        "totalCount": "20",
+        "results": [
+          {
+            "phrase": "метод ван вестендорпа",
+            "count": "10"
+          }
+        ],
+        "associations": [
+          {
+            "phrase": "east vs west",
+            "count": "4963"
+          },
+          {
+            "phrase": "one man one jar",
+            "count": "569"
+          },
+          {
+            "phrase": "1 вон",
+            "count": "29691"
+          },
+          {
+            "phrase": "wh4t 1 w0uldnt d0",
+            "count": "253"
+          },
+          {
+            "phrase": "gpt one",
+            "count": "6909"
+          },
+          {
+            "phrase": "мпа в кн м2",
+            "count": "572"
+          },
+          {
+            "phrase": "one year and one day фильм",
+            "count": "165"
+          },
+          {
+            "phrase": "vans sk8 hi",
+            "count": "2717"
+          },
+          {
+            "phrase": "iz one",
+            "count": "1009"
+          },
+          {
+            "phrase": "one take cs2 ru skins",
+            "count": "310"
+          },
+          {
+            "phrase": "waystones 1.20 1",
+            "count": "295"
+          }
+        ]
+      }
+    },
+    {
+      "seed": "ценовой метод ван вестендорпа",
+      "cache_hit": false,
+      "payload": {}
+    },
+    {
+      "seed": "price sensitivity meter",
+      "cache_hit": false,
+      "payload": {
+        "totalCount": "16"
+      }
+    },
+    {
+      "seed": "van westendorp",
+      "cache_hit": false,
+      "payload": {
+        "totalCount": "15"
+      }
+    },
+    {
+      "seed": "psm исследование цены",
+      "cache_hit": false,
+      "payload": {}
+    }
+  ],
+  "dynamics": {
+    "seed": "метод ван вестендорпа",
+    "cache_hit": false,
+    "payload": {
+      "results": [
+        {
+          "date": "2025-11-01T00:00:00Z",
+          "count": "21",
+          "share": 1.9236687672541513e-07
+        },
+        {
+          "date": "2025-12-01T00:00:00Z",
+          "count": "53",
+          "share": 4.931021819785509e-07
+        },
+        {
+          "date": "2026-01-01T00:00:00Z",
+          "count": "33",
+          "share": 3.369372677830265e-07
+        },
+        {
+          "date": "2026-02-01T00:00:00Z",
+          "count": "26",
+          "share": 2.905724387371241e-07
+        },
+        {
+          "date": "2026-03-01T00:00:00Z",
+          "count": "29",
+          "share": 2.791901370342403e-07
+        },
+        {
+          "date": "2026-04-01T00:00:00Z",
+          "count": "56",
+          "share": 5.26281500453278e-07
+        },
+        {
+          "date": "2026-05-01T00:00:00Z",
+          "count": "49",
+          "share": 4.93762184724363e-07
+        },
+        {
+          "date": "2026-06-01T00:00:00Z",
+          "count": "20",
+          "share": 2.080703987367916e-07
+        },
+        {
+          "date": "2026-07-01T00:00:00Z",
+          "count": "11",
+          "share": 1.0766895271380575e-07
+        },
+        {
+          "date": "2026-08-01T00:00:00Z",
+          "count": "13",
+          "share": 1.226039079373393e-07
+        },
+        {
+          "date": "2026-09-01T00:00:00Z",
+          "count": "12",
+          "share": 1.0892179110753305e-07
+        }
+      ]
+    }
+  }
+}

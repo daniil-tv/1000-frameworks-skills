@@ -1,0 +1,251 @@
+{
+  "page_id": "van-westendorp-psm",
+  "status": "complete",
+  "topic": "Метод Ван Вестендорпа",
+  "primary_cluster": [
+    {
+      "keyword": "ван вестендорп",
+      "count": 20,
+      "sources": [
+        {
+          "seed": "ван вестендорп",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "price sensitivity meter",
+      "count": 16,
+      "sources": [
+        {
+          "seed": "price sensitivity meter",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "van westendorp",
+      "count": 15,
+      "sources": [
+        {
+          "seed": "van westendorp",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "метод ван вестендорпа",
+      "count": 11,
+      "sources": [
+        {
+          "seed": "метод ван вестендорпа",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "метод ван вестендорпа",
+          "kind": "results"
+        },
+        {
+          "seed": "ван вестендорп",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "модель ван вестендорпа",
+      "count": 2,
+      "sources": [
+        {
+          "seed": "модель ван вестендорпа",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    }
+  ],
+  "secondary_clusters": {},
+  "questions": [],
+  "candidate_child_pages": [],
+  "possible_cannibalization": [],
+  "excluded": [
+    {
+      "phrase": "east vs west",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "метод ван вестендорпа"
+    },
+    {
+      "phrase": "one man one jar",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "метод ван вестендорпа"
+    },
+    {
+      "phrase": "1 вон",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "метод ван вестендорпа"
+    },
+    {
+      "phrase": "wh4t 1 w0uldnt d0",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "метод ван вестендорпа"
+    },
+    {
+      "phrase": "gpt one",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "метод ван вестендорпа"
+    },
+    {
+      "phrase": "мпа в кн м2",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "метод ван вестендорпа"
+    },
+    {
+      "phrase": "one year and one day фильм",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "метод ван вестендорпа"
+    },
+    {
+      "phrase": "vans sk8 hi",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "метод ван вестендорпа"
+    },
+    {
+      "phrase": "iz one",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "метод ван вестендорпа"
+    },
+    {
+      "phrase": "one take cs2 ru skins",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "метод ван вестендорпа"
+    },
+    {
+      "phrase": "waystones 1.20 1",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "метод ван вестендорпа"
+    },
+    {
+      "phrase": "east vs west",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ван вестендорп"
+    },
+    {
+      "phrase": "one man one jar",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ван вестендорп"
+    },
+    {
+      "phrase": "1 вон",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ван вестендорп"
+    },
+    {
+      "phrase": "wh4t 1 w0uldnt d0",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ван вестендорп"
+    },
+    {
+      "phrase": "gpt one",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ван вестендорп"
+    },
+    {
+      "phrase": "мпа в кн м2",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ван вестендорп"
+    },
+    {
+      "phrase": "one year and one day фильм",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ван вестендорп"
+    },
+    {
+      "phrase": "vans sk8 hi",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ван вестендорп"
+    },
+    {
+      "phrase": "iz one",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ван вестендорп"
+    },
+    {
+      "phrase": "one take cs2 ru skins",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ван вестендорп"
+    },
+    {
+      "phrase": "waystones 1.20 1",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "ван вестендорп"
+    }
+  ],
+  "all_keywords": [
+    {
+      "keyword": "ван вестендорп",
+      "count": 20,
+      "sources": [
+        {
+          "seed": "ван вестендорп",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "price sensitivity meter",
+      "count": 16,
+      "sources": [
+        {
+          "seed": "price sensitivity meter",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "van westendorp",
+      "count": 15,
+      "sources": [
+        {
+          "seed": "van westendorp",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "метод ван вестендорпа",
+      "count": 11,
+      "sources": [
+        {
+          "seed": "метод ван вестендорпа",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "метод ван вестендорпа",
+          "kind": "results"
+        },
+        {
+          "seed": "ван вестендорп",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "модель ван вестендорпа",
+      "count": 2,
+      "sources": [
+        {
+          "seed": "модель ван вестендорпа",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    }
+  ]
+}
