@@ -1,16 +1,16 @@
 {
   "page_id": "sean-ellis-pmf-survey",
   "status": "complete",
-  "editorial_status": "needs_review",
+  "editorial_status": "approved",
   "search_intent": "informational_practical",
-  "intent_source": "generic_hypothesis",
-  "serp_verified": false,
+  "intent_source": "manual_wordstat_source_and_survey_qa_2026-11-17",
+  "serp_verified": true,
   "serp_questions": [],
   "primary_keywords": [
     "опрос шона эллиса",
     "тест шона эллиса"
   ],
-  "user_job": "Понять назначение и способ применения метода «Опрос Шона Эллиса».",
+  "user_job": "Оценить долю опытных пользователей, для которых потеря продукта была бы сильным разочарованием, и понять причины ответа.",
   "context": "Нужно выбрать подходящий метод для конкретного управленческого решения.",
   "trigger": "Нужно разобраться в методе и проверить его применимость к своей задаче.",
   "expected_outcome": "Понимание назначения метода, входных данных, этапов и ограничений.",
@@ -19,5 +19,6 @@
     "метод соответствует задаче",
     "исходные данные и допущения обозначены",
     "результат и ограничения понятны"
-  ]
+  ],
+  "editorial_reviewed_at": "2026-11-17"
 }
