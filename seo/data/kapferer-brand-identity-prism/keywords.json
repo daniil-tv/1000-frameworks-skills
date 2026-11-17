@@ -1,0 +1,473 @@
+{
+  "page_id": "kapferer-brand-identity-prism",
+  "status": "complete",
+  "topic": "Призма идентичности бренда Капферера",
+  "primary_cluster": [
+    {
+      "keyword": "farres что за бренд",
+      "count": 213,
+      "sources": [
+        {
+          "seed": "модель капферера",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "scarpa что за бренд",
+      "count": 144,
+      "sources": [
+        {
+          "seed": "модель капферера",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "призма капферера",
+      "count": 67,
+      "sources": [
+        {
+          "seed": "призма капферера",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "модель капферера",
+      "count": 59,
+      "sources": [
+        {
+          "seed": "модель капферера",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "модель капферера",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "призма идентичности капферера",
+      "count": 57,
+      "sources": [
+        {
+          "seed": "призма капферера",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "призма идентичности бренда",
+      "count": 53,
+      "sources": [
+        {
+          "seed": "призма идентичности бренда",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "призма идентичности бренда",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "призма бренда капферера",
+      "count": 35,
+      "sources": [
+        {
+          "seed": "призма бренда капферера",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "призма идентичности бренда капферер",
+      "count": 32,
+      "sources": [
+        {
+          "seed": "призма капферера",
+          "kind": "results"
+        },
+        {
+          "seed": "призма идентичности бренда",
+          "kind": "results"
+        },
+        {
+          "seed": "призма бренда капферера",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "brand identity prism",
+      "count": 18,
+      "sources": [
+        {
+          "seed": "brand identity prism",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    }
+  ],
+  "secondary_clusters": {
+    "informational_question": [
+      {
+        "keyword": "farres что за бренд",
+        "count": 213,
+        "sources": [
+          {
+            "seed": "модель капферера",
+            "kind": "associations"
+          }
+        ],
+        "intent": "informational_question"
+      },
+      {
+        "keyword": "scarpa что за бренд",
+        "count": 144,
+        "sources": [
+          {
+            "seed": "модель капферера",
+            "kind": "associations"
+          }
+        ],
+        "intent": "informational_question"
+      }
+    ]
+  },
+  "questions": [
+    {
+      "keyword": "farres что за бренд",
+      "count": 213,
+      "sources": [
+        {
+          "seed": "модель капферера",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "scarpa что за бренд",
+      "count": 144,
+      "sources": [
+        {
+          "seed": "модель капферера",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational_question"
+    }
+  ],
+  "candidate_child_pages": [],
+  "possible_cannibalization": [],
+  "excluded": [
+    {
+      "phrase": "pardonne moi ce caprice d enfant текст",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "призма капферера"
+    },
+    {
+      "phrase": "андреа альбер пьер казираги",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "призма капферера"
+    },
+    {
+      "phrase": "фидель кастро это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "призма капферера"
+    },
+    {
+      "phrase": "фидель кастро фото",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "призма капферера"
+    },
+    {
+      "phrase": "ночу во московский институт психоанализа",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "призма капферера"
+    },
+    {
+      "phrase": "capitalism d йост клейн",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "призма капферера"
+    },
+    {
+      "phrase": "солипсист это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "призма капферера"
+    },
+    {
+      "phrase": "антуан ватто паломничество на остров киферу",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "призма капферера"
+    },
+    {
+      "phrase": "нэсп без идентификации д что это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "призма идентичности бренда"
+    },
+    {
+      "phrase": "николь кидман фильмы с ее участием",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "призма идентичности бренда"
+    },
+    {
+      "phrase": "жена эрнста константина фото новая кто она",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "призма идентичности бренда"
+    },
+    {
+      "phrase": "московский институт психоанализа официальный сайт",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "призма идентичности бренда"
+    },
+    {
+      "phrase": "эмма уотсон фильмы с ее участием",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "призма идентичности бренда"
+    },
+    {
+      "phrase": "поверь мне похищение лизы маквей",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "призма идентичности бренда"
+    },
+    {
+      "phrase": "sophie mei также известный как sophie mae",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "призма идентичности бренда"
+    },
+    {
+      "phrase": "методика эмоциональная идентификация е и изотова",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "призма идентичности бренда"
+    },
+    {
+      "phrase": "эжен сю парижские тайны",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "призма идентичности бренда"
+    },
+    {
+      "phrase": "prisma ws",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "призма идентичности бренда"
+    },
+    {
+      "phrase": "сандевистан апогей киберпанк где найти",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "призма идентичности бренда"
+    },
+    {
+      "phrase": "клод моне впечатление восходящее солнце",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "призма бренда капферера"
+    },
+    {
+      "phrase": "мануэль феррара",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "призма бренда капферера"
+    },
+    {
+      "phrase": "варрен заир эмери пари сен жермен",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "призма бренда капферера"
+    },
+    {
+      "phrase": "эдит пиаф и тео сарапо",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "призма бренда капферера"
+    },
+    {
+      "phrase": "мэтт дэймон и марк уолберг сходство",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "призма бренда капферера"
+    },
+    {
+      "phrase": "огюст фредерик луи мармон",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "призма бренда капферера"
+    },
+    {
+      "phrase": "синдром клиппеля треноне вебера",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "призма бренда капферера"
+    },
+    {
+      "phrase": "аль капоне",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "модель капферера"
+    },
+    {
+      "phrase": "изабель карре",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "модель капферера"
+    },
+    {
+      "phrase": "lumpen модельное агентство",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "модель капферера"
+    },
+    {
+      "phrase": "фильм про аль капоне",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "модель капферера"
+    },
+    {
+      "phrase": "ле карре",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "модель капферера"
+    },
+    {
+      "phrase": "аль капоне фильм 1959",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "модель капферера"
+    },
+    {
+      "phrase": "жан де карруж",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "модель капферера"
+    },
+    {
+      "phrase": "эль капоне",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "модель капферера"
+    },
+    {
+      "phrase": "marantz model 40n",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "модель капферера"
+    },
+    {
+      "phrase": "капы и элайнеры отличие",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "модель капферера"
+    }
+  ],
+  "all_keywords": [
+    {
+      "keyword": "farres что за бренд",
+      "count": 213,
+      "sources": [
+        {
+          "seed": "модель капферера",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "scarpa что за бренд",
+      "count": 144,
+      "sources": [
+        {
+          "seed": "модель капферера",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "призма капферера",
+      "count": 67,
+      "sources": [
+        {
+          "seed": "призма капферера",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "модель капферера",
+      "count": 59,
+      "sources": [
+        {
+          "seed": "модель капферера",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "модель капферера",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "призма идентичности капферера",
+      "count": 57,
+      "sources": [
+        {
+          "seed": "призма капферера",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "призма идентичности бренда",
+      "count": 53,
+      "sources": [
+        {
+          "seed": "призма идентичности бренда",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "призма идентичности бренда",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "призма бренда капферера",
+      "count": 35,
+      "sources": [
+        {
+          "seed": "призма бренда капферера",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "призма идентичности бренда капферер",
+      "count": 32,
+      "sources": [
+        {
+          "seed": "призма капферера",
+          "kind": "results"
+        },
+        {
+          "seed": "призма идентичности бренда",
+          "kind": "results"
+        },
+        {
+          "seed": "призма бренда капферера",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "brand identity prism",
+      "count": 18,
+      "sources": [
+        {
+          "seed": "brand identity prism",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    }
+  ]
+}
