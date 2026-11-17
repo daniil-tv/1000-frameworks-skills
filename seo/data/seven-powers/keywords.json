@@ -4,362 +4,29 @@
   "topic": "7 Powers Хелмера",
   "primary_cluster": [
     {
-      "keyword": "семь",
-      "count": 4034168,
+      "keyword": "7 powers helmer",
+      "count": 15,
       "sources": [
         {
-          "seed": "7 powers",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "7 powers",
-      "count": 14356,
-      "sources": [
-        {
-          "seed": "7 powers",
+          "seed": "7 powers helmer",
           "kind": "seed_total"
         }
       ],
       "intent": "informational"
     },
     {
-      "keyword": "power 7",
-      "count": 13743,
+      "keyword": "гамильтон хелмер 7 сил",
+      "count": 14,
       "sources": [
         {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "12.7 2",
-      "count": 6426,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "семь шагов",
-      "count": 6259,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "7.19",
-      "count": 5523,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "б 7.5",
-      "count": 3602,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "euro power 7",
-      "count": 3240,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "краска euro power 7",
-      "count": 1940,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "tikkurila euro power 7",
-      "count": 1883,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "краска tikkurila euro power 7",
-      "count": 1124,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "семь высоток москвы",
-      "count": 818,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "tikkivala euro power 7",
-      "count": 790,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "ghibli power extra 7",
-      "count": 536,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "краска tikkivala euro power 7",
-      "count": 485,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "power 7 max",
-      "count": 484,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "k 7 power flex",
-      "count": 402,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "karcher k 7 power",
-      "count": 396,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "power 7 тиккурила",
-      "count": 383,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "euro power 7 9л",
-      "count": 356,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "тиккурила euro power 7",
-      "count": 341,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "power extra 7 p",
-      "count": 340,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "karcher k 7 power flex",
-      "count": 302,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "tikkivala tikkurila euro power 7",
-      "count": 293,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "ghibli power extra 7 p",
-      "count": 292,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "краска для стен tikkurila euro power 7",
-      "count": 290,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "7 rules of power",
-      "count": 287,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "umidigi power 7 max",
-      "count": 277,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "tikkurila euro power 7 9 л",
-      "count": 244,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "краска euro power 7 тиккурила",
-      "count": 242,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
+          "seed": "гамильтон хелмер 7 сил",
+          "kind": "seed_total"
         }
       ],
       "intent": "informational"
     }
   ],
-  "secondary_clusters": {
-    "commercial": [
-      {
-        "keyword": "краска tikkurila euro power 7 9л цена",
-        "count": 15,
-        "sources": [
-          {
-            "seed": "7 powers",
-            "kind": "results"
-          }
-        ],
-        "intent": "commercial"
-      },
-      {
-        "keyword": "euro power 7 краска цена 9 литров",
-        "count": 12,
-        "sources": [
-          {
-            "seed": "7 powers",
-            "kind": "results"
-          }
-        ],
-        "intent": "commercial"
-      }
-    ]
-  },
+  "secondary_clusters": {},
   "questions": [],
   "candidate_child_pages": [
     {
@@ -419,834 +86,549 @@
       "phrase": "the tower",
       "reason": "noise_or_topic_mismatch",
       "seed": "7 powers"
+    },
+    {
+      "phrase": "семь",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "7 powers",
+      "reason": "ambiguous_broad_query_paint_and_other_products",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "power 7",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "12.7 2",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "семь шагов",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "7.19",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "б 7.5",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "euro power 7",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "краска euro power 7",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "tikkurila euro power 7",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "краска tikkurila euro power 7",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "семь высоток москвы",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "tikkivala euro power 7",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "ghibli power extra 7",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "краска tikkivala euro power 7",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "power 7 max",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "k 7 power flex",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "karcher k 7 power",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "power 7 тиккурила",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "euro power 7 9л",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "тиккурила euro power 7",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "power extra 7 p",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "karcher k 7 power flex",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "tikkivala tikkurila euro power 7",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "ghibli power extra 7 p",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "краска для стен tikkurila euro power 7",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "7 rules of power",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "umidigi power 7 max",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "tikkurila euro power 7 9 л",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "краска euro power 7 тиккурила",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "us 7.50",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "tikkurila euro power 7 9л",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "краска tikkurila euro power 7 9л",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "ghibli wirbel power extra 7 p",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "краска моющаяся tikkurila tikkivala euro power 7",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "моющий пылесос power extra 7 p",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "мойка высокого давления k 7 power flex",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "karcher k 7 power flex 1.317 300.0",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "power up 2 unit 7",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "моющий пылесос ghibli power extra 7 p",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "tikkurila euro power 7 купить",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "techno power 7",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "ghibli wirbel power extra 7 i",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "power up 1 unit 7",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "моющий пылесос ghibli power extra 7 i",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "windows 7 in g major 4 powers",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "ghibli power extra 7 i auto",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "минимойка karcher k 7 power flex",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "gran turismo 7 power pack",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "ibm power 7",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "huter dn 7 5i power max gr",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "zeekr power home charge 7 kw",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "tecno power 7 neo",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "cosrx aha 7 whitehead power liquid",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "ghibli power extra 7 p ufs",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "volume down power key for 7 seconds",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "пылесос philips power cyclone 7",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "umidigi power 7 max дисплей",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "pj masks power heroes episode 7",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "tikkurila euro power 7 отзывы",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "techno power 7 ultra",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "umidigi смартфон power 7 max",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "power up 2 unit 7 wordwall",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "eye power 7 маннитол",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "пылесос филипс power cyclone 7",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "ghibli wirbel power extra 7 i 16244010001",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "techno power 7 neo",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "pj masks power heroes season 7",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "power up 3 unit 7 video",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "umidigi power 7 max купить",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "power up 2 unit 7 video",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "power up 1 unit 7 video",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "karcher k 7 power flex отзывы",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "umidigi power 7 max 6 128gb",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "umidigi power 7 max характеристики",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "аппарат высокого давления k 7 premium power",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "краска tikkurila euro power 7 9л цена",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "gran turismo 7 power pack обзор",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "power up 1 unit 7 wordwall",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "ghibli power extra 7 i auto купить",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "karcher k 7 power flex купить",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "euro power 7 краска цена 9 литров",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "tikkivala euro power 7 отзывы",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "tikkurila euro power 7 палитра",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "tikkurila euro power 7 расход на м2",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "tikkivala euro power 7 для дерева",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "описание wire world aurora 7 power cord",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "отзыв ghibli power extra 7 p",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "tikkurila euro power 7 купить спб",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "yonex muscle power 7",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "телефон power 7 нео 256",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "eye power 7 маннитол отзывы пациентов",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "ghibli power extra 7 p ufs купить",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "пылесос vax power 7",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "euro power 7 покрыть лаком",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "ikusi power 7 w скачать схему",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "power up 1 review 7 9",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "tikkurila euro power 7 цвет х485",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "плата usb umidigi power 7 max",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "techno power 7 ultra 5g",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "тикуриллы euro power 7 y481",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "ikkivala tikkurila euro power 7",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "numberblocks band power 1 7",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "power up 2 review unit 7 9",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "tecno power 7 neo характеристики",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "tikkurila euro power 7 f458 база a1",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "wireworld stratus 7 power cord",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "наколенники unlimited power 7 mm черный",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
     }
   ],
   "all_keywords": [
-    {
-      "keyword": "семь",
-      "count": 4034168,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "7 powers",
-      "count": 14356,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "seed_total"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "power 7",
-      "count": 13743,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "12.7 2",
-      "count": 6426,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "семь шагов",
-      "count": 6259,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "7.19",
-      "count": 5523,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "б 7.5",
-      "count": 3602,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "euro power 7",
-      "count": 3240,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "краска euro power 7",
-      "count": 1940,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "tikkurila euro power 7",
-      "count": 1883,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "краска tikkurila euro power 7",
-      "count": 1124,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "семь высоток москвы",
-      "count": 818,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "tikkivala euro power 7",
-      "count": 790,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "ghibli power extra 7",
-      "count": 536,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "краска tikkivala euro power 7",
-      "count": 485,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "power 7 max",
-      "count": 484,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "k 7 power flex",
-      "count": 402,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "karcher k 7 power",
-      "count": 396,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "power 7 тиккурила",
-      "count": 383,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "euro power 7 9л",
-      "count": 356,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "тиккурила euro power 7",
-      "count": 341,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "power extra 7 p",
-      "count": 340,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "karcher k 7 power flex",
-      "count": 302,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "tikkivala tikkurila euro power 7",
-      "count": 293,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "ghibli power extra 7 p",
-      "count": 292,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "краска для стен tikkurila euro power 7",
-      "count": 290,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "7 rules of power",
-      "count": 287,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "umidigi power 7 max",
-      "count": 277,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "tikkurila euro power 7 9 л",
-      "count": 244,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "краска euro power 7 тиккурила",
-      "count": 242,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "us 7.50",
-      "count": 229,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "tikkurila euro power 7 9л",
-      "count": 226,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "краска tikkurila euro power 7 9л",
-      "count": 194,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "ghibli wirbel power extra 7 p",
-      "count": 167,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "краска моющаяся tikkurila tikkivala euro power 7",
-      "count": 137,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "моющий пылесос power extra 7 p",
-      "count": 131,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "мойка высокого давления k 7 power flex",
-      "count": 125,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "karcher k 7 power flex 1.317 300.0",
-      "count": 122,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "power up 2 unit 7",
-      "count": 98,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "моющий пылесос ghibli power extra 7 p",
-      "count": 98,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "tikkurila euro power 7 купить",
-      "count": 96,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "techno power 7",
-      "count": 90,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "ghibli wirbel power extra 7 i",
-      "count": 81,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "power up 1 unit 7",
-      "count": 77,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "моющий пылесос ghibli power extra 7 i",
-      "count": 76,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "windows 7 in g major 4 powers",
-      "count": 67,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "ghibli power extra 7 i auto",
-      "count": 66,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "минимойка karcher k 7 power flex",
-      "count": 60,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "gran turismo 7 power pack",
-      "count": 58,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "ibm power 7",
-      "count": 55,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "huter dn 7 5i power max gr",
-      "count": 52,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "zeekr power home charge 7 kw",
-      "count": 52,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "tecno power 7 neo",
-      "count": 47,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "cosrx aha 7 whitehead power liquid",
-      "count": 41,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "ghibli power extra 7 p ufs",
-      "count": 40,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "volume down power key for 7 seconds",
-      "count": 40,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "пылесос philips power cyclone 7",
-      "count": 35,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "umidigi power 7 max дисплей",
-      "count": 33,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "pj masks power heroes episode 7",
-      "count": 32,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "tikkurila euro power 7 отзывы",
-      "count": 31,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "techno power 7 ultra",
-      "count": 28,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "umidigi смартфон power 7 max",
-      "count": 26,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "power up 2 unit 7 wordwall",
-      "count": 25,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "eye power 7 маннитол",
-      "count": 23,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "пылесос филипс power cyclone 7",
-      "count": 22,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "ghibli wirbel power extra 7 i 16244010001",
-      "count": 21,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "techno power 7 neo",
-      "count": 21,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "pj masks power heroes season 7",
-      "count": 19,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "power up 3 unit 7 video",
-      "count": 19,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "umidigi power 7 max купить",
-      "count": 19,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "power up 2 unit 7 video",
-      "count": 18,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "power up 1 unit 7 video",
-      "count": 17,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "karcher k 7 power flex отзывы",
-      "count": 16,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "umidigi power 7 max 6 128gb",
-      "count": 16,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "umidigi power 7 max характеристики",
-      "count": 16,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
     {
       "keyword": "7 powers helmer",
       "count": 15,
@@ -1254,50 +636,6 @@
         {
           "seed": "7 powers helmer",
           "kind": "seed_total"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "аппарат высокого давления k 7 premium power",
-      "count": 15,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "краска tikkurila euro power 7 9л цена",
-      "count": 15,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "commercial"
-    },
-    {
-      "keyword": "gran turismo 7 power pack обзор",
-      "count": 14,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "power up 1 unit 7 wordwall",
-      "count": 14,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
         }
       ],
       "intent": "informational"
@@ -1312,325 +650,8 @@
         }
       ],
       "intent": "informational"
-    },
-    {
-      "keyword": "ghibli power extra 7 i auto купить",
-      "count": 13,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "karcher k 7 power flex купить",
-      "count": 13,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "euro power 7 краска цена 9 литров",
-      "count": 12,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "commercial"
-    },
-    {
-      "keyword": "tikkivala euro power 7 отзывы",
-      "count": 12,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "tikkurila euro power 7 палитра",
-      "count": 12,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "tikkurila euro power 7 расход на м2",
-      "count": 12,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "tikkivala euro power 7 для дерева",
-      "count": 10,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "описание wire world aurora 7 power cord",
-      "count": 10,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "отзыв ghibli power extra 7 p",
-      "count": 10,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "tikkurila euro power 7 купить спб",
-      "count": 9,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "yonex muscle power 7",
-      "count": 9,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "телефон power 7 нео 256",
-      "count": 9,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "eye power 7 маннитол отзывы пациентов",
-      "count": 8,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "ghibli power extra 7 p ufs купить",
-      "count": 8,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "пылесос vax power 7",
-      "count": 8,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "euro power 7 покрыть лаком",
-      "count": 7,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "ikusi power 7 w скачать схему",
-      "count": 7,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "power up 1 review 7 9",
-      "count": 7,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "tikkurila euro power 7 цвет х485",
-      "count": 7,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "плата usb umidigi power 7 max",
-      "count": 7,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "techno power 7 ultra 5g",
-      "count": 6,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "тикуриллы euro power 7 y481",
-      "count": 6,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "ikkivala tikkurila euro power 7",
-      "count": 5,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "numberblocks band power 1 7",
-      "count": 5,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "power up 2 review unit 7 9",
-      "count": 5,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "tecno power 7 neo характеристики",
-      "count": 5,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "tikkurila euro power 7 f458 база a1",
-      "count": 5,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "wireworld stratus 7 power cord",
-      "count": 5,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "наколенники unlimited power 7 mm черный",
-      "count": 1,
-      "sources": [
-        {
-          "seed": "7 powers",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
     }
-  ]
+  ],
+  "editorial_status": "approved",
+  "editorial_reviewed_at": "2026-11-17"
 }
