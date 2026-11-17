@@ -4,116 +4,6 @@
   "topic": "Модель Кано",
   "primary_cluster": [
     {
-      "keyword": "model",
-      "count": 956946,
-      "sources": [
-        {
-          "seed": "модель кано",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "uml диаграммы",
-      "count": 9626,
-      "sources": [
-        {
-          "seed": "диаграмма кано",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "view model",
-      "count": 6031,
-      "sources": [
-        {
-          "seed": "модель кано",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "idef0 диаграмма",
-      "count": 2279,
-      "sources": [
-        {
-          "seed": "диаграмма кано",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "диаграмма ганта это",
-      "count": 2050,
-      "sources": [
-        {
-          "seed": "диаграмма кано",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "ер диаграмма",
-      "count": 1582,
-      "sources": [
-        {
-          "seed": "диаграмма кано",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "секторная диаграмма",
-      "count": 1285,
-      "sources": [
-        {
-          "seed": "диаграмма кано",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "диаграмма исикавы это",
-      "count": 1029,
-      "sources": [
-        {
-          "seed": "диаграмма кано",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "диаграмма ганта что это",
-      "count": 903,
-      "sources": [
-        {
-          "seed": "диаграмма кано",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational_question"
-    },
-    {
-      "keyword": "что такое диаграмма ганта",
-      "count": 711,
-      "sources": [
-        {
-          "seed": "диаграмма кано",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational_question"
-    },
-    {
       "keyword": "модель кано",
       "count": 622,
       "sources": [
@@ -124,17 +14,6 @@
         {
           "seed": "модель кано",
           "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "диаграмма состояний uml",
-      "count": 375,
-      "sources": [
-        {
-          "seed": "диаграмма кано",
-          "kind": "associations"
         }
       ],
       "intent": "informational"
@@ -181,28 +60,6 @@
       "intent": "informational"
     },
     {
-      "keyword": "модель кано пример",
-      "count": 18,
-      "sources": [
-        {
-          "seed": "модель кано пример",
-          "kind": "seed_total"
-        }
-      ],
-      "intent": "practical"
-    },
-    {
-      "keyword": "опрос кано",
-      "count": 18,
-      "sources": [
-        {
-          "seed": "опрос кано",
-          "kind": "seed_total"
-        }
-      ],
-      "intent": "practical"
-    },
-    {
       "keyword": "kano model",
       "count": 17,
       "sources": [
@@ -219,17 +76,6 @@
       "sources": [
         {
           "seed": "диаграмма кано",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "модель кано ударение",
-      "count": 14,
-      "sources": [
-        {
-          "seed": "модель кано",
           "kind": "results"
         }
       ],
@@ -270,30 +116,6 @@
     }
   ],
   "secondary_clusters": {
-    "informational_question": [
-      {
-        "keyword": "диаграмма ганта что это",
-        "count": 903,
-        "sources": [
-          {
-            "seed": "диаграмма кано",
-            "kind": "associations"
-          }
-        ],
-        "intent": "informational_question"
-      },
-      {
-        "keyword": "что такое диаграмма ганта",
-        "count": 711,
-        "sources": [
-          {
-            "seed": "диаграмма кано",
-            "kind": "associations"
-          }
-        ],
-        "intent": "informational_question"
-      }
-    ],
     "practical": [
       {
         "keyword": "модель кано пример",
@@ -317,32 +139,10 @@
         ],
         "intent": "practical"
       }
-    ]
+    ],
+    "informational_question": []
   },
-  "questions": [
-    {
-      "keyword": "диаграмма ганта что это",
-      "count": 903,
-      "sources": [
-        {
-          "seed": "диаграмма кано",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational_question"
-    },
-    {
-      "keyword": "что такое диаграмма ганта",
-      "count": 711,
-      "sources": [
-        {
-          "seed": "диаграмма кано",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational_question"
-    }
-  ],
+  "questions": [],
   "candidate_child_pages": [],
   "possible_cannibalization": [],
   "excluded": [
@@ -510,119 +310,69 @@
       "phrase": "db diagram io",
       "reason": "noise_or_topic_mismatch",
       "seed": "диаграмма кано"
+    },
+    {
+      "phrase": "model",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "uml диаграммы",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "view model",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "idef0 диаграмма",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "диаграмма ганта это",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "ер диаграмма",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "секторная диаграмма",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "диаграмма исикавы это",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "диаграмма ганта что это",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "что такое диаграмма ганта",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "диаграмма состояний uml",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "модель кано ударение",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
     }
   ],
   "all_keywords": [
-    {
-      "keyword": "model",
-      "count": 956946,
-      "sources": [
-        {
-          "seed": "модель кано",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "uml диаграммы",
-      "count": 9626,
-      "sources": [
-        {
-          "seed": "диаграмма кано",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "view model",
-      "count": 6031,
-      "sources": [
-        {
-          "seed": "модель кано",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "idef0 диаграмма",
-      "count": 2279,
-      "sources": [
-        {
-          "seed": "диаграмма кано",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "диаграмма ганта это",
-      "count": 2050,
-      "sources": [
-        {
-          "seed": "диаграмма кано",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "ер диаграмма",
-      "count": 1582,
-      "sources": [
-        {
-          "seed": "диаграмма кано",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "секторная диаграмма",
-      "count": 1285,
-      "sources": [
-        {
-          "seed": "диаграмма кано",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "диаграмма исикавы это",
-      "count": 1029,
-      "sources": [
-        {
-          "seed": "диаграмма кано",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "диаграмма ганта что это",
-      "count": 903,
-      "sources": [
-        {
-          "seed": "диаграмма кано",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational_question"
-    },
-    {
-      "keyword": "что такое диаграмма ганта",
-      "count": 711,
-      "sources": [
-        {
-          "seed": "диаграмма кано",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational_question"
-    },
     {
       "keyword": "модель кано",
       "count": 622,
@@ -634,17 +384,6 @@
         {
           "seed": "модель кано",
           "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "диаграмма состояний uml",
-      "count": 375,
-      "sources": [
-        {
-          "seed": "диаграмма кано",
-          "kind": "associations"
         }
       ],
       "intent": "informational"
@@ -735,17 +474,6 @@
       "intent": "informational"
     },
     {
-      "keyword": "модель кано ударение",
-      "count": 14,
-      "sources": [
-        {
-          "seed": "модель кано",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
       "keyword": "модель кано удовлетворенность",
       "count": 14,
       "sources": [
@@ -778,5 +506,7 @@
       ],
       "intent": "informational"
     }
-  ]
+  ],
+  "editorial_status": "approved",
+  "editorial_reviewed_at": "2026-11-17"
 }
