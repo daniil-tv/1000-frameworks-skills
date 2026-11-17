@@ -14,5 +14,8 @@
   ],
   "collected_at": "2026-11-17",
   "source": "Yandex Wordstat API",
-  "editorial_status": "needs_review"
+  "editorial_status": "approved",
+  "editorial_reviewed_at": "2026-11-17",
+  "relevant_keyword_count": 2,
+  "note": "Результат широкого «7 powers» (14356) доминируют омонимы товаров/краски; запрещено трактовать как частотность стратегии. Сырые данные сохранены."
 }
