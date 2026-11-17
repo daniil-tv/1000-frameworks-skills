@@ -266,6 +266,66 @@
       ]
     },
     {
+      "id": "kano-model",
+      "title": "Модель Кано",
+      "url": "https://1000factors.ru/strategy/kano-model/",
+      "locale": "ru-RU",
+      "seeds": [
+        "модель кано",
+        "модель кано пример",
+        "метод кано",
+        "kano model",
+        "диаграмма кано",
+        "модель кано удовлетворенность",
+        "опрос кано"
+      ]
+    },
+    {
+      "id": "keller-cbbe",
+      "title": "Модель CBBE Келлера",
+      "url": "https://1000factors.ru/strategy/keller-cbbe/",
+      "locale": "ru-RU",
+      "seeds": [
+        "пирамида келлера",
+        "модель cbbe",
+        "модель келлера бренд",
+        "пирамида бренда келлера",
+        "капитал бренда келлер",
+        "customer based brand equity",
+        "бренд резонанс келлер"
+      ]
+    },
+    {
+      "id": "porter-value-chain",
+      "title": "Цепочка ценности Портера",
+      "url": "https://1000factors.ru/strategy/porter-value-chain/",
+      "locale": "ru-RU",
+      "seeds": [
+        "цепочка ценности портера",
+        "цепочка создания ценности портера",
+        "value chain porter",
+        "анализ цепочки ценности",
+        "цепочка ценности пример",
+        "модель цепочки ценности",
+        "цепочка стоимости портера"
+      ]
+    },
+    {
+      "id": "van-westendorp-psm",
+      "title": "Метод Ван Вестендорпа",
+      "url": "https://1000factors.ru/strategy/van-westendorp-psm/",
+      "locale": "ru-RU",
+      "seeds": [
+        "метод ван вестендорпа",
+        "модель ван вестендорпа",
+        "ван вестендорп",
+        "ценовой метод ван вестендорпа",
+        "price sensitivity meter",
+        "van westendorp",
+        "psm исследование цены"
+      ]
+    },
+    {
       "id": "ai-employees",
       "title": "ИИ-сотрудники для бизнеса",
       "url": "https://1000factors.ru/ai-employees/",
