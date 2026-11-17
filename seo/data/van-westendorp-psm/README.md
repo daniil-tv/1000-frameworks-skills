@@ -1,12 +1,16 @@
-# Метод Ван Вестендорпа — семантика
+# Метод Ван Вестендорпа — проверенная семантика
 
-URL: https://1000factors.ru/strategy/van-westendorp-psm/
-Собрано: 2026-11-17; регион: 225; статус: требует ручной проверки.
+Планируемый URL: https://1000factors.ru/strategy/van-westendorp-psm/
+Wordstat 2026-11-17, Россия (225), редакционная проверка 17.11.2026, approved.
 
-| Запрос | Частотность Wordstat | Предварительный интент | Проверка |
-|---|---:|---|---|
-| ван вестендорп | 20 | informational | проверить |
-| price sensitivity meter | 16 | informational | проверить |
-| van westendorp | 15 | informational | проверить |
-| метод ван вестендорпа | 11 | informational | проверить |
-| модель ван вестендорпа | 2 | informational | проверить |
+Частотности пересекаются и не складываются. Сырые данные сохранены в wordstat.json.
+
+| Запрос | Частотность | Интент |
+|---|---:|---|
+| ван вестендорп | 20 | informational |
+| price sensitivity meter | 16 | informational |
+| van westendorp | 15 | informational |
+| метод ван вестендорпа | 11 | informational |
+| модель ван вестендорпа | 2 | informational |
+
+Исключено нерелевантных ассоциаций: 0. Сайт не публиковался.
