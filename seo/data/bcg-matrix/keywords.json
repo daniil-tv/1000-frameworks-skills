@@ -4,247 +4,6 @@
   "topic": "Матрица BCG",
   "primary_cluster": [
     {
-      "keyword": "матрица судьбы",
-      "count": 764170,
-      "sources": [
-        {
-          "seed": "матрица бкг",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "матрица 3",
-      "count": 102097,
-      "sources": [
-        {
-          "seed": "матрица бкг",
-          "kind": "associations"
-        },
-        {
-          "seed": "матрица bcg",
-          "kind": "associations"
-        },
-        {
-          "seed": "бостонская матрица",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "матрица 1",
-      "count": 96576,
-      "sources": [
-        {
-          "seed": "матрица bcg",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "матрица 2",
-      "count": 91287,
-      "sources": [
-        {
-          "seed": "матрица бкг",
-          "kind": "associations"
-        },
-        {
-          "seed": "матрица bcg",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "матрица 4",
-      "count": 77154,
-      "sources": [
-        {
-          "seed": "матрица бкг",
-          "kind": "associations"
-        },
-        {
-          "seed": "матрица bcg",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "обратная матрица",
-      "count": 53123,
-      "sources": [
-        {
-          "seed": "бостонская матрица",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "матрица 1999",
-      "count": 28185,
-      "sources": [
-        {
-          "seed": "бостонская матрица",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "что такое матрица",
-      "count": 27467,
-      "sources": [
-        {
-          "seed": "матрица бкг",
-          "kind": "associations"
-        },
-        {
-          "seed": "матрица bcg",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational_question"
-    },
-    {
-      "keyword": "расчет матрицы",
-      "count": 23305,
-      "sources": [
-        {
-          "seed": "матрица бкг",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "матрица воскрешение",
-      "count": 18672,
-      "sources": [
-        {
-          "seed": "бостонская матрица",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "va матрица",
-      "count": 16088,
-      "sources": [
-        {
-          "seed": "матрица бкг",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "нео матрица",
-      "count": 10761,
-      "sources": [
-        {
-          "seed": "бостонская матрица",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "матрица пифагора",
-      "count": 7255,
-      "sources": [
-        {
-          "seed": "матрица бкг",
-          "kind": "associations"
-        },
-        {
-          "seed": "матрица bcg",
-          "kind": "associations"
-        },
-        {
-          "seed": "бостонская матрица",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "твоя матрица",
-      "count": 6878,
-      "sources": [
-        {
-          "seed": "матрица бкг",
-          "kind": "associations"
-        },
-        {
-          "seed": "матрица bcg",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "матрица рисков",
-      "count": 5276,
-      "sources": [
-        {
-          "seed": "бостонская матрица",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "матрица raci",
-      "count": 4547,
-      "sources": [
-        {
-          "seed": "бостонская матрица",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "прогрессивные матрицы равена",
-      "count": 4486,
-      "sources": [
-        {
-          "seed": "бостонская матрица",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "бкг",
-      "count": 4397,
-      "sources": [
-        {
-          "seed": "матрица bcg",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "разбор матрицы судьбы",
-      "count": 4286,
-      "sources": [
-        {
-          "seed": "матрица bcg",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
       "keyword": "матрица бкг",
       "count": 2432,
       "sources": [
@@ -287,17 +46,6 @@
       "intent": "informational"
     },
     {
-      "keyword": "твоя матрица ру",
-      "count": 992,
-      "sources": [
-        {
-          "seed": "матрица bcg",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
       "keyword": "бостонская матрица",
       "count": 821,
       "sources": [
@@ -324,28 +72,6 @@
       "intent": "informational"
     },
     {
-      "keyword": "объем правильной четырехугольной пирамиды формула",
-      "count": 246,
-      "sources": [
-        {
-          "seed": "матрица бкг пример",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "коэффициент текущей ликвидности формула по балансу",
-      "count": 243,
-      "sources": [
-        {
-          "seed": "матрица бкг пример",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
       "keyword": "дойные коровы матрица бкг",
       "count": 132,
       "sources": [
@@ -355,17 +81,6 @@
         }
       ],
       "intent": "informational"
-    },
-    {
-      "keyword": "матрица бкг пример",
-      "count": 92,
-      "sources": [
-        {
-          "seed": "матрица бкг пример",
-          "kind": "seed_total"
-        }
-      ],
-      "intent": "practical"
     },
     {
       "keyword": "матрица бостонской консультационной группы",
@@ -379,34 +94,216 @@
       "intent": "informational"
     },
     {
-      "keyword": "матрица бкг как построить",
-      "count": 69,
+      "keyword": "матрица бкг в маркетинге",
+      "count": 55,
       "sources": [
         {
           "seed": "матрица бкг",
           "kind": "results"
         }
       ],
-      "intent": "informational_question"
+      "intent": "informational"
+    },
+    {
+      "keyword": "матрица бкг онлайн",
+      "count": 31,
+      "sources": [
+        {
+          "seed": "матрица бкг",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "матрица бостонской консультативной группы",
+      "count": 31,
+      "sources": [
+        {
+          "seed": "бостонская матрица",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "матрица бкг в эксель",
+      "count": 28,
+      "sources": [
+        {
+          "seed": "матрица бкг",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "bcg матрица это в маркетинге",
+      "count": 22,
+      "sources": [
+        {
+          "seed": "матрица bcg",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "матрица бкг это простыми словами",
+      "count": 21,
+      "sources": [
+        {
+          "seed": "матрица бкг",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "матрица бкг расшифровка",
+      "count": 18,
+      "sources": [
+        {
+          "seed": "матрица бкг",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "построить матрицу бкг онлайн",
+      "count": 15,
+      "sources": [
+        {
+          "seed": "матрица бкг",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "матрица bcg по товару",
+      "count": 14,
+      "sources": [
+        {
+          "seed": "матрица bcg",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "бостонская матрица товарного ассортимента",
+      "count": 11,
+      "sources": [
+        {
+          "seed": "бостонская матрица",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "идеальное движение товаров по бостонской матрице это",
+      "count": 9,
+      "sources": [
+        {
+          "seed": "бостонская матрица",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "относительная доля рынка формула",
+      "count": 8,
+      "sources": [
+        {
+          "seed": "относительная доля рынка формула",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "матрица бкг для старбакса",
+      "count": 6,
+      "sources": [
+        {
+          "seed": "матрица бкг",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "матрица bcg расшифровка",
+      "count": 5,
+      "sources": [
+        {
+          "seed": "матрица bcg",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
     }
   ],
   "secondary_clusters": {
-    "informational_question": [
+    "practical": [
       {
-        "keyword": "что такое матрица",
-        "count": 27467,
+        "keyword": "матрица бкг пример",
+        "count": 92,
+        "sources": [
+          {
+            "seed": "матрица бкг пример",
+            "kind": "seed_total"
+          }
+        ],
+        "intent": "practical"
+      },
+      {
+        "keyword": "бкг матрица шаблон для ворд",
+        "count": 7,
         "sources": [
           {
             "seed": "матрица бкг",
-            "kind": "associations"
-          },
-          {
-            "seed": "матрица bcg",
-            "kind": "associations"
+            "kind": "results"
           }
         ],
-        "intent": "informational_question"
+        "intent": "practical"
       },
+      {
+        "keyword": "матрица бкг для образовательных программ вуза пример",
+        "count": 5,
+        "sources": [
+          {
+            "seed": "матрица бкг",
+            "kind": "results"
+          },
+          {
+            "seed": "матрица бкг пример",
+            "kind": "results"
+          }
+        ],
+        "intent": "practical"
+      },
+      {
+        "keyword": "углубленный пример построения матрицы бкг",
+        "count": 5,
+        "sources": [
+          {
+            "seed": "матрица бкг",
+            "kind": "results"
+          },
+          {
+            "seed": "матрица бкг пример",
+            "kind": "results"
+          }
+        ],
+        "intent": "practical"
+      }
+    ],
+    "informational_question": [
       {
         "keyword": "матрица бкг как построить",
         "count": 69,
@@ -488,78 +385,9 @@
         ],
         "intent": "informational_question"
       }
-    ],
-    "practical": [
-      {
-        "keyword": "матрица бкг пример",
-        "count": 92,
-        "sources": [
-          {
-            "seed": "матрица бкг пример",
-            "kind": "seed_total"
-          }
-        ],
-        "intent": "practical"
-      },
-      {
-        "keyword": "бкг матрица шаблон для ворд",
-        "count": 7,
-        "sources": [
-          {
-            "seed": "матрица бкг",
-            "kind": "results"
-          }
-        ],
-        "intent": "practical"
-      },
-      {
-        "keyword": "матрица бкг для образовательных программ вуза пример",
-        "count": 5,
-        "sources": [
-          {
-            "seed": "матрица бкг",
-            "kind": "results"
-          },
-          {
-            "seed": "матрица бкг пример",
-            "kind": "results"
-          }
-        ],
-        "intent": "practical"
-      },
-      {
-        "keyword": "углубленный пример построения матрицы бкг",
-        "count": 5,
-        "sources": [
-          {
-            "seed": "матрица бкг",
-            "kind": "results"
-          },
-          {
-            "seed": "матрица бкг пример",
-            "kind": "results"
-          }
-        ],
-        "intent": "practical"
-      }
     ]
   },
   "questions": [
-    {
-      "keyword": "что такое матрица",
-      "count": 27467,
-      "sources": [
-        {
-          "seed": "матрица бкг",
-          "kind": "associations"
-        },
-        {
-          "seed": "матрица bcg",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational_question"
-    },
     {
       "keyword": "матрица бкг как построить",
       "count": 69,
@@ -804,250 +632,119 @@
       "phrase": "swot анализ это кратко и понятно",
       "reason": "noise_or_topic_mismatch",
       "seed": "матрица бкг пример"
+    },
+    {
+      "phrase": "матрица судьбы",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "матрица 3",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "матрица 1",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "матрица 2",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "матрица 4",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "обратная матрица",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "матрица 1999",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "что такое матрица",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "расчет матрицы",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "матрица воскрешение",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "va матрица",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "нео матрица",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "матрица пифагора",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "твоя матрица",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "матрица рисков",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "матрица raci",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "прогрессивные матрицы равена",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "бкг",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "разбор матрицы судьбы",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "твоя матрица ру",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "объем правильной четырехугольной пирамиды формула",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "коэффициент текущей ликвидности формула по балансу",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
     }
   ],
   "all_keywords": [
-    {
-      "keyword": "матрица судьбы",
-      "count": 764170,
-      "sources": [
-        {
-          "seed": "матрица бкг",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "матрица 3",
-      "count": 102097,
-      "sources": [
-        {
-          "seed": "матрица бкг",
-          "kind": "associations"
-        },
-        {
-          "seed": "матрица bcg",
-          "kind": "associations"
-        },
-        {
-          "seed": "бостонская матрица",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "матрица 1",
-      "count": 96576,
-      "sources": [
-        {
-          "seed": "матрица bcg",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "матрица 2",
-      "count": 91287,
-      "sources": [
-        {
-          "seed": "матрица бкг",
-          "kind": "associations"
-        },
-        {
-          "seed": "матрица bcg",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "матрица 4",
-      "count": 77154,
-      "sources": [
-        {
-          "seed": "матрица бкг",
-          "kind": "associations"
-        },
-        {
-          "seed": "матрица bcg",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "обратная матрица",
-      "count": 53123,
-      "sources": [
-        {
-          "seed": "бостонская матрица",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "матрица 1999",
-      "count": 28185,
-      "sources": [
-        {
-          "seed": "бостонская матрица",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "что такое матрица",
-      "count": 27467,
-      "sources": [
-        {
-          "seed": "матрица бкг",
-          "kind": "associations"
-        },
-        {
-          "seed": "матрица bcg",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational_question"
-    },
-    {
-      "keyword": "расчет матрицы",
-      "count": 23305,
-      "sources": [
-        {
-          "seed": "матрица бкг",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "матрица воскрешение",
-      "count": 18672,
-      "sources": [
-        {
-          "seed": "бостонская матрица",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "va матрица",
-      "count": 16088,
-      "sources": [
-        {
-          "seed": "матрица бкг",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "нео матрица",
-      "count": 10761,
-      "sources": [
-        {
-          "seed": "бостонская матрица",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "матрица пифагора",
-      "count": 7255,
-      "sources": [
-        {
-          "seed": "матрица бкг",
-          "kind": "associations"
-        },
-        {
-          "seed": "матрица bcg",
-          "kind": "associations"
-        },
-        {
-          "seed": "бостонская матрица",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "твоя матрица",
-      "count": 6878,
-      "sources": [
-        {
-          "seed": "матрица бкг",
-          "kind": "associations"
-        },
-        {
-          "seed": "матрица bcg",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "матрица рисков",
-      "count": 5276,
-      "sources": [
-        {
-          "seed": "бостонская матрица",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "матрица raci",
-      "count": 4547,
-      "sources": [
-        {
-          "seed": "бостонская матрица",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "прогрессивные матрицы равена",
-      "count": 4486,
-      "sources": [
-        {
-          "seed": "бостонская матрица",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "бкг",
-      "count": 4397,
-      "sources": [
-        {
-          "seed": "матрица bcg",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "разбор матрицы судьбы",
-      "count": 4286,
-      "sources": [
-        {
-          "seed": "матрица bcg",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational"
-    },
     {
       "keyword": "матрица бкг",
       "count": 2432,
@@ -1091,17 +788,6 @@
       "intent": "informational"
     },
     {
-      "keyword": "твоя матрица ру",
-      "count": 992,
-      "sources": [
-        {
-          "seed": "матрица bcg",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
       "keyword": "бостонская матрица",
       "count": 821,
       "sources": [
@@ -1123,28 +809,6 @@
         {
           "seed": "бостонская матрица",
           "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "объем правильной четырехугольной пирамиды формула",
-      "count": 246,
-      "sources": [
-        {
-          "seed": "матрица бкг пример",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "коэффициент текущей ликвидности формула по балансу",
-      "count": 243,
-      "sources": [
-        {
-          "seed": "матрица бкг пример",
-          "kind": "associations"
         }
       ],
       "intent": "informational"
@@ -1458,5 +1122,7 @@
       ],
       "intent": "practical"
     }
-  ]
+  ],
+  "editorial_status": "approved",
+  "editorial_reviewed_at": "2026-11-17"
 }
