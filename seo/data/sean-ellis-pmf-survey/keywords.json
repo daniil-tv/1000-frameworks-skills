@@ -1,0 +1,72 @@
+{
+  "page_id": "sean-ellis-pmf-survey",
+  "status": "complete",
+  "topic": "Опрос Шона Эллиса",
+  "primary_cluster": [
+    {
+      "keyword": "опрос шона эллиса",
+      "count": 6,
+      "sources": [
+        {
+          "seed": "опрос шона эллиса",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "practical"
+    },
+    {
+      "keyword": "тест шона эллиса",
+      "count": 2,
+      "sources": [
+        {
+          "seed": "тест шона эллиса",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    }
+  ],
+  "secondary_clusters": {
+    "practical": [
+      {
+        "keyword": "опрос шона эллиса",
+        "count": 6,
+        "sources": [
+          {
+            "seed": "опрос шона эллиса",
+            "kind": "seed_total"
+          }
+        ],
+        "intent": "practical"
+      }
+    ]
+  },
+  "questions": [],
+  "candidate_child_pages": [],
+  "possible_cannibalization": [],
+  "excluded": [],
+  "all_keywords": [
+    {
+      "keyword": "опрос шона эллиса",
+      "count": 6,
+      "sources": [
+        {
+          "seed": "опрос шона эллиса",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "practical"
+    },
+    {
+      "keyword": "тест шона эллиса",
+      "count": 2,
+      "sources": [
+        {
+          "seed": "тест шона эллиса",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    }
+  ]
+}

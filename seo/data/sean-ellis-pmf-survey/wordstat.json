@@ -1,0 +1,91 @@
+{
+  "page_id": "sean-ellis-pmf-survey",
+  "status": "complete",
+  "source": "Yandex Wordstat API",
+  "collected_at": "2026-11-17",
+  "regions": [
+    "225"
+  ],
+  "seeds": [
+    {
+      "seed": "опрос шона эллиса",
+      "cache_hit": false,
+      "payload": {
+        "totalCount": "6"
+      }
+    },
+    {
+      "seed": "тест шона эллиса",
+      "cache_hit": false,
+      "payload": {
+        "totalCount": "2"
+      }
+    },
+    {
+      "seed": "sean ellis test",
+      "cache_hit": false,
+      "payload": {}
+    },
+    {
+      "seed": "sean ellis pmf survey",
+      "cache_hit": false,
+      "payload": {}
+    },
+    {
+      "seed": "product market fit опрос",
+      "cache_hit": false,
+      "payload": {}
+    },
+    {
+      "seed": "40 процентов product market fit",
+      "cache_hit": false,
+      "payload": {}
+    },
+    {
+      "seed": "опрос pmf",
+      "cache_hit": false,
+      "payload": {}
+    }
+  ],
+  "dynamics": {
+    "seed": "опрос шона эллиса",
+    "cache_hit": false,
+    "payload": {
+      "results": [
+        {
+          "date": "2025-11-01T00:00:00Z"
+        },
+        {
+          "date": "2025-12-01T00:00:00Z"
+        },
+        {
+          "date": "2026-01-01T00:00:00Z"
+        },
+        {
+          "date": "2026-02-01T00:00:00Z"
+        },
+        {
+          "date": "2026-03-01T00:00:00Z"
+        },
+        {
+          "date": "2026-04-01T00:00:00Z"
+        },
+        {
+          "date": "2026-05-01T00:00:00Z"
+        },
+        {
+          "date": "2026-06-01T00:00:00Z"
+        },
+        {
+          "date": "2026-07-01T00:00:00Z"
+        },
+        {
+          "date": "2026-08-01T00:00:00Z"
+        },
+        {
+          "date": "2026-09-01T00:00:00Z"
+        }
+      ]
+    }
+  }
+}
