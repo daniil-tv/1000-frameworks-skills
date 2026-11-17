@@ -326,6 +326,78 @@
       ]
     },
     {
+      "id": "kapferer-brand-identity-prism",
+      "title": "Призма идентичности бренда Капферера",
+      "url": "https://1000factors.ru/strategy/kapferer-brand-identity-prism/",
+      "locale": "ru-RU",
+      "seeds": [
+        "призма капферера",
+        "призма идентичности бренда",
+        "призма бренда капферера",
+        "модель капферера",
+        "brand identity prism",
+        "призма идентичности бренда пример"
+      ]
+    },
+    {
+      "id": "seven-powers",
+      "title": "7 Powers Хелмера",
+      "url": "https://1000factors.ru/strategy/7-powers/",
+      "locale": "ru-RU",
+      "seeds": [
+        "7 powers",
+        "7 powers helmer",
+        "семь сил хелмера",
+        "гамильтон хелмер 7 сил",
+        "7 powers стратегия",
+        "конкурентное преимущество 7 powers"
+      ]
+    },
+    {
+      "id": "wardley-mapping",
+      "title": "Wardley Mapping",
+      "url": "https://1000factors.ru/strategy/wardley-mapping/",
+      "locale": "ru-RU",
+      "seeds": [
+        "wardley mapping",
+        "wardley maps",
+        "карта уордли",
+        "карты уордли",
+        "мэппинг уордли",
+        "саймон уордли карты",
+        "wardley mapping пример"
+      ]
+    },
+    {
+      "id": "three-horizons-model",
+      "title": "Модель трёх горизонтов",
+      "url": "https://1000factors.ru/strategy/three-horizons/",
+      "locale": "ru-RU",
+      "seeds": [
+        "модель трех горизонтов",
+        "модель трёх горизонтов",
+        "три горизонта роста",
+        "three horizons model",
+        "три горизонта mckinsey",
+        "модель 3 горизонтов"
+      ]
+    },
+    {
+      "id": "sean-ellis-pmf-survey",
+      "title": "Опрос Шона Эллиса",
+      "url": "https://1000factors.ru/strategy/sean-ellis-pmf-survey/",
+      "locale": "ru-RU",
+      "seeds": [
+        "опрос шона эллиса",
+        "тест шона эллиса",
+        "sean ellis test",
+        "sean ellis pmf survey",
+        "product market fit опрос",
+        "40 процентов product market fit",
+        "опрос pmf"
+      ]
+    },
+    {
       "id": "ai-employees",
       "title": "ИИ-сотрудники для бизнеса",
       "url": "https://1000factors.ru/ai-employees/",
