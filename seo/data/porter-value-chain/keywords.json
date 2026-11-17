@@ -1,0 +1,686 @@
+{
+  "page_id": "porter-value-chain",
+  "status": "complete",
+  "topic": "Цепочка ценности Портера",
+  "primary_cluster": [
+    {
+      "keyword": "цепочка ценности портера",
+      "count": 410,
+      "sources": [
+        {
+          "seed": "цепочка ценности портера",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "цепочка ценностей портера",
+      "count": 384,
+      "sources": [
+        {
+          "seed": "цепочка ценности портера",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "анализ цепочки ценности",
+      "count": 293,
+      "sources": [
+        {
+          "seed": "анализ цепочки ценности",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "анализ цепочки ценностей",
+      "count": 275,
+      "sources": [
+        {
+          "seed": "анализ цепочки ценности",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "цепочка ценности пример",
+      "count": 188,
+      "sources": [
+        {
+          "seed": "цепочка ценности пример",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "practical"
+    },
+    {
+      "keyword": "цепочка создания ценности портера",
+      "count": 176,
+      "sources": [
+        {
+          "seed": "цепочка ценности портера",
+          "kind": "results"
+        },
+        {
+          "seed": "цепочка создания ценности портера",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "цепочка создания ценности портера",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "модель цепочки ценности",
+      "count": 144,
+      "sources": [
+        {
+          "seed": "модель цепочки ценности",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "porter yoshida co",
+      "count": 134,
+      "sources": [
+        {
+          "seed": "цепочка стоимости портера",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "цепочка ценностей м портера",
+      "count": 97,
+      "sources": [
+        {
+          "seed": "цепочка ценности портера",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "пищевая цепь 5 класс биология пример",
+      "count": 79,
+      "sources": [
+        {
+          "seed": "цепочка создания ценности портера",
+          "kind": "associations"
+        }
+      ],
+      "intent": "practical"
+    },
+    {
+      "keyword": "цепочка стоимости портера",
+      "count": 69,
+      "sources": [
+        {
+          "seed": "цепочка стоимости портера",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "цепочка ценностей майкла портера",
+      "count": 64,
+      "sources": [
+        {
+          "seed": "цепочка ценности портера",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "цепочка создания стоимости портера",
+      "count": 53,
+      "sources": [
+        {
+          "seed": "цепочка стоимости портера",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "цепочка создания ценности майкла портера",
+      "count": 44,
+      "sources": [
+        {
+          "seed": "цепочка ценности портера",
+          "kind": "results"
+        },
+        {
+          "seed": "цепочка создания ценности портера",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "цепочка создания ценности м портера",
+      "count": 36,
+      "sources": [
+        {
+          "seed": "цепочка ценности портера",
+          "kind": "results"
+        },
+        {
+          "seed": "цепочка создания ценности портера",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "value chain porter",
+      "count": 15,
+      "sources": [
+        {
+          "seed": "value chain porter",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "цепочка добавленной стоимости портера",
+      "count": 11,
+      "sources": [
+        {
+          "seed": "цепочка стоимости портера",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    }
+  ],
+  "secondary_clusters": {
+    "practical": [
+      {
+        "keyword": "цепочка ценности пример",
+        "count": 188,
+        "sources": [
+          {
+            "seed": "цепочка ценности пример",
+            "kind": "seed_total"
+          }
+        ],
+        "intent": "practical"
+      },
+      {
+        "keyword": "пищевая цепь 5 класс биология пример",
+        "count": 79,
+        "sources": [
+          {
+            "seed": "цепочка создания ценности портера",
+            "kind": "associations"
+          }
+        ],
+        "intent": "practical"
+      }
+    ]
+  },
+  "questions": [],
+  "candidate_child_pages": [],
+  "possible_cannibalization": [],
+  "excluded": [
+    {
+      "phrase": "натяжитель цепи змз 406",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "цепочка ценности портера"
+    },
+    {
+      "phrase": "дэни цепной пес",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "цепочка ценности портера"
+    },
+    {
+      "phrase": "цепи якорей гремят в порту текст",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "цепочка ценности портера"
+    },
+    {
+      "phrase": "цепи якорей гремят в порту слушать",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "цепочка ценности портера"
+    },
+    {
+      "phrase": "цепи договора гайд",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "цепочка создания ценности портера"
+    },
+    {
+      "phrase": "скованные одной цепью текст",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "цепочка создания ценности портера"
+    },
+    {
+      "phrase": "на цепи фильм 2025 смотреть",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "цепочка создания ценности портера"
+    },
+    {
+      "phrase": "жизненный цикл бычьего цепня",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "цепочка создания ценности портера"
+    },
+    {
+      "phrase": "скованные одной цепью скачать",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "цепочка создания ценности портера"
+    },
+    {
+      "phrase": "песня скованные одной цепью",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "цепочка создания ценности портера"
+    },
+    {
+      "phrase": "по теме методические разработки презентации и конспекты",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "цепочка создания ценности портера"
+    },
+    {
+      "phrase": "рц адамант 5post где находится",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "цепочка создания ценности портера"
+    },
+    {
+      "phrase": "5 мл это сколько чайных",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "цепочка создания ценности портера"
+    },
+    {
+      "phrase": "заточка цепи для бензопилы своими руками",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "цепочка создания ценности портера"
+    },
+    {
+      "phrase": "разновидность химического элемента отличающаяся массой атомов кроссворд",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "цепочка создания ценности портера"
+    },
+    {
+      "phrase": "скачать песню скованные одной цепью",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "цепочка создания ценности портера"
+    },
+    {
+      "phrase": "плохой плясун которому мешает часть тела кроссворд",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "цепочка создания ценности портера"
+    },
+    {
+      "phrase": "мужчина окончательно запутавшийся в цепях супружества кроссворд",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "цепочка создания ценности портера"
+    },
+    {
+      "phrase": "шаг цепи",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "цепочка создания ценности портера"
+    },
+    {
+      "phrase": "на цепи о чем фильм",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "анализ цепочки ценности"
+    },
+    {
+      "phrase": "875 проба что это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "анализ цепочки ценности"
+    },
+    {
+      "phrase": "panacea jewelry lab",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "анализ цепочки ценности"
+    },
+    {
+      "phrase": "375 проба это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "анализ цепочки ценности"
+    },
+    {
+      "phrase": "тимоловая проба это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "анализ цепочки ценности"
+    },
+    {
+      "phrase": "как считать звенья на цепи",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "анализ цепочки ценности"
+    },
+    {
+      "phrase": "расчет скф по ckd epi",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "анализ цепочки ценности"
+    },
+    {
+      "phrase": "как считать звенья на цепи бензопилы правильно",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "анализ цепочки ценности"
+    },
+    {
+      "phrase": "750 проба это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "анализ цепочки ценности"
+    },
+    {
+      "phrase": "как посчитать звенья на цепи",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "анализ цепочки ценности"
+    },
+    {
+      "phrase": "цепь в графе это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "анализ цепочки ценности"
+    },
+    {
+      "phrase": "проба это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "анализ цепочки ценности"
+    },
+    {
+      "phrase": "как определить шаг цепи",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "анализ цепочки ценности"
+    },
+    {
+      "phrase": "лабораторные исследования это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "анализ цепочки ценности"
+    },
+    {
+      "phrase": "тимоловая проба что это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "анализ цепочки ценности"
+    },
+    {
+      "phrase": "лоратадин 10 мг инструкция по применению цена",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "цепочка стоимости портера"
+    },
+    {
+      "phrase": "хундай солярис новый 2025 комплектации и цены",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "цепочка стоимости портера"
+    },
+    {
+      "phrase": "депакин хроно 300 инструкция по применению цена",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "цепочка стоимости портера"
+    },
+    {
+      "phrase": "заточка цепи для бензопилы своими руками",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "цепочка стоимости портера"
+    },
+    {
+      "phrase": "нейронтин 600 инструкция по применению цена",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "цепочка стоимости портера"
+    },
+    {
+      "phrase": "калькулятор дохода яндекс еда",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "цепочка стоимости портера"
+    },
+    {
+      "phrase": "доксеф инструкция по применению цена аналоги",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "цепочка стоимости портера"
+    },
+    {
+      "phrase": "сдэк создать заказ",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "цепочка стоимости портера"
+    },
+    {
+      "phrase": "баджадж боксер 150 х купить",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "цепочка стоимости портера"
+    },
+    {
+      "phrase": "красные цепи константин образцов",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "цепочка стоимости портера"
+    },
+    {
+      "phrase": "замена грм акцент",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "цепочка стоимости портера"
+    },
+    {
+      "phrase": "деньги сразу оплата по номеру договора",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "цепочка стоимости портера"
+    },
+    {
+      "phrase": "длина цепи караульной собаки",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "цепочка стоимости портера"
+    },
+    {
+      "phrase": "цепи договора катсцены",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "цепочка стоимости портера"
+    }
+  ],
+  "all_keywords": [
+    {
+      "keyword": "цепочка ценности портера",
+      "count": 410,
+      "sources": [
+        {
+          "seed": "цепочка ценности портера",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "цепочка ценностей портера",
+      "count": 384,
+      "sources": [
+        {
+          "seed": "цепочка ценности портера",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "анализ цепочки ценности",
+      "count": 293,
+      "sources": [
+        {
+          "seed": "анализ цепочки ценности",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "анализ цепочки ценностей",
+      "count": 275,
+      "sources": [
+        {
+          "seed": "анализ цепочки ценности",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "цепочка ценности пример",
+      "count": 188,
+      "sources": [
+        {
+          "seed": "цепочка ценности пример",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "practical"
+    },
+    {
+      "keyword": "цепочка создания ценности портера",
+      "count": 176,
+      "sources": [
+        {
+          "seed": "цепочка ценности портера",
+          "kind": "results"
+        },
+        {
+          "seed": "цепочка создания ценности портера",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "цепочка создания ценности портера",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "модель цепочки ценности",
+      "count": 144,
+      "sources": [
+        {
+          "seed": "модель цепочки ценности",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "porter yoshida co",
+      "count": 134,
+      "sources": [
+        {
+          "seed": "цепочка стоимости портера",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "цепочка ценностей м портера",
+      "count": 97,
+      "sources": [
+        {
+          "seed": "цепочка ценности портера",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "пищевая цепь 5 класс биология пример",
+      "count": 79,
+      "sources": [
+        {
+          "seed": "цепочка создания ценности портера",
+          "kind": "associations"
+        }
+      ],
+      "intent": "practical"
+    },
+    {
+      "keyword": "цепочка стоимости портера",
+      "count": 69,
+      "sources": [
+        {
+          "seed": "цепочка стоимости портера",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "цепочка ценностей майкла портера",
+      "count": 64,
+      "sources": [
+        {
+          "seed": "цепочка ценности портера",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "цепочка создания стоимости портера",
+      "count": 53,
+      "sources": [
+        {
+          "seed": "цепочка стоимости портера",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "цепочка создания ценности майкла портера",
+      "count": 44,
+      "sources": [
+        {
+          "seed": "цепочка ценности портера",
+          "kind": "results"
+        },
+        {
+          "seed": "цепочка создания ценности портера",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "цепочка создания ценности м портера",
+      "count": 36,
+      "sources": [
+        {
+          "seed": "цепочка ценности портера",
+          "kind": "results"
+        },
+        {
+          "seed": "цепочка создания ценности портера",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "value chain porter",
+      "count": 15,
+      "sources": [
+        {
+          "seed": "value chain porter",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "цепочка добавленной стоимости портера",
+      "count": 11,
+      "sources": [
+        {
+          "seed": "цепочка стоимости портера",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    }
+  ]
+}
