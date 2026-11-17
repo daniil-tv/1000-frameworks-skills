@@ -1,0 +1,116 @@
+{
+  "page_id": "three-horizons-model",
+  "status": "complete",
+  "source": "Yandex Wordstat API",
+  "collected_at": "2026-11-17",
+  "regions": [
+    "225"
+  ],
+  "seeds": [
+    {
+      "seed": "модель трех горизонтов",
+      "cache_hit": false,
+      "payload": {
+        "totalCount": "18"
+      }
+    },
+    {
+      "seed": "модель трёх горизонтов",
+      "cache_hit": false,
+      "payload": {
+        "totalCount": "18"
+      }
+    },
+    {
+      "seed": "три горизонта роста",
+      "cache_hit": false,
+      "payload": {
+        "totalCount": "16"
+      }
+    },
+    {
+      "seed": "three horizons model",
+      "cache_hit": false,
+      "payload": {
+        "totalCount": "1"
+      }
+    },
+    {
+      "seed": "три горизонта mckinsey",
+      "cache_hit": false,
+      "payload": {
+        "totalCount": "5"
+      }
+    },
+    {
+      "seed": "модель 3 горизонтов",
+      "cache_hit": false,
+      "payload": {
+        "totalCount": "502"
+      }
+    }
+  ],
+  "dynamics": {
+    "seed": "модель трех горизонтов",
+    "cache_hit": false,
+    "payload": {
+      "results": [
+        {
+          "date": "2025-11-01T00:00:00Z",
+          "count": "57",
+          "share": 5.221386653975554e-07
+        },
+        {
+          "date": "2025-12-01T00:00:00Z",
+          "count": "22",
+          "share": 2.0468392459487015e-07
+        },
+        {
+          "date": "2026-01-01T00:00:00Z",
+          "count": "25",
+          "share": 2.552555058962322e-07
+        },
+        {
+          "date": "2026-02-01T00:00:00Z",
+          "count": "24",
+          "share": 2.6822071268042225e-07
+        },
+        {
+          "date": "2026-03-01T00:00:00Z",
+          "count": "45",
+          "share": 4.3322607470830395e-07
+        },
+        {
+          "date": "2026-04-01T00:00:00Z",
+          "count": "20",
+          "share": 1.8795767873331355e-07
+        },
+        {
+          "date": "2026-05-01T00:00:00Z",
+          "count": "16",
+          "share": 1.6122846848142462e-07
+        },
+        {
+          "date": "2026-06-01T00:00:00Z",
+          "count": "27",
+          "share": 2.808950382946687e-07
+        },
+        {
+          "date": "2026-07-01T00:00:00Z",
+          "count": "13",
+          "share": 1.272451259344977e-07
+        },
+        {
+          "date": "2026-08-01T00:00:00Z",
+          "count": "18",
+          "share": 1.6975925714400826e-07
+        },
+        {
+          "date": "2026-09-01T00:00:00Z",
+          "count": "19",
+          "share": 1.7245950258692733e-07
+        }
+      ]
+    }
+  }
+}

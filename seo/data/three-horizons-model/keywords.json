@@ -1,0 +1,132 @@
+{
+  "page_id": "three-horizons-model",
+  "status": "complete",
+  "topic": "Модель трёх горизонтов",
+  "primary_cluster": [
+    {
+      "keyword": "модель 3 горизонтов",
+      "count": 502,
+      "sources": [
+        {
+          "seed": "модель 3 горизонтов",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "модель трех горизонтов",
+      "count": 18,
+      "sources": [
+        {
+          "seed": "модель трех горизонтов",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "модель трех горизонтов",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "три горизонта роста",
+      "count": 16,
+      "sources": [
+        {
+          "seed": "три горизонта роста",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "три горизонта mckinsey",
+      "count": 5,
+      "sources": [
+        {
+          "seed": "три горизонта mckinsey",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "three horizons model",
+      "count": 1,
+      "sources": [
+        {
+          "seed": "three horizons model",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    }
+  ],
+  "secondary_clusters": {},
+  "questions": [],
+  "candidate_child_pages": [],
+  "possible_cannibalization": [],
+  "excluded": [],
+  "all_keywords": [
+    {
+      "keyword": "модель 3 горизонтов",
+      "count": 502,
+      "sources": [
+        {
+          "seed": "модель 3 горизонтов",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "модель трех горизонтов",
+      "count": 18,
+      "sources": [
+        {
+          "seed": "модель трех горизонтов",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "модель трех горизонтов",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "три горизонта роста",
+      "count": 16,
+      "sources": [
+        {
+          "seed": "три горизонта роста",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "три горизонта mckinsey",
+      "count": 5,
+      "sources": [
+        {
+          "seed": "три горизонта mckinsey",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "three horizons model",
+      "count": 1,
+      "sources": [
+        {
+          "seed": "three horizons model",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    }
+  ]
+}
