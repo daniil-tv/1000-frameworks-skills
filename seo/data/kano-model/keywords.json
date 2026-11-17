@@ -1,0 +1,782 @@
+{
+  "page_id": "kano-model",
+  "status": "complete",
+  "topic": "Модель Кано",
+  "primary_cluster": [
+    {
+      "keyword": "model",
+      "count": 956946,
+      "sources": [
+        {
+          "seed": "модель кано",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "uml диаграммы",
+      "count": 9626,
+      "sources": [
+        {
+          "seed": "диаграмма кано",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "view model",
+      "count": 6031,
+      "sources": [
+        {
+          "seed": "модель кано",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "idef0 диаграмма",
+      "count": 2279,
+      "sources": [
+        {
+          "seed": "диаграмма кано",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "диаграмма ганта это",
+      "count": 2050,
+      "sources": [
+        {
+          "seed": "диаграмма кано",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "ер диаграмма",
+      "count": 1582,
+      "sources": [
+        {
+          "seed": "диаграмма кано",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "секторная диаграмма",
+      "count": 1285,
+      "sources": [
+        {
+          "seed": "диаграмма кано",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "диаграмма исикавы это",
+      "count": 1029,
+      "sources": [
+        {
+          "seed": "диаграмма кано",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "диаграмма ганта что это",
+      "count": 903,
+      "sources": [
+        {
+          "seed": "диаграмма кано",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "что такое диаграмма ганта",
+      "count": 711,
+      "sources": [
+        {
+          "seed": "диаграмма кано",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "модель кано",
+      "count": 622,
+      "sources": [
+        {
+          "seed": "модель кано",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "модель кано",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "диаграмма состояний uml",
+      "count": 375,
+      "sources": [
+        {
+          "seed": "диаграмма кано",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "метод кано",
+      "count": 118,
+      "sources": [
+        {
+          "seed": "метод кано",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "метод кано",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "диаграмма кано",
+      "count": 69,
+      "sources": [
+        {
+          "seed": "диаграмма кано",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "диаграмма кано",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "модель кано маркетинг",
+      "count": 21,
+      "sources": [
+        {
+          "seed": "модель кано",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "модель кано пример",
+      "count": 18,
+      "sources": [
+        {
+          "seed": "модель кано пример",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "practical"
+    },
+    {
+      "keyword": "опрос кано",
+      "count": 18,
+      "sources": [
+        {
+          "seed": "опрос кано",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "practical"
+    },
+    {
+      "keyword": "kano model",
+      "count": 17,
+      "sources": [
+        {
+          "seed": "kano model",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "для чего используется диаграмма кано",
+      "count": 14,
+      "sources": [
+        {
+          "seed": "диаграмма кано",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "модель кано ударение",
+      "count": 14,
+      "sources": [
+        {
+          "seed": "модель кано",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "модель кано удовлетворенность",
+      "count": 14,
+      "sources": [
+        {
+          "seed": "модель кано удовлетворенность",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "модель кано в управлении качеством",
+      "count": 13,
+      "sources": [
+        {
+          "seed": "модель кано",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "модель нориаки кано",
+      "count": 11,
+      "sources": [
+        {
+          "seed": "модель кано",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    }
+  ],
+  "secondary_clusters": {
+    "informational_question": [
+      {
+        "keyword": "диаграмма ганта что это",
+        "count": 903,
+        "sources": [
+          {
+            "seed": "диаграмма кано",
+            "kind": "associations"
+          }
+        ],
+        "intent": "informational_question"
+      },
+      {
+        "keyword": "что такое диаграмма ганта",
+        "count": 711,
+        "sources": [
+          {
+            "seed": "диаграмма кано",
+            "kind": "associations"
+          }
+        ],
+        "intent": "informational_question"
+      }
+    ],
+    "practical": [
+      {
+        "keyword": "модель кано пример",
+        "count": 18,
+        "sources": [
+          {
+            "seed": "модель кано пример",
+            "kind": "seed_total"
+          }
+        ],
+        "intent": "practical"
+      },
+      {
+        "keyword": "опрос кано",
+        "count": 18,
+        "sources": [
+          {
+            "seed": "опрос кано",
+            "kind": "seed_total"
+          }
+        ],
+        "intent": "practical"
+      }
+    ]
+  },
+  "questions": [
+    {
+      "keyword": "диаграмма ганта что это",
+      "count": 903,
+      "sources": [
+        {
+          "seed": "диаграмма кано",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "что такое диаграмма ганта",
+      "count": 711,
+      "sources": [
+        {
+          "seed": "диаграмма кано",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational_question"
+    }
+  ],
+  "candidate_child_pages": [],
+  "possible_cannibalization": [],
+  "excluded": [
+    {
+      "phrase": "zeekr модельный ряд",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "модель кано"
+    },
+    {
+      "phrase": "фотомодель",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "модель кано"
+    },
+    {
+      "phrase": "модел",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "модель кано"
+    },
+    {
+      "phrase": "джетур модельный ряд",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "модель кано"
+    },
+    {
+      "phrase": "exeed модельный ряд",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "модель кано"
+    },
+    {
+      "phrase": "jetour модельный ряд",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "модель кано"
+    },
+    {
+      "phrase": "виды линеек",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "модель кано"
+    },
+    {
+      "phrase": "voyah модельный ряд",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "модель кано"
+    },
+    {
+      "phrase": "тенет модельный ряд",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "модель кано"
+    },
+    {
+      "phrase": "models com",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "модель кано"
+    },
+    {
+      "phrase": "виды моделирования",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "модель кано"
+    },
+    {
+      "phrase": "модельные параметры для девушек",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "модель кано"
+    },
+    {
+      "phrase": "модельные позы",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "модель кано"
+    },
+    {
+      "phrase": "omoda модельный ряд",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "модель кано"
+    },
+    {
+      "phrase": "тест на умение располагать к себе",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "метод кано"
+    },
+    {
+      "phrase": "ты меня доведешь я тебя добиваю",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "метод кано"
+    },
+    {
+      "phrase": "методика сан",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "метод кано"
+    },
+    {
+      "phrase": "какую функцию выполняет митохондрия",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "метод кано"
+    },
+    {
+      "phrase": "методика 10 слов",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "метод кано"
+    },
+    {
+      "phrase": "методика монтессори",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "метод кано"
+    },
+    {
+      "phrase": "я делаю шаг актеры",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "метод кано"
+    },
+    {
+      "phrase": "убей меня исцели меня актеры",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "метод кано"
+    },
+    {
+      "phrase": "5 почему методика",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "метод кано"
+    },
+    {
+      "phrase": "метохондрий это",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "метод кано"
+    },
+    {
+      "phrase": "методика смарт",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "метод кано"
+    },
+    {
+      "phrase": "хонопоно методика",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "метод кано"
+    },
+    {
+      "phrase": "методика кто я",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "метод кано"
+    },
+    {
+      "phrase": "проективные методики",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "метод кано"
+    },
+    {
+      "phrase": "методика какой я",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "метод кано"
+    },
+    {
+      "phrase": "нарисовать график функции",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "диаграмма кано"
+    },
+    {
+      "phrase": "четверти графика функции",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "диаграмма кано"
+    },
+    {
+      "phrase": "app diagrams",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "диаграмма кано"
+    },
+    {
+      "phrase": "db diagram io",
+      "reason": "noise_or_topic_mismatch",
+      "seed": "диаграмма кано"
+    }
+  ],
+  "all_keywords": [
+    {
+      "keyword": "model",
+      "count": 956946,
+      "sources": [
+        {
+          "seed": "модель кано",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "uml диаграммы",
+      "count": 9626,
+      "sources": [
+        {
+          "seed": "диаграмма кано",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "view model",
+      "count": 6031,
+      "sources": [
+        {
+          "seed": "модель кано",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "idef0 диаграмма",
+      "count": 2279,
+      "sources": [
+        {
+          "seed": "диаграмма кано",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "диаграмма ганта это",
+      "count": 2050,
+      "sources": [
+        {
+          "seed": "диаграмма кано",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "ер диаграмма",
+      "count": 1582,
+      "sources": [
+        {
+          "seed": "диаграмма кано",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "секторная диаграмма",
+      "count": 1285,
+      "sources": [
+        {
+          "seed": "диаграмма кано",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "диаграмма исикавы это",
+      "count": 1029,
+      "sources": [
+        {
+          "seed": "диаграмма кано",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "диаграмма ганта что это",
+      "count": 903,
+      "sources": [
+        {
+          "seed": "диаграмма кано",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "что такое диаграмма ганта",
+      "count": 711,
+      "sources": [
+        {
+          "seed": "диаграмма кано",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational_question"
+    },
+    {
+      "keyword": "модель кано",
+      "count": 622,
+      "sources": [
+        {
+          "seed": "модель кано",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "модель кано",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "диаграмма состояний uml",
+      "count": 375,
+      "sources": [
+        {
+          "seed": "диаграмма кано",
+          "kind": "associations"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "метод кано",
+      "count": 118,
+      "sources": [
+        {
+          "seed": "метод кано",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "метод кано",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "диаграмма кано",
+      "count": 69,
+      "sources": [
+        {
+          "seed": "диаграмма кано",
+          "kind": "seed_total"
+        },
+        {
+          "seed": "диаграмма кано",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "модель кано маркетинг",
+      "count": 21,
+      "sources": [
+        {
+          "seed": "модель кано",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "модель кано пример",
+      "count": 18,
+      "sources": [
+        {
+          "seed": "модель кано пример",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "practical"
+    },
+    {
+      "keyword": "опрос кано",
+      "count": 18,
+      "sources": [
+        {
+          "seed": "опрос кано",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "practical"
+    },
+    {
+      "keyword": "kano model",
+      "count": 17,
+      "sources": [
+        {
+          "seed": "kano model",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "для чего используется диаграмма кано",
+      "count": 14,
+      "sources": [
+        {
+          "seed": "диаграмма кано",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "модель кано ударение",
+      "count": 14,
+      "sources": [
+        {
+          "seed": "модель кано",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "модель кано удовлетворенность",
+      "count": 14,
+      "sources": [
+        {
+          "seed": "модель кано удовлетворенность",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "модель кано в управлении качеством",
+      "count": 13,
+      "sources": [
+        {
+          "seed": "модель кано",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "модель нориаки кано",
+      "count": 11,
+      "sources": [
+        {
+          "seed": "модель кано",
+          "kind": "results"
+        }
+      ],
+      "intent": "informational"
+    }
+  ]
+}
