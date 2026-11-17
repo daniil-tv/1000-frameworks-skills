@@ -4,28 +4,6 @@
   "topic": "Призма идентичности бренда Капферера",
   "primary_cluster": [
     {
-      "keyword": "farres что за бренд",
-      "count": 213,
-      "sources": [
-        {
-          "seed": "модель капферера",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational_question"
-    },
-    {
-      "keyword": "scarpa что за бренд",
-      "count": 144,
-      "sources": [
-        {
-          "seed": "модель капферера",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational_question"
-    },
-    {
       "keyword": "призма капферера",
       "count": 67,
       "sources": [
@@ -119,56 +97,8 @@
       "intent": "informational"
     }
   ],
-  "secondary_clusters": {
-    "informational_question": [
-      {
-        "keyword": "farres что за бренд",
-        "count": 213,
-        "sources": [
-          {
-            "seed": "модель капферера",
-            "kind": "associations"
-          }
-        ],
-        "intent": "informational_question"
-      },
-      {
-        "keyword": "scarpa что за бренд",
-        "count": 144,
-        "sources": [
-          {
-            "seed": "модель капферера",
-            "kind": "associations"
-          }
-        ],
-        "intent": "informational_question"
-      }
-    ]
-  },
-  "questions": [
-    {
-      "keyword": "farres что за бренд",
-      "count": 213,
-      "sources": [
-        {
-          "seed": "модель капферера",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational_question"
-    },
-    {
-      "keyword": "scarpa что за бренд",
-      "count": 144,
-      "sources": [
-        {
-          "seed": "модель капферера",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational_question"
-    }
-  ],
+  "secondary_clusters": {},
+  "questions": [],
   "candidate_child_pages": [],
   "possible_cannibalization": [],
   "excluded": [
@@ -351,31 +281,19 @@
       "phrase": "капы и элайнеры отличие",
       "reason": "noise_or_topic_mismatch",
       "seed": "модель капферера"
+    },
+    {
+      "phrase": "farres что за бренд",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "scarpa что за бренд",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
     }
   ],
   "all_keywords": [
-    {
-      "keyword": "farres что за бренд",
-      "count": 213,
-      "sources": [
-        {
-          "seed": "модель капферера",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational_question"
-    },
-    {
-      "keyword": "scarpa что за бренд",
-      "count": 144,
-      "sources": [
-        {
-          "seed": "модель капферера",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational_question"
-    },
     {
       "keyword": "призма капферера",
       "count": 67,
@@ -469,5 +387,7 @@
       ],
       "intent": "informational"
     }
-  ]
+  ],
+  "editorial_status": "approved",
+  "editorial_reviewed_at": "2026-11-17"
 }
