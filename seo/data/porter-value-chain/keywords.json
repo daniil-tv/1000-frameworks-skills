@@ -26,39 +26,6 @@
       "intent": "informational"
     },
     {
-      "keyword": "анализ цепочки ценности",
-      "count": 293,
-      "sources": [
-        {
-          "seed": "анализ цепочки ценности",
-          "kind": "seed_total"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "анализ цепочки ценностей",
-      "count": 275,
-      "sources": [
-        {
-          "seed": "анализ цепочки ценности",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "цепочка ценности пример",
-      "count": 188,
-      "sources": [
-        {
-          "seed": "цепочка ценности пример",
-          "kind": "seed_total"
-        }
-      ],
-      "intent": "practical"
-    },
-    {
       "keyword": "цепочка создания ценности портера",
       "count": 176,
       "sources": [
@@ -78,28 +45,6 @@
       "intent": "informational"
     },
     {
-      "keyword": "модель цепочки ценности",
-      "count": 144,
-      "sources": [
-        {
-          "seed": "модель цепочки ценности",
-          "kind": "seed_total"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "porter yoshida co",
-      "count": 134,
-      "sources": [
-        {
-          "seed": "цепочка стоимости портера",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
       "keyword": "цепочка ценностей м портера",
       "count": 97,
       "sources": [
@@ -109,17 +54,6 @@
         }
       ],
       "intent": "informational"
-    },
-    {
-      "keyword": "пищевая цепь 5 класс биология пример",
-      "count": 79,
-      "sources": [
-        {
-          "seed": "цепочка создания ценности портера",
-          "kind": "associations"
-        }
-      ],
-      "intent": "practical"
     },
     {
       "keyword": "цепочка стоимости портера",
@@ -219,19 +153,9 @@
           }
         ],
         "intent": "practical"
-      },
-      {
-        "keyword": "пищевая цепь 5 класс биология пример",
-        "count": 79,
-        "sources": [
-          {
-            "seed": "цепочка создания ценности портера",
-            "kind": "associations"
-          }
-        ],
-        "intent": "practical"
       }
-    ]
+    ],
+    "informational_question": []
   },
   "questions": [],
   "candidate_child_pages": [],
@@ -476,6 +400,31 @@
       "phrase": "цепи договора катсцены",
       "reason": "noise_or_topic_mismatch",
       "seed": "цепочка стоимости портера"
+    },
+    {
+      "phrase": "анализ цепочки ценности",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "анализ цепочки ценностей",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "модель цепочки ценности",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "porter yoshida co",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
+    },
+    {
+      "phrase": "пищевая цепь 5 класс биология пример",
+      "reason": "editorial_topic_mismatch",
+      "source": "manual_review_2026-11-17"
     }
   ],
   "all_keywords": [
@@ -496,28 +445,6 @@
       "sources": [
         {
           "seed": "цепочка ценности портера",
-          "kind": "results"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "анализ цепочки ценности",
-      "count": 293,
-      "sources": [
-        {
-          "seed": "анализ цепочки ценности",
-          "kind": "seed_total"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "анализ цепочки ценностей",
-      "count": 275,
-      "sources": [
-        {
-          "seed": "анализ цепочки ценности",
           "kind": "results"
         }
       ],
@@ -554,28 +481,6 @@
       "intent": "informational"
     },
     {
-      "keyword": "модель цепочки ценности",
-      "count": 144,
-      "sources": [
-        {
-          "seed": "модель цепочки ценности",
-          "kind": "seed_total"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
-      "keyword": "porter yoshida co",
-      "count": 134,
-      "sources": [
-        {
-          "seed": "цепочка стоимости портера",
-          "kind": "associations"
-        }
-      ],
-      "intent": "informational"
-    },
-    {
       "keyword": "цепочка ценностей м портера",
       "count": 97,
       "sources": [
@@ -585,17 +490,6 @@
         }
       ],
       "intent": "informational"
-    },
-    {
-      "keyword": "пищевая цепь 5 класс биология пример",
-      "count": 79,
-      "sources": [
-        {
-          "seed": "цепочка создания ценности портера",
-          "kind": "associations"
-        }
-      ],
-      "intent": "practical"
     },
     {
       "keyword": "цепочка стоимости портера",
@@ -682,5 +576,7 @@
       ],
       "intent": "informational"
     }
-  ]
+  ],
+  "editorial_status": "approved",
+  "editorial_reviewed_at": "2026-11-17"
 }
