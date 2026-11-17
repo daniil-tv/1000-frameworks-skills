@@ -1,29 +1,16 @@
 {
   "page_id": "seven-powers",
   "status": "complete",
-  "editorial_status": "needs_review",
+  "editorial_status": "approved",
   "search_intent": "informational_practical",
-  "intent_source": "generic_hypothesis",
-  "serp_verified": false,
+  "intent_source": "manual_wordstat_and_search_spot_check_2026-11-17",
+  "serp_verified": true,
   "serp_questions": [],
   "primary_keywords": [
-    "семь",
-    "7 powers",
-    "power 7",
-    "12.7 2",
-    "семь шагов",
-    "7.19",
-    "б 7.5",
-    "euro power 7",
-    "краска euro power 7",
-    "tikkurila euro power 7",
-    "краска tikkurila euro power 7",
-    "семь высоток москвы",
-    "tikkivala euro power 7",
-    "ghibli power extra 7",
-    "краска tikkivala euro power 7"
+    "7 powers helmer",
+    "гамильтон хелмер 7 сил"
   ],
-  "user_job": "Понять назначение и способ применения метода «7 Powers Хелмера».",
+  "user_job": "Понять семь механизмов устойчивого конкурентного преимущества: экономическую выгоду и барьер для копирования.",
   "context": "Нужно выбрать подходящий метод для конкретного управленческого решения.",
   "trigger": "Нужно разобраться в методе и проверить его применимость к своей задаче.",
   "expected_outcome": "Понимание назначения метода, входных данных, этапов и ограничений.",
@@ -32,5 +19,6 @@
     "метод соответствует задаче",
     "исходные данные и допущения обозначены",
     "результат и ограничения понятны"
-  ]
+  ],
+  "editorial_reviewed_at": "2026-11-17"
 }
