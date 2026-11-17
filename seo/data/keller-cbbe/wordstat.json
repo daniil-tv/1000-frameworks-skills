@@ -1,0 +1,121 @@
+{
+  "page_id": "keller-cbbe",
+  "status": "complete",
+  "source": "Yandex Wordstat API",
+  "collected_at": "2026-11-17",
+  "regions": [
+    "225"
+  ],
+  "seeds": [
+    {
+      "seed": "пирамида келлера",
+      "cache_hit": false,
+      "payload": {
+        "totalCount": "23"
+      }
+    },
+    {
+      "seed": "модель cbbe",
+      "cache_hit": false,
+      "payload": {
+        "totalCount": "31"
+      }
+    },
+    {
+      "seed": "модель келлера бренд",
+      "cache_hit": false,
+      "payload": {
+        "totalCount": "4"
+      }
+    },
+    {
+      "seed": "пирамида бренда келлера",
+      "cache_hit": false,
+      "payload": {
+        "totalCount": "6"
+      }
+    },
+    {
+      "seed": "капитал бренда келлер",
+      "cache_hit": false,
+      "payload": {
+        "totalCount": "25"
+      }
+    },
+    {
+      "seed": "customer based brand equity",
+      "cache_hit": false,
+      "payload": {
+        "totalCount": "14"
+      }
+    },
+    {
+      "seed": "бренд резонанс келлер",
+      "cache_hit": false,
+      "payload": {}
+    }
+  ],
+  "dynamics": {
+    "seed": "пирамида келлера",
+    "cache_hit": false,
+    "payload": {
+      "results": [
+        {
+          "date": "2025-11-01T00:00:00Z",
+          "count": "46",
+          "share": 4.213750633032902e-07
+        },
+        {
+          "date": "2025-12-01T00:00:00Z",
+          "count": "28",
+          "share": 2.6050681312074383e-07
+        },
+        {
+          "date": "2026-01-01T00:00:00Z",
+          "count": "34",
+          "share": 3.471474880188758e-07
+        },
+        {
+          "date": "2026-02-01T00:00:00Z",
+          "count": "24",
+          "share": 2.6822071268042225e-07
+        },
+        {
+          "date": "2026-03-01T00:00:00Z",
+          "count": "42",
+          "share": 4.04344336394417e-07
+        },
+        {
+          "date": "2026-04-01T00:00:00Z",
+          "count": "48",
+          "share": 4.510984289599525e-07
+        },
+        {
+          "date": "2026-05-01T00:00:00Z",
+          "count": "80",
+          "share": 8.061423424071232e-07
+        },
+        {
+          "date": "2026-06-01T00:00:00Z",
+          "count": "38",
+          "share": 3.953337575999041e-07
+        },
+        {
+          "date": "2026-07-01T00:00:00Z",
+          "count": "20",
+          "share": 1.9576173220691954e-07
+        },
+        {
+          "date": "2026-08-01T00:00:00Z",
+          "count": "16",
+          "share": 1.5089711746134068e-07
+        },
+        {
+          "date": "2026-09-01T00:00:00Z",
+          "count": "16",
+          "share": 1.452290548100441e-07
+        }
+      ]
+    }
+  }
+}

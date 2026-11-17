@@ -1,0 +1,146 @@
+{
+  "page_id": "keller-cbbe",
+  "status": "complete",
+  "topic": "Модель CBBE Келлера",
+  "primary_cluster": [
+    {
+      "keyword": "модель cbbe",
+      "count": 31,
+      "sources": [
+        {
+          "seed": "модель cbbe",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "капитал бренда келлер",
+      "count": 25,
+      "sources": [
+        {
+          "seed": "капитал бренда келлер",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "пирамида келлера",
+      "count": 23,
+      "sources": [
+        {
+          "seed": "пирамида келлера",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "customer based brand equity",
+      "count": 14,
+      "sources": [
+        {
+          "seed": "customer based brand equity",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "пирамида бренда келлера",
+      "count": 6,
+      "sources": [
+        {
+          "seed": "пирамида бренда келлера",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "модель келлера бренд",
+      "count": 4,
+      "sources": [
+        {
+          "seed": "модель келлера бренд",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    }
+  ],
+  "secondary_clusters": {},
+  "questions": [],
+  "candidate_child_pages": [],
+  "possible_cannibalization": [],
+  "excluded": [],
+  "all_keywords": [
+    {
+      "keyword": "модель cbbe",
+      "count": 31,
+      "sources": [
+        {
+          "seed": "модель cbbe",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "капитал бренда келлер",
+      "count": 25,
+      "sources": [
+        {
+          "seed": "капитал бренда келлер",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "пирамида келлера",
+      "count": 23,
+      "sources": [
+        {
+          "seed": "пирамида келлера",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "customer based brand equity",
+      "count": 14,
+      "sources": [
+        {
+          "seed": "customer based brand equity",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "пирамида бренда келлера",
+      "count": 6,
+      "sources": [
+        {
+          "seed": "пирамида бренда келлера",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    },
+    {
+      "keyword": "модель келлера бренд",
+      "count": 4,
+      "sources": [
+        {
+          "seed": "модель келлера бренд",
+          "kind": "seed_total"
+        }
+      ],
+      "intent": "informational"
+    }
+  ]
+}

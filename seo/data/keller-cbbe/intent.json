@@ -1,0 +1,27 @@
+{
+  "page_id": "keller-cbbe",
+  "status": "complete",
+  "editorial_status": "needs_review",
+  "search_intent": "informational_practical",
+  "intent_source": "generic_hypothesis",
+  "serp_verified": false,
+  "serp_questions": [],
+  "primary_keywords": [
+    "модель cbbe",
+    "капитал бренда келлер",
+    "пирамида келлера",
+    "customer based brand equity",
+    "пирамида бренда келлера",
+    "модель келлера бренд"
+  ],
+  "user_job": "Понять назначение и способ применения метода «Модель CBBE Келлера».",
+  "context": "Нужно выбрать подходящий метод для конкретного управленческого решения.",
+  "trigger": "Нужно разобраться в методе и проверить его применимость к своей задаче.",
+  "expected_outcome": "Понимание назначения метода, входных данных, этапов и ограничений.",
+  "current_alternatives": [],
+  "criteria_of_success": [
+    "метод соответствует задаче",
+    "исходные данные и допущения обозначены",
+    "результат и ограничения понятны"
+  ]
+}
