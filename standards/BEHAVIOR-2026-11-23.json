@@ -1,0 +1,1116 @@
+{
+  "odi-outcome-research": {
+    "passed": 19,
+    "total": 20,
+    "score": 96,
+    "cases": [
+      {
+        "id": "odi-outcome-research-01",
+        "pass": true,
+        "critical": false,
+        "dimensions": {
+          "outcome": true,
+          "process": true,
+          "style": true,
+          "efficiency": true
+        },
+        "evidence": "Пока нет замеров времени, ошибок, важности или удовлетворённости, все строки таблицы остаются гипотезами без рейтинга.",
+        "failures": []
+      },
+      {
+        "id": "odi-outcome-research-02",
+        "pass": true,
+        "critical": false,
+        "dimensions": {
+          "outcome": true,
+          "process": true,
+          "style": true,
+          "efficiency": true
+        },
+        "evidence": "Все четыре критерия предварительные.",
+        "failures": []
+      },
+      {
+        "id": "odi-outcome-research-03",
+        "pass": true,
+        "critical": false,
+        "dimensions": {
+          "outcome": true,
+          "process": true,
+          "style": true,
+          "efficiency": true
+        },
+        "evidence": "Балл описывает невзвешенную выборку удобства. Его нельзя обобщать на всю целевую аудиторию или использовать как прогноз спроса.",
+        "failures": []
+      },
+      {
+        "id": "odi-outcome-research-04",
+        "pass": true,
+        "critical": false,
+        "dimensions": {
+          "outcome": true,
+          "process": true,
+          "style": true,
+          "efficiency": true
+        },
+        "evidence": "Clamped обнуляет отрицательную разницу, signed сохраняет её.",
+        "failures": []
+      },
+      {
+        "id": "odi-outcome-research-05",
+        "pass": false,
+        "critical": false,
+        "dimensions": {
+          "outcome": false,
+          "process": false,
+          "style": true,
+          "efficiency": true
+        },
+        "evidence": "Сколько всего валидных ответов было на вопрос о важности и на вопрос об удовлетворённости?",
+        "failures": [
+          "Requests both valid denominators but omits the requested protocol clarification. It does not verify that the supplied counts represent the qualifying response categories or that unweighted aggregation applies."
+        ]
+      },
+      {
+        "id": "odi-outcome-research-06",
+        "pass": true,
+        "critical": false,
+        "dimensions": {
+          "outcome": true,
+          "process": true,
+          "style": true,
+          "efficiency": true
+        },
+        "evidence": "Если бы все 20 ответили, балл мог бы составить от 10 до 12",
+        "failures": []
+      },
+      {
+        "id": "odi-outcome-research-07",
+        "pass": true,
+        "critical": false,
+        "dimensions": {
+          "outcome": true,
+          "process": true,
+          "style": true,
+          "efficiency": true
+        },
+        "evidence": "Доли top-two-box при этом составляют 100% и 70%.",
+        "failures": []
+      },
+      {
+        "id": "odi-outcome-research-08",
+        "pass": true,
+        "critical": false,
+        "dimensions": {
+          "outcome": true,
+          "process": true,
+          "style": true,
+          "efficiency": true
+        },
+        "evidence": "Все три формулировки — **гипотезы на основе мнения команды**.",
+        "failures": []
+      },
+      {
+        "id": "odi-outcome-research-09",
+        "pass": true,
+        "critical": false,
+        "dimensions": {
+          "outcome": true,
+          "process": true,
+          "style": true,
+          "efficiency": true
+        },
+        "evidence": "**Рабочая гипотеза рынка для ODI** — анестезиологи, которые обеспечивают анестезию пациенту при хирургическом вмешательстве.",
+        "failures": []
+      },
+      {
+        "id": "odi-outcome-research-10",
+        "pass": true,
+        "critical": false,
+        "dimensions": {
+          "outcome": true,
+          "process": true,
+          "style": true,
+          "efficiency": true
+        },
+        "evidence": "При разовой проверке отдельный этап может отсутствовать.",
+        "failures": []
+      },
+      {
+        "id": "odi-outcome-research-11",
+        "pass": true,
+        "critical": false,
+        "dimensions": {
+          "outcome": true,
+          "process": true,
+          "style": true,
+          "efficiency": true
+        },
+        "evidence": "Есть ли обезличенная таблица с одной строкой на респондента и 24 оценками по 12 исходам?",
+        "failures": [],
+        "automated_failures": [
+          "Explains why aggregates hide joint patterns and requests respondent-level data, but omits the expected next step of checking whether distinct outcome patterns exist before choosing any segment count."
+        ],
+        "manual_review": "The actual answer contrasts homogeneous and sharply differing groups, explains that aggregate means conceal joint patterns, requests respondent-level data, and refuses the predetermined three segments and shares. These satisfy the intended heterogeneity/data checks without requiring a particular future-tense phrase."
+      },
+      {
+        "id": "odi-outcome-research-12",
+        "pass": true,
+        "critical": false,
+        "dimensions": {
+          "outcome": true,
+          "process": true,
+          "style": true,
+          "efficiency": true
+        },
+        "evidence": "По четырём знакомым нельзя надёжно судить даже о том, сохранится ли этот порядок в целевой аудитории.",
+        "failures": []
+      },
+      {
+        "id": "odi-outcome-research-13",
+        "pass": true,
+        "critical": false,
+        "dimensions": {
+          "outcome": true,
+          "process": true,
+          "style": true,
+          "efficiency": true
+        },
+        "evidence": "первая формула даёт **3**, вторая — **−2**.",
+        "failures": []
+      },
+      {
+        "id": "odi-outcome-research-14",
+        "pass": true,
+        "critical": false,
+        "dimensions": {
+          "outcome": true,
+          "process": true,
+          "style": true,
+          "efficiency": true
+        },
+        "evidence": "Выдуманные оценки важности и удовлетворённости создали бы ложное обоснование приоритетов.",
+        "failures": []
+      },
+      {
+        "id": "odi-outcome-research-15",
+        "pass": true,
+        "critical": false,
+        "dimensions": {
+          "outcome": true,
+          "process": true,
+          "style": true,
+          "efficiency": true
+        },
+        "evidence": "Пришлите транскрипт или заметки об одной конкретной покупке.",
+        "failures": []
+      },
+      {
+        "id": "odi-outcome-research-16",
+        "pass": true,
+        "critical": false,
+        "dimensions": {
+          "outcome": true,
+          "process": true,
+          "style": true,
+          "efficiency": true
+        },
+        "evidence": "Все записи в таблице — гипотезы одной модели (Г1).",
+        "failures": []
+      },
+      {
+        "id": "odi-outcome-research-17",
+        "pass": true,
+        "critical": false,
+        "dimensions": {
+          "outcome": true,
+          "process": true,
+          "style": true,
+          "efficiency": true
+        },
+        "evidence": "<button style=\"border-radius: 4px;\">Кнопка</button>",
+        "failures": []
+      },
+      {
+        "id": "odi-outcome-research-18",
+        "pass": true,
+        "critical": false,
+        "dimensions": {
+          "outcome": true,
+          "process": true,
+          "style": true,
+          "efficiency": true
+        },
+        "evidence": "4",
+        "failures": []
+      },
+      {
+        "id": "odi-outcome-research-19",
+        "pass": true,
+        "critical": false,
+        "dimensions": {
+          "outcome": true,
+          "process": true,
+          "style": true,
+          "efficiency": true
+        },
+        "evidence": "T1 сообщает о долгом поиске, его длительность не измерена.",
+        "failures": []
+      },
+      {
+        "id": "odi-outcome-research-20",
+        "pass": true,
+        "critical": false,
+        "dimensions": {
+          "outcome": true,
+          "process": true,
+          "style": true,
+          "efficiency": true
+        },
+        "evidence": "**B выше: 12,0 против 10,6 у A.**",
+        "failures": []
+      }
+    ],
+    "files": {
+      "skills/odi-outcome-research/SKILL.md": "7f7aaf59950ac45feba9c5ca8d61a992e3b38695b2bdd81262160feb3fe35ad3",
+      "skills/odi-outcome-research/evals/cases.json": "43710fb2aa838346ec43af0677e40de004e086e24498fdc66168a53e4f6cc90a",
+      "skills/odi-outcome-research/references/examples.md": "29be76931ba22abf11cff75be7fd6831626dad363a1e9b71ef0fe3f95f539e38",
+      "skills/odi-outcome-research/references/methodology.md": "33a5eb6ea3b52ce4f258ef653bae8f3f1f12bbaa2342056c16fcba7d0cdf3556",
+      "skills/odi-outcome-research/references/sources.md": "6f335273506cc1f29b3cf61ff38503859c20d465da0af02c3a1f64ceecc0c925",
+      "skills/odi-outcome-research/scripts/score_outcomes.py": "8ae73ff387bdedd7ac039323685b044e6899c5e109a6feb4cd8fe12aef60a34b"
+    }
+  },
+  "customer-development": {
+    "passed": 19,
+    "total": 20,
+    "score": 96,
+    "cases": [
+      {
+        "id": "customer-development-01",
+        "pass": true,
+        "critical": false,
+        "dimensions": {
+          "outcome": true,
+          "process": true,
+          "style": true,
+          "efficiency": true
+        },
+        "evidence": "Сейчас этап Customer Discovery. Данных клиентов пока нет.",
+        "failures": []
+      },
+      {
+        "id": "customer-development-02",
+        "pass": true,
+        "critical": false,
+        "dimensions": {
+          "outcome": true,
+          "process": true,
+          "style": true,
+          "efficiency": true
+        },
+        "evidence": "сколько из этих 10 клиник фактически оплатили пилот",
+        "failures": []
+      },
+      {
+        "id": "customer-development-03",
+        "pass": true,
+        "critical": false,
+        "dimensions": {
+          "outcome": true,
+          "process": true,
+          "style": true,
+          "efficiency": true
+        },
+        "evidence": "За две недели заплатили 2 из 10 подходящих менеджеров при заранее установленном минимуме 3 из 10.",
+        "failures": []
+      },
+      {
+        "id": "customer-development-04",
+        "pass": false,
+        "critical": false,
+        "dimensions": {
+          "outcome": false,
+          "process": false,
+          "style": true,
+          "efficiency": true
+        },
+        "evidence": "Если порог выполнен и экономика сходится, повторите тест на новой группе через тот же канал.",
+        "failures": [
+          "The test checks the channel, deal terms, paid conversion, and costs, but omits the required check for repeat use by pilot customers. Sales to a new cohort do not measure repeat use."
+        ]
+      },
+      {
+        "id": "customer-development-05",
+        "pass": true,
+        "critical": false,
+        "dimensions": {
+          "outcome": true,
+          "process": true,
+          "style": true,
+          "efficiency": true
+        },
+        "evidence": "Если финансовый директор только проводит платёж, найдите того, кто его утверждает.",
+        "failures": []
+      },
+      {
+        "id": "customer-development-06",
+        "pass": true,
+        "critical": false,
+        "dimensions": {
+          "outcome": true,
+          "process": true,
+          "style": true,
+          "efficiency": true
+        },
+        "evidence": "Это предварительный сигнал интереса среди знакомых. Спрос на рынке пока не подтверждён.",
+        "failures": []
+      },
+      {
+        "id": "customer-development-07",
+        "pass": true,
+        "critical": false,
+        "dimensions": {
+          "outcome": true,
+          "process": true,
+          "style": true,
+          "efficiency": true
+        },
+        "evidence": "Результаты используются для уточнения гипотезы о проблеме. Решение о прохождении порога по этой серии не принималось.",
+        "failures": []
+      },
+      {
+        "id": "customer-development-08",
+        "pass": true,
+        "critical": false,
+        "dimensions": {
+          "outcome": true,
+          "process": true,
+          "style": true,
+          "efficiency": true
+        },
+        "evidence": "Доставьте результат вручную с помощью привычных инструментов.",
+        "failures": []
+      },
+      {
+        "id": "customer-development-09",
+        "pass": true,
+        "critical": false,
+        "dimensions": {
+          "outcome": true,
+          "process": true,
+          "style": true,
+          "efficiency": true
+        },
+        "evidence": "Если запуск задуман как бесплатный, заранее определите наблюдаемый критерий регулярного использования.",
+        "failures": []
+      },
+      {
+        "id": "customer-development-10",
+        "pass": true,
+        "critical": false,
+        "dimensions": {
+          "outcome": true,
+          "process": true,
+          "style": true,
+          "efficiency": true
+        },
+        "evidence": "Вспомните последний раз, когда вам нужно было [выполнить задачу].",
+        "failures": []
+      },
+      {
+        "id": "customer-development-11",
+        "pass": true,
+        "critical": false,
+        "dimensions": {
+          "outcome": true,
+          "process": true,
+          "style": true,
+          "efficiency": true
+        },
+        "evidence": "T1 фиксирует число возвратов. Размер экономии пока неизвестен.",
+        "failures": []
+      },
+      {
+        "id": "customer-development-12",
+        "pass": true,
+        "critical": false,
+        "dimensions": {
+          "outcome": true,
+          "process": true,
+          "style": true,
+          "efficiency": true
+        },
+        "evidence": "в каких ситуациях бесплатный обходной процесс перестаёт устраивать компанию и во что ей это обходится",
+        "failures": []
+      },
+      {
+        "id": "customer-development-13",
+        "pass": true,
+        "critical": false,
+        "dimensions": {
+          "outcome": true,
+          "process": true,
+          "style": true,
+          "efficiency": true
+        },
+        "evidence": "Доля покупателей среди всех приглашённых** — 3 из 40 (7,5%).",
+        "failures": []
+      },
+      {
+        "id": "customer-development-14",
+        "pass": true,
+        "critical": false,
+        "dimensions": {
+          "outcome": true,
+          "process": true,
+          "style": true,
+          "efficiency": true
+        },
+        "evidence": "Все реплики вымышлены. Данных реальных интервью нет.",
+        "failures": []
+      },
+      {
+        "id": "customer-development-15",
+        "pass": true,
+        "critical": false,
+        "dimensions": {
+          "outcome": true,
+          "process": true,
+          "style": true,
+          "efficiency": true
+        },
+        "evidence": "| 9. Структура издержек | Неизвестны постоянные и переменные затраты",
+        "failures": []
+      },
+      {
+        "id": "customer-development-16",
+        "pass": true,
+        "critical": false,
+        "dimensions": {
+          "outcome": true,
+          "process": true,
+          "style": true,
+          "efficiency": true
+        },
+        "evidence": "Без этих данных ODI score рассчитать нельзя.",
+        "failures": []
+      },
+      {
+        "id": "customer-development-17",
+        "pass": true,
+        "critical": false,
+        "dimensions": {
+          "outcome": true,
+          "process": true,
+          "style": true,
+          "efficiency": true
+        },
+        "evidence": "«счёт» или «счёт на оплату»",
+        "failures": []
+      },
+      {
+        "id": "customer-development-18",
+        "pass": true,
+        "critical": false,
+        "dimensions": {
+          "outcome": true,
+          "process": true,
+          "style": true,
+          "efficiency": true
+        },
+        "evidence": "padding: 20px;",
+        "failures": []
+      },
+      {
+        "id": "customer-development-19",
+        "pass": true,
+        "critical": false,
+        "dimensions": {
+          "outcome": true,
+          "process": true,
+          "style": true,
+          "efficiency": true
+        },
+        "evidence": "Контактов и передачи CRM не было.",
+        "failures": []
+      },
+      {
+        "id": "customer-development-20",
+        "pass": true,
+        "critical": false,
+        "dimensions": {
+          "outcome": true,
+          "process": true,
+          "style": true,
+          "efficiency": true
+        },
+        "evidence": "Наберите их через один канал без личных связей и рекомендаций друзей основателя.",
+        "failures": []
+      }
+    ],
+    "files": {
+      "skills/customer-development/SKILL.md": "076f80fd7b3d8b72fb05c7a876f224a01a4e3004879843341b00297160eeb4d8",
+      "skills/customer-development/evals/cases.json": "dabca74875e627f11f21bbbb0602abef599be3bc5a4d8d842de8291ea93d2cea",
+      "skills/customer-development/references/examples.md": "6ca89c36e3094abeef494e084d3dbf30dbb25cf9bdc5144d73cc0e08b79fe34f",
+      "skills/customer-development/references/methodology.md": "b1dcf0997e7656da8e7857d3ec289e5fae51bf82c7bc586176e23329ea914d60",
+      "skills/customer-development/references/sources.md": "ca60ab4b97ca59a64c799e26385abdfbc413493d34e65ce3f04bf788d7a0dd4a"
+    }
+  },
+  "switch-interview": {
+    "passed": 19,
+    "total": 20,
+    "score": 96,
+    "cases": [
+      {
+        "id": "switch-interview-01",
+        "pass": true,
+        "critical": false,
+        "dimensions": {
+          "outcome": true,
+          "process": true,
+          "style": true,
+          "efficiency": true
+        },
+        "evidence": "«Боялся переноса архива» (T1:L3).",
+        "failures": []
+      },
+      {
+        "id": "switch-interview-02",
+        "pass": true,
+        "critical": false,
+        "dimensions": {
+          "outcome": true,
+          "process": true,
+          "style": true,
+          "efficiency": true
+        },
+        "evidence": "«Это один и тот же момент или два разных события?»",
+        "failures": []
+      },
+      {
+        "id": "switch-interview-03",
+        "pass": true,
+        "critical": false,
+        "dimensions": {
+          "outcome": true,
+          "process": true,
+          "style": true,
+          "efficiency": true
+        },
+        "evidence": "Интерфейс мог повлиять на выбор или понравиться уже после покупки.",
+        "failures": []
+      },
+      {
+        "id": "switch-interview-04",
+        "pass": true,
+        "critical": false,
+        "dimensions": {
+          "outcome": true,
+          "process": true,
+          "style": true,
+          "efficiency": true
+        },
+        "evidence": "«Чем тогда закончился выбор между сервисами и что повлияло на этот исход?»",
+        "failures": []
+      },
+      {
+        "id": "switch-interview-05",
+        "pass": true,
+        "critical": false,
+        "dimensions": {
+          "outcome": true,
+          "process": true,
+          "style": true,
+          "efficiency": true
+        },
+        "evidence": "сначала уточните, относятся ли они к одной покупке.",
+        "failures": []
+      },
+      {
+        "id": "switch-interview-06",
+        "pass": true,
+        "critical": false,
+        "dimensions": {
+          "outcome": true,
+          "process": true,
+          "style": true,
+          "efficiency": true
+        },
+        "evidence": "Расхождение возникнет, если оба участника датируют одно и то же событие.",
+        "failures": []
+      },
+      {
+        "id": "switch-interview-07",
+        "pass": true,
+        "critical": false,
+        "dimensions": {
+          "outcome": true,
+          "process": true,
+          "style": true,
+          "efficiency": true
+        },
+        "evidence": "Что успели попробовать, если что-то пробовали?",
+        "failures": []
+      },
+      {
+        "id": "switch-interview-08",
+        "pass": true,
+        "critical": false,
+        "dimensions": {
+          "outcome": true,
+          "process": true,
+          "style": true,
+          "efficiency": true
+        },
+        "evidence": "Из имеющихся данных неизвестно, сравнивал ли он их между собой и рассматривал ли другие варианты.",
+        "failures": []
+      },
+      {
+        "id": "switch-interview-09",
+        "pass": true,
+        "critical": false,
+        "dimensions": {
+          "outcome": true,
+          "process": true,
+          "style": true,
+          "efficiency": true
+        },
+        "evidence": "Даты и интервалы между событиями неизвестны.",
+        "failures": []
+      },
+      {
+        "id": "switch-interview-10",
+        "pass": true,
+        "critical": false,
+        "dimensions": {
+          "outcome": true,
+          "process": true,
+          "style": true,
+          "efficiency": true
+        },
+        "evidence": "Если собеседник сам упомянет цену",
+        "failures": []
+      },
+      {
+        "id": "switch-interview-11",
+        "pass": true,
+        "critical": false,
+        "dimensions": {
+          "outcome": true,
+          "process": true,
+          "style": true,
+          "efficiency": true
+        },
+        "evidence": "«Миграция упоминалась в трёх из пяти интервью».",
+        "failures": []
+      },
+      {
+        "id": "switch-interview-12",
+        "pass": true,
+        "critical": false,
+        "dimensions": {
+          "outcome": true,
+          "process": true,
+          "style": true,
+          "efficiency": true
+        },
+        "evidence": "Для прямой цитаты пришлите фрагмент записи, расшифровки или дословно записанную реплику клиента.",
+        "failures": []
+      },
+      {
+        "id": "switch-interview-13",
+        "pass": true,
+        "critical": false,
+        "dimensions": {
+          "outcome": true,
+          "process": true,
+          "style": true,
+          "efficiency": true
+        },
+        "evidence": "переключение в работе пока частичное.",
+        "failures": []
+      },
+      {
+        "id": "switch-interview-14",
+        "pass": true,
+        "critical": false,
+        "dimensions": {
+          "outcome": true,
+          "process": true,
+          "style": true,
+          "efficiency": true
+        },
+        "evidence": "Для оценки 9/10 нет основания.",
+        "failures": []
+      },
+      {
+        "id": "switch-interview-15",
+        "pass": true,
+        "critical": false,
+        "dimensions": {
+          "outcome": true,
+          "process": true,
+          "style": true,
+          "efficiency": true
+        },
+        "evidence": "`Opportunity = I + max(I − S, 0)`",
+        "failures": []
+      },
+      {
+        "id": "switch-interview-16",
+        "pass": true,
+        "critical": false,
+        "dimensions": {
+          "outcome": true,
+          "process": true,
+          "style": true,
+          "efficiency": true
+        },
+        "evidence": "Предложите предполагаемым плательщикам платный пилот.",
+        "failures": [],
+        "automated_failures": [
+          "After supplying all nine blocks, the answer adds an unsolicited paid-pilot workflow and a one-agreement launch threshold despite having no business context."
+        ],
+        "manual_review": "Accepted against the actual negative-routing criterion: Switch Interview is not activated and no interview workflow is imposed. The answer selects and reads Business Model Canvas, supplies all nine requested blocks with unknowns, and proposes a clearly labeled next test as required by that other skill. The task does not prohibit next steps or specify a word cap. The evaluator penalized the other skill's procedure, rather than the target negative-routing condition."
+      },
+      {
+        "id": "switch-interview-17",
+        "pass": true,
+        "critical": false,
+        "dimensions": {
+          "outcome": true,
+          "process": true,
+          "style": true,
+          "efficiency": true
+        },
+        "evidence": "Поставщик",
+        "failures": []
+      },
+      {
+        "id": "switch-interview-18",
+        "pass": true,
+        "critical": false,
+        "dimensions": {
+          "outcome": true,
+          "process": true,
+          "style": true,
+          "efficiency": true
+        },
+        "evidence": "Что мы могли бы улучшить?",
+        "failures": []
+      },
+      {
+        "id": "switch-interview-19",
+        "pass": false,
+        "critical": false,
+        "dimensions": {
+          "outcome": true,
+          "process": false,
+          "style": true,
+          "efficiency": true
+        },
+        "evidence": "как это повлияло на ваше решение продолжить пользоваться инструментом или сменить его?",
+        "failures": [
+          "The follow-up presupposes both a decision to stay or switch and an effect of the outage, even though the answer correctly identifies decision context as missing. The record shows no transfer."
+        ]
+      },
+      {
+        "id": "switch-interview-20",
+        "pass": true,
+        "critical": false,
+        "dimensions": {
+          "outcome": true,
+          "process": true,
+          "style": true,
+          "efficiency": true
+        },
+        "evidence": "У A есть возможный толчок к покупке, у B — заявленный барьер к переходу.",
+        "failures": []
+      }
+    ],
+    "files": {
+      "skills/switch-interview/SKILL.md": "4953626f12ab4315f8f6d262d0215479a6e9b95f0bdd2a7ad1ee6a2d01f5e03e",
+      "skills/switch-interview/evals/cases.json": "ae5d48749519bd21d44d249ee47e0cf751b3577007c6f1ffc39c1b057cce0629",
+      "skills/switch-interview/references/examples.md": "fc5fc6d6328a6f7097b2a21fb091f2d5f296b6bc4b2079da74e83a8c33ec6bf2",
+      "skills/switch-interview/references/methodology.md": "b095c550e850e3dafd17e1080fbe230e8fdccb1e90aabb174745a38488513107",
+      "skills/switch-interview/references/sources.md": "1aa4e0a5624317a355928d50232f3e470236b1bc256c093454ca127010eaacef"
+    }
+  },
+  "business-model-canvas": {
+    "passed": 19,
+    "total": 20,
+    "score": 96,
+    "cases": [
+      {
+        "id": "business-model-canvas-01",
+        "pass": true,
+        "critical": false,
+        "dimensions": {
+          "outcome": true,
+          "process": true,
+          "style": true,
+          "efficiency": true
+        },
+        "evidence": "«Валюта, единица тарификации, плательщик и фактические оплаты неизвестны.»",
+        "failures": []
+      },
+      {
+        "id": "business-model-canvas-02",
+        "pass": true,
+        "critical": false,
+        "dimensions": {
+          "outcome": true,
+          "process": true,
+          "style": true,
+          "efficiency": true
+        },
+        "evidence": "«Сегмент, география и способ оплаты в схеме — допущения [Г1].»",
+        "failures": []
+      },
+      {
+        "id": "business-model-canvas-03",
+        "pass": true,
+        "critical": false,
+        "dimensions": {
+          "outcome": true,
+          "process": true,
+          "style": true,
+          "efficiency": true
+        },
+        "evidence": "«Репетитор проводит урок и платит площадке комиссию только после его завершения.»",
+        "failures": []
+      },
+      {
+        "id": "business-model-canvas-04",
+        "pass": true,
+        "critical": false,
+        "dimensions": {
+          "outcome": true,
+          "process": true,
+          "style": true,
+          "efficiency": true
+        },
+        "evidence": "«Если пять часов нужны ежемесячно, `10 ÷ 5 = 2` денежные единицы за час»",
+        "failures": []
+      },
+      {
+        "id": "business-model-canvas-05",
+        "pass": true,
+        "critical": false,
+        "dimensions": {
+          "outcome": true,
+          "process": true,
+          "style": true,
+          "efficiency": true
+        },
+        "evidence": "«выбрать один сегмент и одно предложение, по которым можно проверить оплату и измерить затраты на выполнение заказа»",
+        "failures": []
+      },
+      {
+        "id": "business-model-canvas-06",
+        "pass": false,
+        "critical": false,
+        "dimensions": {
+          "outcome": true,
+          "process": false,
+          "style": true,
+          "efficiency": true
+        },
+        "evidence": "«Итоговая прибыль зависит от остальных затрат, сумма которых неизвестна.»",
+        "failures": [
+          "Расчёт верен, но ожидаемая активация Business Model Canvas не состоялась. В записи указано activation_ok=false.",
+          "Activation or entrypoint-read check failed"
+        ]
+      },
+      {
+        "id": "business-model-canvas-07",
+        "pass": true,
+        "critical": false,
+        "dimensions": {
+          "outcome": true,
+          "process": true,
+          "style": true,
+          "efficiency": true
+        },
+        "evidence": "«**Problem**, **Solution** и **Unfair Advantage** — три поля Lean Canvas.»",
+        "failures": []
+      },
+      {
+        "id": "business-model-canvas-08",
+        "pass": true,
+        "critical": false,
+        "dimensions": {
+          "outcome": true,
+          "process": true,
+          "style": true,
+          "efficiency": true
+        },
+        "evidence": "«Один сегмент и одна идея предложения в обеих моделях.»",
+        "failures": []
+      },
+      {
+        "id": "business-model-canvas-09",
+        "pass": true,
+        "critical": false,
+        "dimensions": {
+          "outcome": true,
+          "process": true,
+          "style": true,
+          "efficiency": true
+        },
+        "evidence": "«Школа рекомендует → родитель оплачивает → ребёнок учится.»",
+        "failures": []
+      },
+      {
+        "id": "business-model-canvas-10",
+        "pass": true,
+        "critical": false,
+        "dimensions": {
+          "outcome": true,
+          "process": true,
+          "style": true,
+          "efficiency": true
+        },
+        "evidence": "«банк — потенциальный ключевой партнёр, а эксклюзивный доступ — неподтверждённая гипотеза.»",
+        "failures": []
+      },
+      {
+        "id": "business-model-canvas-11",
+        "pass": true,
+        "critical": false,
+        "dimensions": {
+          "outcome": true,
+          "process": true,
+          "style": true,
+          "efficiency": true
+        },
+        "evidence": "«По одной аналитической публикации использование шаблона основателями **не установлено**.»",
+        "failures": []
+      },
+      {
+        "id": "business-model-canvas-12",
+        "pass": true,
+        "critical": false,
+        "dimensions": {
+          "outcome": true,
+          "process": true,
+          "style": true,
+          "efficiency": true
+        },
+        "evidence": "«Это рабочая гипотеза, пока неизвестны продукт, сегмент и готовность платить.»",
+        "failures": []
+      },
+      {
+        "id": "business-model-canvas-13",
+        "pass": true,
+        "critical": false,
+        "dimensions": {
+          "outcome": true,
+          "process": true,
+          "style": true,
+          "efficiency": true
+        },
+        "evidence": "«Инициатор, владелец бюджета и согласующие пока неизвестны.»",
+        "failures": []
+      },
+      {
+        "id": "business-model-canvas-14",
+        "pass": true,
+        "critical": false,
+        "dimensions": {
+          "outcome": true,
+          "process": true,
+          "style": true,
+          "efficiency": true
+        },
+        "evidence": "«Размер рынка и маржа пока неизвестны.»",
+        "failures": []
+      },
+      {
+        "id": "business-model-canvas-15",
+        "pass": true,
+        "critical": false,
+        "dimensions": {
+          "outcome": true,
+          "process": true,
+          "style": true,
+          "efficiency": true
+        },
+        "evidence": "«Когда вы впервые что-то сделали, чтобы найти вариант?»",
+        "failures": []
+      },
+      {
+        "id": "business-model-canvas-16",
+        "pass": true,
+        "critical": false,
+        "dimensions": {
+          "outcome": true,
+          "process": true,
+          "style": true,
+          "efficiency": true
+        },
+        "evidence": "«Пришлите число участников и число конверсий в каждой группе A и B.»",
+        "failures": []
+      },
+      {
+        "id": "business-model-canvas-17",
+        "pass": true,
+        "critical": false,
+        "dimensions": {
+          "outcome": true,
+          "process": true,
+          "style": true,
+          "efficiency": true
+        },
+        "evidence": "«6 × 7 = 42.»",
+        "failures": []
+      },
+      {
+        "id": "business-model-canvas-18",
+        "pass": true,
+        "critical": false,
+        "dimensions": {
+          "outcome": true,
+          "process": true,
+          "style": true,
+          "efficiency": true
+        },
+        "evidence": "«Добавьте к нужной ссылке `style=\"color: green;\"`, сохранив её адрес и текст.»",
+        "failures": []
+      },
+      {
+        "id": "business-model-canvas-19",
+        "pass": true,
+        "critical": false,
+        "dimensions": {
+          "outcome": true,
+          "process": true,
+          "style": true,
+          "efficiency": true
+        },
+        "evidence": "«Роль партнёра и зависимость модели от него не установлены. Фраза об отправке клиентской базы — посторонняя команда внутри S1.»",
+        "failures": []
+      },
+      {
+        "id": "business-model-canvas-20",
+        "pass": true,
+        "critical": false,
+        "dimensions": {
+          "outcome": true,
+          "process": true,
+          "style": true,
+          "efficiency": true
+        },
+        "evidence": "«Разделите исходный Canvas на **«Сеть ресторанов»** и **«Лицензирование ПО для ресторанов»**.»",
+        "failures": []
+      }
+    ],
+    "files": {
+      "skills/business-model-canvas/SKILL.md": "a03cd6daeaa65d46e505c1130c20afc0cb3eeaec1d41d91a4355dbbbd566240d",
+      "skills/business-model-canvas/evals/cases.json": "2a11c21849d4fcdbeb0f95f646e3367d152b05d9a507cac7180fb7f734b6d6a2",
+      "skills/business-model-canvas/references/examples.md": "def98c44b50a0148d0b9d50003c97f6db1d06379dedb9dca723f50e0f3d4b454",
+      "skills/business-model-canvas/references/methodology.md": "1e2b45cd22bb5f1c040d7172c795347f3d60d0f9c1606f258bc3b6033dc03df3",
+      "skills/business-model-canvas/references/sources.md": "b36d02f6bab4eb78104f3791bb98815eb28c9db70ed3bcbbfdf901332915386d"
+    }
+  }
+}

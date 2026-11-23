@@ -20,3 +20,13 @@ npx skills add daniil-tv/1000-frameworks-skills --skill odi-outcome-research -a 
 ```
 
 Replace the skill name with one from the table above. Use `-a claude-code` or `-a cursor` for those agents. The website offers installation commands only after the published files and installation have been checked.
+
+## Quality and acceptance
+
+The project contract is [AI Skill Quality Standard](standards/AI_SKILL_QUALITY_STANDARD.md). Every new skill and explicitly requested revision follows it. Each original skill bundles a compact procedure, primary-source notes, three clearly synthetic calibration examples, and 20 behavioral scenarios. Only ODI includes a deterministic calculator; it requires Python 3 when used.
+
+Run and interpret checks as described in [EVALUATION.md](standards/EVALUATION.md). Structural validation, installation, and behavioral acceptance are distinct. Platform status and actual results belong in the dated quality audit; never infer Claude Code/Cursor runtime compatibility from filesystem installation alone. See [platform notes](standards/PLATFORM_NOTES.md).
+
+Install the whole skill folder, including references and scripts. A standalone copy of SKILL.md is not a complete package. The external JTBD/AJTBD skill remains unchanged and outside this audit.
+
+The dated [audit and remaining limitations](standards/AUDIT-2026-11-23.md) records actual Codex behavioral results and the rubric score. Claude Code and Cursor runtime acceptance is incomplete; their installation options above do not imply runtime certification.
