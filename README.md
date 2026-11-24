@@ -1,6 +1,6 @@
 # 1000 Frameworks Skills
 
-Four original, source-aware AI skills for the first strategy pages of 1000 Frameworks:
+Source-aware AI skills for the strategy pages of 1000 Frameworks:
 
 | Page | Skill |
 | --- | --- |
@@ -8,6 +8,7 @@ Four original, source-aware AI skills for the first strategy pages of 1000 Frame
 | Customer Development | `customer-development` |
 | Switch Interview | `switch-interview` |
 | Business Model Canvas | `business-model-canvas` |
+| Value Proposition Canvas | `value-proposition-canvas` |
 
 The JTBD page points to Ivan Zamesin's separate [Next Move Theory Canon & Skills](https://github.com/zamesin/Next-Move-Theory-Canon-and-Skills) repository. That author's AJTBD / Next Move Theory skills are not copied into this collection or represented as generic JTBD.
 
@@ -30,3 +31,5 @@ Run and interpret checks as described in [EVALUATION.md](standards/EVALUATION.md
 Install the whole skill folder, including references and scripts. A standalone copy of SKILL.md is not a complete package. The external JTBD/AJTBD skill remains unchanged and outside this audit.
 
 The dated [audit and remaining limitations](standards/AUDIT-2026-11-23.md) records actual Codex behavioral results and the rubric score. Claude Code and Cursor runtime acceptance is incomplete; their installation options above do not imply runtime certification.
+
+The new Value Proposition Canvas skill has a separate [2026-11-24 quality audit](standards/AUDIT-VPC-2026-11-24.md) with its actual behavioral results and platform limitations.

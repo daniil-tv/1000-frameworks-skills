@@ -1,0 +1,4 @@
+interface:
+  display_name: "Value Proposition Canvas"
+  short_description: "Match customer needs to testable product value"
+  default_prompt: "Use $value-proposition-canvas to map one customer segment, audit the value fit, and plan the next test."

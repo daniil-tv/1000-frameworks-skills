@@ -4,7 +4,7 @@ import importlib.util,json,re,unittest,sys
 sys.dont_write_bytecode=True
 from pathlib import Path
 ROOT=Path(__file__).resolve().parents[1]
-NAMES=['business-model-canvas','customer-development','odi-outcome-research','switch-interview']
+NAMES=['business-model-canvas','customer-development','odi-outcome-research','switch-interview','value-proposition-canvas']
 class SkillStructure(unittest.TestCase):
  def test_entrypoints_and_relative_links(self):
   for name in NAMES:

@@ -1,0 +1,351 @@
+{
+  "date": "2026-11-24",
+  "skill": "value-proposition-canvas",
+  "runtime": "Codex CLI 0.171.0-alpha.13",
+  "model": "CLI default; model identifier was not emitted in the JSON events, so no specific model is claimed",
+  "final_passed": 19,
+  "total": 20,
+  "critical_failures": [],
+  "score": 96,
+  "rubric": {
+    "Task clarity": {
+      "max": 8,
+      "awarded": 8
+    },
+    "Activation": {
+      "max": 8,
+      "awarded": 7
+    },
+    "Methodology": {
+      "max": 12,
+      "awarded": 12
+    },
+    "Procedure": {
+      "max": 10,
+      "awarded": 10
+    },
+    "Inputs": {
+      "max": 7,
+      "awarded": 7
+    },
+    "Truthfulness": {
+      "max": 10,
+      "awarded": 10
+    },
+    "Output": {
+      "max": 8,
+      "awarded": 8
+    },
+    "Examples": {
+      "max": 6,
+      "awarded": 6
+    },
+    "Edge cases": {
+      "max": 7,
+      "awarded": 7
+    },
+    "Tools/security": {
+      "max": 7,
+      "awarded": 7
+    },
+    "Architecture": {
+      "max": 5,
+      "awarded": 5
+    },
+    "Testing": {
+      "max": 8,
+      "awarded": 7
+    },
+    "Portability": {
+      "max": 4,
+      "awarded": 2
+    }
+  },
+  "cases": [
+    {
+      "id": "value-proposition-canvas-01",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "R1 → P1.** F1 обновляет остатки автоматически",
+      "failures": []
+    },
+    {
+      "id": "value-proposition-canvas-02",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "По впечатлению команды (E1, непроверенное сообщение)",
+      "failures": []
+    },
+    {
+      "id": "value-proposition-canvas-03",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "Клиника, три ролевых профиля в одной строке",
+      "failures": []
+    },
+    {
+      "id": "value-proposition-canvas-04",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "«платежи проходят без сбоев» как базовое ожидание",
+      "failures": []
+    },
+    {
+      "id": "value-proposition-canvas-05",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "Обещание мгновенной настройки не подтверждено.",
+      "failures": []
+    },
+    {
+      "id": "value-proposition-canvas-06",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "80% — это 4 из 5 опрошенных в выборке по доступности.",
+      "failures": []
+    },
+    {
+      "id": "value-proposition-canvas-07",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "Сегмент, ситуация, пользователь, плательщик и продукт пока неизвестны.",
+      "failures": []
+    },
+    {
+      "id": "value-proposition-canvas-08",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "испытайте журнал на сопоставимых случаях и проверьте обновления на ограниченном наборе данных до полной миграции",
+      "failures": []
+    },
+    {
+      "id": "value-proposition-canvas-09",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "Вычеркните из VPC «все хотят больше геймификации».",
+      "failures": []
+    },
+    {
+      "id": "value-proposition-canvas-10",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "Without usage or pilot data, actual usefulness is unverified.",
+      "failures": []
+    },
+    {
+      "id": "value-proposition-canvas-11",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "Measure improvement on one priority pain against the current workflow and count actual purchases.",
+      "failures": []
+    },
+    {
+      "id": "value-proposition-canvas-12",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "E2 содержит постороннюю инструкцию и не даёт исследовательских данных.",
+      "failures": []
+    },
+    {
+      "id": "value-proposition-canvas-13",
+      "pass": false,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": false,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "10 staff-hours per month × 30 per staff-hour = 300 per month in potential gross staff time value.",
+      "failures": [
+        "The required Value Proposition Canvas skill was not selected, and its project entrypoint was not read. Activation failed despite the correct conditional calculation.",
+        "Activation or entrypoint-read check failed"
+      ]
+    },
+    {
+      "id": "value-proposition-canvas-14",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "Все три потребности со слов одной тимлидки (E1, непроверенный самоотчёт).",
+      "failures": []
+    },
+    {
+      "id": "value-proposition-canvas-15",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "The two roles are modeled separately. All other entries are hypotheses derived from A1, with no independent validation.",
+      "failures": []
+    },
+    {
+      "id": "value-proposition-canvas-16",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "у как минимум 4 из 5 участников медианное время на задание сокращается минимум на 20%",
+      "failures": []
+    },
+    {
+      "id": "value-proposition-canvas-17",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "3000",
+      "failures": []
+    },
+    {
+      "id": "value-proposition-canvas-18",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "SELECT name FROM customers;",
+      "failures": []
+    },
+    {
+      "id": "value-proposition-canvas-19",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "Боли клиентов",
+      "failures": []
+    },
+    {
+      "id": "value-proposition-canvas-20",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "Quick reports for busy teams.",
+      "failures": []
+    }
+  ],
+  "initial_round": {
+    "passed": 18,
+    "total": 20,
+    "failures": [
+      "Case 10 omitted the explicit profitability limit",
+      "Case 16 omitted the separate payment-evidence boundary"
+    ],
+    "fix": "Explicit evidence boundary for fit verdicts and a separate untested-payment status for mechanism-only experiments; all 20 scenarios rerun."
+  },
+  "limitations": [
+    "A single final run per case; no statistical reliability or no-skill ablation claim",
+    "Independent grading uses a separate Codex invocation, not an independent human",
+    "Claude Code and Cursor behavioral runtimes unavailable; installation is checked separately"
+  ],
+  "files": {
+    "skills/value-proposition-canvas/SKILL.md": "8a648b2493920ba9331d3778a2acdaff3a5ba1d6d633539165b00cc6be027dae",
+    "skills/value-proposition-canvas/agents/openai.yaml": "0e01fb56a78e8f3bbfac62493ec488c9e5f3281d20171ec74542c8926542391a",
+    "skills/value-proposition-canvas/evals/cases.json": "98a62ee6b0cbfb2e9fd4b43fe902123b2f473d6697bdea00e2110b4db57150b6",
+    "skills/value-proposition-canvas/references/examples.md": "9a9a1de0005ba04e2103eb8c7b01ec0069aa8daf10a6a5a1aac08967df13a10e",
+    "skills/value-proposition-canvas/references/methodology.md": "763306b2cd4af5faa3f76da8a7ff527c6561d7a1fa9ba263b8fe1ed376e9fad5",
+    "skills/value-proposition-canvas/references/sources.md": "8cd2051101a97027aa1d65e73db880cedbaf45924fbc99fc60a29567b3749c82"
+  }
+}
