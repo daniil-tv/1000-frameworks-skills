@@ -1,0 +1,348 @@
+{
+  "date": "2026-11-25",
+  "skill": "pestel-analysis",
+  "runtime": "Codex CLI 0.171.0-alpha.13.2",
+  "model": "CLI default; model not identified in JSON evaluation events",
+  "passed": 19,
+  "total": 20,
+  "score": 95,
+  "critical_failures": [],
+  "rubric": {
+    "Task clarity": {
+      "max": 8,
+      "awarded": 8
+    },
+    "Activation": {
+      "max": 8,
+      "awarded": 8
+    },
+    "Methodology": {
+      "max": 12,
+      "awarded": 12
+    },
+    "Procedure": {
+      "max": 10,
+      "awarded": 9
+    },
+    "Inputs": {
+      "max": 7,
+      "awarded": 7
+    },
+    "Truthfulness": {
+      "max": 10,
+      "awarded": 10
+    },
+    "Output": {
+      "max": 8,
+      "awarded": 7
+    },
+    "Examples": {
+      "max": 6,
+      "awarded": 6
+    },
+    "Edge cases": {
+      "max": 7,
+      "awarded": 7
+    },
+    "Tools/security": {
+      "max": 7,
+      "awarded": 7
+    },
+    "Architecture": {
+      "max": 5,
+      "awarded": 5
+    },
+    "Testing": {
+      "max": 8,
+      "awarded": 7
+    },
+    "Portability": {
+      "max": 4,
+      "awarded": 2
+    }
+  },
+  "cases": [
+    {
+      "id": "pestel-analysis-01",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "Порог пока не определён.",
+      "failures": []
+    },
+    {
+      "id": "pestel-analysis-02",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "Country-specific conditions and rules remain unverified.",
+      "failures": []
+    },
+    {
+      "id": "pestel-analysis-03",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "Only **inflation** belongs in your PESTEL.",
+      "failures": []
+    },
+    {
+      "id": "pestel-analysis-04",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "Юрисдикция и дата публикации неизвестны.",
+      "failures": []
+    },
+    {
+      "id": "pestel-analysis-05",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "Лицензионный срок через 20 дней — действовать сейчас.",
+      "failures": []
+    },
+    {
+      "id": "pestel-analysis-06",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "The current PESTEL triple-counts one policy proposal.",
+      "failures": []
+    },
+    {
+      "id": "pestel-analysis-07",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "All entries are hypotheses for region R.",
+      "failures": []
+    },
+    {
+      "id": "pestel-analysis-08",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "Статус соответствия трудовому законодательству не подтверждён.",
+      "failures": []
+    },
+    {
+      "id": "pestel-analysis-09",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "PESTEL and PESTLE cover the same six factors in a different order.",
+      "failures": []
+    },
+    {
+      "id": "pestel-analysis-10",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "Aguilar is best credited with the four-part precursor.",
+      "failures": []
+    },
+    {
+      "id": "pestel-analysis-11",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "Preference among niche medical buyers remains unknown.",
+      "failures": []
+    },
+    {
+      "id": "pestel-analysis-12",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "Прогнозы относятся к разным датам и группам населения",
+      "failures": []
+    },
+    {
+      "id": "pestel-analysis-13",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "**200 000** (10 000 000 × (7% − 5%))",
+      "failures": []
+    },
+    {
+      "id": "pestel-analysis-14",
+      "pass": false,
+      "critical": false,
+      "dimensions": {
+        "outcome": false,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "Значение 92/100 можно использовать как условный показатель для макета.",
+      "failures": [
+        "The answer explains why 92/100 is unsupported and labels its use in a mockup, but omits the required alternative of qualitative priorities or separate, transparent judgment scales."
+      ]
+    },
+    {
+      "id": "pestel-analysis-15",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "подтвердить спрос и готовность платить, оценить конкуренцию и способность компании реализовать проект",
+      "failures": []
+    },
+    {
+      "id": "pestel-analysis-16",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "Owner roles and cadences are proposed, and numeric thresholds are **to be agreed**.",
+      "failures": []
+    },
+    {
+      "id": "pestel-analysis-17",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "Good morning.",
+      "failures": []
+    },
+    {
+      "id": "pestel-analysis-18",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "Happy birthday, and wishing you a wonderful year ahead!",
+      "failures": []
+    },
+    {
+      "id": "pestel-analysis-19",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "what happened between placing your most recent order and deciding to cancel it?",
+      "failures": []
+    },
+    {
+      "id": "pestel-analysis-20",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "print(\"hello\")",
+      "failures": []
+    }
+  ],
+  "files": {
+    "skills/pestel-analysis/SKILL.md": "26d04a6d4f622eea559623ca0201dcbdf18f52143d72bf06f91115289dd87443",
+    "skills/pestel-analysis/agents/openai.yaml": "ccd64c2dce6b34ff0acf36f599b8dd83de905730d5589dadd10efadbb546c1e1",
+    "skills/pestel-analysis/evals/cases.json": "11e974e614b939bec7ba217b9aa28f343d1018fd94ffa777dad8ee7bfcf4efe3",
+    "skills/pestel-analysis/references/examples.md": "7b0d88fcc69c76123c1c7af8897073b69c79d517a112c0868336b707363411ea",
+    "skills/pestel-analysis/references/methodology.md": "c90c3dae087f73087c9bfcbd40b5d4bcab2024d64b5ce6192eec86ff30a09ff1",
+    "skills/pestel-analysis/references/sources.md": "c21251c8f621a191b275368e87517062dd9643def0ea374bbede850da858090d"
+  },
+  "initial_round": {
+    "passed": 13,
+    "total": 20,
+    "critical_failures": [],
+    "changes": "Broadened metadata for focused PESTEL questions; require an explicit unknown jurisdiction in a proposed-rule audit. Three ambiguous cases were scoped explicitly to PESTEL rather than treating generic law/forecast/social-media requests as automatic PESTEL activation. Rubrics and original artifacts retained; all twenty rerun."
+  },
+  "limitations": [
+    "One final run per case; no no-skill ablation or statistical reliability claim",
+    "Separate Codex invocation graded saved outputs; not independent human review",
+    "Claude Code and Cursor runtime acceptance unavailable; installation checked separately",
+    "Scenario 14 explained unsupported 92/100 and a mockup label but omitted the requested qualitative/transparent-scale alternative"
+  ]
+}

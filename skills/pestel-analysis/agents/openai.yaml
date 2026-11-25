@@ -1,0 +1,4 @@
+interface:
+  display_name: "PESTEL analysis"
+  short_description: "Scan macro changes and turn evidence into strategic options"
+  default_prompt: "Use $pestel-analysis to assess external changes affecting my strategic decision."

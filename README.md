@@ -9,6 +9,7 @@ Source-aware AI skills for the strategy pages of 1000 Frameworks:
 | Switch Interview | `switch-interview` |
 | Business Model Canvas | `business-model-canvas` |
 | Value Proposition Canvas | `value-proposition-canvas` |
+| PESTEL / PESTLE | `pestel-analysis` |
 
 The JTBD page points to Ivan Zamesin's separate [Next Move Theory Canon & Skills](https://github.com/zamesin/Next-Move-Theory-Canon-and-Skills) repository. That author's AJTBD / Next Move Theory skills are not copied into this collection or represented as generic JTBD.
 
@@ -33,3 +34,5 @@ Install the whole skill folder, including references and scripts. A standalone c
 The dated [audit and remaining limitations](standards/AUDIT-2026-11-23.md) records actual Codex behavioral results and the rubric score. Claude Code and Cursor runtime acceptance is incomplete; their installation options above do not imply runtime certification.
 
 The new Value Proposition Canvas skill has a separate [2026-11-24 quality audit](standards/AUDIT-VPC-2026-11-24.md) with its actual behavioral results and platform limitations.
+
+The PESTEL skill has a separate [2026-11-25 quality audit](standards/AUDIT-PESTEL-2026-11-25.md) with actual results and platform limitations.

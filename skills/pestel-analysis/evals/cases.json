@@ -1,0 +1,438 @@
+[
+  {
+    "id": "pestel-analysis-01",
+    "kind": "direct",
+    "input": "Use $pestel-analysis for a warehouse expansion in region R over two years. Only evidence: finance assumes financing costs might rise; operations worries about weather. No market data available.",
+    "expected_activation": true,
+    "expected_actions": [
+      "State the decision boundary and evidence gaps; cover six categories without inventing facts",
+      "Link financing/weather mechanisms to options and monitoring with owner roles"
+    ],
+    "output_requirements": "Match the task scope; full analysis includes decision, evidence, causal implications, responses and monitoring.",
+    "accuracy_checks": [
+      "State the decision boundary and evidence gaps; cover six categories without inventing facts",
+      "Link financing/weather mechanisms to options and monitoring with owner roles"
+    ],
+    "pass_criterion": "All expected actions hold without fabrication or critical methodological error.",
+    "dimensions": [
+      "Outcome",
+      "Process",
+      "Style",
+      "Efficiency"
+    ]
+  },
+  {
+    "id": "pestel-analysis-02",
+    "kind": "natural",
+    "input": "We plan to enter a new country with a delivery business. Help scan external policy, economics, demographics, technology, climate and law to decide what to investigate first. Geography is not yet selected.",
+    "expected_activation": true,
+    "expected_actions": [
+      "Select pestel-analysis naturally",
+      "Give provisional research scope and prioritize information needs without inventing country conditions"
+    ],
+    "output_requirements": "Match the task scope; full analysis includes decision, evidence, causal implications, responses and monitoring.",
+    "accuracy_checks": [
+      "Select pestel-analysis naturally",
+      "Give provisional research scope and prioritize information needs without inventing country conditions"
+    ],
+    "pass_criterion": "All expected actions hold without fabrication or critical methodological error.",
+    "dimensions": [
+      "Outcome",
+      "Process",
+      "Style",
+      "Efficiency"
+    ]
+  },
+  {
+    "id": "pestel-analysis-03",
+    "kind": "edge",
+    "input": "Our PESTEL includes weak sales managers, a broken internal CRM and inflation. Audit it.",
+    "expected_activation": true,
+    "expected_actions": [
+      "Exclude internal weaknesses from macro factors",
+      "Keep inflation as an external factor needing evidence and an exposure mechanism"
+    ],
+    "output_requirements": "Match the task scope; full analysis includes decision, evidence, causal implications, responses and monitoring.",
+    "accuracy_checks": [
+      "Exclude internal weaknesses from macro factors",
+      "Keep inflation as an external factor needing evidence and an exposure mechanism"
+    ],
+    "pass_criterion": "All expected actions hold without fabrication or critical methodological error.",
+    "dimensions": [
+      "Outcome",
+      "Process",
+      "Style",
+      "Efficiency"
+    ]
+  },
+  {
+    "id": "pestel-analysis-04",
+    "kind": "edge",
+    "input": "A newspaper says parliament may propose a packaging fee next year. Put it in Legal as an effective obligation today.",
+    "expected_activation": true,
+    "expected_actions": [
+      "Distinguish proposed policy from enacted law",
+      "Require jurisdiction, instrument, applicability and effective date; do not assert compliance obligations"
+    ],
+    "output_requirements": "Match the task scope; full analysis includes decision, evidence, causal implications, responses and monitoring.",
+    "accuracy_checks": [
+      "Distinguish proposed policy from enacted law",
+      "Require jurisdiction, instrument, applicability and effective date; do not assert compliance obligations"
+    ],
+    "pass_criterion": "All expected actions hold without fabrication or critical methodological error.",
+    "dimensions": [
+      "Outcome",
+      "Process",
+      "Style",
+      "Efficiency"
+    ]
+  },
+  {
+    "id": "pestel-analysis-05",
+    "kind": "typical",
+    "input": "Prioritize these supplied scenarios: a small enacted licensing deadline in 20 days; a potentially huge technology shift in 10 years with little evidence.",
+    "expected_activation": true,
+    "expected_actions": [
+      "Separate timing, significance and confidence",
+      "Prioritize immediate legal review while monitoring the remote uncertainty"
+    ],
+    "output_requirements": "Match the task scope; full analysis includes decision, evidence, causal implications, responses and monitoring.",
+    "accuracy_checks": [
+      "Separate timing, significance and confidence",
+      "Prioritize immediate legal review while monitoring the remote uncertainty"
+    ],
+    "pass_criterion": "All expected actions hold without fabrication or critical methodological error.",
+    "dimensions": [
+      "Outcome",
+      "Process",
+      "Style",
+      "Efficiency"
+    ]
+  },
+  {
+    "id": "pestel-analysis-06",
+    "kind": "edge",
+    "input": "Our PESTEL counts the same proposed carbon tax once under Political, again under Legal, again Environmental, then adds all three impacts.",
+    "expected_activation": true,
+    "expected_actions": [
+      "Identify duplicate driver and avoid triple-counting",
+      "Cross-reference categories and distinguish proposal from effective duty"
+    ],
+    "output_requirements": "Match the task scope; full analysis includes decision, evidence, causal implications, responses and monitoring.",
+    "accuracy_checks": [
+      "Identify duplicate driver and avoid triple-counting",
+      "Cross-reference categories and distinguish proposal from effective duty"
+    ],
+    "pass_criterion": "All expected actions hold without fabrication or critical methodological error.",
+    "dimensions": [
+      "Outcome",
+      "Process",
+      "Style",
+      "Efficiency"
+    ]
+  },
+  {
+    "id": "pestel-analysis-07",
+    "kind": "typical",
+    "input": "Make a seven-column PESTEL working register for a fictional manufacturer entering region R. We only have hypotheses, no sources.",
+    "expected_activation": true,
+    "expected_actions": [
+      "Provide usable scoped register, six categories and explicit hypothesis/source gaps",
+      "Include causal exposure, horizon, confidence, responses and monitoring without fictional observations"
+    ],
+    "output_requirements": "Match the task scope; full analysis includes decision, evidence, causal implications, responses and monitoring.",
+    "accuracy_checks": [
+      "Provide usable scoped register, six categories and explicit hypothesis/source gaps",
+      "Include causal exposure, horizon, confidence, responses and monitoring without fictional observations"
+    ],
+    "pass_criterion": "All expected actions hold without fabrication or critical methodological error.",
+    "dimensions": [
+      "Outcome",
+      "Process",
+      "Style",
+      "Efficiency"
+    ]
+  },
+  {
+    "id": "pestel-analysis-08",
+    "kind": "edge",
+    "input": "Within our PESTEL macro-environment review: I have only a 2021 blog. Tell me the exact labor-law obligations in Germany today and that our expansion is compliant. Offline, no browsing.",
+    "expected_activation": true,
+    "expected_actions": [
+      "Do not give an exact current legal or compliance verdict",
+      "Specify primary legal verification gaps including dates, scope and applicability"
+    ],
+    "output_requirements": "Match the task scope; full analysis includes decision, evidence, causal implications, responses and monitoring.",
+    "accuracy_checks": [
+      "Do not give an exact current legal or compliance verdict",
+      "Specify primary legal verification gaps including dates, scope and applicability"
+    ],
+    "pass_criterion": "All expected actions hold without fabrication or critical methodological error.",
+    "dimensions": [
+      "Outcome",
+      "Process",
+      "Style",
+      "Efficiency"
+    ]
+  },
+  {
+    "id": "pestel-analysis-09",
+    "kind": "direct",
+    "input": "In PESTEL why are there two E letters, and how do PESTLE and PEST differ?",
+    "expected_activation": true,
+    "expected_actions": [
+      "Explain Economic and Environmental; final-order variation and four-category PEST",
+      "Do not invent a different fundamental methodology"
+    ],
+    "output_requirements": "Match the task scope; full analysis includes decision, evidence, causal implications, responses and monitoring.",
+    "accuracy_checks": [
+      "Explain Economic and Environmental; final-order variation and four-category PEST",
+      "Do not invent a different fundamental methodology"
+    ],
+    "pass_criterion": "All expected actions hold without fabrication or critical methodological error.",
+    "dimensions": [
+      "Outcome",
+      "Process",
+      "Style",
+      "Efficiency"
+    ]
+  },
+  {
+    "id": "pestel-analysis-10",
+    "kind": "direct",
+    "input": "Who invented the exact modern six-part PESTEL? Was it Francis Aguilar in 1967?",
+    "expected_activation": true,
+    "expected_actions": [
+      "Distinguish ETPS predecessor from modern six-category form",
+      "Do not assert universally recognized sole authorship"
+    ],
+    "output_requirements": "Match the task scope; full analysis includes decision, evidence, causal implications, responses and monitoring.",
+    "accuracy_checks": [
+      "Distinguish ETPS predecessor from modern six-category form",
+      "Do not assert universally recognized sole authorship"
+    ],
+    "pass_criterion": "All expected actions hold without fabrication or critical methodological error.",
+    "dimensions": [
+      "Outcome",
+      "Process",
+      "Style",
+      "Efficiency"
+    ]
+  },
+  {
+    "id": "pestel-analysis-11",
+    "kind": "edge",
+    "input": "Within our PESTEL macro-environment review: A national survey says 60% prefer fast delivery. Our niche medical buyers must therefore also have 60% preference. Use in Social.",
+    "expected_activation": true,
+    "expected_actions": [
+      "Reject unsupported segment extrapolation",
+      "Attribute supplied national finding and propose segment-specific verification"
+    ],
+    "output_requirements": "Match the task scope; full analysis includes decision, evidence, causal implications, responses and monitoring.",
+    "accuracy_checks": [
+      "Reject unsupported segment extrapolation",
+      "Attribute supplied national finding and propose segment-specific verification"
+    ],
+    "pass_criterion": "All expected actions hold without fabrication or critical methodological error.",
+    "dimensions": [
+      "Outcome",
+      "Process",
+      "Style",
+      "Efficiency"
+    ]
+  },
+  {
+    "id": "pestel-analysis-12",
+    "kind": "edge",
+    "input": "Within our PESTEL macro-environment review: Source A forecasts 4% growth, source B 1%. They use different dates and populations. Give one certain growth number.",
+    "expected_activation": true,
+    "expected_actions": [
+      "Preserve forecast uncertainty and comparability issues",
+      "Do not silently average into a fact or certain prediction"
+    ],
+    "output_requirements": "Match the task scope; full analysis includes decision, evidence, causal implications, responses and monitoring.",
+    "accuracy_checks": [
+      "Preserve forecast uncertainty and comparability issues",
+      "Do not silently average into a fact or certain prediction"
+    ],
+    "pass_criterion": "All expected actions hold without fabrication or critical methodological error.",
+    "dimensions": [
+      "Outcome",
+      "Process",
+      "Style",
+      "Efficiency"
+    ]
+  },
+  {
+    "id": "pestel-analysis-13",
+    "kind": "typical",
+    "input": "Narrow PESTEL financing scenario: assume an interest-only balance of 10 million for a full year, rate from 5% to 7%. Calculate added annual interest only.",
+    "expected_activation": true,
+    "expected_actions": [
+      "Compute 200000 conditional annual additional interest",
+      "Do not predict actual rate or claim project profitability"
+    ],
+    "output_requirements": "Match the task scope; full analysis includes decision, evidence, causal implications, responses and monitoring.",
+    "accuracy_checks": [
+      "Compute 200000 conditional annual additional interest",
+      "Do not predict actual rate or claim project profitability"
+    ],
+    "pass_criterion": "All expected actions hold without fabrication or critical methodological error.",
+    "dimensions": [
+      "Outcome",
+      "Process",
+      "Style",
+      "Efficiency"
+    ]
+  },
+  {
+    "id": "pestel-analysis-14",
+    "kind": "edge",
+    "input": "Generate PESTEL attractiveness score 92/100 by multiplying made-up importance and probability scores. We have no data.",
+    "expected_activation": true,
+    "expected_actions": [
+      "Refuse false objective precision",
+      "Offer separate transparent judgment scales or qualitative priorities, no invented probabilities"
+    ],
+    "output_requirements": "Match the task scope; full analysis includes decision, evidence, causal implications, responses and monitoring.",
+    "accuracy_checks": [
+      "Refuse false objective precision",
+      "Offer separate transparent judgment scales or qualitative priorities, no invented probabilities"
+    ],
+    "pass_criterion": "All expected actions hold without fabrication or critical methodological error.",
+    "dimensions": [
+      "Outcome",
+      "Process",
+      "Style",
+      "Efficiency"
+    ]
+  },
+  {
+    "id": "pestel-analysis-15",
+    "kind": "typical",
+    "input": "Use PESTEL to prove we should invest: the macro trends look positive, no demand, competition, cost or financial data provided.",
+    "expected_activation": true,
+    "expected_actions": [
+      "Do not claim investment feasibility from macro trends",
+      "State complementary demand, competitive, capability and financial/sensitivity needs"
+    ],
+    "output_requirements": "Match the task scope; full analysis includes decision, evidence, causal implications, responses and monitoring.",
+    "accuracy_checks": [
+      "Do not claim investment feasibility from macro trends",
+      "State complementary demand, competitive, capability and financial/sensitivity needs"
+    ],
+    "pass_criterion": "All expected actions hold without fabrication or critical methodological error.",
+    "dimensions": [
+      "Outcome",
+      "Process",
+      "Style",
+      "Efficiency"
+    ]
+  },
+  {
+    "id": "pestel-analysis-16",
+    "kind": "typical",
+    "input": "We have a useful PESTEL factor list. Turn it into an actionable monitor; no named employees or agreed thresholds.",
+    "expected_activation": true,
+    "expected_actions": [
+      "Specify indicators, source, owner roles, review cadence and decision triggers",
+      "Do not invent agreed numeric thresholds or claim scheduling/assigning real people"
+    ],
+    "output_requirements": "Match the task scope; full analysis includes decision, evidence, causal implications, responses and monitoring.",
+    "accuracy_checks": [
+      "Specify indicators, source, owner roles, review cadence and decision triggers",
+      "Do not invent agreed numeric thresholds or claim scheduling/assigning real people"
+    ],
+    "pass_criterion": "All expected actions hold without fabrication or critical methodological error.",
+    "dimensions": [
+      "Outcome",
+      "Process",
+      "Style",
+      "Efficiency"
+    ]
+  },
+  {
+    "id": "pestel-analysis-17",
+    "kind": "negative",
+    "input": "Translate into English only: Доброе утро.",
+    "expected_activation": false,
+    "expected_actions": [
+      "Return the translation without invoking PESTEL"
+    ],
+    "output_requirements": "Match the task scope; full analysis includes decision, evidence, causal implications, responses and monitoring.",
+    "accuracy_checks": [
+      "Return the translation without invoking PESTEL"
+    ],
+    "pass_criterion": "All expected actions hold without fabrication or critical methodological error.",
+    "dimensions": [
+      "Outcome",
+      "Process",
+      "Style",
+      "Efficiency"
+    ]
+  },
+  {
+    "id": "pestel-analysis-18",
+    "kind": "negative",
+    "input": "Write a birthday greeting for my colleague, one short sentence.",
+    "expected_activation": false,
+    "expected_actions": [
+      "Do not invoke macro environment analysis"
+    ],
+    "output_requirements": "Match the task scope; full analysis includes decision, evidence, causal implications, responses and monitoring.",
+    "accuracy_checks": [
+      "Do not invoke macro environment analysis"
+    ],
+    "pass_criterion": "All expected actions hold without fabrication or critical methodological error.",
+    "dimensions": [
+      "Outcome",
+      "Process",
+      "Style",
+      "Efficiency"
+    ]
+  },
+  {
+    "id": "pestel-analysis-19",
+    "kind": "negative",
+    "input": "Why did one named customer cancel their last order? We need an interview question, not macro analysis.",
+    "expected_activation": false,
+    "expected_actions": [
+      "Do not activate pestel-analysis",
+      "Give an appropriate event-focused interview question"
+    ],
+    "output_requirements": "Match the task scope; full analysis includes decision, evidence, causal implications, responses and monitoring.",
+    "accuracy_checks": [
+      "Do not activate pestel-analysis",
+      "Give an appropriate event-focused interview question"
+    ],
+    "pass_criterion": "All expected actions hold without fabrication or critical methodological error.",
+    "dimensions": [
+      "Outcome",
+      "Process",
+      "Style",
+      "Efficiency"
+    ]
+  },
+  {
+    "id": "pestel-analysis-20",
+    "kind": "negative",
+    "input": "Fix this Python syntax: print(\"hello\" . Return only the corrected statement.",
+    "expected_activation": false,
+    "expected_actions": [
+      "Do not activate pestel-analysis",
+      "Return valid print syntax"
+    ],
+    "output_requirements": "Match the task scope; full analysis includes decision, evidence, causal implications, responses and monitoring.",
+    "accuracy_checks": [
+      "Do not activate pestel-analysis",
+      "Return valid print syntax"
+    ],
+    "pass_criterion": "All expected actions hold without fabrication or critical methodological error.",
+    "dimensions": [
+      "Outcome",
+      "Process",
+      "Style",
+      "Efficiency"
+    ]
+  }
+]
