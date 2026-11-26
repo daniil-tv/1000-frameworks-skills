@@ -1,37 +1,43 @@
-# 1000 Frameworks Skills
+# AI Skills
 
-Source-aware AI skills for the strategy pages of 1000 Frameworks:
+Публичный каталог AI Skills для маркетинга, стратегии и исследований. Каждый Skill решает отдельную профессиональную задачу и устанавливается целиком.
 
-| Page | Skill |
-| --- | --- |
-| Outcome-Driven Innovation | `odi-outcome-research` |
-| Customer Development | `customer-development` |
-| Switch Interview | `switch-interview` |
-| Business Model Canvas | `business-model-canvas` |
-| Value Proposition Canvas | `value-proposition-canvas` |
-| PESTEL / PESTLE | `pestel-analysis` |
-| Porter's Five Forces | `porters-five-forces` |
-| STP | `stp-strategy` |
+## Каталог
 
-The JTBD page points to Ivan Zamesin's separate [Next Move Theory Canon & Skills](https://github.com/zamesin/Next-Move-Theory-Canon-and-Skills) repository. That author's AJTBD / Next Move Theory skills are not copied into this collection or represented as generic JTBD.
+| Skill | Задача | Файлы |
+|---|---|---|
+| Business Model Canvas | Описание бизнес-модели | [Открыть](skills/business-model-canvas/) |
+| Customer Development | Исследование клиентов | [Открыть](skills/customer-development/) |
+| Outcome-Driven Innovation | Исследование желаемых результатов | [Открыть](skills/odi-outcome-research/) |
+| PESTEL | Анализ макросреды | [Открыть](skills/pestel-analysis/) |
+| Porter's Five Forces | Анализ отрасли | [Открыть](skills/porters-five-forces/) |
+| STP | Сегментация, таргетинг, позиционирование | [Открыть](skills/stp-strategy/) |
+| Switch Interview | Исследование смены решения | [Открыть](skills/switch-interview/) |
+| Value Proposition Canvas | Ценностное предложение | [Открыть](skills/value-proposition-canvas/) |
 
-Each skill takes real research inputs, keeps evidence separate from hypotheses, and refuses to invent interviews, numerical findings, or examples. Sources for the methodologies are linked in the individual files.
+## Установка
 
-Install a skill with the [Skills CLI](https://github.com/vercel-labs/skills/blob/main/docs/commands.md), for example:
+Нужны Node.js и установленный AI-клиент. Пример для PESTEL:
+
+**Claude Code**
 
 ```bash
-npx skills add daniil-tv/1000-frameworks-skills --skill odi-outcome-research -a codex -y
+npx skills add daniil-tv/1000-frameworks-skills --skill pestel-analysis -a claude-code
 ```
 
-Replace the skill name with one from the table above. Use `-a claude-code` or `-a cursor` for those agents. The website offers installation commands only after the published files and installation have been checked.
+**Codex**
 
-## Quality and acceptance
+```bash
+npx skills add daniil-tv/1000-frameworks-skills --skill pestel-analysis -a codex
+```
 
-The project contract is [AI Skill Quality Standard](standards/AI_SKILL_QUALITY_STANDARD.md). Every new skill and explicitly requested revision follows it. Each original skill bundles a compact procedure, primary-source notes, three clearly synthetic calibration examples, and 20 behavioral scenarios. Only ODI includes a deterministic calculator; it requires Python 3 when used.
+Замените pestel-analysis на имя каталога выбранного Skill. Установить можно также вручную: скопируйте весь каталог Skill в .claude/skills/ или .agents/skills/ проекта. Не копируйте только SKILL.md.
 
-Run and interpret checks as described in [EVALUATION.md](standards/EVALUATION.md). Structural validation, installation, and behavioral acceptance are distinct. Platform status and actual results belong in the dated quality audit; never infer Claude Code/Cursor runtime compatibility from filesystem installation alone. See [platform notes](standards/PLATFORM_NOTES.md).
+## Качество и ограничения
 
-Install the whole skill folder, including references and scripts. A standalone copy of SKILL.md is not a complete package. The external JTBD/AJTBD skill remains unchanged and outside this audit.
+Структурная проверка, установка и поведенческие испытания — разные виды проверки. Подробные результаты и ограничения платформ: [стандарт качества](standards/AI_SKILL_QUALITY_STANDARD.md), [протокол оценки](standards/EVALUATION.md), [отчёты](standards/). Не считать наличие команды установки подтверждением работы на всех платформах.
+
+The JTBD page points to Ivan Zamesin's separate [Next Move Theory Canon & Skills](https://github.com/zamesin/Next-Move-Theory-Canon-and-Skills) repository. That author's AJTBD / Next Move Theory skills are not copied into this collection or represented as generic JTBD.
 
 The dated [audit and remaining limitations](standards/AUDIT-2026-11-23.md) records actual Codex behavioral results and the rubric score. Claude Code and Cursor runtime acceptance is incomplete; their installation options above do not imply runtime certification.
 
@@ -42,3 +48,7 @@ The PESTEL skill has a separate [2026-11-25 quality audit](standards/AUDIT-PESTE
 The Five Forces skill has a separate [2026-11-26 quality audit](standards/AUDIT-PORTER-2026-11-26.md) with actual behavioral results and platform limitations.
 
 The STP skill has a separate [2026-11-26 quality audit](standards/AUDIT-STP-2026-11-26.md) with actual behavioral results and platform limitations.
+
+## AI-сотрудники
+
+[AIEmployee — отдельный каталог профессиональных сотрудников](https://github.com/daniil-tv/1000-frameworks-employees).
