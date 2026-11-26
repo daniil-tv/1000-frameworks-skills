@@ -1,0 +1,4 @@
+interface:
+  display_name: "Porter's Five Forces"
+  short_description: "Analyze industry pressures and strategic responses"
+  default_prompt: "Use $porters-five-forces to assess our industry and choose evidence-based strategic options."

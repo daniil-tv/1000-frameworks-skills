@@ -9,14 +9,16 @@ def main():
  for case in cases:
   meta=json.loads((out/(case['id']+'.json')).read_text())
   if meta.get('exit_code')!=0:raise RuntimeError('Case did not complete: '+case['id'])
-  answer=(out/(case['id']+'.md')).read_text();commands=[]
+  answer=(out/(case['id']+'.md')).read_text();commands=[];entrypoint_read=False
   for line in (out/(case['id']+'.jsonl')).read_text().splitlines():
    try:event=json.loads(line)
    except ValueError:continue
    item=event.get('item',{})
-   if event.get('type')=='item.completed' and item.get('type')=='command_execution':commands.append(item.get('command',''))
+   if event.get('type')=='item.completed' and item.get('type')=='command_execution':
+    command=item.get('command','');commands.append(command)
+    if ('.agents/skills/'+a.skill+'/') in command and 'SKILL.md' in command and item.get('exit_code')==0 and ('name: '+a.skill) in item.get('aggregated_output',''):entrypoint_read=True
   m=re.search(r'Selected skill:\s*([^\n]+)',answer,re.I);selected=m[1].strip().strip('`*_ .') if m else None
-  read=any(('.agents/skills/'+a.skill+'/SKILL.md') in command for command in commands)
+  read=entrypoint_read
   activation_ok=(selected==a.skill and read) if case['expected_activation'] else selected!=a.skill and selected is not None
   deliverable=re.sub(r'^Selected skill:[^\n]*\n*','',answer,flags=re.I)
   records.append({'case':case,'answer':deliverable,'selected':selected,'read_project_entrypoint':read,'activation_ok':activation_ok,'commands':commands})

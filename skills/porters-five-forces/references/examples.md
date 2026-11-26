@@ -1,0 +1,10 @@
+# Calibration examples — all synthetic
+
+## Scoped and evidence-aware
+A fictional regional outsourced fulfillment provider serves small e-commerce merchants. U1: an operator says three rivals offer similar services; U2: one merchant says migration takes two weeks; U3: a draft budget assumes warehouse rent is a material cost. These are attributed inputs, not independent market findings. Rivalry is a research hypothesis until prices, differentiation and conduct are observed. Buyer leverage may rise with order volume while migration risk limits immediate switching. In-house handling is a substitute; another outsourced provider is a rival. Collect dated price/contract/migration evidence and test whether reliable integrations justify a segment-specific price before claiming an attractive market. Keep entrants and supplier alternatives as gaps until investigated. An operations owner can monitor migration demands; a commercial owner can track comparable bids. Thresholds need to be agreed, not invented.
+
+## Mistaken classification
+'Five forces = brands A,B,C,D,E; inflation is the sixth; our clever sales team makes buyer power low.' This mixes firms, macro drivers and internal strengths. Repair: define the industry, place direct brands under rivalry, map buyer/supplier/entry/substitution mechanisms, trace inflation through input costs or buyer economics, and assess sales capability separately. Do not invent missing market observations to complete the five rows.
+
+## Countervailing or incomplete evidence
+One large buyer represents a supplied 45% of company revenue, but a supplied contract makes migration costly. That demonstrates focal-firm exposure, not automatically a 45% industry buyer concentration or universally strong buyer power. Test other buyers, alternatives, contract duration and credible switching/backward integration. A possible specialized integration could raise delivered value but may require implementation costs and limit flexibility. Compare trade-offs before choosing a response; industry and firm profitability remain unproven without financial evidence.

@@ -1,0 +1,357 @@
+{
+  "date": "2026-11-26",
+  "skill": "porters-five-forces",
+  "runtime": "Codex CLI 0.171.0-alpha.13.2",
+  "model": "Default CLI model; identifier not emitted in JSON events",
+  "final_passed": 19,
+  "total": 20,
+  "score": 95,
+  "critical_failures": [],
+  "rubric": {
+    "Task clarity": {
+      "max": 8,
+      "awarded": 8
+    },
+    "Activation": {
+      "max": 8,
+      "awarded": 8
+    },
+    "Methodology": {
+      "max": 12,
+      "awarded": 12
+    },
+    "Procedure": {
+      "max": 10,
+      "awarded": 9
+    },
+    "Inputs": {
+      "max": 7,
+      "awarded": 7
+    },
+    "Truthfulness": {
+      "max": 10,
+      "awarded": 10
+    },
+    "Output": {
+      "max": 8,
+      "awarded": 7
+    },
+    "Examples": {
+      "max": 6,
+      "awarded": 6
+    },
+    "Edge cases": {
+      "max": 7,
+      "awarded": 7
+    },
+    "Tools/security": {
+      "max": 7,
+      "awarded": 7
+    },
+    "Architecture": {
+      "max": 5,
+      "awarded": 5
+    },
+    "Testing": {
+      "max": 8,
+      "awarded": 7
+    },
+    "Portability": {
+      "max": 4,
+      "awarded": 2
+    }
+  },
+  "cases": [
+    {
+      "id": "porters-five-forces-01",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "E1 и E2 — недатированные сообщения менеджера и одного покупателя соответственно, без независимого подтверждения.",
+      "failures": []
+    },
+    {
+      "id": "porters-five-forces-02",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "Все механизмы ниже — гипотезы для проверки. Сила каждого давления пока не оценена.",
+      "failures": []
+    },
+    {
+      "id": "porters-five-forces-03",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "все пять относятся к одной силе — соперничеству действующих конкурентов.",
+      "failures": []
+    },
+    {
+      "id": "porters-five-forces-04",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "Another outsourced fulfillment provider is a rival. Running fulfillment in-house is a substitute.",
+      "failures": []
+    },
+    {
+      "id": "porters-five-forces-05",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "Rivalry can still be intense if demand grows slowly, customers can switch easily, and both firms have spare capacity.",
+      "failures": []
+    },
+    {
+      "id": "porters-five-forces-06",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "Отраслевая переговорная сила покупателей — пока не оценена.",
+      "failures": []
+    },
+    {
+      "id": "porters-five-forces-07",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "Даже без фактического входа действующие компании могут сдерживать рост цен",
+      "failures": []
+    },
+    {
+      "id": "porters-five-forces-08",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "Для «технологий во всём мире» общая оценка пяти сил была бы произвольной.",
+      "failures": []
+    },
+    {
+      "id": "porters-five-forces-09",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "The map flags an operational dependency. Leave supplier bargaining power unassessed.",
+      "failures": []
+    },
+    {
+      "id": "porters-five-forces-10",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "then count each competitive effect once under the force it alters.",
+      "failures": []
+    },
+    {
+      "id": "porters-five-forces-11",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "There is no required final scoring formula.",
+      "failures": []
+    },
+    {
+      "id": "porters-five-forces-12",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "Рост выручки отрасли не доказывает прибыльность вашей фирмы.",
+      "failures": []
+    },
+    {
+      "id": "porters-five-forces-13",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "присвойте оценку «слабая», «средняя» или «сильная» с письменным обоснованием. Уверенность в доказательствах укажите отдельно.",
+      "failures": []
+    },
+    {
+      "id": "porters-five-forces-14",
+      "pass": false,
+      "critical": false,
+      "dimensions": {
+        "outcome": false,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "Покупателям по-прежнему легко сменить поставщика, но меньшая себестоимость позволит удерживать маржу при ценовом давлении.",
+      "failures": [
+        "Only the SLA pilot addresses interchangeability. The second option protects margins through lower costs while leaving buyer leverage from easy switching intact."
+      ]
+    },
+    {
+      "id": "porters-five-forces-15",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "E1 и E2 дают разнонаправленные свидетельства об издержках переключения.",
+      "failures": []
+    },
+    {
+      "id": "porters-five-forces-16",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "Suggested roles are product or operations for technology and commercial intelligence for entry.",
+      "failures": []
+    },
+    {
+      "id": "porters-five-forces-17",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "Good evening.",
+      "failures": []
+    },
+    {
+      "id": "porters-five-forces-18",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "It’s a pleasure working with you, and I wish you a wonderful year ahead.",
+      "failures": []
+    },
+    {
+      "id": "porters-five-forces-19",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "Can you walk me through what happened just before you decided to cancel your order?",
+      "failures": []
+    },
+    {
+      "id": "porters-five-forces-20",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "print(\"hello\")",
+      "failures": []
+    }
+  ],
+  "files": {
+    "skills/porters-five-forces/SKILL.md": "b7ab18af9d22654f5fa7c95cf63246eeb98f63f5b9e2fa36e5be3dfddc3a4ffa",
+    "skills/porters-five-forces/agents/openai.yaml": "a362e3914d119f102a0575760da7fe12019e1e1054d679e5b756ce61e563dbe3",
+    "skills/porters-five-forces/evals/cases.json": "9ebb7d0b66049970c371532782f39df6ff37aca5eb6f1390f9bf3694917a468d",
+    "skills/porters-five-forces/references/examples.md": "8fa22029f2261d0e81c8b9c1b4e982a3ae12c52a1c62e204a72217322c9afd4c",
+    "skills/porters-five-forces/references/methodology.md": "d7c1eb220bac94e0bcc6d82f9ba07b876b91281c30ec189628c41fb12ea50d8d",
+    "skills/porters-five-forces/references/sources.md": "953abc2eab8af0b919b0ba22017faba6b0074259f8a1d00b345e810ba420542f"
+  },
+  "earlier_rounds": [
+    {
+      "round": 1,
+      "passed": 17,
+      "total": 20,
+      "notes": "Two output omissions and one entrypoint-read detector false negative for shell brace syntax; actual log contains the full successful SKILL.md read."
+    },
+    {
+      "round": 2,
+      "passed": 18,
+      "total": 20,
+      "notes": "Profitability audit omitted explicit demand/capability evidence checks; unsupported-index answer omitted the qualitative alternative."
+    }
+  ],
+  "final_changes": "Require separate evidence checks of demand, delivery capability and finances in a profitability verdict; specify an evidence-based qualitative alternative to a fabricated index. All twenty original scenarios rerun. Test prompts/rubrics unchanged.",
+  "remaining_limitations": [
+    "Scenario14: SLA pilot addressed interchangeability, second cost-efficiency option mitigated margins but did not reduce buyer leverage; recorded failed",
+    "One final execution per scenario; no ablation or statistical reliability claim",
+    "Separate Codex grading, not independent human assessment",
+    "Claude Code and Cursor execution not available; installation verified separately"
+  ]
+}
