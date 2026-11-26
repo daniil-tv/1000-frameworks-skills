@@ -1,0 +1,15 @@
+# Decision rules and methodology
+
+S groups buyers by differences relevant to marketing response; T allocates resources to groups worth serving and feasible to serve; P specifies how a chosen offer should be perceived relative to alternatives. The stages inform one another iteratively; a discovery can invalidate a prior target choice.
+
+A useful segment is differentiable, measurable, accessible, substantial and actionable (the ADAMS criteria in OpenStax, with no required order or canonical numeric threshold). A demographic descriptor or CRM tag can locate people but is not evidence that they need different strategies. Statistical distance is not equivalent to different purchasing behavior. Conversely, equal turnover can conceal different jobs, systems, requirements or buying processes. Need-based groups still require observable inclusion rules to be reachable and measurable.
+
+Keep attractiveness and ability to serve separate. Size does not compensate automatically for inaccessible channels, implementation cost or absent capabilities. A provisional learning target is not a validated profitable market. The strategy should say who is deferred and what event/evidence would reopen the decision. Coverage can focus on one group, differentiate across several, use a broad common offer where differences do not matter, or adapt individually. No universal number of target segments exists.
+
+Positioning relates target/situation, benefit, comparison category/alternative, distinction and evidence. An internal statement aligns decisions; a public slogan is one possible expression. Real alternatives may include manual work or doing nothing. Stated preferences, team-created maps and attractive language require customer validation. Proposed product functionality is not current proof. Do not claim a unique benefit where the competitor/alternative comparison has not been investigated.
+
+Evidence about understanding and evidence about behavior are distinct. A test should identify participants by segment rules, record real choices where possible, include an observable outcome and explain what result would change S, T or P. Conditional CAC/margin calculations need supplied inputs and assumptions; they do not establish market size, causal attribution or future unit economics. A short success audit still needs explicit evidence checks of comprehension, payment/usage, acquisition/service economics and delivery capacity.
+
+Wendell Smith's1956 paper is a historical foundation for market segmentation as a strategy. It is not reliable evidence that one person invented every component of today's three-stage STP teaching model. JTBD studies work and choice contexts, Customer Development organizes hypothesis testing, 4P covers product/price/place/promotion choices, and SWOT organizes internal/external factors; none is interchangeable with the S/T/P choices.
+
+The nine-step encyclopedia workflow and evidence registers are project editorial practices for applying the principles. Do not present them as a canonical mandatory algorithm or add invented scientific scoring formulas.

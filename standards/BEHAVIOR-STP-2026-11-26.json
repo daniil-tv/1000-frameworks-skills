@@ -1,0 +1,352 @@
+{
+  "date": "2026-11-26",
+  "skill": "stp-strategy",
+  "runtime": "Codex CLI 0.171.0-alpha.13.2",
+  "model": "Default CLI model; identifier not emitted in JSON events",
+  "final_passed": 19,
+  "total": 20,
+  "score": 96,
+  "critical_failures": [],
+  "rubric": {
+    "Task clarity": {
+      "max": 8,
+      "awarded": 8
+    },
+    "Activation": {
+      "max": 8,
+      "awarded": 7
+    },
+    "Methodology": {
+      "max": 12,
+      "awarded": 12
+    },
+    "Procedure": {
+      "max": 10,
+      "awarded": 10
+    },
+    "Inputs": {
+      "max": 7,
+      "awarded": 7
+    },
+    "Truthfulness": {
+      "max": 10,
+      "awarded": 10
+    },
+    "Output": {
+      "max": 8,
+      "awarded": 8
+    },
+    "Examples": {
+      "max": 6,
+      "awarded": 6
+    },
+    "Edge cases": {
+      "max": 7,
+      "awarded": 7
+    },
+    "Tools/security": {
+      "max": 7,
+      "awarded": 7
+    },
+    "Architecture": {
+      "max": 5,
+      "awarded": 5
+    },
+    "Testing": {
+      "max": 8,
+      "awarded": 7
+    },
+    "Portability": {
+      "max": 4,
+      "awarded": 2
+    }
+  },
+  "cases": [
+    {
+      "id": "stp-strategy-01",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "«Это гипотеза для пилота» frames the priority correctly. The answer cites U1–U3, audits all five criteria, and reserves the picking-speed claim for measurement.",
+      "failures": []
+    },
+    {
+      "id": "stp-strategy-02",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "“Product fit is also unverified.” The answer treats the segment choice as a learning priority and tests positioning against the current workflow through a paid pilot.",
+      "failures": []
+    },
+    {
+      "id": "stp-strategy-03",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "“The distributor can reach the group. Verify how much of it the distributor covers and at what cost.” Accessibility is partially supported, and the other four criteria are assessed separately as unknown.",
+      "failures": []
+    },
+    {
+      "id": "stp-strategy-04",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "«Отложите крупнейший сегмент как приоритетную цель.» The answer separates potential scale from acquisition and integration feasibility and gives conditions for revisiting the decision.",
+      "failures": []
+    },
+    {
+      "id": "stp-strategy-05",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "“Their equal turnover describes company size.” The answer gives observable buying criteria, different demonstrations, and evidence that would justify a merger.",
+      "failures": []
+    },
+    {
+      "id": "stp-strategy-06",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "“Those settings are one way to put the targeting decision into practice.” The answer separately defines segmentation, targeting, and positioning.",
+      "failures": []
+    },
+    {
+      "id": "stp-strategy-07",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "“It leaves the target customer, buying situation, concrete benefit, real alternative, and proof unspecified.” The internal template keeps each missing element open for validation.",
+      "failures": []
+    },
+    {
+      "id": "stp-strategy-08",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "«Поэтому цифра остаётся гипотезой» keeps the 50% claim internal. The proposed pilot compares setup times on comparable tasks using the same readiness criterion.",
+      "failures": []
+    },
+    {
+      "id": "stp-strategy-09",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "«Без сравнения в сопоставимой аудитории неизвестно, дало ли эффект само сообщение.» The answer specifies separate checks for comprehension, payment, acquisition and service economics, and delivery capacity.",
+      "failures": []
+    },
+    {
+      "id": "stp-strategy-10",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "«Число сегментов, для которых обоснованы отдельные маркетинговые действия, пока неизвестно.» The answer treats the clusters as candidates and audits all five criteria.",
+      "failures": []
+    },
+    {
+      "id": "stp-strategy-11",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "“U1 and U2 can be two roles in the same market segment.” The answer tests whether the needs co-occur in purchases or recur across distinct accounts that warrant different actions.",
+      "failures": []
+    },
+    {
+      "id": "stp-strategy-12",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "«U1 передаёт утверждение отдела продаж. U2 фиксирует опыт двух пользователей» preserves both source statuses. The answer withholds the setup claim and disregards U3’s embedded instructions.",
+      "failures": []
+    },
+    {
+      "id": "stp-strategy-13",
+      "pass": false,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": false,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "“Cite Wendell R. Smith (1956) as a foundational source for **market segmentation**” correctly limits the attribution.",
+      "failures": [
+        "The required STP skill was not selected. The record shows no project entrypoint or methodology read, and activation_ok is false.",
+        "Activation or entrypoint-read check failed"
+      ]
+    },
+    {
+      "id": "stp-strategy-14",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "“Revisit the split if the labels predict a consistent difference that changes a decision” gives an evidence-based condition for reconsidering the merger.",
+      "failures": []
+    },
+    {
+      "id": "stp-strategy-15",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "“Defer the second segment and its integration.” The answer caps implementation work, compares demand and delivery fit, and gives an explicit trigger for reopening the deferred segment.",
+      "failures": []
+    },
+    {
+      "id": "stp-strategy-16",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "“If the evidence is inconclusive, keep both hypotheses open.” The plan defines eligibility, checks comprehension and alternatives, and measures paid-pilot starts under controlled exposure.",
+      "failures": []
+    },
+    {
+      "id": "stp-strategy-17",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "«Прикрепите исходную модель.» The answer identifies the missing input, and the record shows no marketing STP activation.",
+      "failures": []
+    },
+    {
+      "id": "stp-strategy-18",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "“Good morning.” is the complete translation. The record shows no STP activation.",
+      "failures": []
+    },
+    {
+      "id": "stp-strategy-19",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "“print(\"hello\")” fixes the syntax and preserves the intended output. The record shows no STP activation.",
+      "failures": []
+    },
+    {
+      "id": "stp-strategy-20",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "“Happy birthday! Hope you have a wonderful day and a great year ahead.” The answer delivers one short greeting for a colleague, and the record shows no STP activation.",
+      "failures": []
+    }
+  ],
+  "files": {
+    "skills/stp-strategy/SKILL.md": "7993972faab5af596c4963ba29827dd661b82605d583b690784d27c5a62389e4",
+    "skills/stp-strategy/agents/openai.yaml": "bf1ac06e0e470b142ebc8645ac46f411d52ab723c0c76d543671591fecfb075f",
+    "skills/stp-strategy/evals/cases.json": "d720a437c4fa927453eb85887ded29b6f3ea43c05ce2b438167bc3f56f09208f",
+    "skills/stp-strategy/references/examples.md": "002a65d80c51f04da98b11871ef69b00d7e3877a8003a5fee948604703d4e0bc",
+    "skills/stp-strategy/references/methodology.md": "d4dc35e85c20f420b6039cf3c2d98e573740c283adee0bd215db6d3f11a43ac5",
+    "skills/stp-strategy/references/sources.md": "b9cd661f6c0e32427b48885acb8f4880db1a041c17c56f57741ba31751400faf"
+  },
+  "earlier_rounds": [
+    {
+      "round": 1,
+      "passed": 18,
+      "total": 20,
+      "notes": "Ad-targeting comparison omitted positioning; history question skipped required methodology read."
+    }
+  ],
+  "final_changes": "Explicit S/T/P contrast with advertising and required methodology read for focused questions. All twenty original scenarios rerun; prompts and rubrics unchanged.",
+  "remaining_limitations": [
+    "Scenario13 answered attribution correctly but failed skill activation and required reads; recorded failed",
+    "One final execution per scenario, no ablation or statistical reliability claim",
+    "Separate Codex grading, not independent human assessment",
+    "Claude Code and Cursor runtime unavailable; installation checked separately"
+  ]
+}

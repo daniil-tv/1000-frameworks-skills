@@ -1,0 +1,4 @@
+interface:
+  display_name: "STP marketing strategy"
+  short_description: "Choose segments and test credible positioning"
+  default_prompt: "Use $stp-strategy to segment our market, choose priorities and test our positioning."

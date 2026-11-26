@@ -11,6 +11,7 @@ Source-aware AI skills for the strategy pages of 1000 Frameworks:
 | Value Proposition Canvas | `value-proposition-canvas` |
 | PESTEL / PESTLE | `pestel-analysis` |
 | Porter's Five Forces | `porters-five-forces` |
+| STP | `stp-strategy` |
 
 The JTBD page points to Ivan Zamesin's separate [Next Move Theory Canon & Skills](https://github.com/zamesin/Next-Move-Theory-Canon-and-Skills) repository. That author's AJTBD / Next Move Theory skills are not copied into this collection or represented as generic JTBD.
 
@@ -39,3 +40,5 @@ The new Value Proposition Canvas skill has a separate [2026-11-24 quality audit]
 The PESTEL skill has a separate [2026-11-25 quality audit](standards/AUDIT-PESTEL-2026-11-25.md) with actual results and platform limitations.
 
 The Five Forces skill has a separate [2026-11-26 quality audit](standards/AUDIT-PORTER-2026-11-26.md) with actual behavioral results and platform limitations.
+
+The STP skill has a separate [2026-11-26 quality audit](standards/AUDIT-STP-2026-11-26.md) with actual behavioral results and platform limitations.
