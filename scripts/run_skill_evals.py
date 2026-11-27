@@ -3,7 +3,7 @@
 import argparse,concurrent.futures,hashlib,json,os,shutil,subprocess,time
 from pathlib import Path
 ROOT=Path(__file__).resolve().parents[1]
-SKILLS=['odi-outcome-research','customer-development','switch-interview','business-model-canvas','value-proposition-canvas','pestel-analysis','porters-five-forces','stp-strategy','opportunity-solution-tree']
+SKILLS=['odi-outcome-research','customer-development','switch-interview','business-model-canvas','value-proposition-canvas','pestel-analysis','porters-five-forces','stp-strategy','opportunity-solution-tree','strategy-canvas']
 def digest(folder):
  h=hashlib.sha256()
  for f in sorted(folder.rglob('*')):

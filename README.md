@@ -56,3 +56,8 @@ The STP skill has a separate [2026-11-26 quality audit](standards/AUDIT-STP-2026
 
 The Opportunity Solution Tree skill has a separate [2026-11-27 quality audit](standards/AUDIT-OST-2026-11-27.md), with 20/20 Codex behavioral scenarios and explicit platform limitations.
 
+
+
+## Strategy Canvas
+
+`strategy-canvas`: evidence-backed competitive factors and value curves, comparable scales, explicit unknowns and hypothetical to-be profiles. [Quality audit](standards/AUDIT-STRATEGY-CANVAS-2026-11-27.md): Codex19/20, internal94/100; Claude Code/Cursor execution unverified.

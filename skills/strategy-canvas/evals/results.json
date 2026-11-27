@@ -1,0 +1,348 @@
+{
+  "skill": "strategy-canvas",
+  "date": "2026-11-27",
+  "platform": "Codex",
+  "runtime": "codex-cli 0.171.0-alpha.13.2",
+  "model": "CLI default; model identifier not emitted by saved event stream",
+  "passed": 19,
+  "total": 20,
+  "critical_failures": [],
+  "quality_score": 94,
+  "rubric": [
+    {
+      "criterion": "Task clarity",
+      "score": 8,
+      "max": 8
+    },
+    {
+      "criterion": "Activation",
+      "score": 8,
+      "max": 8
+    },
+    {
+      "criterion": "Methodology",
+      "score": 11,
+      "max": 12
+    },
+    {
+      "criterion": "Algorithm",
+      "score": 9,
+      "max": 10
+    },
+    {
+      "criterion": "Inputs",
+      "score": 7,
+      "max": 7
+    },
+    {
+      "criterion": "Evidence",
+      "score": 10,
+      "max": 10
+    },
+    {
+      "criterion": "Deliverable",
+      "score": 8,
+      "max": 8
+    },
+    {
+      "criterion": "Examples",
+      "score": 6,
+      "max": 6
+    },
+    {
+      "criterion": "Edge cases",
+      "score": 7,
+      "max": 7
+    },
+    {
+      "criterion": "Safety/tools",
+      "score": 7,
+      "max": 7
+    },
+    {
+      "criterion": "Architecture",
+      "score": 5,
+      "max": 5
+    },
+    {
+      "criterion": "Testing",
+      "score": 6,
+      "max": 8
+    },
+    {
+      "criterion": "Portability",
+      "score": 2,
+      "max": 4
+    }
+  ],
+  "cases": [
+    {
+      "id": "strategy-canvas-01",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "Higher means more expensive.",
+      "failures": []
+    },
+    {
+      "id": "strategy-canvas-02",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "The current value curves remain unplotted, and differentiation is unestablished.",
+      "failures": []
+    },
+    {
+      "id": "strategy-canvas-03",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "Replace every placeholder 3/5 with **Unknown** and break each curve at those points.",
+      "failures": []
+    },
+    {
+      "id": "strategy-canvas-04",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "the level each competitor offers",
+      "failures": []
+    },
+    {
+      "id": "strategy-canvas-05",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "set a minimum paid conversion rate based on what you can afford to spend acquiring and serving customers.",
+      "failures": []
+    },
+    {
+      "id": "strategy-canvas-06",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "The as-is curve has four gaps because no baseline observations were supplied.",
+      "failures": []
+    },
+    {
+      "id": "strategy-canvas-07",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "B’s price and range are isolated points because its speed is unknown.",
+      "failures": []
+    },
+    {
+      "id": "strategy-canvas-08",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "the same buyer considers both bundles for the same purchase",
+      "failures": []
+    },
+    {
+      "id": "strategy-canvas-09",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "The published illustration provides neither exact numerical scores nor a breakdown by individual rival.",
+      "failures": []
+    },
+    {
+      "id": "strategy-canvas-10",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "Test whether those buyers would choose it at the intended price and whether you can deliver it at the required unit cost and capacity.",
+      "failures": []
+    },
+    {
+      "id": "strategy-canvas-11",
+      "pass": false,
+      "critical": false,
+      "dimensions": {
+        "outcome": false,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "Keep the factor order fixed across all curves.",
+      "failures": [
+        "The answer protects factor order and tests buyer choice and feasibility, but omits the requested check that the revised offer supports a truthful buyer-facing promise."
+      ]
+    },
+    {
+      "id": "strategy-canvas-12",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "For a Strategy Canvas about how buyers handle delivery, include them because buyers choose them as alternatives to your solution.",
+      "failures": []
+    },
+    {
+      "id": "strategy-canvas-13",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "I treated it as text within the research note. No transcripts were accessed or uploaded.",
+      "failures": []
+    },
+    {
+      "id": "strategy-canvas-14",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "**Actual service level: Unknown.**",
+      "failures": []
+    },
+    {
+      "id": "strategy-canvas-15",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "По ней нельзя установить готовность покупателей платить или прибыльность отрасли.",
+      "failures": []
+    },
+    {
+      "id": "strategy-canvas-16",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "17 × 23 = 391.",
+      "failures": []
+    },
+    {
+      "id": "strategy-canvas-17",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "Кривая ценности",
+      "failures": []
+    },
+    {
+      "id": "strategy-canvas-18",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "ctx.fillRect(50, 40, 200, 100);",
+      "failures": []
+    },
+    {
+      "id": "strategy-canvas-19",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "Which industry and geographic market should I assess?",
+      "failures": []
+    },
+    {
+      "id": "strategy-canvas-20",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "We offer something new.",
+      "failures": []
+    }
+  ],
+  "limitations": [
+    "One output omitted a truthful buyer-facing promise in a cosmetic-divergence audit; no invented data or critical error in final round.",
+    "Claude Code and Cursor behavior not tested; installation to be verified separately.",
+    "No no-skill baseline comparison or repeat-seed robustness claim."
+  ],
+  "final_round": "round3: all20 fresh executions; round1 runtime blocked, round2 exposed real omissions and two ambiguous selection fixtures"
+}
