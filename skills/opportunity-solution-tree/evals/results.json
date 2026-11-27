@@ -1,0 +1,358 @@
+{
+  "skill": "opportunity-solution-tree",
+  "date": "2026-11-27",
+  "platform": "Codex",
+  "runtime": "codex-cli 0.171.0-alpha.13.2",
+  "model": "CLI default; model identifier not emitted by saved event stream",
+  "passed": 20,
+  "total": 20,
+  "critical_failures": [],
+  "quality_score": 96,
+  "rubric": [
+    {
+      "criterion": "Task clarity",
+      "score": 8,
+      "max": 8,
+      "evidence": "Bounded OST description and five negative routing tasks."
+    },
+    {
+      "criterion": "Activation",
+      "score": 8,
+      "max": 8,
+      "evidence": "All20 selection checks pass using exact installed-entrypoint read traces and negative no-skill selections."
+    },
+    {
+      "criterion": "Methodology",
+      "score": 12,
+      "max": 12,
+      "evidence": "Primary-source boundaries and all15 OST tasks pass independent review."
+    },
+    {
+      "criterion": "Algorithm",
+      "score": 10,
+      "max": 10,
+      "evidence": "Outcome→needs→alternatives→assumptions→tests→revision evidenced in actual build/audit answers."
+    },
+    {
+      "criterion": "Inputs",
+      "score": 7,
+      "max": 7,
+      "evidence": "No-interview, partial-input, conflicting-scope and missing-log cases tested."
+    },
+    {
+      "criterion": "Evidence",
+      "score": 10,
+      "max": 10,
+      "evidence": "Source IDs, exact quotation/paraphrase boundary, unknowns and no invented effects verified."
+    },
+    {
+      "criterion": "Deliverable",
+      "score": 8,
+      "max": 8,
+      "evidence": "Full and focused results inspected; concrete next-test criteria."
+    },
+    {
+      "criterion": "Examples",
+      "score": 6,
+      "max": 6,
+      "evidence": "Three synthetic boundary examples plus correction for quote/test-card failures."
+    },
+    {
+      "criterion": "Edge cases",
+      "score": 7,
+      "max": 7,
+      "evidence": "Wrong metric, solution disguised as need, mixed levels, incomplete tests, negative tasks."
+    },
+    {
+      "criterion": "Tools and safety",
+      "score": 7,
+      "max": 7,
+      "evidence": "Embedded transcript attack resisted; read-only offline tasks; no third-party transmissions or execution."
+    },
+    {
+      "criterion": "Architecture",
+      "score": 5,
+      "max": 5,
+      "evidence": "Compact SKILL, useful relative references/template, schema and link checks pass."
+    },
+    {
+      "criterion": "Testing",
+      "score": 6,
+      "max": 8,
+      "evidence": "20 final independent scenarios; no baseline comparison, multi-seed stability or held-out study."
+    },
+    {
+      "criterion": "Portability",
+      "score": 2,
+      "max": 4,
+      "evidence": "Codex behavior tested; other platforms behavioral acceptance incomplete."
+    }
+  ],
+  "platform_limits": {
+    "claude-code": "behavior not tested; installation pending",
+    "cursor": "behavior not tested; installation pending"
+  },
+  "final_round": "round-4 (all20 fresh executions after quote/criterion fixes)",
+  "cases": [
+    {
+      "id": "opportunity-solution-tree-01",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "“In `I1:e2`, an applicant abandoned while looking for proof. Hypothesis: making acceptable proof easier to find reduces abandonment.”",
+      "failures": []
+    },
+    {
+      "id": "opportunity-solution-tree-02",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "“Interview B reports repeatedly asking support whether the upload succeeded.” “The window, baseline, and target are open.”",
+      "failures": []
+    },
+    {
+      "id": "opportunity-solution-tree-03",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "“‘Release five features’ counts what the team ships.” “Provisional repair, with no customer evidence supplied”",
+      "failures": []
+    },
+    {
+      "id": "opportunity-solution-tree-04",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "“Every customer need below is a hypothesis.” “Interview four recent first-time booking starters, including customers who confirmed and customers who abandoned.”",
+      "failures": []
+    },
+    {
+      "id": "opportunity-solution-tree-05",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "“An Opportunity Solution Tree can include an unmet desire stated positively.” “I1 gives you evidence that one participant expressed the desire.”",
+      "failures": []
+    },
+    {
+      "id": "opportunity-solution-tree-06",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "“A and B are at different levels.” “Compare it with other specific barriers”",
+      "failures": []
+    },
+    {
+      "id": "opportunity-solution-tree-07",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "“Both are proposals, and their feasibility depends on which status data is already available and reliable.” “The cost of one implementation is insufficient grounds to discard it.”",
+      "failures": []
+    },
+    {
+      "id": "opportunity-solution-tree-08",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "“The 75% describes who mentioned it in those interviews. Market prevalence is unknown”",
+      "failures": []
+    },
+    {
+      "id": "opportunity-solution-tree-09",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "“Use a proposed screening threshold of at least five of six exact, unaided lists, including all three exception cases.”",
+      "failures": []
+    },
+    {
+      "id": "opportunity-solution-tree-10",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "“Revenue and retention lift remain unverified.” “Then use a randomized rollout against the current experience to estimate impact on retention and revenue per eligible account.”",
+      "failures": []
+    },
+    {
+      "id": "opportunity-solution-tree-11",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "“I1 reports refreshing the order page because the result was unclear.” “Frequency and reach are unknown.”",
+      "failures": []
+    },
+    {
+      "id": "opportunity-solution-tree-12",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "“If the team has one shared outcome, such as increasing the share of booking attempts that become confirmed reservations, one tree can hold both sets of needs.”",
+      "failures": []
+    },
+    {
+      "id": "opportunity-solution-tree-13",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "“The test was **inconclusive**.” “Otherwise, fix and verify the logging before rerunning the test.”",
+      "failures": []
+    },
+    {
+      "id": "opportunity-solution-tree-14",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "“The test gives you a reason to revise or drop that version of the upload wizard.” “If the wizard test is your only evidence, keep the need as a hypothesis”",
+      "failures": []
+    },
+    {
+      "id": "opportunity-solution-tree-15",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "“These are discovery heuristics. How much evidence you need depends on the decision and the claim you want to support.”",
+      "failures": []
+    },
+    {
+      "id": "opportunity-solution-tree-16",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "“391”",
+      "failures": []
+    },
+    {
+      "id": "opportunity-solution-tree-17",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "“Дерево возможностей и решений”",
+      "failures": []
+    },
+    {
+      "id": "opportunity-solution-tree-18",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "“Start with `criterion=\"gini\"`, the default for scikit-learn’s `DecisionTreeClassifier`.”",
+      "failures": []
+    },
+    {
+      "id": "opportunity-solution-tree-19",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "“Alpha, Beta”",
+      "failures": []
+    },
+    {
+      "id": "opportunity-solution-tree-20",
+      "pass": true,
+      "critical": false,
+      "dimensions": {
+        "outcome": true,
+        "process": true,
+        "style": true,
+        "efficiency": true
+      },
+      "evidence": "“p {\n  color: green;\n}”",
+      "failures": []
+    }
+  ]
+}

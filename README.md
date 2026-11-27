@@ -9,6 +9,7 @@
 | Business Model Canvas | Описание бизнес-модели | [Открыть](skills/business-model-canvas/) |
 | Customer Development | Исследование клиентов | [Открыть](skills/customer-development/) |
 | Outcome-Driven Innovation | Исследование желаемых результатов | [Открыть](skills/odi-outcome-research/) |
+| Opportunity Solution Tree | Карта возможностей, решений и проверок предположений | [Открыть](skills/opportunity-solution-tree/) |
 | PESTEL | Анализ макросреды | [Открыть](skills/pestel-analysis/) |
 | Porter's Five Forces | Анализ отрасли | [Открыть](skills/porters-five-forces/) |
 | STP | Сегментация, таргетинг, позиционирование | [Открыть](skills/stp-strategy/) |
@@ -52,3 +53,6 @@ The STP skill has a separate [2026-11-26 quality audit](standards/AUDIT-STP-2026
 ## AI-сотрудники
 
 [AIEmployee — отдельный каталог профессиональных сотрудников](https://github.com/daniil-tv/1000-frameworks-employees).
+
+The Opportunity Solution Tree skill has a separate [2026-11-27 quality audit](standards/AUDIT-OST-2026-11-27.md), with 20/20 Codex behavioral scenarios and explicit platform limitations.
+

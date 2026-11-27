@@ -1,0 +1,17 @@
+# Method and decision boundaries
+
+Teresa Torres introduced the Opportunity Solution Tree in Product Talk (2016), developing it within continuous discovery. The maintained 2023 guide describes a product outcome, opportunity space, solution alternatives and assumption testing. An opportunity is an unmet customer need, pain point or desire; it is not a promising market size, a sales deal or a ready-made feature.
+
+Outcome scope matters: understand which customer behavior the team can affect and how it supports a broader business outcome. Product, business and feature metrics serve different purposes. An output target such as 'release five features' cannot establish the tree's desired outcome. Do not silently invent baseline, target or period. A proposed metric can be explicitly conditional.
+
+Map actual stories into an experience map, identify moments, group related needs, and refine parent/child relationships branch by branch. Broad parent needs and concrete leaf needs are different levels; compare siblings before prioritizing. Preserve sources and context when grouping. Same words in different roles need not mean the same opportunity. Different roles need not imply separate commercial segments. For marketplace audiences with different journeys, separate branches or trees can preserve scope; explain the choice.
+
+Prioritization considers customer factors (importance and existing satisfaction), opportunity sizing (affected customers and frequency), market factors and company factors. Evidence may be qualitative and partial. Do not manufacture population reach, customer importance ratings or precision. Solution effort varies by implementation; it is not an intrinsic opportunity score. Choose one bounded opportunity to explore, while preserving the broader map.
+
+Explore multiple solutions for that opportunity before picking one. Three alternatives and three–four initial story interviews are recommendations from the author, not statistical sufficiency claims. Desirability, usability, feasibility, viability and safety can expose assumptions; test the consequential uncertain assumptions across options. A small prototype test, survey, existing-data analysis or technical spike must match the actual risk; a prototype preference survey does not test operational feasibility or paid demand. Predefine observable criteria and possible next actions. Document inconclusive as inconclusive.
+
+Maintain the tree: research changes need wording and evidence; failed assumptions can prune an idea or change the target opportunity. Do not rewrite contradictory accounts into false consensus or declare a customer need disproven solely because a particular implementation failed. Shipping a solution still requires observing the product outcome.
+
+Seera's 2020 Product Talk case is an attributed practitioner account: guests and hosts had different journeys and the team used two trees, revising unstructured categories into needs as interviews accumulated. It is not controlled evidence that OST caused a numeric revenue/conversion effect. No synthetic worked example in this skill is a real company result.
+
+The node IDs, evidence/status labels, working tables and test-card format in this package are implementation aids for traceability, not official Torres formulas. OST does not prescribe an ODI opportunity-score calculation or RICE. Use source-aware qualitative decisions unless the task explicitly supplies and asks to use another framework, keeping that extension separate.
